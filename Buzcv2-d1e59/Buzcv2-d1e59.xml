@@ -111,7 +111,8 @@
         <ref xml:id="Buzcv2-d1e59-Rd1e150"><name ref="#Aristotle">Aristotilem</name>, in Topicis</ref>, dicentem 
         <cit>
           <quote xml:id="Buzcv2-d1e59-Qd1e128">contingit plura
-   scire, unum autem intelligere</quote></cit>*, et etiam, <ref xml:id="Buzcv2-d1e59-Rd1e160">quarto Metaphysicae</ref>, 
+   scire, unum autem intelligere</quote>
+        </cit>*, et etiam, <ref xml:id="Buzcv2-d1e59-Rd1e160">quarto Metaphysicae</ref>, 
         <cit>
           <quote xml:id="Buzcv2-d1e59-Qd1e131" source="http://scta.info/resource/aristmet-l4">
             qui non unum intelligit nihil
@@ -190,14 +191,20 @@
       <p xml:id="Buzcv2-d1e59-d1e200"> Istis uisis faciliter respondetur ad rationes. </p>
 
 
-      <p xml:id="Buzcv2-d1e59-d1e203"> 1. Ad primam dico quod demonstratio debet esse ex necessariis, id est ex praemissis
+      <p xml:id="Buzcv2-d1e59-d1e203"> 1. 
+        <cit>
+          <ref target="http://scta.info/resource/Buzcv2-d1e59-d1e107">Ad primam</ref>
+        </cit> dico quod demonstratio debet esse ex necessariis, id est ex praemissis
    necessariis et conclusionibus, eo modo quo conclusio uocatur <mentioned>necessaria</mentioned>, et etiam ex
    incorruptibilibus, quia necessarium est incorruptibile eo modo quo est necessarium (et de hoc
    fiet post quaestio specialis). Tamen res significatae per terminos conclusionum
    demonstrabilium possunt esse corruptibiles et contingentes in essendo. </p>
 
 
-      <p xml:id="Buzcv2-d1e59-d1e209"> Ad aliam dico quod demonstratio non definitur nec demonstratur proprie loquendo. Sed iste
+      <p xml:id="Buzcv2-d1e59-d1e209"> 
+        <cit>
+          <ref target="http://scta.info/resource/Buzcv2-d1e59-d1e110">Ad aliam</ref>
+        </cit> dico quod demonstratio non definitur nec demonstratur proprie loquendo. Sed iste
    terminus <mentioned>demonstratio</mentioned> definitur in hoc libro, et de isto termino <mentioned>demonstratio multa
    praedicata demonstrantur in hoc libro. Et sic, ad istum sensum, habetur in isto libro scientia
    tam definitiua quam demonstratiua de demonstratione. Nec ualent obiectiones contra hoc factae.
@@ -208,7 +215,7 @@
    potissima', et tales propositiones demonstrantur in hoc libro. </p>
 
 
-      <p xml:id="Buzcv2-d1e59-d1e225"> 3. Ad aliam rationem, sciendum est quod hoc nomen <mentioned>scientia</mentioned> prout distinguitur contra
+      <p xml:id="Buzcv2-d1e59-d1e225"> 3. <cit><ref target="http://scta.info/resource/Buzcv2-d1e59-d1e116">Ad aliam rationem</ref></cit>, sciendum est quod hoc nomen <mentioned>scientia</mentioned> prout distinguitur contra
    <mentioned>artem</mentioned> et <mentioned>prudentiam</mentioned> accipitur propriissime, et non extendit se nisi ad habitus
    speculatiuos; ars autem et prudentia sunt habitus practici. Et sic, capiendo ista nomina
    proprie, logica non est scientia, sed ars, scilicet formatiua argumentationum. Tamen saepe
@@ -217,24 +224,31 @@
    est ars et scientia. </p>
 
 
-      <p xml:id="Buzcv2-d1e59-d1e250"> 4. Ad aliam rationem, dico quod logica est practica, etiam ars demonstratiua tractata in
+      <p xml:id="Buzcv2-d1e59-d1e250"> 4. <cit><ref target="http://scta.info/resource/Buzcv2-d1e59-d1e120">Ad aliam rationem</ref></cit>, dico quod logica est practica, etiam ars demonstratiua tractata in
    libro Posteriorum, quia arguens ad opus et docens operationem: docet debito modo facere et
    componere argumentationem. Sed quando dicitur quod illa scientia est speculatiua quae
    ordinatur ad scire, dico quod uerum est si ordinatur ad scire tamquam ad finem propinquum. Sed
    si ordinatur ad opus nostrum tamquam ad finem propinquum, ipsa est practica, licet ordinetur
-   ad scire tamquam ad finem remotum et ultimatum. Hoc dicit <name ref="#Aristotle">Aristotiles</name> expresse, sexto
-   Ethicorum*, ponens prudentiam esse practicam; tamen ponit eam finaliter ordinari ad
+   ad scire tamquam ad finem remotum et ultimatum. Hoc dicit 
+        <cit>
+          <ref target="http://scta.info/resource/aristneth-l6">
+            <name ref="#Aristotle">Aristotiles</name> expresse, sexto Ethicorum
+          </ref>
+          <bibl>
+            Arist. Ethics, VI
+          </bibl>
+        </cit>, ponens prudentiam esse practicam; tamen ponit eam finaliter ordinari ad
    sapientiam; est tamen practica quia eius finis propinquus est opus. </p>
 
 
-      <p xml:id="Buzcv2-d1e59-d1e256"> 5. Ad ultimam dico quod demonstratio est intelligibilis, et dico quod possibile est plura
-   simul intelligere. Nec <name ref="#Aristotle">Aristotiles</name> in sexto Topicorum dicit oppositum nisi exemplariter; modo
+      <p xml:id="Buzcv2-d1e59-d1e256"> 5. <cit><ref target="http://scta.info/resource/Buzcv2-d1e59-d1e123">Ad ultimam</ref></cit> dico quod demonstratio est intelligibilis, et dico quod possibile est plura
+   simul intelligere. Nec <ref><name ref="#Aristotle">Aristotiles</name> in sexto Topicorum</ref> dicit oppositum nisi exemplariter; modo
    exemplorum non requiritur uerificatio, ut patet primo Priorum*. Sed quando dicit <name ref="#Aristotle">Aristotiles</name>,
    in Metaphysica, quod <quote xml:id="Buzcv2-d1e59-Qd1e264">qui unum non intelligit nihil intelligit</quote>*, certe uerum est, quia qui
    intelligit mille unum et duo intelligit. </p>
 
 
-      <p xml:id="Buzcv2-d1e59-d1e268"> 6. Ad confirmationem, dico quod non omne intelligibile mouet intellectum. Nam si habeo
+      <p xml:id="Buzcv2-d1e59-d1e268"> 6. <cit><ref target="http://scta.info/resource/Buzcv2-d1e59-d1e135">Ad confirmationem</ref></cit>, dico quod non omne intelligibile mouet intellectum. Nam si habeo
    conceptum communem et specificum hominis, et omnes homines mundi intelligo, tamen homo qui est
    in Roma numquam mouet intellectum meum, uel sensum. Tamen concedo quod oportet intellectum
    meum ab aliquo intelligibili moueri, et non ab omni. Et uniuersaliter dico quod non oportet
