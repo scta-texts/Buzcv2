@@ -11,7 +11,7 @@
     </titleStmt>
     <editionStmt>
       <edition n="0.0.0-dev">
-       <title>Quaestio 1 UTRUM DE DEMONSTRATIONE POSSIT ESSE SCIENTIA</title>
+       <title>Quaestio 1</title>
        <date when="2020-05-12">May 12, 2020</date>
       </edition>
     </editionStmt>
@@ -64,7 +64,10 @@
 
 
       <p xml:id="Buzcv2-d1e59-d1e110"> 2. Secundo, omne quod scitur scitur per definitionem uel per demonstrationem, ut dicit
-   <name ref="#Grosseteste">Lincolniensis</name>*, secundo huius; sed neutro modo potest demonstratio sciri;
+   <cit>
+     <ref xml:id="Buzcv2-d1e59-Rd1e114"><name ref="#Grosseteste">Lincolniensis</name></ref>
+     <bibl>XXX</bibl>
+   </cit>, secundo huius; sed neutro modo potest demonstratio sciri;
    igitur nullo modo. Probo minorem. Primo, quod demonstratio non scitur per definitionem: quia
    solius incomplexi est definitio; demonstratio autem non est incomplexa; igitur non scitur per
    definitionem. Nec etiam scitur per demonstrationem: quia sequeretur quod idem notificaret se
@@ -75,30 +78,70 @@
 
       <p xml:id="Buzcv2-d1e59-d1e116"> 3. Item, nulla est scientia de demonstratione nisi logica; sed logica non est scientia;
    igitur nulla scientia est de demonstratione. Et ego probo unico argumento minorem: quia nulla
-   ars est scientia, eo quod ars et scientia contra inuicem distinguuntur, sexto Ethicorum*; modo
-   logica est ars, ut communiter dicitur; ergo ipsa non est scientia. </p>
+   ars est scientia, eo quod ars et scientia contra inuicem distinguuntur, 
+        <cit>
+          <ref xml:id="Buzcv2-d1e59-Rd1e127" target="http://scta.info/resource/aristneth-l6">sexto Ethicorum</ref>
+          <bibl>
+            Aristoteles, 
+            Ethica, 
+            VI
+          </bibl>
+        </cit>; 
+        modo logica est ars, ut communiter dicitur; ergo ipsa non est scientia. </p>
 
 
       <p xml:id="Buzcv2-d1e59-d1e120"> 4. Item, si esset de demonstratione scientia, uel esset practica uel speculatiua (a
    sufficienti diuisione); non speculatiua, quia ipsa est de operatis a nobis, nec practica, quia
-   ipsa ordinatur finaliter ad scire, et talis non est practica, ut habetur secundo
-   Metaphysicae*. </p>
+   ipsa ordinatur finaliter ad scire, et talis non est practica, ut habetur 
+        <cit>
+          <ref xml:id="Buzcv2-d1e59-Rd1e140" target="http://scta.info/resource/aristmet-l6">secundo Metaphysicae</ref>
+          <bibl>
+            Aristoteles, 
+            Metaphysica, 
+            VI
+          </bibl>
+        </cit>. 
+      </p>
 
 
       <p xml:id="Buzcv2-d1e59-d1e123"> 5. Ultimo arguitur: demonstratio non est intelligibilis; igitur de ipsa non est scientia.
    Consequentia patet: quia scientia est habitus intellectualis; igitur non est nisi de
    intelligibilibus. Antecedens probatur. Primo, quia si demonstratio intelligeretur, oporteret
-   plura simul intelligere, quod est contra <name ref="#Aristotle">Aristotilem</name>, in Topicis, dicentem <quote xml:id="Buzcv2-d1e59-Qd1e128">contingit plura
-   scire, unum autem intelligere</quote>*, et etiam, quarto Metaphysicae, <quote xml:id="Buzcv2-d1e59-Qd1e131">qui non unum intelligit nihil
-   intelligit</quote>*. </p>
+   plura simul intelligere, quod est contra 
+        <ref xml:id="Buzcv2-d1e59-Rd1e150"><name ref="#Aristotle">Aristotilem</name>, in Topicis</ref>, dicentem 
+        <cit>
+          <quote xml:id="Buzcv2-d1e59-Qd1e128">contingit plura
+   scire, unum autem intelligere</quote></cit>*, et etiam, <ref xml:id="Buzcv2-d1e59-Rd1e160">quarto Metaphysicae</ref>, 
+        <cit>
+          <quote xml:id="Buzcv2-d1e59-Qd1e131" source="http://scta.info/resource/aristmet-l4">
+            qui non unum intelligit nihil
+            intelligit
+          </quote>
+          <bibl>
+            Aristoteles, 
+            Metaphysica, 
+            IV
+          </bibl>
+        </cit>. </p>
 
 
       <p xml:id="Buzcv2-d1e59-d1e135"> 6. Secundo, confirmatur quod demonstratio non sit intelligibilis: quia intelligibile debet
-   mouere intellectum; sed mouens debet esse nobilius moto, ut dicitur secundo de Anima*, et
-   demonstratio non est nobilior intellectu; igitur ipsa non est intelligibilis. </p>
+   mouere intellectum; sed mouens debet esse nobilius moto, ut dicitur 
+        <cit>
+          <ref xml:id="Buzcv2-d1e59-Rd1e177" target="http://scta.info/resource/aristda-l2">secundo de Anima</ref>
+          <bibl>
+            Aristoteles, 
+            De anima, 
+            II
+          </bibl>
+        </cit>*, 
+        et
+        demonstratio non est nobilior intellectu; igitur ipsa non est intelligibilis.
+      </p>
 
 
-      <p xml:id="Buzcv2-d1e59-d1e138"> In oppositum est <name ref="#Aristotle">Aristotiles</name> et omnes alii, quoniam per librum Posteriorum habemus scientiam
+      <p xml:id="Buzcv2-d1e59-d1e138">
+        In oppositum est <name ref="#Aristotle">Aristotiles</name> et omnes alii, quoniam per librum Posteriorum habemus scientiam
    de demonstrationibus. </p>
 
 
