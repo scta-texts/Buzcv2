@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11a</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e545">
+      <head xml:id="Buzcv2-d1e545-Hd1e101">Quaestio 11a</head>
+      <head xml:id="Buzcv2-d1e545-Hd1e104" type="question-title"> UTRUM NOTITIA PRIMORUM PRINCIPIORUM SIT NOBIS INNATA </head>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e107"> Consequenter quaeritur, undecimo et ultimo, utrum notitia primorum principiorum sit nobis
+   innata. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e110"> 1. Arguitur quod sic, per Commentatorem, secundo Metaphysicae*, dicentem quod prima
+   principia sunt nobis naturaliter innata; igitur ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e113"> 2.Item, uel sunt nobis innata uel per doctrinam acquisita; sed non <supplied>sunt</supplied>
+   per doctrinam acquisita. Probatio: quia omnis prima acquisitio doctrinae fit nobis ex
+   praeexsistente cognitione, primo huius*; modo notitia primorum principiorum non fit ex
+   praeexsistente cognitione, quia tunc non essent prima principia, immo magis illa quorum non
+   esset praeexsistens cognitio; ergo non acquiritur per doctrinam. Confirmatur: quia omnes sane
+   concedunt prima principia absque hoc quod aliquis concedat ea, et ideo
+    <supplied>non</supplied> per doctrinam acquiruntur. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e123"> 3. Item, uel illa notitia est intellectui <supplied>in</supplied>nata uel intellectus est in
+   prima potentia ad huius modi notitiam; si dicatur primum, tunc habetur propositum; si
+   secundum, tunc sequitur inconueniens, scilicet quod intellectus non magis erit determinatus ad
+   assentiendum primis principiis si sibi praesententur quam suis oppositis, quod est manifeste
+   falsum. Et patet consequentia: quia hoc est de ratione purae potentiae quod sit indeterminata
+   et indifferens ad opposita, ut habetur nono Metaphysicae*. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e129"> Oppositum tamen arguitur, per <name ref="#Aristotle">Aristotilem</name>, in isto secundo*, <supplied>dicentem</supplied>
+   quod notitia primorum principiorum est certissima et euidentissima, scilicet nobilior et
+   certior quam sit scientia quae est habitus conclusionum. Cum igitur scientia quando eam
+   habemus non lateat nos, absurdum esset dicere quod notitiam principiorum indemonstrabilium, si
+   haberemus eam, lateret nos, et tamen quam plurimum homines primorum principiorum non
+   percipiunt se habere notitiam; ergo illam non habent innatam. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e138"> Item, <supplied>arguitur</supplied> auctoritate <name ref="#Aristotle">Aristotilis</name>, tertio de Anima*, qui dicit
+   intellectum a principio esse nudum tamquam tabula rasa in qua nihil est depictum; et dicit
+   intellectum nullam notitiam habere nisi quod <mentioned>possibilis natus</mentioned> est uocatus, quasi dicat quod
+   est in prima potentia ad intelligere et nullum actum intelligendi habet innatum. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e150"> Notandum est quod habitus primorum principiorum indemonstrabilium non uocatur <mentioned>scientia</mentioned>,
+   sed <mentioned>intellectus</mentioned>, pro tanto quia scientia, proprio nomine dicta, est habitus per
+   demonstrationem acquisitus; ideo principiorum indemonstrabilium non est scientia proprie, sed
+   eorum est habitus qui uocatur <mentioned>intellectus</mentioned>, non quia sit ipsamet potentia intellectualis, sed
+   pro tanto quia non uirtute aliorum intellectorum assentit eis, sed uirtute propria tamquam est
+   naturaliter determinatus, sicut ignis est naturaliter determinatus ad calefaciendum si
+   occurrat ei combustibile. Sic autem non est intellectus determinatus <supplied>ad</supplied>
+   assentiendum conclusionibus; ideo indiget doctrina ex praecognitione determinante ipsum ad
+   assentiendum dictis conclusionibus. Verum est tamen quod intellectus non solum ad notitiam
+   conclusionum, sed etiam principiorum indiget ministerio sensus per quem praesentantur sibi
+   intelligibilia. Tamen non est credendum quod propter hoc sensus determinet intellectum ad
+   assentiendum principiis tamquam principale agens et principale determinans, quia tunc esset
+   nobilior intellectu; immo solum requiritur sensus tamquam ministrans et praesentans
+   intellectui obiectum. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e165"> Deinde etiam notandum est quod duplicia sunt principia indemonstrabilia. Quaedam sunt quorum
+   rationes terminorum se manifeste includunt aut manifeste excludunt scito quid nominis. Alia
+   sunt principia quorum rationes terminorum nec se manifeste includunt nec manifeste excludunt. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e168"> Modo principia de primo istorum modorum statim ab intellectu capiuntur cum sibi
+   praesentantur, hoc est dictum quod intellectus statim assentit eis scito quid nominis illorum
+   terminorum: uerbi gratia, quod aliquid est, quod homo est animal, quod albedo est color, quod
+   idem non contingit simul inesse et non inesse, quod nullum rationale est irrationale, et sic
+   de plurimis aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e172"> Sed principia de secundo dictorum modorum non sic statim capiuntur ab intellectu; immo licet
+   sint indemonstrabilia, tamen indigent primo iudicio sensus, et memoria et experientia: uerbi
+   gratia, quod omnis ignis est calidus et quod omne rheubarbarum faciat choleram non statim
+   concedit intellectus; unde posito quod numquam uidisses ignem uel, si uidisses, tamen non
+   tetigisses, non esset intellectui tuo notum utrum omnis ignis sit calidus. Igitur ad huius
+   modi principia firmiter concedenda ab intellectu praeexigitur sensus, memoria et experientia,
+   tali modo quod primo a sensu tu cognoscis istum ignem esse calidum et statim intellectus
+   consequenter iudicat ignem esse calidum, +et tamen numquam iudicat quod omnis alia uice tu
+   sentis alium ignem calidum esse+, et sic multotiens habetur de plurimis memoria quod illi
+   fuerunt calidi, et tunc si occurrit tibi alter ignis, quem tu non sentis, propter memoriam
+   praeteritorum, iudicas illum esse calidum, et hoc est iam experimentale iudicium de non
+   sensato. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e175"> Ultimo notandum <supplied>est</supplied> quod intellectus attendens quod in multis similiter
+   se habuerit et quod nullae diuersae circumstantiae obstiterunt +a qualibet eorum si ignis
+   inuenitur calidus considerat quod apparet causa dissimilitudinis quare arguitur sic de aliis+
+   ipse ex naturali inclinatione eius ad ueritatem format uniuersale principium et assentit ei
+   tamquam sibi noto, scilicet quod omnis ignis est calidus. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e181"> Sed statim tu obiicies <quote xml:id="Buzcv2-d1e545-Qd1e183">quod nullum tale uidetur esse principium; quia per notitiam
+   praecedentem declaratum est, scilicet per notitiam sensitiuam, et quia licet non sit probatum
+   per demonstrationem, tamen uidetur esse probatum per exemplum uel inductionem: uerbi gratia
+   dicendo <mentioned>iste ignis est calidus, et sic de multis aliis qui sensati sunt, et non est
+    <supplied>ratio</supplied> quin ita sit de aliis; igitur omnis ignis est calidus</mentioned>; modo
+    <supplied>quod ex</supplied> scitis et concessis per argumentationem
+    <supplied>concluditur</supplied> non debet poni principium</quote>. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e199"> Ad hoc respondetur, sicut dixi, quod sensus non est principale determinans intellectum, sed
+   solum illi monstrans obiectum; immo intellectus per suam naturam determinatur ad concedendum
+   principium; ideo illud est dicendum <mentioned>intelligibile principium</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e205"> Et quando dicitur de inductione, dicendum est quod inductio non concludit gratia formae.
+   Primo quia nullus potest inducere in omnibus ignibus singularibus; nullus enim tangit omnes,
+   nec est possibile quod aliquis tangat omnes; et tamen non sequitur conclusio gratia formae
+   nisi inductum sit in omnibus et sit scitum quod illa sunt omnia. Secundo etiam non ualet ad
+   propositum additio istius clausulae <mentioned>et sic de aliis</mentioned>, quia illa clausula non est scita nec
+   est certa intellectui nisi in quantum ipse potest formare uniuersale principium, quia iam tu
+   ponis clausulam uniuersalem, scilicet quod ita est de omnibus aliis. Et ideo licet intellectus
+   indigeat inductione, tamen illa non est sufficiens ad determinandum intellectum nisi
+   intellectus per suam naturam esset ad hoc inclinatus et determinatus. Ideo adhuc talia
+   uocantur <mentioned>principia intelligibilia</mentioned>, et sunt principia intellectiua ut scientiae et artes'
+   sicut dicit <name ref="#Aristotle">Aristotiles</name>, primo huius*. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e217"> Istis uisis, manifestum est quod sic dicendum est ad quaestionem. Debemus enim dicere quod
+   actualis notitia principiorum non est nobis innata, sed acquisita, non tamen per doctrinam
+   proprie, quia doctrina proprie dicta est ex notioribus habentibus potestatem determinandi
+   intellectum ad assentiendum ei quod ante erat sibi dubitabile. Tamen dicendum est quod nobis
+   est innata uirtus quaedam inclinata naturaliter et determinata ad assentiendum ueritati
+   principiorum si sibi fuerint debite applicata, sicut ignis est naturaliter inclinatus ad
+   comburendum cum sibi fuerit combustibile appositum, et illa uirtus nobis innata est
+   intellectus humanus. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e221"> Tunc soluuntur rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e224"> 1. Ad auctoritatem Commentatoris*, dicendum est quod principia sunt nobis naturaliter
+   habita, id est intellectus per suam naturam assentit eis quando debite praesentantur. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e227"> 2. Ad aliam, dico quod non sunt innata nobis, nec per doctrinam proprie dictam acquisita;
+   immo intellectus per suam naturam assentit eis sine indigentia alterius doctrinae, nisi tu
+   accipias <mentioned>doctrinam</mentioned>, ualde improprie, pro ministerio sensus praesentanti obiectum
+   intellectui. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e233"> 3. Ad aliam, dico quod intellectus non est pura potentia, sicut prima materia, immo est de
+   se actus specialis et forma corporis humani. Et ideo licet sit in potentia, quia carens actu
+   secundo, tamen determinatus est ad actum secundum si obiectum fuerit praesentatum, sicut ignis
+   non semper calefacit, et si caret bene actu illo secundo, tamen per actum suum primum est
+   determinatus ad calefaciendum obiecto sibi praesentato. </p>
+
+
+      <p xml:id="Buzcv2-d1e545-d1e236"> ET SIC EST FINIS ILLIUS QUAESTIONIS, ET, PER CONSEQUENS, OMNIUM QUAESTIONUM
+    <supplied>TAM</supplied> PRIMI LIBRI QUAM SECUNDI, <supplied>TAM</supplied> BONAE QUAM
+   VALENTES MULTUM, A MAGISTRO BYRIDANO PARISIUS COMPILATAE. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

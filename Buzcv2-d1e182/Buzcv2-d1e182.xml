@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 11a</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 11a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e182">
+      <head xml:id="Buzcv2-d1e182-Hd1e101"> Quaestio 11a </head>
+
+      <head xml:id="Buzcv2-d1e182-Hd1e104" type="question-title"> UTRUM SINT DUO MODI DICENDI PER SE </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e182-d1e107"> Consequenter quaeritur, undecimo, utrum sint duo modi dicendi per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e110"> 1. Arguitur primo quod sint plures: quia quot modis dicitur unum oppositorum, tot modis
+   dicitur reliquum, quinto Topicorum*; sed per se et per accidens opponuntur, et tres sunt modi
+   dicendi per accidens, ut patet quinto Metaphysicae*, scilicet quod accidens dicitur de
+   subiecto, et subiectum de accidente, <supplied>et</supplied> accidens de accidente; igitur ...
+   et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e116"> 2. Item, primo huius*, <name ref="#Aristotle">Aristotiles</name> ponit tertium modum et quartum; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e123"> 3. Item, uidetur idem <supplied>esse</supplied> per se et secundum se; sed <mentioned>secundum se</mentioned>
+   dicitur pluribus modis quam duobus, ut habetur quinto Metaphysicae*; ergo et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e132"> 4. Item, non sunt idem modi dicendi per se, sed diuersi, Parisius et Romae, cum non sit idem
+   in diuersis locis. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e135"> 5. Item, arguitur per multas alias instantias: quia haec est per se <mentioned>risibile est
+   susceptibile disciplinae</mentioned>, cum sit necessaria et omne necessarium est per se, ut uult
+   <name ref="#Aristotle">Aristotiles</name>, et tamen non apparet esse de aliquo istorum duorum modorum, quia nec praedicatum
+   ponitur in definitione subiecti nec e conuerso. Similiter haec est per se, cum sit necessaria,
+   <mentioned>omnis passio est actio</mentioned>, ut suppono, et illa etiam <mentioned>omne corpus est in loco</mentioned> uel <mentioned>omne corpus
+   habet locum</mentioned>, et ista similiter <mentioned>omnis pater est pater filii</mentioned> uel <mentioned>omnis pater habet filium</mentioned>.
+   Tamen non apparet quod illae sint in aliquo dictorum modorum, quia qua ratione essent in uno
+   istorum eadem ratione essent in alio, eo quod ponitur ibi <mentioned>animal</mentioned> per accidens ad primum
+   modum et <mentioned>risibile</mentioned> per accidens ad secundum; igitur nec est in utroque, quod est
+   inconueniens, eo quod non essent modi distincti si idem in utroque reperiretur, nec etiam in
+   neutro, et sic oportet alium modum ponere. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e166"> 6. Item, haec est per se <mentioned>materia est causa formae</mentioned>, et haec etiam <mentioned>omnis creatura est ens</mentioned>,
+   et illa similiter <mentioned>omne quod fit fit ex aliquo</mentioned>; tamen non apparent esse in aliquo dictorum
+   modorum. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e178"> 7. Item, haec est per se <mentioned>risibile est homo</mentioned>, et tamen non est in primo modo: quia ista est
+   minus per se quam ista <mentioned>homo est risibilis</mentioned>, quae non est in primo modo nec etiam in secundo,
+   quia praedicatum non ponitur in definitione subiecti, quod exigitur, ut dicit <name ref="#Aristotle">Aristotiles</name>*. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e190"> 8. Item, hae sunt per se, cum sint necessariae, <mentioned>nullus homo est equus</mentioned> et <mentioned>nullum
+   corruptibile est perpetuum</mentioned>, <mentioned>ex nihilo nihil fit</mentioned>, <mentioned>nullus pater est sine filio</mentioned>, <mentioned>omnem
+   hominem possibile est uigilare</mentioned>, <mentioned>omnem hominem uigilare est possibile</mentioned>, et ista etiam <mentioned>si
+   animal currit, animal mouetur</mentioned> est necessaria, et ista disiunctiua similiter <mentioned>omnis homo
+   currit uel aliquis homo non currit</mentioned>; tamen non apparet quod istae sint in aliquo dictorum
+   modorum; igitur ... <supplied>et caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e222"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name> ponentem duos modos, scilicet primum, in quo definitio
+   uel pars definitionis dicitur de definito, et secundum, in quo subiectum pertinet ad
+   definitionem praedicati*; postea dicit <name ref="#Aristotle">Aristotiles</name> 
+       <quote xml:id="Buzcv2-d1e182-Qd1e230">quaecumque uero accidentaliter insunt
+   accidentia dicuntur</quote>*; igitur modi dicendi per se sunt duo solum. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e182-d1e234"> Ad euidentiam istius quaestionis notandum est quod <name ref="#Aristotle">Aristotiles</name> ponendo istos duos modos
+   dicendi per se non intendebat de propositionibus hypotheticis. Quia multae istarum sunt
+   necessariae et, per consequens, per se uerae quae tamen non habent suam necessitatem siue suam
+   perseitatem ex necessitate uel perseitate categoricarum eam componentium, immo quod istae
+   categoricae nec uerae sunt per se nec necessariae. Unde haec est necessaria et per se uera <mentioned>si
+   asinus uolat, asinus habet alas</mentioned>; tamen suae categoricae sunt impossibiles. Haec etiam est per
+   se uera et necessaria <mentioned>si homo currit, animal currit</mentioned>, et tamen categoricae sunt mere
+   contingentes, et per accidens. Haec etiam est necessaria et per se uera <mentioned>omnis homo currit uel
+   aliquis homo non currit</mentioned>, et tamen categoricae sunt contingentes. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e249"> Secundo, uidetur mihi quod <name ref="#Aristotle">Aristotiles</name> in ponendo istos duos modos non loquitur de
+   negatiuis, licet negatiuae per se possint reduci ad istos duos modos, nec etiam loquitur de
+   modalibus nec de propositionibus indirectis, licet omnes tales possint reduci ad istos duos
+   modos, sed directe loquitur de categoricis affirmatiuis directis et de inesse. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e255"> Postea, sciendum est quod omnis categorica affirmatiua et de inesse necessaria uel etiam
+   uera est quidditatiua uel denominatiua. Quia in terminis rectis, si subiectum et praedicatum
+   sint de eodem ordine praedicamentali, propositio est quidditatiua et si non de eodem ordine
+   propositio est denominatiua, et non uera nisi sit denominatiua. Ideo sequitur quod omnis
+   propositio necessaria et per se uera categorica affirmatiua de inesse est de altero dictorum
+   modorum, scilicet uel quidditatiua (et illam intendit <name ref="#Aristotle">Aristotiles</name> per primum modum), uel
+   denominatiua (et eam intendit <name ref="#Aristotle">Aristotiles</name> 
+       <supplied>per</supplied> secundum modum. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e267"> Igitur, respondendo ad quaestionem, dicitur quod huius modi propositionum per se sunt solum
+   duo modi, quia secundum duas rationes generales, ad talem sensum quod
+    <supplied>sunt</supplied> duae rationes supponentes pro huius modi propositionibus et non
+   coincidentes in supponendo pro aliqua propositione, et praeter illas duas non sunt aliae
+   rationes <supplied>supponentes</supplied> pro huius modi propositionibus quae non concurrunt
+   in supponendo pro eodem cum aliqua istarum duarum rationum. Et prima illarum rationum est
+   propositio per se quidditatiua, et secunda propositio per se denominatiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e276"> Tamen nota quod huius modi rationes possunt ualde multiplicari materialiter, quia aliae sunt
+   in libro meo, aliae in libro tuo, uel aliae in mente mea uel tua; sed in enumeratione quam
+   intendimus, haec non enumerantur contra illas, eo quod concurrunt in supponendo pro eodem,
+   siue in libro meo siue tuo. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e280"> Sciendum est quod bene possunt plus multiplicari modi dicendi per se si fieret maior diuisio
+   per rationes specialiores. Quia tam primus modus quam secundus possent diuidi in multos
+   diuersos modos specialiores, sed illi concurrerent praedictis duobus modis in supponendo pro
+   eodem, licet non ad inuicem concurrerent. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e283"> Deinde, propter reductiones, debetis notare quod propositiones de terminis obliquis
+   designantes causalitatem rerum significatarum per terminos obliquos siue res significatas per
+   subiectum propositionis reducit <name ref="#Grosseteste">Lincolniensis</name>* ad primum modum, et hoc innuit <name ref="#Aristotle">Aristotiles</name> in
+   littera*. Et ita non solum definitiones mere quidditatiuae sed etiam causales dicuntur per se
+   de suis definitis in primo modo. Sed si per terminos obliquos designetur alia habitudo quam
+   causalitas uel effectualitas, tunc istae propositiones debent reduci ad secundum modum, quasi
+   si sit propositio denominatiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e292"> Postea, etiam debetis reducere indirectas ad suas directas et ponere eas
+    <supplied>in</supplied> eodem modo, ita quod haec sit in primo modo <mentioned>animal est homo</mentioned> et
+   haec <mentioned>risibile est homo</mentioned> in secundo modo. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e304"> Postea, de negatiuis, est dicendum quod negatiuae necessariae terminorum substantialium uel
+   non connotatiuorum reducendae sunt ad primum modum, ut <mentioned>nullus homo est lapis</mentioned> uel <mentioned>nulla
+   albedo est dulcedo</mentioned>. Sed negatiuae terminorum accidentalium <supplied>uel</supplied>
+   connotatiuorum, uel etiam unius termini connotatiui, licet alter terminus esset substantialis,
+   debent reduci ad secundum modum, ut <mentioned>nullus homo est hinnibilis</mentioned> uel <mentioned>nullum hinnibile est
+   risibile</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e322"> Deinde, de illis de necessario dicendum est sicut de illis de inesse, et similiter de illis
+   de possibili, quia aliae sunt quidditatiuae et aliae denominatiuae . Sed tamen est bene
+   differentia inter illas de inesse et de possibili, quia de eodem subiecto et praedicato
+   propositio de inesse est quandoque contingens et non per se, ut <mentioned>homo uigilat</mentioned> ***** de illis
+   de possibili dictum ***** sicut de negatiuis. +Potest de his dici, ut prius dicebatur, quod
+   non est dicendum quod reducantur ad illos modos, et si aliqua non tamen omnes.+ </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e328"> Ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e332"> 1. Ad primam <supplied>dicitur</supplied> quod non oportet in terminis oppositis unum habere
+   tot supposita quot reliquum, quia non sunt tot species uirtutum quot uitiorum, ut patet in
+   Ethicis*. Sed illa propositio <name ref="#Aristotle">Aristotilis</name> 
+       <quote xml:id="Buzcv2-d1e182-Qd1e340">quot <supplied>modis</supplied> dicitur unum
+   oppositorum ...</quote> et caetera debet exponi ad talem sensum quod si duo nomina sint ad inuicem
+   opposita secundum omnem +rerum+ significationem, si unum sit aequiuocum, et aliud erit
+   aequiuocum, et quod tot sint significationes unius sicut alterius. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e347"> 2. Ad aliam rationem, respondetur quod tertius modus et quartus modus <mentioned>per se</mentioned> quos ponit
+   <name ref="#Aristotle">Aristotiles</name> non sunt modi dicendi per se praedicatum de subiecto, sed sunt modus essendi per
+   se et modus concipiendi per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e356"> 3. Ad aliam concessum fuit prius quod modi <mentioned>per se</mentioned> possent magis multiplicari secundum
+   specialiores diuisiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e362"> 4. Ad aliam conceditur quod uirtualiter et de uirtute sermonis sunt ualde multi modi, sed
+   solum sunt duo ad sensum praedictum. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e365"> 5-8. Ad aliam dicitur, secundum praedicta, quod istae sunt in secundo modo <mentioned>risibile est
+   susceptibile disciplinae</mentioned>, <mentioned>actio est passio</mentioned>, <mentioned>corpus est in loco</mentioned>, <mentioned>pater habet filium</mentioned>. Et
+   similiter ista ponenda est in secundo modo <mentioned>homo est animal risibile</mentioned>, quia licet hoc nomen
+   <mentioned>animal</mentioned> per se sumptum praedicetur quidditatiue de homine, tamen illud congregatum totum
+   <mentioned>homo est animal risibile</mentioned> praedicatur denominatiue propter denominationem alienam inclusam in
+   praedicato. Deinde dicitur quod istae sunt per se in primo modo <mentioned>animal est homo</mentioned>, <mentioned>animal est
+   equus</mentioned>, sed haec est in secundo modo <mentioned>nullum corruptibile est perpetuum</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e399"> Dicendum etiam est quod istae sunt in primo modo <mentioned>omnis creatura est a deo</mentioned>, <mentioned>omne quod fit
+   fit ex aliquo</mentioned>, <mentioned>ex nihilo nihil fit</mentioned>, quia sunt causales. Sed istae possunt poni in secundo
+   modo <mentioned>omnem hominem possibile est currere</mentioned>, <mentioned>nullus pater est sine filio</mentioned>, et etiam illa
+   <mentioned>possibile est omnem hominem currere</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e422"> Sed quaeres <quote xml:id="Buzcv2-d1e182-Qd1e424">
+        <mentioned>omnem hominem esse animal est possibile</mentioned> uel <mentioned>omnem hominem esse animal est
+   necessarium</mentioned>, in quo modo sunt?</quote>. Dico quod in secundo modo, quia illa praedicata <mentioned>possibile</mentioned>,
+   <mentioned>necessarium</mentioned>, <mentioned>contingens</mentioned>, <mentioned>falsum</mentioned> et <mentioned>uerum</mentioned> attribuuntur propositionibus tamquam
+   passiones earum. Tamen illae quae fierent in sensu diuiso <mentioned>hominem necesse est esse animal</mentioned>
+   uel <mentioned>hominem possibile est esse animal</mentioned> essent in primo modo tamquam quidditatiuae. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e456"> Ad argumenta de hypotheticis potest dici quod non sunt illorum modorum, nec directe nec
+   reductiue, quia est ibi perseitas in dicendo praedicatum de subiecto, ut satis dictum fuit. </p>
+
+
+      <p xml:id="Buzcv2-d1e182-d1e459"> Et pro nunc sufficiat de illa quaestione. </p>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

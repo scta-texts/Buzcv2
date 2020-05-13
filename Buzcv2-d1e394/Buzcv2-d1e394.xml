@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 30a  </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 30a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e394">
+      <head xml:id="Buzcv2-d1e394-Hd1e101"> Quaestio 30a </head>
+
+      <head xml:id="Buzcv2-d1e394-Hd1e104" type="question-title"> UTRUM SCIENTIA SIMPLEX DEMONSTRATIVA HABEAT UNITATEM VEL DISTINCTIONEM AB IPSA
+   CONCLUSIONE VEL A PRINCIPIIS VEL A QUO </head>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e107"> Consequenter quaeritur, tricesimo, utrum scientia simplex demonstratiua habeat unitatem uel
+   distinctionem ab ipsa conclusione, uel a principiis, uel a quo. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e110"> 1. Arguitur primo quod ab una conclusione sumit unitatem et distinctionem: +quia ab illo
+   cuius est habitus; sed scientia et conclusio demonstrata est habitus conclusionis
+   demonstratae;+ <supplied>igitur ... et caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e116"> 2. Et confirmatur: quia habitus et potentiae sumunt unitatem ab obiectis suis, ut patet
+   secundo de Anima* quantum ad potentias suas, et etiam patet secundo* et sexto Ethicorum*
+   quantum ad uirtutes et habitus; sed conclusio est habitus et obiectum conclusionis
+   demonstratae; ipsa enim est conclusio quae scita est et per cuius scientiam res significatae
+   per terminos sunt scitae; igitur per unitatem uel distinctionem conclusionis debet scientia
+   dici una uel distincta. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e120"> 3. Oppositum est <name ref="#Aristotle">Aristotilis</name>: ab isto scientia non sumit unitatem quo exsistente uno
+   scientiae sunt diuersae; sed conclusione exsistente una scientiae sunt diuersae; ergo ...
+    <supplied>et caetera</supplied>. Maior est de se nota. Minor patet per <name ref="#Aristotle">Aristotilem</name>, primo
+   huius*, dicentem quod eadem conclusio <supplied>scitur</supplied> in una scientia quia est et
+   in alia scientia scitur propter quid est. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e135"> 4. Et hoc etiam manifestum est exemplo: quia huius conclusionis <mentioned>terra est rotunda</mentioned> diuersae
+   sunt scientiae, scilicet mathematica et naturalis, quia in libris mathematicis probatur haec
+   conclusio per aspectum ad caelum et secundo Caeli* probatur eadem conclusio per naturam
+   grauitatis. Similiter est de ista conclusione <mentioned>elementa sunt quattuor et non plura, scilicet
+   ignis, aqua, aer, terra</mentioned>; nam haec conclusio scitur per scientiam libri de Caelo et Mundo* et
+   per scientiam libri de Generatione*. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e144"> 6. Deinde, arguitur quod a principiis scientiae sumant unitatem uel distinctionem: ab illis
+   enim sumunt unitatem et distinctionem propter quorum diuersitatem eadem conclusio est
+   diuersarum scientiarum; modo eadem conclusio, ut quod terra est rotunda, est diuersarum
+   scientiarum, scilicet naturalis et mathematicae, propter diuersitatem principiorum ex quibus
+   ipsa demonstratur; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e147"> 7. Et confirmatur: quia ex primis principiis alia dependent in entitate sua; igitur et in
+   sua unitate, cum ens et unum conuertantur, quarto Metaphysicae*. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e150"> 8. Oppositum arguitur: quia scientiae demonstratiuae, quantocumque simplicis, sunt ad minus
+   duo principia, scilicet duae praemissae; ergo principiis plurificatis non oportet scientias
+   plurificari; ergo ab illis non sumunt scientiae unitatem uel plurificationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e153"> 9. <supplied>Et confirmatur</supplied>: quia habitus principiorum non est scientia, sed
+   intellectus; ergo habitus qui est intellectus debet distingui ex diuersitate uel distinctione
+   principiorum, et non habitus qui est scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e160"> De ista quaestione et consimilibus aliqui* uolunt se statim expedire dicentes quod
+    <supplied>scientiae</supplied> demonstratiuae se ipsis sunt distinctae, et
+    <supplied>non</supplied> per principia seu conclusiones; et quaelibet etiam se ipsa est una,
+   eo quod ipsa manifeste circumscriptis aliis adhuc esset ens et una. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e169"> Sed quamuis ista dicta concederentur ad istum sensum quod quaelibet res exsistente se ipsa
+   est unum et ens, tamen, hoc non obstante, res causatae in sua entitate <supplied>et</supplied>
+   unitate uel distinctione <supplied>dependent</supplied> ex suis causis, et cum eaedem res
+   possint aliquando esse una res et aliquando non una res, oportet assignare aliter quam ex
+   ipsis unde hoc proueniat. Verbi gratia, duae partes quantitatiuae lapidis sunt aliquando una
+   res et aliquando, scilicet post diuisionem, non sunt una res, sed plures. Et ita duo gradus
+   albedinis in eodem subiecto essent una res aliquando et si essent in diuersis subiectis per
+   praedictam doctrinam non essent una res. Similiter uidemus quod in eadem materia uel consimili
+   generantur <supplied>aliquando</supplied> effectus eiusdem speciei et aliquando diuersarum
+   specierum; et si quaeris unde hoc proueniat, non sufficit dicere quod illi effectus hoc
+   habeant ex se ipsis. Ideo aliter satisfaciendum est quaestioni. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e181"> Et potest poni haec conclusio quod cum scientiae fuerunt eiusdem speciei, si sint diuersae
+   numero, hoc est propter diuersa subiecta quibus insunt, scilicet propter diuersas animas,
+   sicut etiam duae albedines si ita sunt duae quod non una, hoc est propter diuersitatem
+   subiectorum. Unde sic solet dici quod accidens numeratur numeratione subiecti. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e184"> Sed de unitate uel distinctione specifica, sciendum est quod conclusio mota intelligitur ad
+   praesens de scientia simplici demonstratiua. Et uoco scientiam <mentioned>simplicem</mentioned> quae non est
+   congregata ex pluribus scientiis diuersarum rationum, sicut totalis scientia naturalis
+   diceretur unum simplex quia congregata est ex scientiis multarum conclusionum diuersarum.
+   Oportet etiam notare, ut habetur quinto Metaphysicae*, <supplied>quod</supplied> illa dicuntur
+   diuersa specie quae sunt diuersarum uel dissimilium specierum. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e193"> Tunc pono faciliter plures conclusiones. Una est quod scientiae demonstratiuae sunt diuersae
+   specie si sint conclusionum specie diuersarum. Probatio: quia quae sunt eadem specie innata
+   sunt fieri nobis <supplied>scita</supplied> per causas consimiles, sine concursu causarum
+   dissimilium, +quia oportet quod per praemissas diuersas et dissimiles generentur.+ </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e199"> Alia conclusio est quod eiusdem conclusionis scientia quia est et propter quid est sunt
+   diuersarum specierum: quia sunt ualde dissimilium rationum, et aliud exigitur ad generationem
+   unius et alterius. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e203"> Alia conclusio uidetur mihi ponenda, quod si eadem conclusio sciatur propter quid per
+   diuersa genera causarum, ut modo per <supplied>causam</supplied> materialem, modo per causam
+   efficientem, istae scientiae sunt diuersarum specierum et diuersarum rationum in tantum quod
+   potest sciri unum alio ignoto. Potest enim sciri de aliquo propter quid ipsum est efficienter
+   ignorando propter quid ipsum est materialiter, et ad sciendum hoc et illud oportet diuersa
+   principia concurrere. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e209"> Sed alia conclusio uidetur mihi ponenda, quod eiusdem conclusionis scientia quia est non
+   diuersificatur specie propter diuersitatem mediorum per quae illa potest demonstrari, quia ab
+   illis non dependet in esse sed in sciri solum. Unde si quis habet demonstratum per multa media
+   quod omne B est A et <supplied>non</supplied> reminiscatur quod sibi prius fuit demonstratum,
+   adhuc erit firmus et certus de conclusione quod ita est, quamuis etiam de medio non
+   reminiscatur; modo possibile est quod idem specie fiat a diuersis agentibus, ut caliditas ab
+   igni, a sole et a motu. Unde sciendum est quod ualde difficile est de scientia quia est et de
+   scientia propter quid est, quia scientia medii non est de ***** scientiae quia ita est. Unde
+   si eadem conclusio potest demonstrari quia ita est per <supplied>multa</supplied> media, tamen
+   forte per unum istorum scio firmiter quod ita est et alius per aliud medium sciet firmiter ita
+   esse. Sed scientia medii est de ***** scientiae propter quid. Quoniam impossibile est te scire
+   propter quid luna eclipsatur te oblito uel nesciente quod eclipsatur propter terram obiectam.
+   Ideo <name ref="#Aristotle">Aristotiles</name>, diffiniendo <mentioned>scire propter quid</mentioned>, in principio libri*, dicit notabiliter non
+   quod scire sit cognoscere rem per causam, sed quod scire est ipsammet causam cognoscere et
+   quia illius est causa. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e224"> Ultimo, ex dictis apparet quod diuersitas specifica huius modi scientiarum potest prouenire
+   ex diuersitate subiectorum et etiam ex diuersitate praedicatorum conclusionis, uel utrorumque,
+   quia sic diuersificantur conclusiones. Sed unitas scientiae exigit horum omnium identitatem,
+    <supplied>et</supplied> etiam cum hoc identitatem medii si sit scientia propter quid. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e230"> Secundum hoc respondetur ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e233"> 1-2. Ad primam et secundam, concedo quod ex unitate conclusionis scientia dicitur una, nisi
+   sit quod si sit scientia propter quid exigitur cum hoc unitas medii. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e236"> 3-4. Ad rationes in oppositum, potest concedi quod eiusdem conclusionis sunt bene scientiae
+   diuersae, scilicet una quia <supplied>et</supplied> altera propter quid. Et tamen exempla quae
+   ponebantur non uidentur demonstrare. Quia, sicut dicit <name ref="#Grosseteste">Lincolniensis</name>*, non est eadem conclusio
+   de rotunditate terrae quae scitur per naturalem philosophiam et per astrologiam. Quia
+   naturalis demonstrat quod terra est rotunda intelligendo per hoc nomen <mentioned>terra</mentioned> elementum
+   simpliciter graue, et mathematicus scit terram esse rotundam intelligendo per hoc nomen
+   <mentioned>terra</mentioned> certam magnitudinem circa quam caelum sic mouetur et ad quam caelum habet totam
+   distantiam, non utrum hoc sit graue uel leue. Ideo si conclusiones sunt eaedem secundum uocem,
+   hoc est aequiuoce, quia sunt diuersae secundum intentionem mentalem. Similiter, si diceretur
+   quod in libro Caeli* probatum est quod corpora mobilia modo recto et simplici sunt duo et non
+   plura, et in libro de Generatione* determinatur et scitur quod elementa prima generabilium et
+   corruptibilium sunt quattuor et non plura; et sic istae non sunt eaedem conclusiones *****. </p>
+
+
+      <p xml:id="Buzcv2-d1e394-d1e252"> 5-9. Ad alias rationes, de principiis, concedo quod principia in scientia propter quid
+   faciunt ad distinctionem specificam scientiarum, sed non in scientia quia. Nec scientia quia
+   dependet ex necessitate inesse a praemissis per quas acquiritur, ut dictum fuit. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 14a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 14a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e215">
+      <head xml:id="Buzcv2-d1e215-Hd1e101"> Quaestio 14a </head>
+
+      <head xml:id="Buzcv2-d1e215-Hd1e104" type="question-title"> UTRUM POSSIBILE SIT CIRCULARITER DEMONSTRARE </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e215-d1e107"> Consequenter quaeritur, quarto decimo, utrum possibile sit circulariter demonstrare. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e110"> 1. Et arguitur quod sic: quia in secundo Priorum* determinatur de una potestate syllogismi
+   quae est circulariter demonstrare; non est ergo dicendum quod illa potestas sit inutilis uel
+   superflua; ergo oportet quod illa potestas habeat locum et usum suum aut in dialecticis aut in
+   demonstratiuis. Si dicitur quod in demonstratiuis, habetur propositum; si autem dicatur quod
+   in dialecticis, hoc uidetur inconueniens: quia oporteret in uno processu committere fallaciam
+   petitionis principii, arguendo a minus notis ad magis nota; modo omnes fallaciae impediunt
+   syllogismos dialecticos, et ideo in dialecticis non est utendum illa potestate. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e113"> 2. Item, per omnem causam per se potest demonstrari effectus; unde in prooemio Physicorum*
+   dicitur quod in omnibus scientiis quarum sunt causae principia aut elementa oportet causata
+   scire et cognoscere ex illorum cognitione; sed causae sunt sibi inuicem causae, ita quod idem
+   respectu eiusdem est causa et effectus, ut patet secundo Physicorum*: ambulare enim est causa
+   sanitatis, scilicet efficiens uel conseruans, et, e conuerso, sanitas est causa ambulationis,
+   scilicet causa finalis; ergo possibile est quod idem respectu eiusdem demonstret se ipsum et
+   demonstretur per ipsum, et hoc est demonstrare circulariter. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e117"> Et hoc potest sic confirmari: propter quod aliquid est potest demonstrare quod propter illud
+   est; sed propter causam efficientem finis est et propter finem est causa efficiens, cum
+   effectus sit propter causam, et sic illae sunt sibi inuicem causae; ergo demonstrabile est
+   quod finis est propter efficientem et quod efficiens est propter finem, et sic unum
+   demonstratur per reliquum propter quid, et hoc est circulariter demonstrare; igitur ...
+    <supplied>et caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e123"> 3. Item, in naturalibus causae sunt natae demonstrari per effectus, eo quod effectus sunt
+   nobis notiores, et effectus sunt etiam innati demonstrari per suas causas, quia uniuersale est
+   quod ex cognitione causarum, principiorum et demonstratorum alia cognoscantur, ut habetur
+   prooemio Physicorum*; sed hoc est circulariter demonstrare; igitur ... <supplied>et
+    caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e129"> 4. Item, confirmatur hoc per <name ref="#Aristotle">Aristotilem</name>, sexto Physicorum*, qui secundum Commentatorem ex
+   aeternitate motus demonstrauit immobilitatem et aeternitatem primi motoris; deinde reuersus
+   est ad demonstrandum aeternitatem motus per immobilitatem et aeternitatem primi motoris; et
+   hoc est circulariter demonstrare. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e135"> 5. Item, uidetur quod omnis demonstratio sit circularis: quia demonstratio, uel syllogismus,
+   non dicitur circularis quia proprie sit figura circularis, sed quia habet similitudinem illam;
+   et, per consequens, omnis demonstratio habet similitudinem ad figuram circularem, quia in
+   figura circulari extremitates reuertuntur simul et uniuntur, quod non est ita in linea recta;
+   modo ita est in omni syllogismo, quia extremitates et conclusiones coniunguntur simul. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e138"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>, in littera: quia idem esset respectu eiusdem notius et
+   ignotius. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e144"> Et etiam sequeretur quod idem demonstraretur per se ipsum: quia si C demonstratur per B et B
+   per A, sequitur, de primo ad ultimum, quod C sit demonstratum per A; igitur sic demonstrando
+   circulariter, ponamus A loco C; tunc sequitur quod A demonstratur per B et B per A, et
+   sequitur, de primo ad ultimum, quod A demonstratur per A; modo hoc est impossibile nisi idem
+   sit notius et ignotius se ipso; ergo talis demonstratio est impossibilis. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e215-d1e148"> Prima conclusio est quod demonstrare circulariter sic est possibile quod illa propositio
+   quae debet fieri praemissa et conclusio uarietur secundum quia et propter quid, uerbi gratia,
+   quod haec propositio <mentioned>luna eclipsatur</mentioned>, quando fit praemissa, sumatur solum prout scita est
+   quod ita est, et quando fit conclusio sumatur ut scita est propter quid ita est. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e154"> Et ad euidentiam istius conclusionis et consequentium, notandum est quod demonstratio
+   circularis, si esset possibilis, non esset unica demonstratio, immo esset plures, uel esset
+   processus circularis ex pluribus demonstrationibus, ita quod in prima demonstratione per
+   quasdam praemissas demonstraretur aliqua conclusio, deinde in secunda demonstratione ex illa
+   conclusione cum aliqua propositione sibi coniuncta demonstraretur aliqua illarum praemissarum.
+   Modo ego dico quod hoc est impossibile secundum praedictam determinationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e157"> Verbi gratia, possumus istam conclusionem <mentioned>luna deficit a lumine</mentioned>, uel <mentioned>luna eclipsatur</mentioned>,
+   demonstrare arguendo sic <mentioned>luna non potest habere lumen nisi a sole, sed terra interposita soli
+   et lunae prohibet irradiationem lunae a sole; igitur luna deficit a lumine</mentioned>, uel <mentioned>eclipsatur</mentioned>.
+   In secundo ergo processu conclusio non solum accipitur ut scita quia est ita, quia forte hoc
+   erat ante nobis notum ad sensum, scilicet quia luna eclipsabatur, ideo hoc non erat nobis
+   notificatum per illam demonstrationem, sed haec conclusio accipitur hic ut scita propter quid
+   ita est. Licet enim uideamus eclipsim, tamen ante istam demonstrationem ignorabamus quare luna
+   eclipsabatur et hoc docemur. Sed alia demonstratio erat talis <mentioned>luna non potest eclipsari nisi
+   interpositione terrae prohibentis irradiationem lunae a sole, sed luna eclipsatur, seu deficit
+   a lumine, ut patet ad sensum</mentioned> (ponamus quod sit ita); <mentioned>ergo terra interposita soli et lunae
+   prohibet irradiationem lunae a sole</mentioned>. Constat quod in illa propositione, seu syllogismo, <mentioned>luna
+   eclipsatur</mentioned> siue <mentioned>luna deficit a lumine</mentioned>, quae est praemissa, non accipitur hic ut scita est
+   propter quid ita est, sed ut scita ad sensum, per quem non scitur nisi quod ita est. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e185"> Sic ergo contingit demonstrare circulariter. Et causa huius est quia in habentibus per se
+   ordinem illud quod est nobis minus notum potest demonstrari per quod est notius. Modo effectus
+   quantum ad esse ita est nobis notior: nam quando tu uides lunam eclipsatam notius est tibi
+   quod luna eclipsatur quam quod terra sit interposita soli et lunae; sed etiam, e conuerso,
+   notior est tibi interpositio terrae inter solem et lunam quam propter quid luna eclipsatur. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e188"> Sed obiicitur: quia secundum praedictum uidetur quod non solum effectus sint nobis notiores
+   quam causae, immo etiam quod causae sint nobis notiores quam effectus, et hoc uidetur esse
+   contra <name ref="#Aristotle">Aristotilem</name>, ponentem quod causae sunt notiores simpliciter et secundum naturam, sed
+   non nobis. Potest responderi quod <name ref="#Aristotle">Aristotiles</name> numquam negauit quin causa esset nobis notior
+   quam propter quid effectus est, licet nobis sit notius effectum esse. Sed, cum hoc, dicit
+   <name ref="#Aristotle">Aristotiles</name> quod causae sunt simpliciter, siue secundum naturam, notiores: quia natura prius
+   cognoscit eas et quia illae causae sunt nobis notiores in illo processu demonstratiuo qua
+   procedimus in ordine quo natura procedit in sua ordinatione. Natura enim procedit in sua
+   operatione per suas causas ad causata, et ita procedimus in demonstrando propter quid. Ideo
+   quod nobis est notius in tali processu propter quid dicimus notius secundum naturam, id est
+   secundum processum consonantem processui naturae. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e200"> Secunda conclusio est quod etiam possibile est demonstrare circulariter dum tamen
+   propositiones quae fiunt praemissae et conclusiones circulando uariantur secundum diuersa
+   propter quid. Sciatis quod cum sint diuersae causae diuersorum generum, secundum illas sunt
+   diuersae causae propter quid. Unde compositum est propter ipsam materiam, ad istum sensum quod
+   materia est propter causam efficientem, quia ab ea, et propter finalem, quia eius gratia, et
+   propter formalem, quia eius actu per eam. Modo sicut aliquid est propter aliquam causam, sic
+   per eam causam potest demonstrari propter quid ipsum est, et ideo possibile est quod
+   demonstremus per sanitatem propter quid ambulatio est, scilicet quia est eius gratia, et quod
+   per ambulationem demonstremus propter quid sanitas est, quia est ab ambulatione. Et hoc
+   notauit <name ref="#Aristotle">Aristotiles</name> per istas duas conclusiones, cum dicit quod impossibile est circulariter
+   demonstrare nisi altero modo. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e207"> Tertia conclusio est quod impossibile est circulariter demonstrare si propositiones quae ex
+   inuicem demonstrantur non uariuntur. Quia sequeretur quod idem respectu eiusdem esset notius
+   et ignotius, cum oporteat demonstrationem procedere ex notioribus nobis, et hoc est
+   impossibile; igitur ... et caetera. Tamen istam conclusionem oportet modificare, ut credo,
+   scilicet quod circumscribantur aliae demonstrationes ab illis duabus. Unde credo quod in illo
+   casu aliquae duae propositiones possent se inuicem demonstrare quando propositio A esset ex
+   notioribus demonstrata et tunc per eam sic demonstratam demonstraretur B, quia tunc A esset
+   propositio notior. Tamen possibile est quod B demonstraretur aliis demonstrationibus
+   euidentibus ita quod B fieret notius in uirtute illarum praemissarum quam esset A. Et tunc
+   manifeste potest fieri processus ad confirmandum A per B, et esset adhuc demonstratio ex
+   notioribus. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e215-d1e210"> Tunc respondetur ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e213"> 1. Ad primam dicitur quod syllogismus circularis habet utilitatem suam in demonstrationibus
+   secundum duas primas conclusiones, et hoc secundum modificationem tertiae. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e216"> 2, 3. Ad aliam, quod causae sunt sibi inuicem causae, et ad aliam, quod effectus scitur per
+   causam et e conuerso, dictum est in duabus primis conclusionibus. Et sic procedit <name ref="#Aristotle">Aristotiles</name>,
+   octauo Physicorum*, quoniam ex hoc quod motus caeli est perpetuus ipse demonstrat
+   immobilitatem primi motoris; post reuertendo, ex immobilitate primi motoris scitur propter
+   quid motus est perpetuus, et non solum quod motus sit perpetuus. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e222"> 4. Ad aliam potest concedi quod omnis syllogismus habet similitudinem ad circulum quae dicta
+   fuit. Ideo si illam similitudinem aliquis uellet uocare <mentioned>argumentationem circularem</mentioned>, quia
+   nomina sunt ad placitum, concedo omnem syllogismum esse argumentationem circularem. Tamen in
+   proposito non uocamus ex illa similitudine syllogismum <mentioned>circularem</mentioned>, sed quia fit reuersio de
+   conclusione ad aliquam praemissarum, et sic non erat ad propositum. </p>
+
+
+      <p xml:id="Buzcv2-d1e215-d1e231"> Et sic est finis quaestionis. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

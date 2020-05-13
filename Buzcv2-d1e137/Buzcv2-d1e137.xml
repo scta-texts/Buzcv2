@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 8 </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 8 </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e137">
+      <head xml:id="Buzcv2-d1e137-Hd1e101"> Quaestio 8 </head>
+
+      <head xml:id="Buzcv2-d1e137-Hd1e104" type="question-title"> UTRUM DIFFINITIO DEMONSTRATIONIS SIT BONA IN QUA DICITUR
+   'DEMONSTRATIO EST EX PRAEMISSIS VERIS, PRIMIS ET IMMEDIATIS, EX PRIORIBUS ET NOTIORIBUS ET
+   CAUSIS CONCLUSIONIS </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e137-d1e107"> Consequenter quaeritur, octauo, utrum definitio demonstrationis sit bona in qua dicitur
+   <mentioned>demonstratio est ex praemissis ueris, primis et immediatis, ex prioribus et notioribus et
+   causis conclusionis</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e113"> 1. Arguitur primo quod illa definitio non sit bona: quia unius definiti est unica definitio,
+   ut patet sexto Topicorum*, propter hoc quod definitio indicat quid est esse rei, et unius rei
+   non est nisi unum esse; sed demonstratio habet aliam definitionem, scilicet quod est
+   syllogismus faciens scire; igitur illa non debet esse bona definitio demonstrationis. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e116"> 2. Item, in bona definitione uel descriptione debet poni genus definiti; sed ibi non ponitur
+   genus demonstrationis; igitur ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e120"> 3.Item, nullius complexi et nullius accidentis est definitio, ut capitur ex septimo
+   Metaphysicae* et ex secundo huius*; sed demonstratio est accidens et quid complexum; ideo eius
+   non est bona definitio. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e123"> 4. Deinde, non conuenit omni demonstrationi, cum non conueniat demonstrationi ad
+   impossibile; tamen bona definitio debet competere omni contento sub definito; igitur haec non
+   est bona definitio. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e126"> 5. Item, contra illam particulam <quote xml:id="Buzcv2-d1e137-Qd1e128">ex primis</quote>: quia quod per superabundantiam dicitur uni
+   soli rei conuenit, ut habetur in Topicis*; modo <mentioned>primum</mentioned> per superabundantiam dicitur; ergo
+   non sunt plura prima (et ob hoc <name ref="#Aristotle">Aristotiles</name>, quarto Metaphysicae*, ponit solum unum primum
+   principium; ergo demonstratio non est ex primis. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e138"> 6. Confirmatur. Quia si oporteret omnem demonstrationem esse ex primis, sequeretur quod sola
+   prima conclusio primi Euclidis esset demonstrata; consequens est falsum. Et probo
+   consequentiam: quia sola prima conclusio est demonstrata ex primis et indemonstrabilibus;
+   posteriores namque conclusiones sunt demonstratae ex prioribus conclusionibus, quae non sunt
+   primae nec immediatae. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e141"> 7. Deinde, contra illam clausulam <quote xml:id="Buzcv2-d1e137-Qd1e143">ex immediatis</quote>: quia uidetur superflue apposita et
+   nugatorie, cum ipse <name ref="#Aristotle">Aristotiles</name> dicit quod idem est primum et immediatum. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e150"> 8. Item, contra illam clausulam <quote xml:id="Buzcv2-d1e137-Qd1e152">ex prioribus</quote>: quia etiam uidetur superfluere, cum ante
+   dictum sit <quote xml:id="Buzcv2-d1e137-Qd1e155">ex primis</quote> et omne primum est prius. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e160"> 9. Item, contra illam clausulam <quote xml:id="Buzcv2-d1e137-Qd1e162">ex notioribus</quote>: quia uel intelligitur quod sit ex
+   notioribus nobis, uel solum quod sit ex notioribus naturae; non potest dici quod ex notioribus
+   nobis, quia demonstratio est ex causis, et causae sunt nobis ignotiores, primo Physicorum*;
+   nec etiam ex notioribus naturae solum, quia tunc sequeretur quod per tales praemissas non
+   fieret nobis notitia, quoniam propter minus notum nobis numquam concederemus illud de quo ante
+   dubitabamus, quantumcumque esset notius deo uel naturae uel cuicumque alteri. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e166"> 10. Deinde, contra illam clausulam <quote xml:id="Buzcv2-d1e137-Qd1e168">ex causis</quote>. Quia non conuenit omni demonstrationi, ex eo
+   quod multae sunt demonstrationes naturales per effectus posteriores. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e172"> Oppositum est de intentione <name ref="#Aristotle">Aristotilis</name> ponentis nobis illam definitionem esse bonam. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e137-d1e178"> Bene tamen uerum est quod <name ref="#Aristotle">Aristotiles</name> non dicit quod haec sit definitio demonstrationis, sed
+   bene ponit quod haec sit una bona conclusio de ipsa demonstratione. <name ref="#Grosseteste">Lincolniensis</name>* autem et
+   alii expositores ponunt quod haec sit definitio materialis. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e187"> Unde notandum est quod haec definitio, seu propositio, quod omnis demonstratio est ex ueris
+   ... et caetera debet intelligi de demonstratione potissima, scilicet faciente scire potissime
+   et propter quid, prout ante <mentioned>scire</mentioned> definitum fuit. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e193"> Tunc pono istam conclusionem quod dicta propositio est uera, quod declaro discurrendo per
+   singulas particulas propositionis datae. Primo enim oportet quod demonstratio sit ex
+   praemissis ueris. Quia oportet conclusionem demonstrationis scire, quia demonstratio est
+   syllogismus faciens scire, et oportet eam scire per praemissas. Sed non potest sciri conclusio
+   per praemissas nisi etiam istae praemissae sint scitae et uerae, cum non scitur nisi uerum
+   (nam absurdum esset dicere quod tu scires hominem esse asinum); ergo oportet tam conclusionem
+   demonstrationis quam praemissas esse ueras. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e197"> Deinde declaro quod debeat esse ex primis, notando quod <mentioned>primum</mentioned> ibi dicitur per carentiam
+   principii prioris per quod ipsum posset demonstrari (ideo <mentioned>primum</mentioned> est idem quod
+   <mentioned>indemonstrabile propter sui euidentiam</mentioned>). Modo non scitur aliqua conclusio demonstrabilis
+   simpliciter et perfecte donec resoluta sit in prima principia: quia si conclusio resoluta sit
+   in praemissas demonstrabiles solum, tunc illae praemissae non sunt simpliciter scitae et
+   perfecte, eo quod nullum demonstrabile est perfecte et simpliciter scitum donec fuerit
+   demonstratum; ideo illae praemissae, cum non sint simpliciter scitae, non faciunt enim scire
+   simpliciter; ergo oportet quod demonstratio resoluatur usque ad prima et indemonstrabilia. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e209"> Sed circa hoc notandum est quod duplex est syllogismus. Aliquis enim est qui dicitur
+   <mentioned>simplex syllogismus</mentioned>*, scilicet quia est ex duabus praemissis, sine prosyllogizatione earum;
+   alius uocatur <mentioned>syllogismus compositus</mentioned>, quia est ex praemissis syllogizatis, et sic est
+   compositus ex multis syllogismis. Modo numquam demonstratio est perfecta nisi omnes praemissae
+   sint syllogizatae et demonstratae, ut per eandem deueniamus ad praemissas indemonstrabiles. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e218"> Ideo concluditur correlarie quod si sint mille conclusiones subordinatae sic quod secunda
+   demonstretur per primam, et tertia per secundam, et sic deinceps, tunc demonstratio centesimae
+   conclusionis continebit in se per modum conclusionis omnes demonstrationes conclusionum
+   praecedentium, et ita illa demonstratio erit bene syllogismus compositus*. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e221"> Et sic intelligitur quod omnis demonstratio quae facit perfecte scire est ex aliquibus
+   praemissis primis. Sed non oportet quod omnes eius praemissae sint primae, sed aliquae in quas
+   est ultimate resolutio per syllogismos; et hoc intendit <name ref="#Aristotle">Aristotiles</name>, primo Topicorum*, ubi
+   dicit quod propositiones demonstratiuae sunt propositiones primae et immediatae, aut quae ex
+   primis et immediatis sumpserunt principium suae cognitionis. Tunc bene dicitur quod sit ex
+   immediatis, quia accipitur hic <mentioned>immediatum</mentioned> pro carenti medii demonstratiui. Ideo idem est
+   <mentioned>immediatum</mentioned> et <mentioned>indemonstrabile</mentioned>, et, per consequens, idem est <mentioned>immediatum</mentioned> et <mentioned>primum</mentioned>.
+   Igitur sicut demonstratio est ex primis, ita ex immediatis. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e243"> Nota tamen quod <mentioned>primum</mentioned> et <mentioned>immediatum</mentioned> differunt ratione. Quia<mentioned>primum</mentioned> dicitur per
+   carentiam principii et <mentioned>immediatum</mentioned> dicitur per carentiam medii. Ideo non est ibi inutilis
+   repetitio eiusdem nominis uel intentionis, immo per huius modi diuersas dictiones magis
+   explicatur ***** demonstrationis, scilicet principiorum. Et sic excusatur nugatio. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e258"> Deinde, ex causis est, ut patet per definitionem <mentioned>scire</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e265"> Ultimo <supplied>declaro</supplied> quod est ex prioribus simpliciter et notioribus: quia
+   causae sunt simpliciter notiores et priores suis causatis, ut patet principio Physicorum*. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e271"> Sed quaeritur utrum haec definitio sit +de definito+. Respondetur quod triplex est
+   definitio, ut patet sexto Topicorum*. Quaedam est definitio simpliciter quidditatiua* illius
+   dicens praecise quid est res absque hoc quod dicat quod qualis sit aut quanta uel ex quibus
+   uel *****; et haec est definitio per unum genus et differentiam quidditatiuam seu differentias
+   quidditatiuas. Et si talis definitio sit perfecte explicita, ipsa capit primum genus et
+   consequenter omnes differentias ordinate usque ad differentiam propriam, et ita intendit
+   <name ref="#Aristotle">Aristotiles</name> quod unius definiti est unica definitio. Et sic etiam termini connotatiui non est
+   definitio, sed solum termini substantialis: nam si tu diffinias dicendo quod simum est nasus
+   cauus, tu non solum dicis quid simum est, sed quod simum non est aliud nisi nasus cauus, et
+    <supplied>cum</supplied> tu dicis <mentioned>nasus cauus</mentioned>, tu dicis quid et quale, et de hoc debet
+   uideri alias. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e283"> Alia est definitio causalis*, quae datur per praedicata supponentia pro causis pro quo
+   definitum supponit, et est ibi praedicatio in obliquo. Et aliquando tales definitiones possunt
+   dari per omnes causas simul, et esset perfectissima definitio causalis. Aliquando autem datur
+   per unum genus causae solum cum approximatione et dearticulatione termini significantis talem
+   causam. Et sic potest dici quod haec definitio demonstrationis per causam materialem datur. Et
+   illae clausulae <quote xml:id="Buzcv2-d1e137-Qd1e285">ex primis, ueris et immediatis ...</quote>, et caetera ponuntur ad specificationem
+   et dearticulationem illius termini <mentioned>simul</mentioned> intellecti ex praemissis. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e292"> Tertia definitio est quae fit per passiones* nobis notiores, ut si dicerem quod homo est
+   animal risibile. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e137-d1e295"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e298"> 1. Ad primam dictum est quod unius definiti est unica definitio pure quidditatiua. Sed sunt
+   bene plures descriptiones propter plures passiones, et sunt bene plures definitiones causales
+   propter plura genera causarum. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e302"> 2. Ad aliam dico quod in hac definitione possumus subintelligere genus, dicendo quod
+   demonstratio est syllogismus ex primis, ueris, ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e305"> 3. Ad aliam dico quod licet demonstratio sit complexa, tamen iste terminus <mentioned>demonstratio</mentioned>,
+   qui ibi definitur, est incomplexus. Immo dico quod accidentia bene habent definitiones et
+   descriptiones, scilicet causales, licet non pure quidditatiuas, ut uidebitur septimo
+   Metaphysica*. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e311"> 4. Ad aliam dico quod in demonstratione ad impossibile nihil assumimus nisi uerum. Unde
+   quando facimus primum syllogismum ex dicto aduersarii, nos non assumimus dictum aduersarii,
+   sed solum assumimus quod ex dicto illo et quodam alio uero assumpto sequitur illa conclusio,
+   et hoc est uerum. Deinde assumimus quod illa conclusio est falsa, et hoc est etiam uerum; ex
+   quo concludimus quod dictum aduersarii, ad quod sequebatur illa conclusio, est falsum, quod
+   iterum est uerum. Ideo demonstratio ad impossibile est ex ueris, et nullo modo ex falsis
+   quantum ad ea quae in illa demonstratione ponuntur assertiue. Et sic potest teneri
+   probabiliter quod omnis demonstratio est ex ueris. Ad istam alii* dicunt quod haec propositio
+   debet solum intelligi de demonstrationibus ostensiuis. Tamen prima solutio est
+    <supplied>melior</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e317"> 5. Ad aliam dico quod dupliciter dicitur aliquid per superabundantiam. Uno modo quia abundat
+   super omnia alia, et sic solum conuenit deo. Alio modo quia nihil abundat super se, et sic
+   multis potest conuenire; sic enim sunt multa generalissima. Modo <mentioned>primum</mentioned> non dicitur hic quia
+    <supplied>sit</supplied> omni primum, sed quia nihil <supplied>est</supplied> prius se per
+   quod possit demonstrari. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e329"> 6. Et quando dicebatur quod sola prima conclusio geometriae esset demonstrata, dico quod
+   non, immo etiam ultima, sed demonstratio eius perfecta implicaret in se omnes demonstrationes
+   conclusionum. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e332"> 7. Ad aliam, excusata fuit nugatio appositionis huius nominis <mentioned>immediatum</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e339"> 8. Ad aliam, dico quod non superfluit dicere <mentioned>ex primis et prioribus</mentioned>: quia aliqua praemissa
+   potest esse prima et indemonstrabilis quae tamen respectu conclusionis propositae non est
+   prior, quia conclusio proposita per illam probari non posset, licet alia conclusio bene
+   posset; ideo <supplied>requiritur</supplied> quod praemissa sit prima, et cum hoc quod habeat
+   ordinem ad conclusionem probatam; ideo apponitur <mentioned>prioribus</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e351"> 9. Ad aliam, dico quod licet causae non sint notiores causatis quantum ad esse, tamen causae
+   sunt nobis notiores quam propter quid causata sunt. Unde licet prius percipias eclipsim lunae
+   esse quam causam, tamen prius cognoscis causam quam propter quid eclipsis est. Ideo istae
+   demonstrationes sunt nobis notioribus. </p>
+
+
+      <p xml:id="Buzcv2-d1e137-d1e354"> 10. Ad ultimam, dico quod ibi non definitur nisi demonstratio propter quid. Ideo instantia
+   de demonstratione per effectum non est ad propositum. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 17a  </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 17a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e249">
+      <head xml:id="Buzcv2-d1e249-Hd1e101"> Quaestio 17a </head>
+
+      <head xml:id="Buzcv2-d1e249-Hd1e104" type="question-title"> UTRUM OMNIS DIFFINITIO ET QUAELIBET EIUS PARS PRAEDICETUR PER SE DE SUO DIFFINITO </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e249-d1e107"> Consequenter quaeritur, decimo septimo, utrum omnis definitio et quaelibet eius pars
+   praedicetur per se de suo definito. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e110"> 1. Arguitur primo quod non: quia saepe in definitionibus ponuntur dictiones pure
+   syncategorematicae; saepe etiam in definitionibus ponuntur termini qui non sunt nati subiici
+   nec, per consequens, praedicari. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e113"> 2. Secundo, omne per se est necessarium; tamen nullus terminus praedicatur necessario de
+   alio, quia potest non praedicari de eo, scilicet si solitarie sumatur; ergo nullus terminus
+   praedicatur per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e117"> 3. Item, si dicamus aliquem terminum praedicari de alio termino per se, hoc non potest dici
+   ex hoc quod praedicaretur solitarie, quia tunc accidens separabile praedicaretur per se, sicut
+   alter terminus; nec potest dici quod praedicaretur per se ex eo quia propositio quandocumque
+   formatur sit uera, quia tunc non quaecumque definitio praedicaretur per se de suo definito, eo
+   quod aliquae tales propositiones sunt falsae: unde haec est falsa <mentioned>uacuum est locus non
+   repletus corpore</mentioned>, quia sequeretur quod uacuum esset locus, quod est falsum; tamen ibi erat
+   praedicatio definitionis uerae de uacuo; similiter, haec est modo falsa <mentioned>eclipsis lunae est
+   defectus luminis a luna</mentioned>, quia eclipsis modo non est; ergo illa propositio affirmatiua est
+   falsa in qua subiicitur iste terminus <mentioned>eclipsis lunae</mentioned>; tamen erat ibi praedicatio
+   definitionis de definito; et sic uidetur quod non potest esse quod unus terminus praedicatur
+   per se de alio termino. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e129"> 4. Item, partes definitionis sunt partes rei, septimo Metaphysicae*; tamen pars non
+   praedicatur per se, nec uere, de suo toto, quia non est uerum quod domus est paries; ergo
+   nulla pars definitionis praedicatur per se de definito; et maxime, ut dicit Porphyrius*, quia
+   species componitur ex genere et differentia, sicut statua ex aere et figura, et ita genus et
+   differentia sunt partes speciei, et pars non praedicatur uere de suo toto, ut dicitur; ergo
+   genus et differentia non praedicantur per se de specie. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e132"> 5. Item, iste terminus <mentioned>animal</mentioned> significat magis diuersa ab homine quam eadem cum homine;
+   sed ueritas affirmatiuae est ratione identitatis significati per subiectum et praedicatum, et
+   falsitas eius est ratione diuersitatis; ergo haec propositio <mentioned>homo est animal</mentioned> est magis falsa
+   quam uera; ergo non est per se uera. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e141"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name> in littera. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e249-d1e147"> In ista quaestione notanda sunt aliqua communia ualentia ad sequentes quaestiones. Et primo
+   uidendum est unde dicamus praedicatum dici, seu praedicari, per se de aliquo subiecto. Et
+   primo dico quod non ex eo praedicatum dicitur <mentioned>per se</mentioned> praedicari quia solitarie praedicatur:
+   quia tunc ita bene <mentioned>album</mentioned> uel <mentioned>currens</mentioned> praedicaretur per se de homine sicut <mentioned>animal</mentioned> et
+   <mentioned>risibile</mentioned>, quod est manifeste falsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e165"> Secundo, dico quod praedicatum non dicitur praedicari per se ex eo quod sit causa sui in
+   praedicando, quod tamen uidetur proportionare de uirtute sermonis, cum haec dictio <mentioned>per se</mentioned>
+   designat causalitatem. Declaro igitur quod non ex hoc dicitur praedicatum praedicari <mentioned>per se</mentioned>.
+   Quia sequeretur, ut prius dicebam, quod <mentioned>currens</mentioned> ita bene praedicaretur de homine sicut
+   <mentioned>risibile</mentioned>. Quoniam licet neutrum illorum sit causa sufficiens ad praedicandum de aliquo
+   subiecto, tamen quodlibet illorum cum ipso intellectu formante propositionem est ad hoc causa
+   sufficiens. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e181"> Deinde, quia subdit <name ref="#Grosseteste">Lincolniensis</name> 
+       <quote xml:id="Buzcv2-d1e249-Qd1e186">
+        <mentioned>per se</mentioned> uno modo dicitur negatiue, scilicet quia non per
+   causam aliam a se; isto modo enim deus est per se</quote>*, tertio dico quod praedicatum non dicitur
+   <mentioned>per se</mentioned> praedicari eo quod non per aliam causam, Quia in omni praedicatione praeter terminos
+   est alia causa, scilicet intellectus formans propositionem. Et etiam non requiritur alia causa
+   ad formandum propositionem falsam quae etiam non requiritur ad ueram. Et ex istis potest
+   concludi quod cum dicimus aliquod praedicatum praedicari <mentioned>per se</mentioned> et aliud praedicari <mentioned>per
+   accidens</mentioned> non est sensus propositionis secundum propriam locutionem. Immo ad alium sensum
+   dicimus praedicatum praedicari <mentioned>per se</mentioned> de suo subiecto: quia propositio in qua sic
+   praedicatur est per se uera. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e206"> Sed tunc oportet uidere unde propositio dicatur <mentioned>per se uera</mentioned>. De hoc dico primo quod
+   propositio non dicitur <mentioned>per se uera</mentioned> quia sit solitarie uera. Quia tunc propositio per
+   accidens posset esse per se uera, et quandoque propositio per se uera non esset per se uera,
+   scilicet quando sumeretur cum alia uera. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e215"> Secundo, dico quod propositio non dicitur <mentioned>per se uera</mentioned> quia sit causa sui ueritatis. Quia
+   forte propositionis ueritas non est aliud quam ipsa propositio, et idem non est causa sui. Vel
+   si ueritas poneretur additum propositioni, ita quod propositio esset materialis causa uel
+   subiectum suae ueritatis, tunc ita bene esset hoc uerum de propositione per accidens sicut de
+   uera per se. Ergo ex eo non dicitur uera per se quia sit causa sua ueritatis. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e221"> Tertio, dico quod propositio non dicitur <mentioned>per se uera</mentioned> ex eo quod suae ueritatis non sit
+   alia causa. Quoniam si tu diceres quod in propositione per accidens, scilicet contingente, est
+   causa ueritatis alia a se, ita dicam de conclusione demonstrationis propter quid, quae tamen
+   est uera per se. Ideo hoc non faciebat differentiam inter propositionem ueram per se et ueram
+   per accidens. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e227"> Quarto, etiam dico quod propositio non dicitur <mentioned>per se uera</mentioned> eo quod est ita sicut ipsa
+   significat. Quoniam hoc est commune propositioni per se et propositioni uerae per accidens. Et
+   ex hoc uidetur concludi quod cum dicimus unam propositionem esse per se et aliam per accidens,
+   sensus non est nisi secundum locutionem impropriam. Et quamuis illa dicta prima facie secundum
+   locutionem propriam uideantur parum utilia, tamen proficiunt, quia saepe multa decipiuntur ex
+   eo quod habent proprium sensum proprii sermonis. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e233"> Dicamus ergo quod propositio dicitur <mentioned>per se uera</mentioned> similitudinarie, ad talem sensum quod
+   sicut homo per se est risibile et ignis est per se calidus eo quod natura uel substantia est
+   determinata ad hoc quod iste sit risibilis, scilicet homo, et iste sit calidus, scilicet
+   ignis, et quod non est possibile ipsa stante quod ipsum non sit tale, ita propositio dicitur
+   <mentioned>per se uera</mentioned>* quia per suam uel suorum terminorum significationem determinata est ad hoc quod
+   sit uera et impossibile est ipsa stante ipsam non esse ueram, stante etiam sua significatione.
+   Et ad istum eundem sensum debemus intelligere quod praedicatum praedicetur per se de subiecto.
+   Sed dicitur propositio <mentioned>per accidens</mentioned> ex eo quod ipsa per suam significationem et suorum
+   terminorum non est determinata ad hoc quod sit uera, uel quod sit ita sicut ipsa significat. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e246"> Secundum hoc respondetur faciliter ad quaestionem. Primo <supplied>dico</supplied> quod non
+   omnis definitio dicens quid nominis praedicatur per se de suo definito, saltem mediante hoc
+   uerbo <mentioned>est</mentioned>, quia ubi terminus definitus pro nullo supponeret propositio esset falsa de
+   uirtute sermonis. Verbi gratia, dicendo <mentioned>uacuum est locus sine corpore</mentioned>, uel <mentioned>non repletus
+   corpore</mentioned>, haec propositio de uirtute sermonis est falsa ; tamen in alio sensu propositio esset
+   uera, scilicet in isto sensu quo haec oratio <mentioned>locus non repletus corpore</mentioned> significat adaequate
+   idem uel eadem sicut iste terminus <mentioned>uacuum</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e268"> Secundo, dico quod non omnis definitio dicens quid rei praedicatur per se de definito
+   secundum suppositionem accidentalem*, scilicet ponendo quod hoc uerbum <mentioned>est</mentioned> restringit
+   subiectum et praedicatum ad supponendum solum pro praesentibus. Quia posito quod modo non sit
+   lunae eclipsis, et quod modo non sit tonitruum, et non sit rosa, tunc si definitiones
+   terminorum istorum praedicarentur de ipsis mediante hac copula <mentioned>est</mentioned>, propositiones essent
+   falsae. Modo propositio numquam dicitur per se uera quae potest esse falsa. Ideo tales
+   propositiones non essent per se uerae. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e277"> Ultimo, dico quod omnis definitio dicens quid rei*, uel etiam eius terminus definitus,
+   supponit pro aliquo praesenti, praeterito uel futuro, et omnis talis definitio praedicatur per
+   se de suo definito secundum suppositionem naturalem. Quia sic propositio ex eius
+   significatione est determinata ad hoc quod sit uera, ita quod ipsa stante impossibile est
+   ipsam non esse ueram. Verbi gratia, haec est uera quandocumque formatur <mentioned>tonitruum est sonus
+   factus in nubibus</mentioned>, quamuis aliquando non sit aliquod tonitruum; et hoc apparuit in alia
+   quaestione. Ergo omnis talis est per se uera. Et ita est dicendum si non tota definitio, sed
+   pars, ut genus uel differentia, praedicaretur de definito. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e249-d1e283"> Tunc respondetur ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e286"> 1. Ad primam, potest concedi quod si sint dictiones syncategorematicae in definitione, istae
+   solitarie sumptae non praedicantur de definito, sed congregatum ex eis et categorematicis
+   dictionibus. Similiter, si terminus obliquus non sit innatus subiici uel praedicari solitarie,
+   tamen sumptus cum alio, scilicet recto, potest subiici uel praedicari; ideo sic et non aliter
+   praedicaretur de definito. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e289"> 2. Ad aliam, concedo quod nullus terminus potest <supplied>per se</supplied> praedicari de
+   alio termino. Tamen propositio est bene necessaria, ad sensum alias datum, in qua alius
+   terminus de alio termino praedicatur, et tunc dicimus propositionem esse per se et tale
+   praedicatum praedicari per se de tali subiecto. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e296"> 3. Ad aliam, quae quaerit quo modo praedicatum praedicatur per se, dictum est. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e299"> 4. Ad aliam, dico quod pars uere praedicatur de toto. Quia genus uere praedicatur de
+   definitione cuius est ipsum pars integralis. Et cum hoc etiam negatur quod genus sit pars suae
+   speciei, sed ad istum sensum est pars speciei quia est pars definitionis speciei. </p>
+
+
+      <p xml:id="Buzcv2-d1e249-d1e302"> 5. Ad aliam, concedo quod <mentioned>animal</mentioned> significat magis diuersa ab homine quam eadem. Tamen iste
+   terminus <mentioned>animal</mentioned> quando indefinite sumitur et sine distributione, non est necessarium ad
+   diuersificationem ipsius quod pro ipsis omnibus significatis uerificetur, immo quod supponat
+   pro aliquo uel aliquibus. Sed si distribueretur, tunc ad ueritatem requireretur quod esset
+   uerificatio pro omnibus. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

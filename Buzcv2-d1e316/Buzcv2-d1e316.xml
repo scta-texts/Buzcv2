@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 23a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 23a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e316">
+      <head xml:id="Buzcv2-d1e316-Hd1e101"> Quaestio 23a </head>
+
+      <head xml:id="Buzcv2-d1e316-Hd1e104" type="question-title"> UTRUM POSSIBILE SIT DEMONSTRANTEM DESCENDERE DE GENERE IN GENUS </head>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e107"> Consequenter quaeritur, uicesimo tertio, utrum possibile sit demonstrantem descendere de
+   genere in genus. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e110"> 1. Arguitur quod sic: quia de arithmetica descenditur in musicam et de geometria in
+   astronomiam et perspectiuam; modo conclusiones arithmeticae supponuntur in musica tamquam
+   principia per quae conclusiones musicae demonstrantur, et ita similiter conclusiones probatae
+   in geometria supponuntur tamquam principia in astronomia uel perspectiua; ergo manifestum est
+   quod de una scientia possibile est descendere in aliam. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e113"> 2. Item, etiam per principia geometriae scitur et demonstratur in medicina et chirurgia quod
+   uulnera circularia tardius sanantur; et sic patet quod demonstrans descendit bene de scientia
+   in scientiam, quia de geometria in medicinam. Similiter etiam, tertio Meteorum*, capitulo de
+   iride, descendit demonstrans de geometria uel perspectiua in scientiam naturalem, cum tamen
+   istae sint diuersae scientiae et habentes diuersa genera subiecta. Similiter etiam, primo
+   Physicorum*, descenditur de metaphysica in physicam, probando et demonstrando principia quae
+   debent supponi in physica, scilicet plura esse entia. Tamen istae sunt diuersae scientiae
+   habentes diuersa genera subiecta. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e117"> 3. Item, si una scientia sumit aliqua suorum principiorum ab altera, possibile est ex illa
+   altera a qua supponitur descendere in illam quae haec supponit; sed saepe contingit quod una
+   scientia supponitur ab alia; ergo contingit descendere de una ad aliam. Maior uidetur nota:
+   quia non uidetur causa quare una scientia supponeret ab alia nisi in suis demonstrationibus
+   posset fieri descensus ex alia in ipsam. Modo minor est manifesta: quia omnes scientiae
+   supponunt ab ipsa metaphysica et, e conuerso, metaphysica supponit quaedam suorum principiorum
+   ex naturali philosophia, ut uult Commentator, secundo de Anima* et secundo Physicorum*;
+   similiter, <name ref="#Aristotle">Aristotiles</name>* ponit quod arithmetica est prior geometria, quod non uidetur esse nisi
+   quia geometria supponit aliquid ab arithmetica; ergo patet quod de pluribus diuersis
+   scientiis, et non subalternatis ad inuicem, fit descensus de una in aliam. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e123"> 4. Item, ille descensus de quo quaeritur est possibilis: quia passio unius scientiae potest
+   demonstrari de subiecto alterius scientiae in illa altera scientia. Hoc patet: quia
+   <name ref="#Aristotle">Aristotiles</name>* propter hoc negat huius modi descensum +concludit arithmeticam demonstrationem
+   non conuenire in accidentia magnitudinum+, id est passiones unius scientiae non inesse
+   demonstrationibus de subiecto alterius scientiae; ergo, per oppositum, si passio unius
+   scientiae sit demonstrabilis de subiecto alterius scientiae, possibile est quod descendatur
+   demonstrando de uno genere in aliud genus; tunc +sumatis illam+ quod passio unius scientiae
+   demonstratur de subiecto alterius, <supplied>ut</supplied> sphaericitas, quae est passio
+   geometriae, demonstratur in naturali philosophia de caelo et terra, quae sunt subiecta
+   naturalia. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e132"> 5. Item, una scientia potest demonstrare illud idem quod alia demonstrat; ergo possibile est
+   descensus de uno genere in aliud. Illa consequentia probatur: quia <name ref="#Aristotle">Aristotiles</name>*, qui ponit
+   consequentiam conuersam, concludit enim sic: si non sit possibile descendere de genere in
+   genus, ad unam scientiam non spectat demonstrare illud quod est alterius scientiae; modo si
+   haec consequentia est bona, oportet quod illa sit bona de opposito consequentis ad oppositum
+   antecedentis, et talis erat consequentia illa; ergo est bona. Antecedens probatur: quia terram
+   esse rotundam demonstratur in scientia naturali et per scientiam naturalem, et tamen idem
+   demonstrat astrologus per principia sua; igitur ... <supplied>et caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e141"> Oppositum arguit <name ref="#Aristotle">Aristotiles</name>, dicens <quote xml:id="Buzcv2-d1e316-Qd1e146">non ergo est ex alio genere descendentem
+   demonstrare</quote>*. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e150"> Item, dicit idem <quote xml:id="Buzcv2-d1e316-Qd1e152">quoniam ex eodem genere necesse est eadem media et ultima</quote>, id est media
+   et extremitates, <quote xml:id="Buzcv2-d1e316-Qd1e155">in demonstratione esse, ergo non contingit demonstrantem descendere de
+   genere in genus</quote>*. Consequentia uidetur clara: quia non uidetur esse descensus de genere in
+   aliud nisi quia medium per quod demonstratur est ex uno genere et extremitates quae de se
+   inuicem demonstrantur sint de alio genere; tamen hoc est impossibile, ut dicit <name ref="#Aristotle">Aristotiles</name>;
+   igitur impossibile est descendere <supplied>de genere in genus</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e165"> Item, dicit <name>Aristotiles</name>* quod oportet demonstrationem esse ex propriis, et
+   propter hoc ad geometriam non spectat quod linea recta sit pulcerrima linearum, uel pulcrior
+   aliis lineis; sed si descenderetur de uno genere ad aliud genus, non esset demonstratio ex
+   propriis; ergo sic non contingit descendere. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e172"> Ista quaestio, ut mihi uidetur, est difficilis, primo quia ualde modicum discussa est inter
+   philosophos et doctores, secundo quia tangit ad modum distinctionis scientiarum, et est multum
+   difficile assignare unde et quo modo scientiae accipiant originaliter suam distinctionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e175"> Sciendum tamen est quod non potest imaginari descensus de una scientia in aliam nisi propter
+   aliquam conuenientiam illarum scientiarum in considerando de aliquo eodem. Igitur primitus
+   uidendum est qualiter contingat diuersas scientias considerare de eodem. Et ad hoc uidendum
+   dicit <name ref="#Aristotle">Aristotiles</name> primo quod tria principia considerantur in aliqua scientia, scilicet
+   subiecta, passiones et dignitates, quae sunt principia ad demonstrandum passiones de suis
+   subiectis. Idcirco uidendum est quo modo diuersae scientiae in istis possint conuenire aut in
+   aliquibus eorum. Et de hoc ad praesens pono conclusiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e181"> Prima est quod numquam diuersae scientiae habent idem subiectum primum. Hoc patet: quia a
+   distinctione subiectorum primorum oritur distinctio scientiarum, et ab unitate subiecti oritur
+   unitas scientiae, sicut post innuit <name ref="#Aristotle">Aristotiles</name> in hoc libro*; ergo diuersarum scientiarum
+   necesse est esse diuersa genera subiectorum uel subiecta prima. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e187"> Et sciatis quod non loquor de subiecto pro eo de quo dicitur praedicatum in propositione,
+   sed loquor de subiecto* in ordine ad suam passionem, scilicet pro illo genere uel termino
+   communi cui debentur primae passiones principales scientiae et in cuius attributione
+   consideratur omne quod in illa scientia consideratur. Tale enim subiectum in qualibet scientia
+   una oportet esse unum. Et ad hoc declarandum ego ostendo quod in omni scientia una continente
+   multos terminos, multa principia, multas demonstrationes et conclusiones, necesse est esse
+   unum per cuius unitatem totalis scientia de omnibus praedictis dicatur una. Et postea
+   declarabitur quod illud unum in unaquaque scientia est eius primum subiectum. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e190"> Declaro igitur primum istorum. Quia omnis congregatio multorum exsistens una aliter quam per
+   modum continuitatis uel cumuli habet unitatem originaliter ex aliquo uno ad quod caetera
+   habent ordinationem et attributionem, cum simpliciter sint inter se diuersa; uerbi gratia,
+   exercitus continens currus, homines et equos dicitur unus propter unitatem ducis, ad quem
+   omnia caetera ordinantur. Modo scientiae tales, scilicet continens plures et diuersas
+   conclusiones et demonstrationes, sunt unae non propter continuationem nec solum per modum
+   cumuli, seu acerui. Ergo in eis oportet esse aliquod unum ad quod omnia alia attribuuntur, per
+   cuius unitatem et aliorum ordinem et attributionem ad ipsum totalis congregatio dicitur una
+   scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e193"> Et hoc iterum confirmatur. Quia non posses assignare differentiam geometriae ad arithmeticam
+   nisi quia haec est de numeris et habentibus attributionem ad numerum et illa est de
+   magnitudinibus et habentibus attributionem ad magnitudines. Unde absurdum esset dicere quod
+   ponendo differentiam inter has scientias oporteret discurrere per omnes eius conclusiones et
+   omnia subiecta illarum conclusionum, quia sic numquam esset scita illa differentia. Ergo
+   manifestum est quod geometria dicitur una propter unitatem istius termini <mentioned>magnitudo</mentioned> et
+   arithmetica propter unitatem istius termini <mentioned>numerus</mentioned>, et sic propter distinctionem huius modi
+   terminorum haec scientiae ad inuicem sunt distinctae. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e203"> Item, non posses causam assignare quare ista <mentioned>triangulus habet tres angulos aequales duobus
+   rectis</mentioned> est de scientia geometriae magis quam de scientia arithmeticae nisi tu recurreres ad
+   alios terminos primos illarum scientiarum, in ordine ad quos multa alia considerantur. Verbi
+   gratia, ista conclusio <mentioned>triangulus habet tres angulos aequales duobus rectis</mentioned> est de geometria
+   propter reductionem eius ad magnitudinem, de qua tamquam de primo subiecto considerat
+   geometria. Et ista conclusio <mentioned>elementa sunt ad inuicem transmutabilia</mentioned> est etiam de scientia
+   naturali quia reducitur ad illud genus <mentioned>ens mobile</mentioned>, uel <mentioned>ens naturale</mentioned>. Et sic de aliis
+   scientiis uel conclusionibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e221"> Ex dictis iam apparet quod secundum quod ponebatur esse declarandum , scilicet quod illud
+   unum a quo scientia habet unitatem et distinctionem est suum primum subiectum, ut magnitudo in
+   geometria et numerus in arithmetica. Et confirmatur per <name ref="#Aristotle">Aristotilem</name>, primo huius* et quarto
+   Metaphysicae*, qui expresse dicit scientiam unam esse unius generis subiecti, considerantem
+   eius partes et passiones, et <supplied>partes et passiones</supplied> suarum partium. Et hoc
+   probatur tali ratione. Quia cum scientia una ab aliquo uno debeat habere unitatem, oportet
+   quod hoc sit uel ab uno subiecto, uel ab una passione, uel ab uno principio, siue ab una
+   dignitate, cum inter caetera haec considerentur, ut saepe innuit <name ref="#Aristotle">Aristotiles</name> in hoc libro*.
+   Sed non potest dici quod scientia talis dicatur una propter unam passionem: quia in naturali
+   scientia, uel etiam in geometria, considerantur ualde plures et diuersae passiones, quae non
+   reducuntur ad inuicem nisi forte ratione reductionis earum ad aliquod unum genus subiectum, et
+   etiam quia passiones sunt posteriores naturaliter suis subiectis; modo non ex postremo, sed ex
+   primo debet congregatio habere unitatem, ut exercitus ex duce. Nec potest dici quod ex una
+   dignitate scientia accipiat unitatem: quia in nulla scientia est unica dignitas uel unicum
+   principium complexum, immo ualde multa, et non reducibilia in inuicem nec demonstrabilia ex
+   inuicem, quia, sicut declaratur primo huius*, principia indemonstrabilia, siue principia
+   immediata, multiplicarentur secundum multiplicitatem eorum mediorum; et iterum principia
+   complexa sunt naturaliter posteriora subiectis et passionibus, licet dicantur prima inter
+   complexa, et ex posterioribus non sumitur unitas. Ergo concluditur quod ex unitate primi
+   subiecti scientia accipit unitatem. Ideo male considerant moderni multi*, non assignantes in
+   scientia una continente multas conclusiones +unum cum primo subiecto, sed solum subiectorum
+   conclusionum+. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e233"> Hic est uidendum quo modo ad aliqua alia diuersae scientiae participant in considerando de
+   eodem. Et quantum ad praesens, dico primo quod scientiae diuersae participant saepe in
+   subiecto aliquo modo eodem, licet non totaliter, scilicet sic quod subiectum unius scientiae
+   claudit in se, uel in sua ratione, subiectum alterius scientiae et contrahit ipsum aliqua
+   contractione, et tunc una istarum scientiarum dicitur alteri subalternata. Unde sic omnes
+   scientiae se habent ad metaphysicam; contrahunt enim subiectum, quod est communissimum. Ideo
+   omnes aliae scientiae sunt tamquam subalternatae ipsi metaphysicae, ut <name ref="#Aristotle">Aristotiles</name> declarat
+   quarto Metaphysicae*; dicit enim quod quaedam est scientia, scilicet metaphysica, quae
+   speculatur ens in quantum est ens et quae huic insunt secundum se, sed quaelibet aliarum
+   scientiarum abscidit sibi aliquam partem entis. Isto etiam modo habet se musica ad
+   arithmeticam, et astrologia seu perspectiua ad geometriam. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e239"> Secundo dico quod diuersae <supplied>scientiae</supplied> possunt sic participare in
+   considerando de eodem quod illud quod consideratur in una tamquam subiectum primum bene
+   consideratur in alia tamquam passio. Verbi gratia, magnitudo consideratur in geometria tamquam
+   subiectum, et numerus in arithmetica; tamen numerus et magnitudo considerantur in naturali
+   philosophia tamquam passiones entium naturalium. Etiam naturalis habet considerare de
+   corporibus naturalibus cuius debeant esse magnitudinis et qualis figurae. Quamuis enim
+   rationes magnitudinis et figurae absoluantur a rationibus corporum naturalium consideratorum
+   ut naturalia, tamen in quantum corpora naturalia exigunt ad suas operationes certas
+   magnitudines et figuras; oportet ergo naturalem considerare huius modi figuras et magnitudines
+   tamquam passiones corporum naturalium. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e245"> Ex hoc etiam patet, tertio, quod eaedem passiones possunt in diuersis scientiis considerari
+   tamquam passiones corporum naturalium, in quantum exiguntur ad eorum operationes, ut certae
+   figurae , et tales etiam figurae considerantur in geometria tamquam passiones magnitudinum,
+   sed hoc est secundum rationem abstractam a motu. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e248"> Quarto, dico quod eaedem dignitates communes ueniunt in diuersis scientiis, ita quod
+   diuersae scientiae utuntur eis. Verbi gratia, tam <supplied>arithmetica quam</supplied>
+   geometria utuntur ista dignitate, scilicet <mentioned>si ab aequalibus aequalia demas, quae remanent
+   sunt aequalia</mentioned>. Et omnes etiam scientiae utuntur primis principiis doctrinae; uerbi gratia <mentioned>de
+   quolibet esse uel non esse et de nullo <supplied>ambo</supplied> simul</mentioned>. Tamen dicit
+   <name ref="#Aristotle">Aristotiles</name>* quod huius modi principiis non utuntur diuersae scientiae eodem modo, sed cum
+   quibusdam contractionibus conuenientibus subiectis suis. <supplied>Verbi gratia,</supplied>
+   geometria capit quod si ab aequalibus magnitudinibus aequales magnitudines demas, quae
+   remanent sunt aequales, et arithmetica recipit <supplied>quod</supplied> si ab aequalibus
+   numeris aequales numeros demas, qui remanent sunt aequales. Nulla enim scientia debet capere
+   principium in maiori communitate quam ipsum indigeat. Sic etiam de primo principio doctrinae
+   metaphysicus capit quod idem simul inesse et non inesse est impossibile; geometer autem capit
+   quod eandem lineam esse rectam et non rectam est impossibile. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e274"> Consequenter, etiam debetis scire quod conclusiones scientiae subalternantis accipiuntur
+   saepe in subalternata tamquam principia, non tamen in sua communitate, quia excederent metas
+   scientiae subalternatae, quae est inferior, sed contrahuntur sicut subiectum subalternantis
+   contrahitur in subalternata. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e277"> Hoc uiso de communicatione scientiarum diuersarum, nunc uidendum est de descensu, unde
+   quaestio quaerebat. De hoc oportet respondere secundum exigentiam significationis huius
+   termini <mentioned>descensus</mentioned> uel <mentioned>descendit</mentioned>, quoniam quid nominis in scientia est principium doctrinae
+   et debet praesupponit. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e286"> Dico ergo primo quod si per <mentioned>descensum de scientia in scientiam</mentioned>intelligas quod subiectum
+   unius fiat passio alterius, aut etiam passio unius passio alterius, bene esset possibile
+   descendere de una scientia in aliam scientiam, ut declaratum fuit. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e292"> Secundo, dico quod si per <mentioned>descendere de una scientia in aliam</mentioned> intelligas quod subiectum
+   primum unius fiat subiectum primum in alia, hoc est impossibile, ut dictum fuit prius. Tamen,
+   quantum ad subiecta, sic est possibilis descensus sicut descendere de toto in modo ad suam
+   partem. Nam subiectum subalternatae bene est pars in modo ad subiectum subalternantis, ut
+   numerus sonorum ad numerum et magnitudo uisualis ad magnitudinem. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e298"> Deinde, dico, quantum ad principia, quod numquam sic descendetur de una scientia in aliam
+   quod principium uel conclusio unius fiat principium alterius nisi aliquo modo diuersificetur
+   per contractionem, quoniam scientia communior non utitur principiis propriis scientiae
+   specialis, et etiam scientia specialis non utitur principiis uel conclusionibus scientiae
+   superioris in tota eorum communitate, sicut apparet, sed cum contractionibus, ut dictum fuit. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e301"> Tamen, ultimo, dico quod si per <mentioned>descensum de una scientia in aliam</mentioned> intelliges quod
+   principia uel conclusiones unius scientiae fiant cum quadam contractione principia alterius
+   scientiae, tunc ualde multipliciter contingit descendere de una scientia in aliam. Quoniam
+   quandocumque supponit aliqua ab alia, contingit dicto modo descendere de illa a qua supponitur
+   in illam quae supponit. Modo certum est quod scientia naturalis saepe supponit a mathematica,
+   ut in consideratione de iride et de proportionibus motuum. Similiter, e conuerso, mathematicus
+   aliqua supponit a naturalibus, ut quod continuum sit diuisibile in semper diuisibilia, uel
+   etiam quod non sit compositum ex indiuisibilibus. Hoc enim oportet quod supponat, quoniam si
+   compositum esset continuum ex indiuisibilibus, quasi omnes demonstrationes et conclusiones
+   mathematicae essent falsae. Similiter, omnes scientiae supponunt a metaphysica et a logica
+   uniuersalissima quae sibi contrahunt. Similiter, e conuerso, metaphysica supponit aliqua, ut
+   uult Commentator, prooemio de Anima*, et multis locis. Et sic patet quod contingit in omnibus
+   istis scientiis descendere de una scientia in aliam, et hoc totum est propter participationem
+   earum in considerando de aliquibus eisdem terminis. Mathematica enim potest de omnibus
+    <supplied>magnitudinibus et numeris</supplied> considerare; physica autem considerat de
+    <supplied>quibusdam</supplied> magnitudinibus et numeris de quibus etiam mathematicae
+   considerant. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e314"> Sed ultimate dubitatur quare dixit <name ref="#Aristotle">Aristotiles</name>* quod non contingit demonstrantem descendere
+   de genere in genus, ex quo dictum est quod de mathematica descenditur in naturalem et e
+   conuerso, et de metaphysica in utramque. Respondeo quod hoc numquam <name ref="#Aristotle">Aristotiles</name> dixit
+   simpliciter, sed dicit quod non contingit descendere nisi propter aliquam participationem in
+   considerando de eodem; ideo dicit quod +arithmeticam demonstrationem non contingit descendere
+   in geometriam nisi magnitudines et numeri sint+. Iterum, si eadem passio conueniat subiectis
+   diuersarum uni per se et alteri per accidens <supplied>sic</supplied> descendetur quod illa
+   passio <supplied>sit</supplied> probata in illa scientia de uno subiecto per se et de alio per
+   accidens. Et sic bene dicit* quod geometria non considerat utrum linea recta sit pulcra uel
+   pulcerrima linearum, quia illae passiones <mentioned>pulcrum</mentioned> et <mentioned>pulcerrimum</mentioned> pure accidentaliter se
+   habent ad istum terminum <mentioned>magnitudo</mentioned> et ad species eius. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e339"> Deinde, etiam non fit sic descensus quod scientia inferior inquirat de subiecto suo
+   passionem inquisitam in scientia superiori de subiecto primo, quia uel supponit eam uel de ea
+   non curat. Ideo etiam bene dixit <name ref="#Aristotle">Aristotiles</name>* quod geometria non intendit de istis
+   quaestionibus utrum hoc est idem illi uel diuersum uel utrum linea recta sit contraria
+   circulari uel non, eo quod illae passiones sunt superioris scientiae, scilicet metaphysicae. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e345"> 1. Et tunc conceditur quod arithmetica in musica et geometria in astrologiam et perspectiuam
+   bene descendunt, sed non sine contractione. Immo etiam geometria potest descendere in
+   naturalem et medicinalem, propter communitatem istarum scientiarum in considerando de
+   magnitudinibus et figuris. </p>
+
+
+      <p xml:id="Buzcv2-d1e316-d1e348"> 2-5. Omnes aliae rationes conceduntur, scilicet quod una scientia supponit ab alia et quod
+   eadem passio bene consideratur in diuersis scientiis. Utrum autem eadem conclusio demonstretur
+   in diuersis scientiis et quo modo hoc sit possibile uidebitur in quaestionibus sequentibus.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

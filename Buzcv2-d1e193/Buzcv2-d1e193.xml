@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 12a</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 12a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e193">
+      <head xml:id="Buzcv2-d1e193-Hd1e101"> Quaestio 12a </head>
+
+      <head xml:id="Buzcv2-d1e193-Hd1e104" type="question-title"> UTRUM PROPTER QUOD UNUMQUODQUE EST TALE ILLUD SIT MAGIS TALE </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e193-d1e107"> Consequenter quaeritur, duodecimo, utrum propter <supplied>quod</supplied> unumquodque est
+   tale illud sit magis tale. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e113"> 1. Arguitur primo quod non: quia propter uinum homo est ebrius, tamen uinum non est magis
+   ebrium quam homo; etiam propter albedinem homo est albus, tamen albedo non est magis alba, et
+   propter materiam habentia materiam sunt corruptibilia, et tamen materia non est magis
+   corruptibilis; similiter, propter ignem ferrum est calidum, et tamen ignis non est magis
+   calidus, ut patet ad sensum. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e116"> 2. Item, forma est propter materiam, cum materia sit causa formae, ut patet secundo
+   Physicorum*; tamen materia non est magis forma. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e120"> 3. Item, cum equus generat equum, equus generans est causa equi generati; ideo equus
+   generatus est propter equum generantem, et tamen equus generans non magis est equus. Et tales
+   probationes possent multiplicari. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e123"> Oppositum est <name ref="#Aristotle">Aristotilis</name>, primo huius* et secundo Metaphysicae*, ubi concluditur quod
+   necesse es principia esse magis uera et magis entia, quia propter ipsa alia sunt uera et
+   entia. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e193-d1e129"> Ista quaestio est difficilis eo quod propositio non est uniuersaliter uera nisi modificetur,
+   et ideo apponam aliquas modificationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e132"> Unde primo sciendum est quod haec regula non ualet ad arguendum positiue quod
+    <supplied>si</supplied> illud sit tale <supplied>hoc propter</supplied> quod <supplied>est
+    tale</supplied> sit magis tale, nec per consequens ualet simpliciter, et hoc patet
+    <supplied>per</supplied> tres instantias quae positae fuerunt. Sed oportet supponere quod
+   praedicatum in quo fit comparatio conueniat utrique eorum quae comparantur in illo, et hoc
+   supposito quaeritur an magis conueniat uni. Igitur non sequitur si homo sit ebrius propter
+   uinum quod uinum sit magis ebrium, quia uinum non est ebrium. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e147"> Secundo requiritur quod unum eorum quae sic comparantur sit causa alterius non solum
+   simpliciter, in essendo, sed etiam in essendo tale siue in conueniendo ei ita quod sit tale
+   propter illud esse tale. Et ideo non sequitur <mentioned>domus est alba propter domificatorem; igitur
+   domificator est magis albus</mentioned>, licet sit causa domus, quia domus non est alba propter
+   domificatorem esse album. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e153"> Tertio requiritur quod tali causae soli conueniat effectus praedictus, quia si conueniret
+   pluribus non posset concludi quod <supplied>unum</supplied> illorum esset magis tale. Unde
+   forte tu amas Petrum non solum propter amorem Iohannis sed etiam ob amorem Roberti uel
+   Martini, eo quod ille Petrus proficit illis omnibus, et possibile est quod tu ames Petrum plus
+   quam aliquem aliorum, eo quod amor in Petro intenditur non solum propter istum aut propter
+   alium sed etiam propter quemlibet illorum. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e160"> Etiam possibile est alicui conclusioni magis credere quam credamus praemissis ex quibus eam
+   concludimus. Verbi gratia, si aliqua conclusio sit nobis conclusa per multas et diuersas
+   rationes probabiles, possibile est quod, propter congregationem probabilitatum, nos credimus
+   multum illi conclusioni et magis quam alicui praemissarum, quia intensio credulitatis
+   conclusionis non fit nobis solum per hunc syllogismum uel per illum, sed per quemlibet; ideo
+   de nullo eorum sequitur quod eius praemissae sint magis creditae. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e163"> Et adhuc etiam non potest concludi quod materia sit magis ens quam forma aut quam
+   compositum, licet compositum uel forma sit ens propter ipsam materiam, sed magis propter illas
+   causas. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e166"> Sed contra illam modificationem obiicitur. Quia tunc sequeretur quod de nulla praemissarum
+   posset concludi quod esset scita plus quam conclusio, quia nulla sola facit scire, immo solum
+   scitur per ambas. Ad hoc respondetur quod neutra praemissarum est totale antecedens ad
+   conclusionem, immo copulatiua composita ex ambabus praemissis est unum antecedens et totale,
+   et propter illam copulatiuam esse scitam scitur conclusio, omni alio scito extrinseco
+   circumscripto. Ideo potest concludi quod copulatiuam magis scimus quam conclusionem, et quia
+   copulatiuam non possumus scire nisi sciamus quamlibet eius partem, ideo potest ulterius
+   concludi quod quamlibet praemissarum magis scimus quam conclusionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e169"> Et illis condicionibus appositis credo illud principium esse uerum 'propter quod unumquodque
+   tale est, illud magis <supplied>est tale</supplied>. Probatur illud principium non
+   demonstratiue, quia principia sunt indemonstrabilia, sed probatur quadam demonstratione
+   exemplari et inductiua. Sic enim multa principia sciuntur, ut patet secundo huius*. Cum enim
+   intellectus in multis percipit ita esse et in nullis uidet instantiam, nec rationem uidet
+   quare in aliquibus debeat esse aliter, ipse infert uniuersale principium ex sua naturali
+   inclinatione ad ueritatem. Iste enim uidetur mihi esse modus per quem uerificatur illud
+   principium. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e175"> Unde multi alii ponunt alios modos, qui omnes apparent. Dicunt enim quidam* quod regula
+   solum intelligenda est de causis efficientibus. Alii* dicunt quod solum intelligenda est in
+   causis finalibus; et hoc est falsum, quia in septimo Metaphysicae* concludit etiam <name ref="#Aristotle">Aristotiles</name>
+   quod materia est magis ens quam accidens, propter hoc quod accidens est ens propter
+   substantiam, et est ibi causalitas potius materialis quam formalis. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e193-d1e181"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e185"> 1. Ad primam, de uino, soluta est: quia homo non est ebrius propter uinum esse ebrium, quia
+   uinum non est ebrium. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e188"> Ad aliam, de albedine, dicitur similiter quod homo non est albus propter albedinem esse
+   albam. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e191"> Eodem modo <supplied>dicitur</supplied> de materia: compositum enim non est corruptibile
+   propter materiam esse corruptibilem. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e197"> Et forte potest dici eodem modo ad illam de igne et ferro: quia ferrum non est calidum
+   propter ignem esse calidum, sed propter ignem esse calefacientem, unde patet quod a sole, qui
+   non est calefactus, potest fieri ferrum calidum. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e200"> Ad aliam potest dici quod ignis calefaciens ferrum est magis calidus quam ferrum. Sed quia
+   ignis est magis rarus et caliditas eius est magis dispersa, ideo non ita fortiter agit, et
+   ideo ferrum quod tangimus uidetur magis calidum, licet non sit magis calidum. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e203"> Et ut hoc melius intelligatis, ego suppono quod corpus A sit magis rarum et magis calidum,
+   et postea condensetur absque hoc quod generetur aut corrumpatur aliqua frigiditas aut aliqua
+   caliditas. Tunc dicetur quod non est magis calidum post quam ante, nec minus aut magis
+   frigidum quam ante: quia omnem calorem quam ante habebat adhuc habet, et nullum alium, et in
+   eisdem partibus habet calorem in quibus ante habebat eum et in nullis aliis. Modo uidetur quod
+   idem calor positus reddit idem subiectum mihi calidum. Tamen his non obstantibus in corpore
+   sic condensato est calor magis unitus et congregatus quam ante erat, et sic potest fortius
+   agere. Sic ergo potest dici de igne et ferro. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e207"> 2. Ad aliam, de forma et materia, dictum est in positione. </p>
+
+
+      <p xml:id="Buzcv2-d1e193-d1e210"> 3. Ad aliam, potest dici quod equus filius non est ens nec est equus propter equum esse
+   entem uel esse equum, quia si equus pater esset annihilatus, adhuc equus filius esset ens uel
+   equus; et sic non tenet ibi illa regula. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

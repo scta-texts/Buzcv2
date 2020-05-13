@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 26a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 26a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e349">
+      <head xml:id="Buzcv2-d1e349-Hd1e101"> Quaestio 26a </head>
+
+      <head xml:id="Buzcv2-d1e349-Hd1e104" type="question-title"> UTRUM DEMONSTRATIONES POSSINT AUGERI PER MEDIA </head>
+
+
+
+      <p xml:id="Buzcv2-d1e349-d1e107"> Consequenter quaeritur, uicesimo sexto, utrum demonstrationes possint augeri per media. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e110"> 1. Arguitur quod sic: quia praemissae in demonstrationibus saepe prosyllogizantur ut ad
+   immediata reducantur, et quaelibet prosyllogizatio est demonstratio; et sic demonstrationes in
+   prosyllogizatione augentur, siue multiplicantur; tamen huius modi multiplicatio est per media
+   plura; ideo patet quod demonstrationes augentur per media. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e113"> 2. Item, eiusdem possunt esse multae et diuersae causae secundum diuersa genera causarum, et
+   quaelibet causa potest fieri medium ad demonstrandum causatum propter quid est; et sic
+   sequitur quod demonstrationes ad eandem conclusionem augentur, siue multiplicantur, per
+   multitudinem mediorum. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e117"> 3. Item, postea in isto primo libro*, determinat <name ref="#Aristotle">Aristotiles</name> quod eiusdem conclusionis
+   possunt esse plures demonstrationes, quod non uidetur nisi propter diuersitatem et
+   multitudinem mediorum ad illam conclusionem; igitur demonstrationes augentur per media. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e123"> 4. Item, eadem conclusio demonstratur in diuersis scientiis, et hoc non est nisi propter
+   multitudinem et diuersitatem mediorum ad diuersas scientias pertinentium; igitur ... et
+   caetera. Declaro maiorem: quia in scientia naturali, scilicet in secundo Caeli et Mundi*,
+   demonstratur quod terra est rotunda propter hoc quod omnes partes grauis tendunt deorsum
+   naturaliter et uniformiter ad unum medium; et eadem conclusio probatur per astrologiam, quia
+    procedenti<supplied>bus</supplied> de austro ad aquilonem polus mundi continue erit nobis
+   eleuatior. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e129"> Oppositum est <name ref="#Aristotle">Aristotilis</name>, primo huius*: dicit enim <supplied>quod</supplied>
+   demonstrationes augentur non per media, sed in post assumendo uel a latus. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e138"> Notandum est primo, propter expositionem terminorum, quod demonstrationes augeri in
+   proposito nihil aliud est quam demonstrationes multiplicari; et demonstrationes augeri per
+   media idem significat in proposito quod demonstrationes ad eandem conclusionem multiplicari
+   secundum multitudinem mediorum per quae illa conclusio demonstrari potest. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e141"> Sed demonstrationes augeri in post assumendo idem significat quod demonstrationes augeri
+   sumendo sub minori extremitate, siue sub subiecto conclusionis, quod idem est, alterum
+   terminum; uerbi gratia sit prima demonstratio <mentioned>omne B est A, omne C est B; ergo omne C est A</mentioned>;
+   deinde haec conclusio ad demonstrandum fiat maior, et subsumes dicens <mentioned>omne C est A</mentioned>, ut
+   probatum est, <mentioned>omne D est C; ergo omne D est A</mentioned>, et sic consequenter. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e153"> Sed demonstrationes augeri assumendo in latus idem significat quod demonstrationes
+   multiplicari per suppositionem plurium terminorum sub medio. Verbi gratia, sit una
+   demonstratio <mentioned>omne animal est substantia, omnis homo est animal; ergo omnis homo est
+   substantia</mentioned>; secunda demonstratio fiat ex eadem maiore sumendo sub eodem medio aliam minorem
+   extremitatem sic <mentioned>omne animal est substantia, omnis asinus est animal; ergo omnis asinus est
+   substantia</mentioned>, et sic multiplicarentur demonstrationes secundum multitudinem specierum animalis
+   quae sumuntur sub isto medio <mentioned>animal</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e166"> Istis sic faciliter expositis, pono faciliter conclusiones. Prima est quod demonstrationes
+   ad eandem conclusionem possunt augeri sine multiplicatione mediorum aut extremitatum. Et hoc
+   statim manifestum est, quia per idem medium potest eadem conclusio in diuersis figuris
+   demonstrari; eadem etiam conclusio potest per idem medium demonstrari ostensiue et ad
+   impossibile. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e169"> Secunda conclusio est quod demonstrationes ad eandem conclusionem possunt augeri, siue
+   multiplicari, propter multiplicationem mediorum, hoc est dictum quod eadem conclusio potest
+   per multa media demonstrari. Patet hoc tam in eodem ordine mediorum quam in diuersis
+   ordinibus. Verbi gratia, in eodem ordine, ponendo quod isti termini sunt subordinati <mentioned>A</mentioned>, <mentioned>B</mentioned>,
+   <mentioned>C</mentioned>, <mentioned>D</mentioned> et <mentioned>E</mentioned>, sic ad demonstrandum quod omne E est A, hoc poterit demonstrari tam per <mentioned>B</mentioned>
+   quam per <mentioned>C</mentioned> uel <mentioned>D</mentioned>, quia omne B est A, omne E est B, ergo omne E est A; et ita esset si
+   faceres <mentioned>C</mentioned> uel <mentioned>D</mentioned> medium. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e203"> Similiter in mediis non eiusdem ordinis potest eadem conclusio demonstrari per diuersa
+   media. Quia potest demonstrari a priori uel a posteriori, scilicet quia et propter quid; a
+   priori per causam propinquam aut causam remotam, aut etiam per diuersa genera causarum, et a
+   posteriori similiter, per effectus propinquos uel remotos, et omnino per diuersos effectus aut
+   per diuersas proprietates, et hanc multiplicationem mediorum intendit <name ref="#Aristotle">Aristotiles</name> in isto
+   libro Posteriorum*. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e209"> Sed, propter alias conclusiones, notandum <supplied>est</supplied> quod quaedam sunt
+   demonstrationes propter quid, scilicet quae <supplied>sunt</supplied> ex causis primis, ueris,
+   immediatis et propinquis ipsius conclusionis; aliae sunt demonstrationes quia, scilicet quae
+   sunt per effectus simpliciter posteriores, nobis tamen notiores, uel quae sunt per causas non
+   propinquas aut per non immediatas. Etiam sciendum est quod aliquando omnes demonstrationes
+   propter quid uocantur <mentioned>potissimae</mentioned>, scilicet comparando genus earum ad genera aliarum
+   demonstrationum; aliquando tamen, comparando demonstrationes propter quid ad inuicem, non
+   omnes dicuntur potissimae, sed una potior alia; uerbi gratia, ut declaratum est primo huius*,
+   demonstratio ostensiua propter quid est potior demonstratione ad impossibile, et demonstratio
+   affirmatiua demonstratione negatiua, licet utraque sit propter quid, et demonstratio in prima
+   figura demonstratione in secunda figura, caeteris paribus, et demonstratio non indigens
+   prosyllogizatione <supplied>demonstratione indigente</supplied> prosyllogizatione; quia, ut
+   dicit <name ref="#Aristotle">Aristotiles</name>, primo huius*, illa est potior, caeteris paribus, quae est ex paucioribus. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e227"> Quibus consideratis, ponitur conclusio quod demonstrationes simpliciter potissimae non
+   possunt augeri per media, scilicet propter multitudinem mediorum ad eandem conclusionem. Quia
+   uel illa media essent subordinata, uel non essent eiusdem ordinis. Si sint plura media inter
+   extrema conclusionis, tunc non poterit perfici demonstratio sine prosyllogizatione, et tunc
+   non erit demonstratio simpliciter potissima, ut dictum est. Verbi gratia, sit demonstrabile
+   <mentioned>A</mentioned> de <mentioned>D</mentioned>, et sint media subordinata <mentioned>B</mentioned>, <mentioned>C</mentioned>; si tu syllogizes sic <mentioned>omne B est A, omne D est
+   B; ergo omne D est A</mentioned>, minor non erit immediata, sed indigebit prosyllogizatione; et si ponas
+   <mentioned>C</mentioned> medium, maior indigebit prosyllogizatione. Sic patet quod ubi sunt plura media subordinata
+   inter extrema conclusionis, illa conclusio non potest demonstrari demonstratione simpliciter
+   potissima; tamen demonstrabilis est propter quid, quia demonstrabilis est secundum
+   resolutionem ad immediata per prosyllogizationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e249"> Si autem media diuersa fuerint non eiusdem ordinis, tunc non possunt esse media causalia
+   propria et immediata. Quia quamuis sint plures causae eiusdem, tamen si sunt causae per se,
+   illae sunt subordinatae ad <supplied>aliam</supplied> causam, et una causa est causa alterius
+   causae; et sic dicimus quod finis est causa causarum. Ideo etiam uidemus quod non omnes
+   definitiones causales sunt immediatae definito, immo etiam una
+    <supplied>demonstratur</supplied> de definito per aliam. Verbi gratia definitio explicans
+   quid nominis est immediata definito et indemonstrabilis de eo, sed per eam demonstratur
+   definitio materialis aut definitio effectualis <supplied>uel</supplied> finalis si causa
+   efficiens uel finalis sit dubia; et hoc magis uidebitur in secundo huius. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e262"> Ideo manifestum est quod inter duo extrema conclusionis non sunt plura media causalia quae
+   exiguntur ad demonstrationem propter quid nisi sint subordinata, de quibus subordinatis iam
+   dictum fuit. Ideo concluditur quod impossibile est ad eandem conclusionem multiplicari
+   demonstrationes simpliciter et omnino potissimas, et hoc intendebat <name ref="#Aristotle">Aristotiles</name>* ubi dicit
+   demonstrationes non augeri per media. De augmentatione autem in post assumendo et in latus,
+   quae non est ad eandem conclusionem, dictum est satis in exponendo terminos. </p>
+
+
+      <p xml:id="Buzcv2-d1e349-d1e268"> Et ad rationes patet satis, nisi forte pro tanto <supplied>quod</supplied> quarta ratio
+   secundum <name ref="#Grosseteste">Lincolniensem</name> non est uera. Dicit enim <name ref="#Grosseteste">Lincolniensis</name>* quod si ista conclusio <mentioned>terra
+   est rotunda</mentioned> probetur in scientia naturali et in astrologia, tamen illa non est eadem
+   conclusio nisi secundum uocem, et non secundum intentionem. Quia naturalis per istum terminum
+   <mentioned>terra</mentioned> intendit quoddam corpus graue simpliciter et per se mobile ad medium mundi, sed
+   astrologus per <mentioned>terram</mentioned> non intendit nisi magnitudinem eam quam circa centrum mouetur caelum.
+   Unde si in loco terrae esset magnitudo alterius figurae manens continue ubi terra manet, adhuc
+   de illa magnitudine probaret astrologus quod esset rotunda eadem demonstratione sicut nunc
+   demonstrat de terra, et de illa non amplius demonstraret hoc naturalis. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

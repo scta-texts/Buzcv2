@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 16a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 16a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e238">
+      <head xml:id="Buzcv2-d1e238-Hd1e101"> Quaestio 16a </head>
+
+      <head xml:id="Buzcv2-d1e238-Hd1e104" type="question-title"> UTRUM SUBIECTUM PROPOSITIONIS DEMONSTRATIVAE SUPPONAT INDIFFERENTER PRO PRAESENTIBUS,
+   PRAETERITIS ET FUTURIS </head>
+      <p xml:id="Buzcv2-d1e238-d1e107"> Consequenter quaeritur, decimo sexto, utrum subiectum propositionis demonstratiuae supponat
+   pro praesentibus, praeteritis et futuris. Et est notandum quod hic loquor de demonstratione
+   quae est ex praemissis et conclusione categoricis de inesse et de praesenti, ut si
+   demonstratur quod omnis triangulus habet tres angulos aequales duobus rectis. Quaestio igitur
+   est utrum in tali propositione subiectum supponat ita pro triangulis qui fuerunt uel erunt
+   sicut pro triangulis qui nunc sunt. </p>
+      <p xml:id="Buzcv2-d1e238-d1e110"> 1. Arguitur quod non: quia de uirtute sermonis uerbum praesentis temporis, sicut hoc uerbum
+   <mentioned>est</mentioned>, non ampliat suppositionem ad praeterita et futura: quia illa tunc non esset uera
+    <mentioned>
+        <supplied>omnis</supplied> homo est uiuus</mentioned>, quia praeteriti non sunt uiui; tamen illa
+   conceditur esse uera; ergo terminus solum supponit pro praesentibus, et ita, pari ratione, in
+   aliis propositionibus in quibus ponitur ista copula praesentis temporis <mentioned>est</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e125"> 2. Item, ad propositionem de tertio adiacente sequitur propositio de secundo adiacente, quia
+   sequitur <mentioned>B est A; ergo B est</mentioned>; sed in propositione de secundo adiacente subiectum supponit
+   pro praesentibus (aliter ista non esset uera <mentioned>omnis homo est</mentioned>, uel <mentioned>omnis homo est ens</mentioned>, quae
+   tamen conceduntur uerae); <supplied>ergo</supplied>, similiter, in propositione de tertio
+   adiacente subiectum supponit pro praesentibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e141"> 3. Item, si subiectum supponeret ita pro praeteritis sicut pro praesentibus, sequeretur quod
+   ista non esset uera <mentioned>omnis homo est risibilis</mentioned>; consequens est falsum, ut omnes concedunt.
+   Consequentia probatur: quia homines corrupti et praeteriti non sunt risibiles, cum sit idem
+   esse risibile et posse ridere, et homines corrupti non amplius possunt ridere (dico
+   naturaliter loquendo). </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e147"> Oppositum uidetur esse de intentione <name ref="#Aristotle">Aristotilis</name> dicentis <quote xml:id="Buzcv2-d1e238-Qd1e152">de omni dico quod non est in
+   aliquo ut sic et in aliquo non, nec aliquando sic et aliquando non, sed est semper in omni et
+   est semper</quote>*, et ita propositio de omni in demonstratiuis extendit se ad tempus praeteritum et
+   futurum sicut ad praesens. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e156"> Sciendum est quod antiqui logici posuerunt duplicem suppositionem personalem terminorum
+   communium, quarum unam uocabant <mentioned>naturalem</mentioned> et aliam <mentioned>accidentalem</mentioned>. Et non est uis quare sic
+   nominantur, quia nomina sunt ad placitum. Vocauerunt tamen suppositionem <mentioned>naturalem</mentioned> secundum
+   quam terminus communis indifferenter supponit <supplied>pro</supplied> praesentibus,
+   praeteritis et futuris, et uocauerunt <mentioned>accidentalem</mentioned> secundum quam terminus restringitur ad
+   supponendum uniuersaliter pro praesentibus et pro praeteritis ita quod non pro futuris. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e174"> Deinde dixerunt illi quod praedicatum restringitur ad futura per uerbum futuri temporis, uel
+   saltem restringitur ad futura et praesentia, excludendo praeterita quae non amplius sunt
+   praesentia nec futura. Et similiter etiam per uerbum praeteriti temporis restringitur
+   praedicatum ad praeterita. Et hanc restrictionem debemus concedere, quia communiter eam omnes
+   concedunt. Unde si dico <mentioned>homo erit albus</mentioned>, illa non esset uera, quamuis multi homines essent
+   nunc albi uel etiam fuissent albi, nisi etiam esset albus in futuro tempore, et ita manifestum
+   est quod praedicatum restringitur ibi omnino ad futurum, sic quod non esset ueritas
+   propositionis ratione praesentiae aut praeteritionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e180"> Secundo, etiam dicunt omnes esse concedendum quod subiectum propositionis per uerbum aut
+   praedicatum praeteriti temporis restringitur ad praeterita uel praesentia indifferenter, et
+   per praedicatum uel uerbum futuri temporis restringitur ad praesentia uel futura. Ideo ista
+   propositio <mentioned>laborans sanabatur</mentioned>* habet duos sensus, uel duas causas ueritatis, scilicet quia
+   uel qui est laborans sanabatur uel qui erat laborans sanabatur, ut patet primo Elenchorum*.
+   Similiter ista <mentioned>B potest esse A</mentioned>*, quia possibilitas respicit futurum, habet duos sensus uel
+   duas causas ueritatis, quia quod est B potest esse A uel quod potest esse B potest esse A, ut
+   patet primo Priorum*. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e189"> Tertio, omnes communiter <supplied>dicunt</supplied> quod subiectum et praedicatum in
+   respectu uerbi praesentis temporis quandoque restringuntur ad praesentia. Unde si modo omnes
+   homines qui sunt sederent, haec esset uera <mentioned>nullus homo currit</mentioned> secundum dictam restrictionem,
+   licet multi cucurrerunt et current multi. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e199"> Sed, quarto, dixerunt antiqui quod aliquando in propositione in qua est necessarium
+   consequentis nec praedicatum nec subiectum restringitur ad aliquod tempus, immo indifferenter
+   supponunt pro omnibus praesentibus, praeteritis et futuris, et etiam uerbum indifferenter
+   accipiendum est ad omne tempus. Et per istum modum diceretur quod haec esset uera
+    <mentioned>
+        <mentioned>omnis triangulus habet tres <supplied>angulos aequales duobus
+    rectis</supplied>
+        </mentioned>, <supplied>quamuis modo nullus esset triangulus</supplied>.
+   Similiter, etiam haec esset uera quamuis modo nulla essent tonitrua </mentioned>omne tonitruum est sonus
+   factus in nubibus<mentioned>, propter hoc quod omne tonitruum quandocumque est, fuit uel erit, tunc est
+   fuit uel erit sonus factus in nubibus. Et isto modo diceretur quod haec esset falsa </mentioned>omnis
+   mater diligit filium suum', quamuis omnis quae modo est diligat, et esset falsa quia Medea non
+   diligebat. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e217"> Et istae naturales suppositiones negantur saepe a multis, tamen uidetur mihi quod debent
+   poni et concedi. Hoc probo. Primo quia <name ref="#Aristotle">Aristotiles</name> manifeste ponit eas cum dicit , 'de omni
+   autem dico quod non est in aliquo sic et in aliquo non, nec aliquando sic et aliquando non,
+   sed est semper in quolibet et semper"*. Sic enim est uerum quod omnis homo est animal, quia si
+   est homo, et animal, et si nunc alterum, alterum. Patet ergo manifeste quod <name ref="#Aristotle">Aristotiles</name> hic
+   propositionem suam de omni extendit ad omne tempus. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e226"> Secundo probatur hoc per signum quod <name ref="#Aristotle">Aristotiles</name> ponit in littera. Quia si talis propositio
+   non se extenderet tam ad omnia tempora praeterita uel futura quam etiam ad praesentia, tunc
+   ipsa non falsificaretur propter instantiam de aliquo praeterito uel futuro. Tamen in
+   demonstratiuis ferimus instantias si aliquando non fuerit ita. Et hoc potest apparere
+   cuilibet. Si enim ad demonstrandum caperem illam propositionem <mentioned>omnis mater diligit filium
+   suum</mentioned>, statim diceretur non esse ita quia talis non diligebat, scilicet Medea, et amplius non
+   ualeret ad demonstrandum. Item, ponamus quod modo tibi demonstratum est quod omnis triangulus
+   habet tres angulos aequales duobus rectis , quaero utrum per talem demonstrationem tu habeas
+   scientiam demonstratiuam de omnibus triangulis uel solum habeas de praeteritis et
+   praesentibus. Si primo modo, habeo propositum. Si secundo, sequitur illud inconueniens quod si
+   fieret unus nouus triangulus et tu dormias, tu non habebis scientiam demonstratiuam
+   extendentem se ad illum triangulum, quia numquam fuit tibi illud demonstratum; ergo tu nullo
+   modo habes scientiam demonstratiuam quod omnis triangulus habet tres angulos aequales duobus
+   rectis, quia oporteret reiterare demonstrationes quotiens fierent noui trianguli. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e235"> Deinde, ostendo causam per quam talis suppositio est ponenda. Quia qualiter res possunt
+   intelligi, ita possunt imponi a significandum, et qualiter etiam conceptus in mente sunt
+   componibiles, taliter designantur per propositiones uocales. Modo certum est quod intellectus
+   potest comprehendere omnes homines conceptu communi et absque hoc quod concurrat in ista
+   apprehensione aliqua differentia temporis. Et secundum istum conceptum imponitur hoc nomen
+   <mentioned>homo</mentioned> ad significandum homines; ideo dicimus quod significat sine tempore; et statim
+   manifestum est quod iste terminus de sua propria principali significatione significat ita
+   homines praeteritos aut futuros sicut praesentes. Quia secundum propriam significationem
+   terminorum haec est uera <mentioned>Aristotiles fuit homo</mentioned> et haec <mentioned>antichristus erit homo</mentioned> sicut haec
+   est uera <mentioned>Iohannes est homo</mentioned>. Modo certum est quod intellectus potest habere praeter conceptus
+   specificos conceptum generalem communem et indifferentem illis speciebus. Unde
+    <supplied>sicut</supplied> possumus habere conceptum communem generalem animalium a quo
+   sumitur hoc nomen <mentioned>animal</mentioned> circumscriptis omnibus conceptibus specificis, sic praeter
+   conceptum praesentiae, praeteritionis uel futuritionis, possumus habere conceptum communem et
+   generalem abstractum a dictis conceptibus specialibus temporis. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e257"> Ex quibus sequitur quod apud intellectum possumus formare nomina quae in propositionibus
+   sunt subiecta et praedicata indifferenter se habentia ad omne tempus, ita quod in mente
+   possumus formare copulam uerbalem consignificantem tempus indifferenter
+    <supplied>praesens</supplied>, praeteritum uel futurum, et tunc formetur in mente
+    <supplied>propositio</supplied> ex tali copula et talibus subiectis et praedicatis. Et
+   habebitur certa suppositio in propositione mentali; ergo similiter poni debet et potest in
+   propositione uocali. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e266"> Sed tamen notandum est quod non habemus secundum uocem talia nomina imposita, scilicet
+   distincta a talibus uerbis quae dicimus significare praesens tempus. Ideo, propter defectum
+   distinctae impositionis, nos solemus uti illis uerbis uocalibus aequiuoce in historiis et
+   narrationibus et in sermonibus demonstratiuis. Quoniam in historiis et narrationibus utimur
+   uerbis secundum determinatas temporis differentias, sicut in sermonibus demonstratiuis utimur
+   eis secundum indifferentiam ad omne tempus. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e270"> Et potest uideri clare quod secundum talem suppositionem et talem uerbi acceptionem
+   credidisset <name ref="#Aristotle">Aristotiles</name> quod caelum semper mouetur. Non enim potest hic capi hoc uerbum
+   <mentioned>mouere</mentioned> pro solum praesenti ut distinguitur a praeterito uel futuro, quia tunc esset male
+   dictum <mentioned>semper</mentioned>. Sic etiam conceditur, in libro de Generatione*, quod perpetuae sunt
+   generationes et corruptiones, sicut etiam concedunt astrologi quod omnis dies natalis est
+   uiginti quattuor horarum, et manifestum est quod ibi non distribuitur solum dies praesens,
+   immo etiam dies praeteriti aut futuri. Et ita etiam dicitur hanc esse necessariam <mentioned>omnis homo
+   est animal</mentioned>, immo etiam sic haec est uera et necessaria <mentioned>omnis eclipsis est propter
+   interpositionem terrae inter solem et lunam</mentioned>, licet modo nulla sit eclipsis lunae. Et est
+   sensus illius propositionis <mentioned>omnis homo est animal</mentioned> quod omnis homo quandocumque fuit, est uel
+   erit, tunc fuit, est uel erit animal. Sic enim dixi de omni in demonstratiuis quod includit in
+   se diuersitatem temporis et suppositorum, ut dicit <name ref="#Aristotle">Aristotiles</name>. Modo ad istum sensum erat uera
+   praedicta propositio de eclipsi lunae. Sed sensus illius propositionis <mentioned>nullus homo est lapis</mentioned>
+   est quod nullus homo qui est, fuit uel erit est fuit uel erit lapis. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e298"> Et ideo secundum istum sensum omnes affirmatiuae in naturali materia sunt uerae, et
+   negatiuae in materia remota. Sed in contingenti materia omnes uniuersales sunt falsae, quia
+   posset dari instantia in aliquibus suppositis in aliquo tempore, quamuis forte non pro
+   praesenti tempore. Ex quo sequitur quod in contingenti materia omnes particulares sunt uerae.
+   Quia duae particulares duabus uniuersalibus contradicunt; si ergo ambae uniuersales sunt
+   falsae, ambae particulares sunt uerae. Ideo secundum istam suppositionem ista concederetur
+   <mentioned>quidam homo non sedet</mentioned>, quamuis homines qui nunc sunt sederent, et etiam concederetur ista
+   <mentioned>quidam homo sedet</mentioned> quamuis nunc nullus sedeat. Et sensus huius propositionis <mentioned>quidam homo
+   sedet</mentioned> est talis <mentioned>quidam homo qui est, fuit uel erit sedet, sedit uel sedebit</mentioned>, et sensus
+   huius negatiuae, scilicet <mentioned>quidam homo non sedet</mentioned> est talis <mentioned>quidam homo non quandocumque est,
+   fuit uel erit sedet, sedit uel sedebit</mentioned>. Sic enim in demonstratiuis sumuntur instantias contra
+   uniuersales. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e320"> Ultimo notandum est quod haec suppositio inuenta est propter artes demonstratiuas. Ideo
+   uerificari debet in eis, et non in historialibus narrationibus, nec debet uerificari in
+   terminis singularibus, quia non sunt termini demonstrationis, sed historiae. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e323"> Quibus uisis manifestum est illud quod quaerebatur, quod subiectum propositionis
+   demonstratiuae, aut etiam praedicatum, supponit pro praesentibus, praeteritis et futuris
+   indifferenter. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e238-d1e326"> Et huius propositionis rationes ad oppositum sunt solutae. </p>
+
+
+      <p xml:id="Buzcv2-d1e238-d1e329"> 2. Unde ad propositionem de <mentioned>est</mentioned> tertio adiacente non sequitur propositio de <mentioned>est</mentioned> secundo
+   adiacente si illud <mentioned>est</mentioned> secundo adiacens accipiatur ut est determinate et praecise praesentis
+   temporis. Nam licet modo nulla essent tonitrua, <supplied>tamen</supplied> haec esset
+   concedenda secundum suppositionem naturalem <mentioned>tonitruum est</mentioned>, secundum resolutionem ad
+   praedicatum tertio adiacens, id est <mentioned>tonitruum est ens</mentioned>. Immo etiam tonitruum est ens, quia
+   est sensus quod omne tonitruum quandocumque fuit, est uel erit est fuit uel erit ens. Aliter
+   in illa suppositione non debet concedi <mentioned>est</mentioned> secundo adiacens sequi ex tertio adiacente. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

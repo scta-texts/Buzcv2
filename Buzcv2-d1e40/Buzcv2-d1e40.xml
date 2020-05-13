@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>PROOEMIUM</title>
+            <author ref="#JeanBuridan">John Buridan</author>
+            <respStmt>
+               <name>Jeffrey C. Witt</name>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>PROOEMIUM</title>
+               <date when="2020-05-12">May 12, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness/>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+              guidelines for a critical edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-05-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n=""/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Buzcv2-d1e40">
+            <head xml:id="Buzcv2-d1e40-Hd1e101">PROOEMIUM</head>
+            <p xml:id="Buzcv2-d1e40-d1e104"> 
+               <quote xml:id="Buzcv2-d1e40-Qd1e106">Scire est rei causam cognoscere</quote>*. Constat quod ignorantia scientiae opponitur priuatiue;
+      ideo impossibile est cum scientia perfecta de aliquo stare de illo aliquam ignorantiam.
+      Constat etiam quod numquam dubitare est sine ignorantia; unde dicitur, prooemio Metaphysicae,
+      <quote xml:id="Buzcv2-d1e40-Qd1e109">qui dubitat, et ignorat</quote>. Dubitationes autem de aliquo numquam remouentur donec causae illius
+      cognoscantur. Unde uidentes eclipsim lunae et causam ignorantes maxime dubitant quo modo illud
+      possit fieri; per notitiam autem causae omnis huius modi dubitatio remouetur. Ideo manifestum
+      est quod per notitiam causae uel causarum, et non aliter, scientia certa et perfecta, omnem
+      ignorantiam excludens, exquiritur et habetur. Ideo bene dicebatur <quote xml:id="Buzcv2-d1e40-Qd1e112">scire est rei causam
+      cognoscere</quote>. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e116"> In qua propositione, ad recommendationem artis demonstratiuae, primo duo oportet notare:
+      primo habitum seu actum animam perficientem inhaerendo, secundo obiectum +ipsam felicitatem
+      aufluendo+. Primum notatur cum dico <quote xml:id="Buzcv2-d1e40-Qd1e118">scire est</quote>, secundum autem cum dico <quote xml:id="Buzcv2-d1e40-Qd1e121">causam rei
+      cognoscere</quote>. Felicitas namque humana, quae est homini summum bonum, in duobus consistit
+      principaliter, scilicet in actu sapientiae +forma et intentione et in subiecto primo eiusdem
+      sapientiae et intentione secundum quoddam obiectum est causa prima+, id est causa causarum; et
+      haec omnia determinantur in <ref xml:id="Buzcv2-d1e40-Rd1e124">decimo Ethicorum</ref>.* Ideo dicitur quod humana felicitas est circa
+      supremam uirtutem, quae secundum <name ref="#Aristotle">Aristotilem</name>, sexto Ethicorum*, est sapientia; et est optimi
+      obiecti, et illud est prima causa. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e131"> Et ex omnibus illis manifestum est quod inter alias artes illa maxime facit ad humanam
+      felicitatem acquirendam per quam sapientia, quae est maxima et certissima scientia rerum, per
+      suas causas primas acquiritur. Ars autem demonstratiua, in qua de demonstratione tractatur,
+      est huius modi, quoniam demonstratio est syllogismus faciens scire, ut habetur primo huius*,
+      et est syllogismus ex causis primis, ueris et immediatis, ut etiam habetur primo huius*. Ideo
+      haec ars demonstratiua inter caeteras artes magis est propinqua humanae felicitati. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e134"> Ut haec sint euidentiora, et ut appareat excellentia artis demonstratiuae super alias partes
+      logicae, diuidenda est logica in suas partes. Propter quod sciendum est quod logica sic
+      describi solet: logica est ars discernendi uerum a falso. Constat autem quod in dubiis uerum a
+      falso non discernitur nisi per argumentationes ex notioribus procedentes, et ideo descriptio
+      praedicta sic intelligitur et exponitur quod logica est ars sciendi instrumenta per quae in
+      dubiis uerum a falso possit distingui. Et quia huius modi instrumenta, sicut dixi, sunt
+      argumentationes, ideo logica est ars arguendi et argumentationes construendi. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e138"> Ideo sciendum est quod artifex non potest bene construere opus suum si ignoret materiam sui
+      operis; ideo oportet materiam cognoscere ex qua facienda sunt argumenta; et illa materia est
+      termini et propositiones, ideo logica diuiditur in duas partes. Prima pars considerat de
+      terminis et de propositionibus ex quibus construendae sunt argumentationes, et uocatur <mentioned>uetus
+      logica</mentioned>. Alia pars est de ipsis argumentationibus ex dictis terminis et propositionibus
+      compositis, et uocatur <mentioned>noua ars</mentioned>, uel <mentioned>noua logica</mentioned>. Et forte quod huius modi nominatio ex
+      hoc uenit quia partes materiales sunt priores uia generationis et temporis partibus
+      formalibus; quod autem est prius uia generationis et temporis solet uocari <mentioned>uetus</mentioned> et
+      <mentioned>antiquum</mentioned>. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e156"> Vetus logica diuiditur. Quia prima pars est de terminis, quae tractatur in libro
+      Praedicamentorum; ad illius introductionem ordinatus est liber Porphyrii et ad eius
+      complementum liber Sex Principiorum. Secunda pars est de propositionibus et enuntiationibus,
+      quae tractatur in libro Peri Hermeneias. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e159"> Logica noua diuiditur. Prima pars enim determinat de argumentatione secundum quod est
+      illatiua conclusionis ex praemissis, et determinatur in libro Priorum. Alia pars tractat de
+      argumentatione secundum quod est probatiua conclusionum, non solum illatiua, et illa pars
+      traditur in aliis libris nouae logicae. Et potest notari quod ille liber in quo tractatur de
+      argumentatione secundum quod est illatiua conclusionis pro tanto uocatur <mentioned>liber Priorum</mentioned> quia
+      probatio praesupponit illationem; unde illatio est secundum rationem prior et communior
+      probatione, quoniam omne argumentum probatiuum est illatiuum et non e conuerso. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e165"> Deinde, illa pars quae considerat de argumentationibus in quantum sunt probatiuae diuiditur
+      secundum fines diuersos ad quos diuersae partes ordinantur. Aliquae enim probationes
+      ordinantur ad opinionem nobis generandam secundum quam his quae prius erant dubia assentimus,
+      non tamen cum certitudine; et huius modi probationes sunt argumentationes dialecticae, de
+      quibus tractatur in parte logica quae uocatur dialectica. Et illa dialectica diuiditur.
+      Quoniam una eius pars ordinatur principaliter ad scientias speculatiuas, uel saltem ordinatur
+      consequenter tam ad scientias speculatiuas quam ad practicas; et illa pars tractatur in libris
+      Topicorum et Elenchorum. Alia pars contracta est ad mores, siue ad scientiam moralem, et illa
+      traditur in libris Rhetoricae et Poeticae. Et bene <name ref="#Aristotle">Aristotiles</name> expresse dicit rhetoricam et
+      poetriam esse partes dialecticae, et, per consequens, logicae. Liber Topicorum Boethii
+      compositus est ad complendum librum Topicorum <name ref="#Aristotle">Aristotilis</name>. Liber Diuisionum Boethii
+      principaliter ordinatur ad artem definitiuam, quae iterum ordinatur ad artem demonstratiuam.
+      Et sic omnes libri logicae sunt nobis enumerati et contra inuicem diuisi. </p>
+
+
+            <p xml:id="Buzcv2-d1e40-d1e174"> Sed debetis scire quod ille liber in quo traditur ars demonstratiua pro tanto uocatur <mentioned>liber
+      Posteriorum</mentioned> quia, ut iam dixi, liber Topicorum et iste liber Posteriorum naturali ordine
+      doctrinae sequuntur librum Priorum. Et iterum naturali ordine doctrinae ars dialectica
+      praecedit artem demonstratiuam; disputatio namque ad utramque partem per dialecticam disponit
+      ad inueniendum per rationes demonstratiuae, per quas habetur scientia perfecta de rebus. Ideo
+      ars demonstratiua inter caeteras partes logicae est ultima et finalis, ad quam omnes alias
+      ordinantur. Ideo liber iste, in quo talis ars traditur, nominatur <mentioned>Posteriorum</mentioned>. Et quia ad
+      praesens habemus hunc librum exponendum, nos merito circa primum librum mouemus talem
+      quaestionem: utrum de demonstratione possit esse scientia. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

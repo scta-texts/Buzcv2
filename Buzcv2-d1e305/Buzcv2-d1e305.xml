@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 22a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 22a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e305">
+      <head xml:id="Buzcv2-d1e305-Hd1e101"> Quaestio 22a </head>
+
+      <head xml:id="Buzcv2-d1e305-Hd1e104" type="question-title"> UTRUM IN OMNI DEMONSTRATIONE NECESSE SIT PRIMUM INESSE MEDIO ET
+   MEDIUM INESSE POSTREMO SECUNDUM QUOD IPSUM </head>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e107"> Consequenter quaeritur, uicesimo secundo, utrum in omni demonstratione necesse sit primum
+   inesse medio et medium inesse postremo secundum quod ipsum. Et per <mentioned>primum</mentioned> intelligatis
+   extremitatem maiorem, et per <mentioned>postremum</mentioned> minorem. Unde ista quaestio nihil aliud quaerit nisi
+   utrum omnis demonstratio debet esse ex praemissis de secundum quod ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e116"> 1. Et arguitur quod non: quia contingit arguere et demonstrare per causas remotas, ut post
+   dicetur; tamen in tali demonstratione non oportet esse secundum quod ipsum, quia tale secundum
+   quod ipsum requirit appropriationem, et causa remota non est appropriata effectui; ergo non
+   oportet praemissas in demonstratione esse secundum quod ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e119"> Et quia forte aliquis diceret quod demonstratio per causam remotam non est demonstratio
+   propter quid neque potissima, quaestio autem debet intelligi de demonstratione potissima, ideo
+   probo quod demonstratio per causam remotam est potior et magis propter quid quam demonstratio
+   per causam propinquam: quia demonstratio potissima debet esse ex causis primis, ut dicit
+   <name ref="#Aristotle">Aristotiles</name>*, secundo capitulo; causae autem remotae sunt simpliciter priores quam causae
+   propinquae et immediatae; ideo demonstratio per illas est potior. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e126"> Et confirmatur: quia demonstratio est potior quae demonstrat propter quid res est; ideo ista
+   magis uidetur esse potior quae est per causas propter quas res magis est; sed constat quod res
+   habet magis esse per causas remotissimas, quae sunt simpliciter primae, quam per propinquas,
+   quae sunt simpliciter posteriores, propter quod in libro de Causis* dicitur quod prima causa
+   plus influit in causatum quam secunda; ergo probatum est propositum, quod per causas remotas
+   sunt potissimae demonstrationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e129"> 2. Item, ad principale argumentum: quia aliquae sunt demonstrationes negatiuae; tamen in
+   illis non inest primum medio, immo negatur de ipso. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e132"> 3. Item, cum ista propositio <mentioned>omnis triangulus isosceles habet tres angulos aequales duobus
+   rectis</mentioned> sit necessaria et per se dubitabilis et scibilis, sequitur quod ipsa est
+   demonstrabilis; et tamen impossibile est aliquod dare medium quod se habeat ad utramque
+   extremitatem secundum quod ipsum, eo quod extremitates non ad inuicem conuertuntur, immo
+   <mentioned>habere tres angulos aequales duobus rectis</mentioned> est in plus quam <mentioned>isosceles</mentioned>; ergo est
+   demonstratio cuius praemissae non erunt secundum quod ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e144"> Oppositum arguitur per <name ref="#Aristotle">Aristotiles</name>*: quoniam illa fuit prima conclusio septimi capituli,
+   scilicet quod in omni demonstratione necesse est primum inesse medio et medium postremo
+   secundum quod ipsum, quam conclusionem probat <name ref="#Aristotle">Aristotiles</name> sicut dicit <name ref="#Grosseteste">Lincolniensis</name>*: omnis
+   demonstratio debet esse ex propositionibus [potissime] per se; ergo omnis demonstratio
+   potissima debet esse ex propositionibus potissime per se; sed per se potissime est idem quod
+   secundum quod ipsum; ergo omnis demonstratio potissima ex praemissis secundum quod ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e156"> Notandum est quod conclusio demonstrabilis et scibilis non scitur perfecte donec scitur per
+   praemissas immediatas et indemonstrabiles, ut ante dictum est. Tamen ex hoc non sequitur quod
+   oporteat praemissas esse secundum quod ipsum, quia dictum fuit quod non omnis propositio
+   immediata est indemonstrabilis. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e159"> Item, manifestum est, sicut ante dictum fuit, quod oportet omnem demonstrationem esse ex
+   necessariis et per se inhaerentibus. Sed tamen non sequitur ad hoc quod omnis demonstratio
+   debeat esse ex praemissis secundum quod ipsum. Quia necessarium, uel per se, est in plus quam
+   secundum quod ipsum; ideo arguendo sic <mentioned>demonstratio est ex per se; ergo demonstratio est ex
+   secundum quod ipsum</mentioned> est arguere a superiori ad inferius affirmatiue, et tale argumentum non
+   ualet gratia formae, immo est fallacia consequentis. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e166"> Sed cum dicitur quod <name ref="#Aristotle">Aristotiles</name> sic arguit secundum <name ref="#Grosseteste">Lincolniensem</name>, respondeo quod illud
+   argumentum, ut mihi uidetur, non ualet gratia formae, sicut ante dicebatur. Unde modo
+   consimili argueretur quod cum omnis planta sit uiuens, [concluderetur quod] omne quod est
+   proprie uel propriissime uel potissime planta sit proprie <supplied>uel
+    propriissime</supplied> uel potissime uiuens. Modo conclusio esset falsa, licet antecedens
+   sit uerum. Ergo consequentia non ualuit gratia formae. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e178"> Tamen forte potest dici quod consequentia ualebat gratia materiae de demonstratione
+   potissima et propter quid. Quia [sicut] in naturalibus causa non producit effectum
+   determinatum nisi per circumstantias sit appropriata et determinata ad talem effectum; uerbi
+   gratia sol aut deus non generat naturaliter hominem nisi eorum causalitas per causas et
+   circumstantias particularibus approprietur speciei humanae. Modo scire perfecte propter quid
+   est scire causam efficientem ut sufficienter se habet ad talem effectum. Ideo scire perfecte
+   propter quid non est scire per aliquam causam nisi propriam uel appropriatam circumstantiis
+   eam determinantibus et eam appropriantibus. Et ita ad sciendum perfecte propter quid
+   requiritur cum necessitate et perseitate appropriatio quae reddit secundum quod ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e181"> Deinde, notandum est quod in scientiis in quibus ea pro quibus termini supponunt non se
+   habent ad inuicem sicut causa ad causatum, ut in mathematicis, subiectum accipitur tamquam
+   causa passionis et definitio quidditatiua tamquam causa definiti, sicut ante dictum est. Ideo
+   etiam subiectum proprium accipitur proprie tamquam causa propria passionis. Ideo sicut in uere
+   causis et causatis non scitur perfecte propter quid effectus est nisi sciatur eius causa cum
+   appropriatione, ita nec perfecte dicimus scire passionem nisi de subiecto appropriato per
+   modum appropriatum, et hoc est secundum quod ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e184"> Tamen ad magis explicandum intentionem <name ref="#Aristotle">Aristotilis</name> et ueritatem quaesiti pono conclusiones.
+   Una est quod nulla passio habens subiectum proprium et adaequatum scitur perfecte
+   demonstratiue nisi sciatur de illo subiecto proprio. Probatio: quia si solum sciatur de
+   subiecto inferiori, tunc non scietur secundum suum totum ambitum, eo quod conuenit aliis, et
+   ita non scietur perfecte; si uero sciatur solum de subiecto superiori, tunc non scietur de
+   illo uniuersaliter, sed solum particulariter, et illa scientia non est perfecta, quia
+   relinquit dubium quibus insit et quibus non: uerbi gratia, si tu solum scias quod omnis
+   isosceles habet tres angulos aequales duobus rectis, tu non habes de illa passione scientiam
+   secundum suum totum ambitum, cum illa conueniat aliis ab isoscele, ut isopleuro et gradato; si
+   autem sciatur quod aliqua figura habet tres angulos aequales duobus rectis, adhuc dubitatur
+   utrum omnis habeat, et si sciatur quod aliqua habet et non omnis, adhuc dubitatur quae sit
+   illa quae habet et quae non habet; ideo de passione non habetur perfecta scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e190"> Secunda conclusio est haec, quod nulla passio perfecte potest sciri de subiecto proprio
+   uniuersaliter nisi per medium proprium et conuertibile. Quia non potest de eo sciri nisi per
+   primum modum primae figurae, et <supplied>in</supplied> isto modo impossibile est quod medium
+   sit supra maiorem extremitatem, eo quod maior extremitas dicitur de medio uniuersaliter;
+   impossibile etiam est quod medium sit sub minori extremitate, quia praedicatur de ea
+   uniuersaliter; ergo si maior extremitas et minor <supplied>LACUNA</supplied>
+      </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e199"> Ex ista sequitur tertia conclusio, quod de nulla passione habente subiectum proprium habetur
+   scientia demonstratiua perfecta nisi ex praemissis secundum quod ipsum. Praemissae enim
+   reducuntur ad secundum quod ipsum quando medium est utrique extremitati proprium et
+   conuertibile. Et credo quod hoc intellexit <name ref="#Aristotle">Aristotiles</name>. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e206"> Quarta conclusio est quod aliquae sunt passiones demonstratiue scibiles de suis subiectis
+   quae nullum habent subiectum proprium et adaequatum. Verbi gratia, perpetuitas secundum
+   <name ref="#Aristotle">Aristotilem</name> est scibilis de caelo, de prima materia et de accidentibus caeli. Tamen nullus est
+   conceptus substantialis praecise conueniens praedictis. Ideo dictae passioni non potest
+   assignari subiectum substantiale proprium et adaequatum. Et si tu dicas quod ei assignatur
+   subiectum accidentale et connotatiuum, tunc dicam quod tale subiectum non erit subiectum
+   ultimatum, immo passio quaedam scibilis, sicut <supplied>perpetuitas</supplied> de deo et
+   prima materia et aliis praedictis. Et non potest assignari sibi subiectum proprium et
+   adaequatum, quia non substantiale, ut dicebatur, nec accidentale, quia sic procederetur in
+   infinitum. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e215"> Ex istis concludo quintam conclusionem, quod aliquae passiones sciuntur demonstratiue de
+   subiectis suis quamuis possibile sit eas sciri absque hoc quod sciantur ex praemissis secundum
+   quod ipsum. Quod enim materia est perpetua non potest sciri ex praemissis secundum quod ipsum,
+   quia nihil conuertibile materiae esset conuertibile perpetuitati uel e conuerso. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e218"> Sexta conclusio est quod multae conclusiones sciuntur quantum possibile est eas sciri absque
+   hoc quod praemissae per quas sciuntur sint secundum quod ipsum. Verbi gratia, quod omnis
+   isosceles habet tres angulos aequales duobus rectis scibile est demonstratiue, et non essent
+   praemissae secundum quod ipsum. Similiter posset demonstrari quod omnis homo est substantia,
+   et non essent praemissae secundum quod ipsum, propter inconuertibilitatem terminorum. Et
+   omnino ubi termini conclusionis non sunt conuertibiles ad inuicem, si illa conclusio sit
+   demonstrabilis, ipsa non scitur ex praemissis secundum quod ipsum, licet sciatur in quantum
+   perfecte posset sciri. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e221"> Ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e224"> 1. Ad primam potest dici quod demonstratio uocatur <mentioned>per causam remotam</mentioned> in proposito quando
+   nomen significans causam non est appropriatum per circumstantias nomini significanti effectum,
+   sed uocatur <mentioned>per causam propinquam et propriam</mentioned> si in demonstratione fuit talis appropriatio.
+   Ideo in proposito non uocamus <mentioned>causam remotam</mentioned> illam causam quae uere et realiter est communis
+   in causando, sicut esset deus aut caelum, nec in proposito uocamus <mentioned>causam primam</mentioned> illam quae
+   uere est prima in essendo, sicut deus, quia sic non oportet demonstrationem esse ex primis
+   causis, immo per primoritatem in proposito intelligimus immediationem propositionis. Et sic
+   patet quod illae rationes quae arguebant de remota causa non sunt ad propositum. Et de eis
+   etiam dicetur post. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e239"> 2. Ad aliam, posset concedi quod <name ref="#Aristotle">Aristotiles</name> in illa quaestione non dicebat de negatiuis,
+   nec intendebat de illis quae dicta sunt, scilicet in quibus scientia perfecta habetur de
+   passione habente subiectum proprium. </p>
+
+
+      <p xml:id="Buzcv2-d1e305-d1e246"> 3.Ad aliam, concessum est quod multae conclusiones sunt scibiles et demonstrabiles quae non
+   possunt demonstrari ex praemissis secundum quod ipsum. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

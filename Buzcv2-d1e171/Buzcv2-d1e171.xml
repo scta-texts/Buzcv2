@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 10a</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 10a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e171">
+      <head xml:id="Buzcv2-d1e171-Hd1e101"> Quaestio 10a </head>
+
+      <head xml:id="Buzcv2-d1e171-Hd1e104" type="question-title"> UTRUM AD VERITATEM PROPOSITIONIS REQUIRATUR ET SUFFICIAT QUOD QUALITERCUMQUE IPSA
+   SIGNIFICAT ITA SIT </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e171-d1e107"> Consequenter quaeritur, decimo, utrum ad ueritatem propositionis requiratur et sufficiat
+   quod qualitercumque ipsa significat ita sit. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e110"> 1. Arguitur primo quod non sufficiat ad ueritatem propositionis, ponendo casum quod aliquis
+   proferat talem propositionem <mentioned>ego dico falsum</mentioned> et nullam aliam proferat. Constat quod illa
+   propositio quam dicit est falsa, et sic patet quod qualitercumque sua propositio significat
+   ita est, cum ipsa significat se esse falsam et ita est; et tamen illa propositio non est uera,
+   cum iam diximus quod ipsa est falsa; ergo ad ueritatem propositionis non sufficit esse ita
+   sicut ipsa significat. Quod autem dicta propositio sit falsa probatur: quia uel est falsa uel
+   uera; sed non est uera, quia tunc ipse non dicit uerum dicendo quod ipse dicit falsum; et sic
+   esset uera et non uera, quod est impossibile. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e116"> 2. item, secundo, pono casum quod Socrates et Plato simul dicant uterque alteri <mentioned>tu dicis
+   falsum</mentioned> et nihil plus dicant. Constat quod utraque propositio istorum est falsa, et sic patet
+   quod est ita sicut utraque propositio significat, quia utraque propositio significat quod
+   alter dicit falsum et ita est, quia uterque dicit falsum; et tamen neutra propositio est uera,
+   cum enim iam dictum sit quod utraque est falsa; ergo ad ueritatem non sufficit quod ita sit
+   sicut propositio significat. Et quod dictae propositiones sint falsae declaratur: quia qua
+   ratione unus dicit uerum, et alter, et qua ratione falsum, et alter; ergo uel ambo dicunt
+   uerum, uel ambo dicunt falsum. Non uerum; probatio: quia tunc uterque mentiretur in dicendo
+   quod socius suus dicit falsum; ergo ambo dicunt falsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e123"> 3. Item, haec est uera <mentioned>chimaera non est chimaera</mentioned>, et tamen non est ita in re sicut ipsa
+   significat: quia nihil est chimaera in re, et quod nihil est nullo modo est; ideo nec ita nec
+   aliter. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e129"> 4. Item, de Fauello qui mortuus est uerum est dicere quod ipse currebat uelociter; tamen non
+   est ita in re sicut ipsa significat, cum nihil sit de Fauello, posito quod omnino sit
+   annihilatus; ergo nihil est in re significata; ergo nec ita nec aliter. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e132"> Oppositum dicitur communiter, nec aliter apparet unde propositio dicitur uera. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e135"> Et confirmatur per modum loquendi communem. Quia si tu profers aliquam propositionem, si
+   uolo affirmare quod tu dicis uerum, dicam tibi statim <mentioned>ita est sicut tu dicis</mentioned> et si uolo tibi
+   contradicere, dicam <mentioned>domine, non ita est sicut uos dicitis</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e144"> Item, <name ref="#Aristotle">Aristotiles</name>, quinto* et sexto Metaphysicae*, uocat uerum <mentioned>ens</mentioned> et falsum <mentioned>non ens</mentioned>. <mentioned>
+   Et ita etiam, in primo huius, dicit <name ref="#Aristotle">Aristotiles</name> 
+        <quote xml:id="Buzcv2-d1e171-Qd1e160">quod non est non contingit scire</quote>*, et per
+   </mentioned>quod non est<mentioned> intelligit falsam, sicut diametrum esse semidiametrum, id est commensurabile
+   costae, ut exemplificat; modo non uidetur aliqua ratio quare dicto modo uerum dicitur </mentioned>ens<mentioned> et
+   falsum </mentioned>non ens' nisi propter esse ita et propter non esse ita; ideo ad uerum sufficit esse et
+   ad falsum non esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e172"> Item, ueritas sic solet describi quod est adaequatio, seu conuenientia, rei intellectae ad
+   intellectum, et non uidetur quod haec conuenientia sit nisi in essendo in re ita sicut
+   significatur et intelligitur. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e171-d1e176"> Tunc pono conclusiones. Prima <supplied>est</supplied> quod ad ueritatum affirmatiuae
+   requiritur quod termini supponant pro eodem. Et hoc declaro: primo, quia copula affirmatiua*
+   designat unionem et negatiua* diuisionem, ut satis innuitur tertio de Anima* et sexto
+   Metaphysicae*; modo illa unio est unio formae ad materiam, uel etiam unio unius partis ad
+   aliam, quia quantumcumque forma sit unita materiae, uel una pars alteri parti, tamen non est
+   uerum dicere quod forma est materia, uel quod haec pars est illa; ergo unio designata per
+    <supplied>copulam</supplied> affirmatiuam non est identitas terminorum, quia in hac
+   propositione <mentioned>homo est animal</mentioned> sunt termini diuersi, et tamen propositio est uera; ergo
+   designatur identitas eorum pro quibus supponunt, et sic habetur propositum. Item, idem patet
+   ex communi concepto affirmatiuae: si enim dico quod A est B, apparet quod sensus est quod A
+   est idem quod B, et si A fuit B, A fuit idem quod B. Item, quodlibet est ipsum et nihil aliud
+   ab ipso, et hoc est quia quodlibet est sibi ipsi idem et nulli alteri. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e188"> Secunda conclusio est quod in multis non sufficit ad ueritatem affirmatiuae quod termini
+   supponant pro eodem. Quia ego pono casum quod ego propono istam propositionem <mentioned>propositio quam
+   propono est falsa</mentioned>, et ponamus quod nullam aliam proponam quam istam. Verum esset dicere quod
+   illa mea propositio erat falsa, et per consequens non uera. Quoniam si fuisset uera ego non
+   uerum dixissem sed falsum, dicendo quod ipsa est falsa. Tamen termini eius supponebant pro
+   eodem, quia illud praedicatum <mentioned>falsum</mentioned> supponit indifferenter pro omni propositione falsa, et
+   sic supponit pro illa, cum sit falsa. Similiter subiectum illud <mentioned>propositio quam ego propono</mentioned>
+   pro eadem propositione supponebat. Ideo ambo termini supponebant pro eodem, et tamen
+   propositio non erat uera, ut dixi. Et similiter esset de omni propositione quae assereret se
+   esse falsam. Illa enim esset falsa et non uera quoniam termini non supponerent pro eodem.
+   Tamen credo quod ubi propositio non assereret se esse falsam nec assereret aliud ad quod
+   sequeretur ipsam esse falsam credo quod sufficeret ad ueritatem affirmatiuae, saltem
+   singularis uel infinitae, quod termini supponerent pro eodem. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e200"> Tertia conclusio ponitur quod ad ueritatem negatiuae sufficit quod termini non supponant pro
+   eodem. Quia ex quo termini non supponunt pro eodem, affirmatiua non est uera, ut dicit
+   conclusio prima; ergo oportet propositionem negatiuam illi affirmatiuae oppositam esse ueram. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e203"> Quarta conclusio est quod ad ueritatem negatiuae non requiritur quod termini non supponant
+   pro eodem. Quia possibile est quod termini supponant pro eodem et tamen negatiua sit uera, ut
+   dictum est: quia haec affirmatiua est falsa <mentioned>propositio quam dico est falsa</mentioned>; ergo negatiua
+   sibi opposita est uera; tamen adhuc termini supponerent pro eodem, sicut in affirmatiua
+   supponerent: sunt enim idem termini et pro eisdem supponunt in affirmatiua et in negatiua sibi
+   opposita. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e209"> Quinta conclusio est quod ad ueritatem propositionis de inesse et de praesenti requiritur et
+   sufficit quod qualitercumque ipsa significat esse ita est in re significata uel in rebus
+   significatis. Et hoc ultimum est notum ex ui nominis. Si enim dico quod homo est albus,
+   significo idem esse hominem et album, et ita est si propositio sit uera. Et ex hoc infertur
+    <supplied>quod</supplied> si non sit res significata, uel etiam res pro qua terminus
+   supponit, propositio talis non est uera, sed falsa. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e215"> Sexta conclusio est quod ad falsitatem affirmatiuae requiritur et sufficit quod non
+   qualitercumque ipsa significat ita sit. Probatio: quia ex remotione ueritatis alicuius
+   propositionis ipsa redditur falsa et non aliter. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e219"> Septima conclusio est quod ad ueritatem negatiuae requiritur et sufficit quod non
+   qualitercumque affirmatiua sibi opposita significat ita est. Et ratio huius est quia omnino
+   eadem debet esse causa falsitatis affirmatiuae et ueritatis negatiuae sibi contradictoriae.
+   Unde propter hoc est uniuersaliter uerum quod si una contradictoria sit uera, altera sit
+   falsa, et e conuerso, scilicet quia omnis causa ueritatis unius est causa falsitatis alterius,
+   et e conuerso. Cum ergo causa ueritatis affirmatiuae sit quod est ita sicut ipsa significat,
+   ita causa falsitatis <supplied>eius est</supplied> quod non est ita sicut significat. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e225"> Octaua conclusio est quod ad ueritatem negatiuae non requiritur quod qualitercumque illa
+   significat ita sit. Probatio: quia ipsa non significat aliquid esse nec ita esse, immo potius
+   non esse uel non ita esse; etiam, sicut arguebatur, si nihil sit in re pro qua termini
+   supponunt, apparet quod nec est ita in re nec aliter, quia nullo modo, <supplied>et
+    tamen</supplied> negatiua est uera. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e231"> Nona conclusio est quod ad ueritatem affirmatiuae de praeterito, scilicet de <mentioned>fuisse</mentioned>,
+   requiritur et sufficit quod qualitercumque ipsa significat fuisse ita fuit. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e237"> Et pro ultima conclusione dicendum est proportionabiliter de futuro et proportionabiliter de
+   possibili. Haec enim est uera <mentioned>antichristus potest esse</mentioned>, quia qualitercumque haec propositio
+   significat posse <supplied>esse</supplied> ita potest esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e246"> Dicendum est etiam proportionabiliter de negatiuis de praeterito, uel de futuro, uel de
+   possibili, sicut dicebatur de negatiuis de inesse et de praesenti. Et non dico quod dicatis
+   eodem modo, sed proportionabiliter. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e171-d1e249"> Istis uisis respondetur ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e253"> 1. Ad primam, scilicet <supplied>de ista propositione</supplied> 
+       <mentioned>ego dico falsum</mentioned>, concedo
+   quod est falsa. Tamen sicut ipsa significat esse ita est, quia significat se esse falsam et
+   ita est. Sed tamen non qualitercumque ipsa significat esse ita est, quoniam omnis propositio
+   de eius forma asserit et designat se esse ueram, licet ex significatione terminorum possit cum
+   hoc designare se esse falsam, quia ipsa non solum significat se esse falsam, sed etiam, ex
+   communi condicione propositionis, significat se esse ueram, et non est uera. Ideo licet
+   aliqualiter sic significet, non tamen totaliter uel qualitercumque ita est. Ideo est falsa. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e262"> 2. Ad aliam, de ista propositione <mentioned>tu dicis falsum</mentioned> posito casu praedicto, dico quod utraque
+   est falsa. Ideo sicut utraque significat ita est, non tamen qualitercumque, quia cum hoc quod
+   utraque asserit alteram dicere falsum, utraque etiam, licet non formaliter, tamen consecutiue,
+   asserit alteram esse ueram, et consequenter asserit omnem aliam esse ueram de qua est eadem
+   ratio sicut de ipsa. Nam de illis duabus est una ratio de una sicut de alia; ideo quaelibet
+   asserendo se ipsam asserit aliam. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e268"> 3. Ad tertiam, concessum est quod negatiua est uera. Unde licet non sit ita in re, tamen est
+   ita in re sicut sua affirmatiua opposita significat esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e271"> 4. Ad aliam concedo quod haec est uera <mentioned>Fauellus currebat uelociter</mentioned>, non quia sit ita in
+   re, sed quia fuit ita in re sicut propositio significat fuisse. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e277"> Ad rationes utriusque partis potestis dicere quod quia affirmatiuae de inesse sunt priores
+   aliis, ideo non proprie loquendo sed improprie, causa breuitatis nos omnibus propositionibus
+   solemus attribuere modum loquendi proprie debitum affirmatiuis de inesse. Ideo utentes tali
+   modo loquendi, improprio de uirtute sermonis, nos de qualibet propositione uolentes asserere
+   quod sit uera dicimus quod ita est et uolentes contradicere dicimus quod ita non est. Tamen
+   per talem sermonem debetis intelligere secundum diuersos sensus et diuersos modos
+   propositionum, quod si non feceritis multotiens contingit error. </p>
+
+
+      <p xml:id="Buzcv2-d1e171-d1e280"> Aliae rationes soluuntur in praecedentibus quaestionibus. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

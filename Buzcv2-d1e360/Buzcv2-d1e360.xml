@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27a</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e360">
+      <head xml:id="Buzcv2-d1e360-Hd1e101">Quaestio 27a</head>
+
+      <head xml:id="Buzcv2-d1e360-Hd1e104" type="question-title"> UTRUM SCIENTIA SUBALTERNATA SIT PARS SCIENTIAE SUBALTERNANTIS </head>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e107"> Consequenter quaeritur, uicesimo septimo, utrum scientia subalternata sit pars scientiae
+   subalternantis, uerbi gratia quod perspectiua sit pars geometriae et musica arithmeticae. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e110"> 1. Arguitur quod sic: quia de eisdem scientiis dicit <name ref="#Aristotle">Aristotiles</name> quod alia ponitur sub
+   altera; modo quod ponitur sub altero est eius pars, scilicet uel pars subiectiua uel pars in
+   modo; igitur ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e116"> 2. Item, cum philosophia speculatiua diuidatur sufficienter in tres, scilicet in mechanicam,
+   mathematicam et physicam, oportet quamlibet aliarum esse <supplied>partem</supplied>
+    illa<supplied>ru</supplied>m, ad faciendum numerum ternarium; ergo est dare unam
+   mathematicam comprehendentes omnes mathematicas tamquam eius partes; ergo est uerum dicere
+   quod musica est pars mathematicae ; et non uidetur esse alia pars mathematicae quam illius cui
+   subalternatur; ergo subalternata est pars subalternantis. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e126"> 3. Item, sicut se habet subiectum ad subiectum, ita scientia ad scientiam, cum a subiectis
+   scientiae sumant unitatem et distinctionem; sed subiectum musicae, scilicet numerus sonorus,
+   est pars in modo subiecti arithmeticae, quod est numerus; igitur musica est pars in modo
+   arithmeticae. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e129"> 4. Item, uel sonus est de per se accidentibus numeri, uel conuenit sibi solum per accidens;
+   si dicis quod conuenit sibi solum per accidens, sequitur inconueniens, quod nulla scientia
+   esset de numero sonoro, eo quod de ente per accidens non est scientia; si uero dicatur quod
+   sit de per se accidentibus numeri, tunc ad eandem scientiam pertinebit
+    <supplied>considerare</supplied> de numero et <supplied>de</supplied> sono, eo quod scientia
+   ad considerandum aliquod subiectum debet considerare omnia eius per se accidentia ; et sic
+   reuertitur quod musica et arithmetica essent eadem scientia , uel saltem musica erit sub ipsa
+   arithmetica tamquam eius pars. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e138"> 5. Item, ad scientiam de aliquo toto pertinet considerare de partibus, non solum de partibus
+   subiectiuis quidditatiue, immo etiam de partibus in modo; uerbi gratia, eadem scientia, ut
+   geometria, considerans de magnitudine, considerat etiam de magnitudine cubica, et considerans
+   de linea, considerat etiam de linea recta; modo subiectum subalternatae est pars in modo
+   subiecti subalternantis; igitur ad scientiam subalternantem pertinet considerare de subiecto
+   subalternatae, propter quod subalternata est quaedam pars subalternantis. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e141"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>*, dicentem quod aliquo modo differt ipsum propter quid ab
+   ipso quia, eo quod est per aliam scientiam utrumque speculari, et hoc dicit esse quando unum
+   sub altero ponitur, sicut speculatiua, id est perspectiua, se habet ad geometria, et harmonica
+   ad arithmeticam; et sic ponit scientiam subalternatam et scientiam subalternantem esse
+   diuersas scientias, et non unam esse partem alterius. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e147"> Item, geometria et arithmetica attribuunt magnitudinem et numerum ad motum; ergo illae sunt
+   partes geometriae uel arithmeticae quae considerant de praedictis cum motu; sed perspectiua et
+   ***** considerant de praedictis cum motu; ergo sunt partes geometria uel arithmeticae. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e150"> Item, nulli speciei numeri conuenit per se sonus, quoniam binarius et ternarius possunt esse
+   sine sono; sed arithmetica non habet <supplied>considerare</supplied> nisi ea quae per se
+   conueniunt et per se habent attributionem ad species numeri; ergo arithmetica nihil habet
+   considerare de sono; ideo musica, quae est de numero sonoro, non est pars arithmeticae. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e157"> Ista quaestio mota est ut uideamus diuersos modos subalternationis scientiarum et quo modo
+   se habent subalternatae ad subalternantes. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e160"> Ad hoc igitur uidendum, sciendum est quod multiplex est subalternatio scientiarum. Prima est
+   secundum puram uniuocationem subiectorum, scilicet quando subiectum unius est inferius
+   quidditatiue ad subiectum alterius, ut si una esset de genere et alia de specie, sicut etiam
+   scientia de linea esset subalternata scientiae de magnitudine. Tunc igitur est dubitatio quo
+   modo hae scientiae se habeant ad inuicem, scilicet utrum scientia de linea sit pars scientiae
+   de magnitudine, et si sic, utrum sit pars integralis uel pars subiectiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e163"> Et ad hoc declarandum, sciatis quod hoc nomen <mentioned>scientia</mentioned>* capitur dupliciter, loquendo de
+   scientia uere demonstratiua: uno modo prout supponit pro simplici habitu unius conclusionis
+   demonstratae, alio modo ut supponit pro congregatione habituum multarum conclusionum et
+   multorum processuum habentium per se reductionem ad unum genus subiectum. Et secundus istorum
+   modorum potest ad praesens uocari <mentioned>scientia congregata</mentioned>, ut inter illos modos ponamus
+   differentiam nominum. Et potest uideri quod isti modi ualde differunt et saepe diuersificatur:
+   quia si esset tibi perfecte demonstrata prima conclusio geometriae , sine dubio tu haberes
+   scientiam perfectam geometricalem, loquendo de scientia simplici unius conclusionis; tamen,
+   attendentes ad scientiam congregatam, nos non diceremus te habere scientiam perfectam
+   geometricalem, nec te esse perfectum geometram. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e172"> Sciendum est ergo quod si loquamur de scientia simplici, tu habes tot scientias de linea quo
+   sunt conclusiones tibi scitae de isto termino <mentioned>linea</mentioned> uel de suis per se passionibus; sed si
+   loquamur de scientia congregata, tunc de linea tu haberes unicam scientiam, congregatam ex
+   omnibus processibus et conclusionibus formatis de isto termino <mentioned>linea</mentioned> uel
+    <supplied>de</supplied> habentibus per se attributionem ad ipsum, dum tamen non transcendant
+    <supplied>metas</supplied>. Unde quamuis magnitudo habeat per se attributionem ad lineam,
+   tamen scientia in communi de magnitudine non meretur dici, uel denominari, scientia de linea,
+   nec pars scientiae de linea, sed scientia de magnitudine, quia scientia congregata semper
+   debet denominari a suo subiecto communissimo inter ea quae non transcendunt metas. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e187"> Tunc pono conclusiones. Prima est quod omni scientia simplex de linea est pars integralis
+   scientiae congregatae de linea, quoniam eadem scientia congregata componitur de scientiis
+   simplicibus. Et ita diceretur de scientiis simplicibus et congregatis quae essent de
+   magnitudine, et de enti mobili, at sic de aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e190"> Secunda conclusio est quod omnis scientia de linea, siue simplex siue congregata, est pars
+   integralis scientiae considerantis de magnitudine. Quia scientia congregata de magnitudine est
+   de ipsa magnitudine et de partibus magnitudinis, et de passionibus magnitudinis et suarum
+   partium; quoniam scientia una est unius generis subiecti, plures etiam passiones considerans,
+   ut habetur primo huius* et quarto Metaphysicae*. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e194"> Sed tamen debetis scire quod scientia de magnitudine potest restringi ut dicatur de
+   magnitudine solum secundum rationem communem magnitudinis et secundum omnes eius passiones; et
+   tunc scientia appropriate de linea non est pars huius modi scientiae de magnitudine sine tali
+   restrictione. Verbi gratia, scientia naturalis est de ente mobili, et scientia etiam libri
+   Physicorum est de ente mobili in communi , et scientia etiam libri de Caelo et Mundo est
+   appropriate de una specie entis mobilis, scilicet de ente mobili ad ubi, tamen de ente mobili
+   communiter <supplied>non</supplied> est. Alio modo scientia libri Physicorum est de ente
+   mobili secundum restrictionem ad communem rationem entis mobilis, et principia communia, et
+   rationes communes. Totalis autem scientia naturalis est de ente mobili sine tali restrictione;
+   ideo est tam de principiis communibus quam de principiis specialibus entium, quare scientia
+   libri de Caelo est pars integralis scientiae naturalis et non est pars scientiae libri
+   Physicorum, licet sit ei subalternata. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e200"> Ultimo, si loquamur de scientiis simplicibus de linea et magnitudine, tunc est dicendum quod
+   scientia de linea, id est de isto termino <mentioned>linea</mentioned>, non est <supplied>pars</supplied>
+    scientia<supplied>e</supplied> de magnitudine, neque subiectiua neque integralis, sicut
+   etiam homo neque est pars animalis. Tamen si omnis scientia de linea uocetur <mentioned>B</mentioned> et omnis
+   scientia de magnitudine uocetur <mentioned>A</mentioned>, tunc iste terminus <mentioned>B</mentioned> erit pars subiectiua istius
+   termini <mentioned>A</mentioned>, sicut iste terminus <mentioned>homo</mentioned> est pars subiectiua istius termini <mentioned>animal</mentioned>. Et sic
+   dictum est de ista prima subalternatione. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e231"> Nunc uidendum est de secunda quid sit, non secundum meram uniuocationem, sed proprie, ut
+   dicit <name ref="#Aristotle">Aristotiles</name>, et est haec subalternatio secundum contractionem, non essentialem, seu
+   quidditatiuam, sed demonstratiuam; et hoc est dupliciter. Uno modo possibile est quod
+   contractio sit de per se accidentibus siue de per se passionibus subiecti contractibilis;
+   uerbi gratia, quod rectum et curuum sint de per se passionibus lineae, et masculum et femineum
+   de per se passionibus animalis . Et tunc subiecta se haberent sicut totum et pars in modo, ut
+   <mentioned>linea</mentioned> et <mentioned>linea recta</mentioned>, uel <mentioned>animal</mentioned> et <mentioned>animal masculum</mentioned>. Et tunc est dicendum quod ad
+   scientiam de toto in modo pertinet considerare de parte in modo, sicut scientia de linea debet
+   considerare de lineis rectis et circularibus; in scientia etiam de animalibus consideratur tam
+   de animalibus masculis quam de femineis. Ideo si scientiam de parte in modo uocemus scientiam
+   subalternatam scientiae de toto, poterit concludi quod subalternata est pars subalternantis;
+   scientia namque de linea recta est pars scientiae congregatae de linea. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e249"> Sed alio modo potest considerari contractio, scilicet in quantum est mere accidentalis
+   contractibili, sicut sonus est mere accidentalis magnitudini et speciebus magnitudinis, uel
+   etiam numero et speciebus numeri. Et tunc scientia de parte in modo non pertinet ad scientiam
+   de toto, nec est pars eius. Verbi gratia, scientia de numero sonoro non est pars scientiae de
+   numero, eo quod scientia de numero non debet considerare nisi ea quae pertinent et per se
+   attribuuntur numero, et huius modi non sunt <supplied>nisi</supplied> passiones numeri mere
+   accidentales; ideo scientia de numero nihil habet considerare de sono, nec, per consequens, de
+   numero sonoro. Possibile est tamen quod istae scientiae, licet sint diuersae, significentur
+   per unum nomen commune, praedicabile de nominibus significantibus appropriate illas diuersas
+   scientias. Verbi gratia, musica, quae est de numero sonoro, et arithmetica, quae est de
+   numero, significantur bene per hoc nomen commune <mentioned>mathematica</mentioned>; et sic dicetur quod musica et
+   arithmetica sunt partes mathematicae, non quod haec propositio sit uera de proprietate
+   sermonis (sicut nec ista est uera <mentioned>homo et equus sunt partes animalis</mentioned>), sed propositio erit
+   uera secundum suppositionem materialem terminorum: isti enim termini <mentioned>musica</mentioned> et <mentioned>arithmetica</mentioned>
+   sunt partes subiectiuae huius termini <mentioned>mathematica</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e271"> Adhuc, ultimo, est subalternatio multum distans ab uniuocatione , scilicet quia in neutra
+   istarum scientiarum subiectum unius est pars subiecti alterius, sed tamen in hoc est
+   subalternatio quod conclusiones unius scientiae descendunt, licet forte cum appropriatione, ad
+   deducendum aliquas conclusiones alterius scientiae, ex eo quod subiectum unius uel aliqua
+   passio eius sit passio alterius, sicut magnitudo, numerus et figura sunt passiones in naturali
+   scientia; et tamen istae scientiae sunt distinctae, nec una est pars alterius, nec oportet
+   ambas esse partes eiusdem, sicut est de geometria et medicina. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e274"> Ibi ergo sunt quattuor, et forte omnes, modi subalternationis. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e278"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e281"> 1. Ad primam, potest concedi quod in subalternatione secundum uniuocationem, uel proprie,
+   alterum est sub altero, ut uult <name ref="#Aristotle">Aristotiles</name>*, id est subiectum unius sub subiecto alterius,
+   tamquam pars eius subiectiua uel pars in modo. Tamen si contractio sit mere accidentalis, non
+   oportet quod scientia sit sub scientia, proprie loquendo, scilicet secundum ueram
+   praedicationem unius de altero. Sed sic solum una est sub alia quia descenditur de principiis
+   et conclusionibus unius ad principia et conclusiones alterius. Vel una scientia est sub alia
+   non proprie, sed secundum extrinsecam denominationem a suis subiectis, et hoc non est dictum
+   nisi quod subiectum unius sit sub subiecto alterius. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e287"> 2. Ad aliam potest dici quod musica non est pars mathematica sed solum iste terminus
+   <mentioned>musica</mentioned> est pars subiectiua huius termini <mentioned>mathematica</mentioned>; ideo uerum est dicere quod musica
+   est mathematica, licet musica non sit arithmetica nec pars eius. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e296"> 3. Ad aliam, quando dicitur <quote xml:id="Buzcv2-d1e360-Qd1e298">sicut se habet subiectum ad subiectum, ita scientia ad
+   scientiam</quote>, dico quod non est uerum. Quia licet scientia congregata accipiat unitatem ab
+   unitate subiecti, et exercitus ab unitate ducis, tamen non est idem modus unitatis subiecti et
+   ducis, uel scientiae et exercitus. Immo unitas subiecti uel ducis est unitas simpliciter, qua
+   simpliciter dicimus ipsum esse ens unum in numero; sed unitas scientiae uel exercitus non est
+   unitas simpliciter, sed unitas secundum analogiam, id est secundum ordinem uel reductionem
+   plurium ad unum. Unde exercitus non est simpliciter unum ens, immo est multa entia, diuersa et
+   numero et specie; et ita est de scientia congregata. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e302"> 4. Ad aliam, quando dicitur quod si sonus sit de per se accidentibus numeri, tunc ad
+   arithmeticam pertinebit <supplied>considerare</supplied> de sono, hoc concedo. Et quando
+   dicitur quod si sonus se habeat accidentaliter ad numerum, tunc numerus sonorus est ens per
+   accidens, potest dici quod licet numerus sonorus possit dici ens per accidens, non tamen est
+   tale ens per accidens de quo <name ref="#Aristotle">Aristotiles</name>* dicit non esse scientiam. Quia per illud ens per
+   accidens de quo non est scientia debemus intelligere propositionem per accidens, scilicet
+   contingentem; de tali enim non est scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e311"> 5. Ad aliam, concedo quod scientia una est unius generis subiecti, considerans partes eius
+   essentiales, siue subiectiuas, et partes materiales, si contractio fuerit de per se
+   accidentibus et contractibilibus, et aliter non. </p>
+
+
+      <p xml:id="Buzcv2-d1e360-d1e315"> Et sic finitur quaestio. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

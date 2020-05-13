@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 25a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 25a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e338">
+      <head xml:id="Buzcv2-d1e338-Hd1e101"> Quaestio 25a </head>
+
+      <head xml:id="Buzcv2-d1e338-Hd1e104" type="question-title"> UTRUM MATHEMATICAE SCIENTIAE SINT ALIARUM SCIENTIARUM CERTISSIMAE </head>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e107"> Consequenter quaeritur, uicesimo quinto, utrum mathematicae scientiae sint aliarum
+   scientiarum certissimae. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e110"> 1. Arguitur quod non per
+   <ref xml:id="Buzcv2-d1e338-Rd1e112">Aristotilem, prooemio de Anima</ref>
+   *, ubi <name ref="#Aristotle">Aristotiles</name> dicit quod scientia de anima debet omnibus aliis praeponi secundum
+   nobilitatem et certitudinem; ergo scientia de anima uidetur esse aliarum certissima, cum tamen
+   non sit scientia mathematica. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e119"> 2. Item, expresse,
+   <ref xml:id="Buzcv2-d1e338-Rd1e121">prooemio Metaphysicae</ref>
+   *, dicit <name ref="#Aristotle">Aristotiles</name> quod prima scientia, id est metaphysica, est omnium aliarum certissima;
+   ergo mathematicae non sunt certissimae. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e129"> 3. Et idem probatur ratione; illa scientia est certior aliis, uel certissima, quae est ex
+   principiis omnino certissimis et notissimis; sed principia metaphysicae, et non principia
+   mathematicae, sunt omnino prima et certissima in tantum quod nullus potest ea mente negare, ut
+   habetur quarto Metaphysicae*; ergo metaphysica est aliarum certissima, et non mathematica. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e132"> 4. Item, subalternans est certior subalternata, unde propter hoc subalternata supponit a
+   subalternante sua principia; sed metaphysica subalternat sibi scientiam mathematicam, immo
+   etiam et omnes alias scientias speciales; ergo metaphysica est certior mathematica, et simul
+   aliis specialibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e135"> 5. Item, istae scientiae non sunt certissimae quarum principia sunt falsa uel dubia, aut ex
+   aliis scientiis sumpta et declarata, et quarum etiam suppositiones sunt falsae uel dubia et
+   similiter conclusiones (ista maior per se manifesta est); sed mathematicae scientiae sunt
+   huius modi. Probo istam minorem: quia principium mathematicum est <mentioned>omne totum est maius sua
+   parte</mentioned>, et hoc est falsum, quia compositum ex materia et forma non est maius quam materia; si
+   enim compositum est tripedale, ita materia est tripedalis. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e338-d1e141"> 6. Similiter, illud est principium mathematicum <mentioned>a quibuscumque aequalibus si aequalia
+   demas, quae remanent sunt aequalia</mentioned>; et illud principium esset falsum si magnitudo esset
+   composita ex punctis: quia acciperem duas lineas quarum quaelibet esset composita ex tribus
+   punctis, et tunc pono quod a qualibet istarum linearum auferatur linea duorum punctorum;
+   utrobique remanebit solum punctum; et sic prius illae lineae essent aequales, et ab eis
+   remotae sunt lineae aequales; tamen quae remanent non sunt aequalia, quia sunt indiuisibilia;
+   modo indiuisibile non dicitur aequale nec inaequale, quia indiuisibile non est quantum, cum
+   nihil est aequale uel inaequale nisi quantum; <supplied>tamen</supplied> ex mathematica non
+   est demonstratum utrum linea componatur ex punctis uel <supplied>non</supplied>; ideo uel
+   illud principium est in mathematica scientia incertum, uel est ex alia scientia demonstratum
+   et suppositum, et sic habeo quod intendebam probare. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e153"> 7. Aliud principium in mathematica est quod omnes anguli recti sunt ad inuicem aequales et
+   quod omnis angulus acutus est omni angulo recto minor, et illud principium est similiter
+   falsum; quia signemus angulum rectum A et lineae constituentes eum sint tripedales, et
+    <supplied>sit</supplied> alius angulus rectus B, et lineae constituentes eum sint solum
+   pedales: dico quod isti anguli non sunt aequales ad inuicem, immo angulus linearum tripedalium
+   est multum maior alio. Probatio: quia inquiram <quote xml:id="Buzcv2-d1e338-Qd1e158">quae res est angulus iste?</quote>; et non potest
+   dici quod angulus sit solum punctus in quo lineae se contingunt, quia tunc omnis angulus esset
+   indiuisibilis, et tunc nullus esset maior, quod est contra mathematicum; uel igitur ille
+   angulus est illae duae lineae quae tangunt se in puncto, uel est superficies contenta inter
+   illos duas lineas; si dicis quod angulus est illae duae lineae, habeo propositum, quia lineae
+   tripedales sunt maiores pedalibus; si dicis quod ille angulus est superficies contenta inter
+   illas lineas, adhuc sequitur propositum, quia superficies maior continetur inter illas duas
+   lineas tripedales quam inter pedales. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e162"> Sed forte diceres quod angulus, licet sit illa superficies uel illae lineae, tamen non est
+   illa tota superficies uel <supplied>totae</supplied> illae lineae. Contra hoc arguitur sic: si
+   angulus sit aliqua pars illius superficiei, et non tota illa superficies, oportet signare
+   quanta et quae pars illius superficiei est angulus, et non erit aliqua ratio quare tu debeas
+   magis signare quartam partem quam tertiam, uel millesimam quam centesimam; ideo uel angulus
+   non est aliqua pars illius superficiei, uel oportet dicere quod sit superficies. Sic igitur
+   apparet quod illud principium est falsum. Et ita posset probari quod unus
+    <supplied>angulus</supplied> acutus esset altero angulo recto multo maior, scilicet si
+   angulus acutus extenditur per spatium unius leucae et angulus alius rectus solum per spatium
+   unius pedis. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e172"> 8. Similiter ostendo quod suppositiones mathematicae sunt falsae: quia mathematicus supponit
+   quod omni magnitudine data contingit maiorem <supplied>dare</supplied> (aliter conclusio
+   geometriae esset falsa quae ponit quod super omnem lineam datam contingit triangulum
+   aequilaterum collocari); modo ista conclusio esset falsa si non posset dari magnitudo maior
+   caelo: quia ego darem lineam diametralem indiuisibilem de polo ad polum, et tunc super illam
+   lineam non posset triangulus aequilaterus collocari, quia oporteret tertium angulum exire a
+   caelo, quod non est possibile, ex quo illo non est magnitudo <supplied>maior</supplied>; sed
+   tamen <name ref="#Aristotle">Aristotiles</name> credidit probare in naturali philosophia quod est dare magnitudinem qua non
+   contingit dare maiorem: <supplied>quia non contingit dare maiorem</supplied> magnitudine
+   mundi; igitur praedictum principium mathematicum et prima conclusio mathematica essent falsa. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e187"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>: quia, secundum omnes expositores, intendit, primo
+   huius*, declarare quod in mathematicis scientiis contingit minor error et deceptio quam in
+   aliis scientiis, et ita ipsae sunt certiores aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e193"> Item, arguitur per Commentatorem, secundo Metaphysicae*, dicentem quod scientiae
+   mathematicae sunt in primo gradu certitudinis, et naturales in hoc sequuntur eas, et sine
+   dubio quasi omnes, ex habitudine naturali intellectus, concedunt demonstrationes mathematicas
+   esse certissimas. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e338-d1e196"> Ista quaestio breuiter soluenda est per distinctionem diuersorum modorum secundum quod
+   attendi potest certitudo scientiae. Unde potest dici quod quattuor modis potest attendi
+   certitudo in scientia. Primo modo, ex parte rerum significatarum, propter earum firmitatem et
+   immutabilitatem. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e199"> Tunc sit prima conclusio quod secundum istum modum certitudinis, metaphysica est aliis
+   scientiis certissima, pro tanto quod ipsa tractat de deo et intelligentiis, quae inter alia
+   entia sunt firmissima et immutabilissima. Aliae autem scientiae non tractant de praedictis,
+   saltem secundum conceptus speciales. Unde si scientia naturalis considerat de deo, tamen hoc
+   est secundum rationem secundum quam dicitur motor, in qua ratione connotatur motus et
+   transmutatio. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e202"> Secundo modo, scientia dicitur certior inter alias scientias ex eo quod scibile suum
+   relinquit pauciores dubitationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e206"> Tunc sit secunda conclusio quod secundum istum modum scientia propter quid de eadem re est
+   certior scientia quia. Quia scito quid est, adhuc relinquitur dubitari propter quid est, licet
+   non e conuerso. Tamen, hoc non obstante, difficilius est saepe, et occultius, scire propter
+   quid quam scire quia est; ideo si certitudo attenderetur penes facilitatem et euidentiam,
+   posset dici e conuerso, scilicet quod saepe demonstratio et scientia de eadem
+    <supplied>re</supplied> quia est sunt certiores quam scientia et demonstratio propter quid. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e212"> Tertio modo attenditur certitudo scientiae ex euidentia principiorum, et non suppositione
+   eorum ab alio. Et tunc credo quod concedendum sit quod metaphysica sit aliarum certissima. Nam
+   eius prima principia sunt omnino ex se euidentia, et non supposita ex aliqua scientia priori.
+   Principia autem specialia in specialibus scientiis aut sunt occulta, aut explanata per
+   metaphysicam, uel sunt experta per sensum et per sensuales experientias, sicut est de multis
+   principiis naturalibus, et ibi non potest esse tanta certitudo quanta est in illis principiis
+   quae sunt intellectui euidentia. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e215"> Credo etiam quod isto modo mathematica scientia est multum incerta. Quia principia
+   mathematicalia indigent bene explanatione per superiores scientias; et etiam multae
+   conclusiones mathematicae indigent expositione eius quod de est dubium et a multis non
+   concessum, <supplied>ut</supplied> scilicet quod linea non sit composita ex punctis; uerbi
+   gratia, conclusio in geometria est <supplied>quod possibile est</supplied> omnem lineam per
+   aequalia diuidere, quod esset impossibile de linea punctorum imparum, et etiam ita ista
+   conclusio esset falsa quod diameter est incommensurabilis costae, et sic de multis aliis;
+   tamen geometria non habet determinare nec demonstrare illam dubitationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e224"> Ultimo <supplied>modo</supplied> certitudo attenditur ex certo modo demonstrandi suppositis
+   principiis. Et tunc esset concedendum quod mathematicae demonstrationes essent in primo gradu
+   certitudinis: quia demonstrationes mathematicae maxime obseruant formam syllogisticam et
+   modum, et maxime sunt ex propriis mediis. Et si est dubitatio in huius modi demonstrationibus
+   mathematicis, est maxima certitudo ex suppositione principiorum, et est tamquam certitudo
+   condicionalis quod si ita est sicut <supplied>principia ponunt, ita est sicut</supplied>
+   conclusio ponit. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e233"> Tunc ad rationes respondetur. Et primo puto quod non erat intentio <name ref="#Aristotle">Aristotilis</name>, primo huius,
+   comparare scientias mathematica alias scientias, sed uolebat scientias demonstratiuas
+   comparare ad illas quas uocabat doctrinas ac persuasiones dialecticas, in quibus
+   persuasionibus dialecticis contingit pluries error et deceptio, quia non obseruatur forma
+   syllogistica et modus. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e239"> 1. Hoc uiso, dicendum est de scientia de anima quod <name ref="#Aristotle">Aristotiles</name> comparabat eam nec ad
+   mathematicam nec ad metaphysicam, sed ad alias scientias naturales. Et intendebat etiam de
+   aliquali modo certitudinis de quo non est locutum, scilicet quia operationes animae in nobis
+   experiuntur, ideo caeteris paribus debemus magis esse certi de his quae in nobis experiuntur
+   quam de aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e246"> 2-4. Ad alias rationes, concessum est quod metaphysica simpliciter est certissima, et etiam
+   eius principia sunt euidentissima. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e249"> 5. Sed ad rationem quae arguebat de falsitate principiorum mathematicalium et suppositionum
+   et conclusionum, dicendum est quod haec omnia sunt uera scilicet principia, suppositiones et
+   conclusiones in mathematica, si debite intelligantur. Conceditur etiam bene quod aliqua sunt
+   ex aliis scientiis supposita. Et quando tu dicis de illo supposito <mentioned>omne totum est maius sua
+   parte</mentioned>, debet intelligi de toto quantitatiuo; omne enim totum quantitatiuum quantitate
+   extensionis est extensiue maius sua parte et omne totum quantitatiuum quantitate discretionis
+   est maius, id est plus, sua parte. Modo tu arguebas de toto essentiali et de maioritate
+   extensionis; ideo non arguebas contra principium. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e255"> 6. Ad aliam, <quote xml:id="Buzcv2-d1e338-Qd1e257">si ab aequalibus ...</quote>, dico quod illud principium <supplied>non ualet
+    de</supplied> magnitudinibus, quia nulla magnitudo componitur ex indiuisibilibus; ideo non
+   est simpliciter principium, sed est in mathematica supponendum. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e264"> 7. Ad aliam, de angulo, dico breuiter quod rationes uerum concludebant, ita quod haec est
+   simpliciter falsa <mentioned>omnis angulus rectus omni angulo recto est aequalis</mentioned>; et haec etiam est
+   falsa <mentioned>omni angulus acutus est minor recto</mentioned>. Tamen sunt uerae ad intellectum quem habet
+   mathematicus, scilicet quod omnes anguli recti secundum aequalem distantiam a puncto angulari
+   sunt aequales et omnes anguli acuti sunt omnibus angulis rectis minores secundum aequalem
+   distantiam a puncto angulari. </p>
+
+
+      <p xml:id="Buzcv2-d1e338-d1e273"> 8. Ad rationem de suppositionibus, dico quod mathematicus no supponit quod omni magnitudini
+   data contingit dare maiorem, sed quod omni <supplied>magnitudine</supplied> data contingit
+   imaginari maior. Prima enim conclusio debet intelligi secundum dictam considerationem quod
+   super omnem lineam datam contingit triangulum aequilaterum collocari
+    <supplied>LACUNA</supplied> sed sit dare magnitudinem tantam quanta potest imaginari. Et si
+   aliquis arguit de suppositionibus quae solent fieri discipulis (uerbi gratia suppositio quod
+   linea scripta in pariete sit recta quae tamen non est recta), dico quod illa suppositio
+   secundum sensum quem nobis debet facere non est falsa, quia sensus non debet esse quod illa
+   quam uides sit recta, sed quod quaedam alia quam tu per eam intelligis significari sit recta,
+   et hoc est uerum. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

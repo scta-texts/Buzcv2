@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 7a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 7a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e500">
+      <head xml:id="Buzcv2-d1e500-Hd1e101"> Quaestio 7a </head>
+
+      <head xml:id="Buzcv2-d1e500-Hd1e104" type="question-title"> UTRUM IN OMNI DEMONSTRATIONE POTISSIMA MEDIUM SIT DIFFINITIO
+   SUBIECTI VEL DIFFINITIO PASSIONIS </head>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e107"> Consequenter quaeritur, septimo, utrum in omni demonstrations potissima medium sit definitio
+   subiecti uel definitio passionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e110"> 1. Et arguitur primo quod sit definitio passionis per <name ref="#Aristotle">Aristotilem</name>, in isto libro*, qui, cum
+   demonstraret de tonitruo et poneret terminos syllogismi <mentioned>A</mentioned>, <mentioned>B</mentioned>, <mentioned>C</mentioned>, ipse dicit quod <mentioned>B</mentioned>
+   medium esset ratio, id est definitio primi termini, scilicet maioris extremitatis; modo maior
+   extremitas est ipsamet passio quae concluditur de subiecto; ideo patet quod medium est
+   definitio passionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e128"> 2. Item, probatur per exempla <name ref="#Aristotle">Aristotilis</name> in littera de eclipsi lunae propter terram
+   interpositam auferentem lumen solis a luna; et ibi medium non est definitio lunae, sed
+   passionis, scilicet eclipsis, quoniam eclipsis est ablatio luminis a luna propter
+   interpositionem terrae; ergo medium debet esse definitio passionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e135"> 3. Item, in fine huius secundi*, ad probandum quod animal sit longae uitae, docet
+   <name ref="#Aristotle">Aristotiles</name> capere definitionem passionis, scilicet longae uitae, quod est colam non habere;
+   ideo per definitionem passionis docet demonstrare passionem de subiecto. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e141"> 4. Item, in scientiis mathematicis, ubi sunt demonstrationes potissimae, demonstrantur
+   passiones de subiectis per definitiones ipsarum passionum; uerbi gratia, habere tres angulos
+   aequales duobus rectis probatur per hoc quod est habere angulum extrinsecum aequiualentem
+   duobus intrinsecis sibi oppositis, et haec est descriptio siue haec est definitio eius quod
+   est habere tres angulos aequales duobus rectis. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e144"> 5. Ultimo arguitur sic: quia medium in demonstratione potissima debet dicere quid est et
+   propter quid est, ut uidetur uelle <name ref="#Aristotle">Aristotiles</name>, secundo huius*; modo talis est definitio
+   passionis; dicit enim de passione quid est et propter quid ipsa est, eo quod passio definitur
+   per subiectum, quod est causa eius; igitur talis definitio debet esse medium in demonstratione
+   potissima. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e150"> Oppositum uidetur uelle <name ref="#Aristotle">Aristotiles</name>, prooemio de Anima*, ubi loquens de quod quid est ipsius
+   animae dicit quod non solum quod quid est est utile ad demonstrandum causas accidentium, sed
+   etiam, e conuerso, accidentia magnam partem conferunt ad cognoscendum quod quid est; igitur
+   <name ref="#Aristotle">Aristotilis</name> intentio est quod licet a posteriori accidentia ducant in notitiam subiectorum uel
+   definitionem ipsius subiecti, tamen definitio ipsius subiecti ualet ad demonstrandum causas
+   accidentium, id est ad demonstrandum passiones propter quid. Et postea, etiam in eodem
+   prooemio*, dicit quod quando per definitionem ipsius subiecti non apparent causae accidentium,
+   ipsa definitio non est nisi dialectica et uana; ergo per definitionem subiecti perfectam
+   debent apparere eius passiones; igitur per eam debent demonstrari passiones. Ideo <name ref="#Aristotle">Aristotiles</name>,
+   quarto Physicorum*, uolens diffinire <mentioned>locum</mentioned>, <supplied>dicit</supplied> quod tunc pulcerrime
+   definitur <mentioned>locus</mentioned>, uel quodcumque aliud, quando ex definitione ipsius apparent causae omnium
+   accidentium. Ideo per definitionem subiectorum debent demonstrari passiones de suis subiectis. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e172"> Propter istam quaestionem, nota quod, sicut uult Commentator, octauo Physicorum*, idem agens
+   est dans formam et dans omnia per se consequentia formam. Similiter, secundo Physicorum*,
+   dicit <name ref="#Aristotle">Aristotiles</name> quod in naturalibus accidentia per se nec sunt naturaliter nec habentia
+   naturam, sed sunt ad naturam uel secundum naturam, tamquam natura rei sit per se causa eorum.
+   Modo natura rei est eius per se causa intrinseca, sicut materia uel forma. Ex quibus patet
+   quod illae causae quae sunt per se et primo causae subiectorum sunt consequenter causae per se
+   accidentium siue passionum. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e178"> Ex istis uidetur mihi esse dicendum quod in demonstratione potissima passionis de subiecto
+   definitio subiecti debet esse medium, et maxime definitio causalis, exprimens causas per se
+   illius subiecti. Haec conclusio sic probatur: illud est conueniens medium ad demonstrandum
+   passionem de subiecto propter quid quod est explicatiuum causae uel causarum propter quas
+   passio talis conuenit tali subiecto (haec uidetur de se nota); sed definitio causalis subiecti
+   est huius modi (haec uero patet ex dictis: quoniam definitio causalis subiecti explicat per se
+   causas illius subiecti et illae eaedem causae debent esse causas per se accidentium); igitur
+   ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e182"> Item, uel definitio subiecti est medium in demonstratione, uel definitio passionis. Si
+   definitio subiecti, habemus propositum. Si definitio passionis, contra. Quia quaedam est
+   definitio passionis dicens solum quid nominis, et illa definitio est aeque dubia de subiecto
+   sicut est passio; ideo non est conueniens medium demonstratiuum. Alia est definitio quid rei,
+   et illa est data per subiectum illius passionis, eo quod non potest sciri quid res est nisi
+   scito quia est, et non scitur esse passionis nisi per esse subiecti; unde non scitur quid
+   simitas est nisi sciatur aliquid esse simum et aliquem nasum esse simum. Et ideo si talis
+   definitio ualeat ad demonstrationem passionis de subiecto, hoc non est nisi in quantum
+   resoluitur in subiectum et in principia subiecti; et ideo oportet fieri recursum similem ad
+   definitionem causalem subiecti. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e185"> Et hoc etiam declaro considerando exempla quaedam. Quia si tu uis dicere quod luna
+   eclipsatur, uidebis quod hoc est originaliter et causaliter propter naturam et principia
+   lunae, scilicet quia natura lunae est non esse ex se lucidam, sed esse illustrabilem a sole;
+   natura etiam lunae est quod sit circulariter mobilis et quod moueatur circa terram; et ex hoc
+   prouenit sibi quod aliquando terra interponitur sibi et soli, et quod terra prohibet
+   illustrationem eius a sole, et ita quod luna capiat lumen. Et sic patet quod luna propter suam
+   naturam et propter suam causam agentem, scilicet mouentem ipsam, est eclipsata. Et ita
+   diceremus quod triangulus per sua intrinseca principia habet quod anguli sui sint aequales
+   duobus rectis, scilicet ex eo quod triangulus est figura plana tribus rectis lineis contenta;
+   unde si diuerto hanc naturam, scilicet sic quod una linea non sit recta, non amplius
+   conueniunt sibi illae causae et natura. Et causae per se illius subiecti sunt propter quas
+   passio conuenit subiecto; ideo definitio causalis subiecti demonstrat uere passionem de
+   subiecto propter quid. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e500-d1e188"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e191"> 1. Quando dicit <name ref="#Aristotle">Aristotiles</name> quod medium est causa primi termini, potest dici quod posterius
+   est subiectum, cum ipsum subiectum sit naturaliter prius passione, quamuis in ordine
+   syllogistico passio ponatur maior extremitas. Potest etiam dici quod definitio ualet ad
+   demonstrandum passionem de subiecto, sed hoc est ea ratione qua resoluitur in subiectum et
+   causas ipsius subiecti, constituentes definitionem causalem ipsius subiecti. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e197"> 2. Ad aliam, dico quod saepe eiusdem subiecti sunt plures passiones ordinatae quarum
+   posterior demonstratur de subiecto per priorem; sed prima demonstratur de subiecto suo per
+   causas proprias ipsius subiecti, ideo per definitionem causalem subiecti. Unde per naturam
+   lunae et sui motoris conuenit lunae illa passio quae est moueri circulariter circa terram; et
+   propinquam passionem sequitur alia passio, quod inter ipsam lunam et solem possit terra
+   interponi; et per istam passionem et naturam lunae sequitur alia passio, quod possit priuari
+   lumine. Modo aliquando, si illae passiones ordinatae fuerint inuicem conuertibiles, solemus
+   uocare passionem priorem tamquam definitionem seu descriptionem posterioris passionis, et sic
+   utendo nominibus concederetur quod posterior passio demonstratur de subiecto per suam
+   definitionem, id est per passionem priorem. Sed tamen passio prima, ut dixi, non conuenit
+   subiecto nisi per causas et principia ipsius subiecti, quae constituunt ipsam definitionem
+   causalem. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e200"> 3-4. Et eodem modo diceretur de alia ratione, et similiter de triangulo. Triangulus enim
+   habet plures passiones subordinatas; unde haec est una passio habere angulum extrinsecum
+   aequiualentem duobus rectis sibi oppositis, et alia est habere tres angulos aequales duobus
+   rectis. Nec una est proprie definitio alterius, sed una bene demonstratur per alteram; tamen
+   finaliter ambo conueniunt triangulo propter triangulum habere talem figuram ex tribus lineis
+   constitutam. </p>
+
+
+      <p xml:id="Buzcv2-d1e500-d1e204"> 5. Ad aliam, dico quod medium demonstratiuum debet dicere quod quid est et propter quid est,
+   scilicet quid est subiectum et propter quid est passio subiecti, et adhuc quodam modo dicit
+   quid est passio, in quantum passio est definita per subiectum. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

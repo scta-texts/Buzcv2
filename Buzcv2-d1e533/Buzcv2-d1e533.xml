@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 10a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 10a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e533">
+      <head xml:id="Buzcv2-d1e533-Hd1e101"> Quaestio 10a </head>
+
+      <head xml:id="Buzcv2-d1e533-Hd1e104" type="question-title"> UTRUM EIUSDEM DEMONSTRABILIS POSSINT ESSE PLURES CAUSAE
+   DEMONSTRATIVAE </head>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e107"> Consequenter quaeritur, decimo, utrum eiusdem demonstrabilis possint esse plures causae
+   demonstratiuae. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e110"> 1. Arguitur quod sic, per <name ref="#Aristotle">Aristotilem</name>*, qui prius dixit idem demonstrari per plures causas,
+   ut per causam finalem, et efficientem, et materialem, et formalem. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e116"> 2. Arguitur etiam per ipsum <name ref="#Aristotle">Aristotilem</name>, prooemio Physicorum*, dicentem quod in habentibus
+   principia, causas et elementa oportet aliud scire ex complexione eorum; modo scire est per
+   demonstrationem; ergo demonstrationes fiunt per principia, causas et elementa; tamen
+   Commentator* exponit quod per illa tria nomina, scilicet <mentioned>principia</mentioned> 
+       <mentioned>causas</mentioned>, <mentioned>elementa</mentioned>,
+   <name ref="#Aristotle">Aristotiles</name> intendit quattuor genera causarum; ergo idem potest per plures causas demonstrari,
+   et per plura genera causarum. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e135"> 3. Item, propter quodcumque aliud est aliquid potest demonstrari propter quid est; sed unum
+   et idem est propter plures causas; ergo unum et idem habet plures causas per quas potest
+   demonstrari. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e138"> Oppositum uidetur uelle <name ref="#Aristotle">Aristotiles</name> in fine istius secundi*. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e144"> Et probatur ratione: quia si eiusdem essent plures causae demonstratiuae, tunc non
+   sequeretur ad effectum causa, ut dicit <name ref="#Aristotle">Aristotiles</name>*; sed in demonstrationibus potissimis
+   sequitur ad effectum causa sicut ex causa effectus, eo quod demonstrationes debent esse ex
+   propriis et secundum quod ipsum; modo propria conuertuntur ad inuicem et se inuicem
+   consequuntur. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e150"> Breuiter dico, cum Aristotile, quod duplices sunt demonstrationes. Quaedam <supplied>sunt
+    demonstrationes</supplied> quia et a posteriori, et de illis non quaeritur, quia satis
+   apparet in unaquaque scientia quod ad eandem conclusionem ponuntur saepe plura media quando
+   sic a posteriori arguimus. Aliae sunt demonstrationes a priori, siue per causas, et illae sunt
+   duplices, quia quaedam sunt ex omnino immediatis, aliae autem ex mediatis. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e156"> Modo statim ponendum est <supplied>quod</supplied> si demonstrationes fiant ex mediatis,
+   possibile est eiusdem esse plures causas demonstratiuas, hoc est dictum quod eadem conclusio
+   potest demonstrari per multa media causalia et per quodlibet illorum. Et hoc demonstrauit
+   <name ref="#Aristotle">Aristotiles</name> prius*, scilicet quod possumus probare tonitruum esse aut per causam efficientem
+   aut finalem. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e165"> Sed alia conclusio ponitur, quod si demonstratio fiat ex omnino primis et immediatis, et
+   quod ipsa sit simplex syllogismus, tunc impossibile est eiusdem conclusionis esse plures
+   causas demonstratiuas, id est plura media causalia. Causa huius est quia si media
+   multiplicarentur, aut hoc esset propter diuersa genera causarum aut propter multitudinem
+   causarum in eodem genere causae; sed neutro modo; igitur... <supplied>et caetera</supplied>.
+   Maior nota est sufficienti diuisione. Et minor probatur. Primo quod non propter diuersa genera
+   causarum: quoniam illas sunt subordinatae ita quod una est causa alterius; uerbi gratia, finis
+   est causa efficientis, et efficiens causa formae, et forma materiae; ideo si demonstraretur
+   effectus per causam posteriorem in esse, demonstratio non esset simpliciter ex immediatis,
+   immo adhuc esset petere de illo medio causali propter quid est, et esset illud medium
+   demonstrabile per causam priorem; modo manifestum est quod propter huius modi diuersa genera
+   causarum non multiplicantur ad eandem conclusionem demonstrationes ex simpliciter primis et
+   immediatis. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e172"> Et notandum est quod in dicta conclusione ponebatur quod demonstratio esset simplex
+   syllogismus, quia demonstratio si esset syllogismus compositus ex syllogismis posset esse ex
+   immediatis <supplied>et</supplied> tamen ex multis mediis. Verbi gratia, ponamus A immediate
+   ipsi B, et B ipsi C, et C ipsi D; et tunc ex immediatis per plura media possumus concludere
+   quod omne D est A: uerbi gratia, <mentioned>omne B est A, omne C est B et omne D est C; ergo omne D est
+   A</mentioned>, et omnes praemissae erant immediatas; et non est ibi simplex syllogismus, immo est duplex
+   syllogismus uirtualiter. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e181"> Deinde idem declaratur quantum ad multitudinem causarum in eodem genere: quia uel illae sunt
+   subordinatae, uel solum sunt actualiter ordinatae ad effectum, uel neutra est per se
+   sufficiens; si sint subordinatae, reuertitur idem quod prius, quia per remotionem non erit
+   demonstratio ex immediatis; si uero sint <supplied>solum</supplied> actualiter ordinatae ad
+   effectum uel non sufficientes, tunc ex illis non fiet demonstratio potissima. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e187"> Ultima conclusio ponitur quod plures conclusiones possunt demonstrari per idem medium
+   demonstrationibus ex immediatis. Et hoc fiet in casu in quo genus habet plures species
+   immediate contentis sub eo. Verbi gratia, si triangulus demonstratur habere tres angulos
+   aequales duobus rectis, oportet dare aliquid medium quod primo et immediate se habeat ad
+   triangulum. Ponamus igitur quod illud medium sit <mentioned>A</mentioned>, ita quod ista sit immediata <mentioned>omnis
+   triangulus est A</mentioned>; illud <mentioned>A</mentioned> non dicetur immediate nec secundum quod ipsum de speciebus
+   trianguli, sed mediante <mentioned>triangulo</mentioned>, ideo de qualibet specie trianguli probatur per hoc medium
+   <mentioned>triangulus</mentioned>, ut arguendo sic <mentioned>omnis triangulus est A, omnis isosceles est triangulus; ergo
+   omnis isosceles est A</mentioned>, et consimiliter demonstraretur per idem medium <mentioned>A</mentioned> de isopleuro et de
+   quadrato, et exemplum est propositionis immediatae. Tamen uidetur mihi quod si demonstrationes
+   sint ex secundum quod ipsum, hoc est dictum ex conuertibilibus, numquam idem esset medium ad
+   plures conclusiones arguendo ex omnino immediatis, quia propter talia media sunt ad inuicem
+   ordinata. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e212"> Istis uisis, rationes procedunt. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e215"> Primae enim arguebant quod fiant demonstrationes per plures causas et per propositiones
+   immediatas uel per syllogismos. </p>
+
+
+      <p xml:id="Buzcv2-d1e533-d1e218"> Et rationes in oppositum arguebant quod hoc sit impossibile per syllogismos simplices et
+   omnino ex immediatis; ideo nihil concludebant ad propositum. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

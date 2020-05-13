@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 31a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 31a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e405">
+      <head xml:id="Buzcv2-d1e405-Hd1e101"> Quaestio 31a </head>
+
+      <head xml:id="Buzcv2-d1e405-Hd1e104" type="question-title"> UTRUM SCIENTIA CONGREGATA EX PLURIBUS HABITIBUS CONCLUSIONUM ET
+   PROCESSUUM SUMAT UNITATEM VEL DISTINCTIONEM A SUBIECTO SUO </head>
+
+
+
+      <p xml:id="Buzcv2-d1e405-d1e107"> Consequenter quaeritur, tricesimo primo, utrum scientia congregata ex pluribus habitibus
+   conclusionum et processuum sumat unitatem uel distinctionem a subiecto suo, uerbi gratia
+   totalis geometria, continens omnes conclusiones et demonstrationes geometricas. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e110"> 1. Arguitur primo quod non: quia in totali geometria sunt plura et diuersa subiecta in
+   diuersis conclusionibus, ut aliquando linea, aliquando superficies, aliquando triangulus,
+   aliquando quadrangulus; modo ab istis scientia non sumit unitatem quibus plurificatis scientia
+   non manet una. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e113"> 2. Item, ab illo quod non est proprium et adaequatum scientiae non sumit scientia unitatem;
+   sed nullum subiectum est adaequatum toti geometriae, nec proprium, quia non inuenitur aliquid
+   quod in omnibus conclusionibus geometricis accipiatur; igitur nullum tale est subiectum a quo
+   possit habere unitatem. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e117"> 3. Item, congregatio plurium, si dicatur una, debet accipere unitatem ab aliquo alio primo,
+   sicut exercitus a duce; sed primo in scientiis sunt dignitates; ergo ab illis scientia debet
+   accipere unitatem, non igitur a subiecto. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e120"> 4. Item, uel scientia de subiecto speciali est una cum scientia de subiecto superiori, uel
+   illae scientiae non sunt una; si dicis quod sunt una, sequitur inconueniens, scilicet quod
+   omnes scientiae sunt una scientia cum metaphysica, eo quod subiectum illius est commune omni
+   aliarum; si autem dicis quod scientiae de subiecto superiori et de subiecto inferiori sunt
+   diuersae, tunc sequitur aliud inconueniens, scilicet quod geometria, de linea, de magnitudine,
+   de superficie considerans, non est una scientia; et iam non poterit dici quod non
+   inconuenienter distinguantur per subiecta. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e123"> 6. Item, geometriae et arithmeticae potest assignari unum subiectum commune, puta hoc genus
+   <mentioned>quantitas</mentioned>; ideo si ex unitate subiecti esset scientia una, sequeretur quod geometria et
+   arithmetica essent una scientia, quod tamen apparet falsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e129"> 7. Item, nos uidemus quod de eodem subiecto consideratur in diuersis scientiis, ut in
+   naturali philosophia et in astrologia consideratur de caelo; similiter, in geometria et in
+   naturali philosophia consideratur bene de magnitudine; ergo illae scientiae non recipiunt
+   unitatem uel distinctionem a subiecto. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e132"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>, primo huius*. Et idem uidetur uelle quarto
+   Metaphysicae*, ubi dicit quod omnis sensus unus est unius generis sensibilis, ut uisus
+   colorum, auditus sonorum, et sic de aliis; ita omnis scientia una est unius generis scibilis,
+   considerans omnes partes eius et passiones; et per illud genus scibile intelligit genus
+   subiectum. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e138"> Item, in eodem quarto*, dicit quod non solum si aliqua dicuntur secundum unum, eorum
+   scientia dicitur una, immo etiam si dicuntur ad aliquod unum uel ab aliquo uno ad quod omnia
+   talia habeant attributionem, et non potest poni quid sit illud nisi illud subiectum. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e142"> Notandum est primo quod ex pluribus in actu non fit unum per se, ut accipitur ex septimo
+   Metaphysicae*. Immo congregatio plurium in actu exsistentium si dicatur unum, oportet quod hoc
+   non sit per se, sed ex reductione ad aliquod unum, unde talia dicantur unum secundum ordinem.
+   Sic enim exercitus dicitur unus propter unitatem principis, ad quam unitatem omnia ordinantur,
+   et sic mundus dicitur unus propter reductionem omnium in unam primam causam. Ideo cum scientia
+   continens multas conclusiones et multos processus sit congregata ex pluribus exsistentibus in
+   actu, et non colligatis per eorum contractionem uel continuationem, oportet in ea dare aliquod
+   unum ex cuius unitate ipsa dicatur una, propter reductionem aliorum in illud. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e145"> Tunc breuiter ponuntur conclusiones. Prima est quod talis scientia congregata non dicitur
+   una ex unitate alicuius passionis: quia passiones in scientia inter caetera considerata sunt
+   postrema, et non est rationabile quod a postremo in congregatione congregatio dicatur una,
+   immo hoc debet esse magis a primo. Et etiam in eadem scientia considerantur saepe diuersae
+   passiones quae non reducuntur ad inuicem nec ad aliquam unam earum; ideo ab illis non potest
+   illa scientia sumere unitatem; et sic uidemus quod una passio bene consideratur in diuersis
+   scientiis, ut perpetuitas in physica et in metaphysica. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e148"> Secunda conclusio <supplied>est</supplied> quod talis scientia congregata non potest habere
+   unitatem ab aliquo principio complexo. Quia capiamus illius scientiae primam conclusionem,
+   oportet illius conclusionis esse duo principia ad minus indemonstrabilia, et sic unum non
+   reducitur ad alterum. Unde, sicut bene probat <name ref="#Aristotle">Aristotiles</name>*, impossibile est omnes conclusiones
+   eiusdem scientiae demonstrari per eadem principia. Immo principia immediata et
+   indemonstrabilia non sunt pauciora, uel saltem non sunt multo pauciora, conclusionibus. Modo
+   ex talibus quae sunt multa et non reducta unum in alterum non potest talis scientia habere
+   unitatem. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e157"> Tertia conclusio est quod etiam talis scientia non sumit unitatem ex unitate conclusionis.
+   Quia in una scientia sunt saepe ualde plures conclusiones, licet aliquae dependeant ex una
+   prima, tamen saepe sunt multae in eadem scientia quarum neutra dependent ex reliqua, et sic
+   una non reducitur ad aliam, ut patet in geometria et in aliis scientiis. Igitur ex istis non
+   habet unitatem. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e160"> Quarta conclusio est quod etiam talis scientia non accipit unitatem ex unitate medii
+   demonstratiui. Quia diuersarum conclusionum sunt saepe diuersa media et ualde plurificata, et
+   ideo conclusio proponitur et scitur esse tradita in illa scientia, ut in geometria, antequam
+   inueniatur medium demonstratiuum ipsius. Ideo non ex reductione ipsius ad medium sciebatur
+   conclusio pertinere ad illam scientiam; ideo non dicebatur una propter reductionem ad medium. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e163"> Alia conclusio est quod talis scientia congregata, si debeat dici una, habet unitatem ex
+   unitate sui primi subiecti, non capiendo <mentioned>subiectum</mentioned> pro illo cui scientia inhaeret, sed
+   capiendo <mentioned>subiectum</mentioned> correlatiue ad passionem uel passiones. Conclusio probatur per locum a
+   diuisione: quia non sunt plura considerata in scientia, nisi passiones, aut principia, aut
+   conclusiones, aut media demonstratiua, aut subiecta passionum; ergo ab aliquo istorum oportet
+   scientiam habere unitatem; sed hoc non est ab aliquo praedictorum enumeratorum; igitur
+   relinquitur quod a subiecto. Quod etiam probatur sic: quia rationabile est congregationem
+   capere unitatem ab eo quod est primum inter caetera; sed subiectum est huius modi; igitur et
+   caetera. Maior de se nota est. Et minor apparet: quia incomplexa sunt priora complexis, et
+   inter incomplexa subiectum est prius passione. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e173"> Et si dicas definitionem subiecti esse priorem, dico quod in proposito accipio pro eodem
+   <mentioned>definitionem</mentioned> et <mentioned>definitum</mentioned>. Sed statim diceretur, secundum <name ref="#Aristotle">Aristotilem</name>, quod definita sunt
+   priora definitionibus. Prius enim habeo conceptum confusum hominis quam conceptum eius
+   explicitum quidditatiuum, siue definitiuum, ut patet in prooemio Physicorum*. Et hoc uidetur
+   esse notum per definitionem; si enim aliquis quaerat de quo uel de quibus considerat
+   arithmetica, dicemus quod de numeris, quia iste terminus <mentioned>numerus</mentioned> est primum subiectum in ea,
+   et si quaeratur de geometria, dicemus quod de magnitudinibus, et <supplied>si</supplied> de
+   scientia libri Posteriorum, dicemus quod de demonstrationibus, uel forte, uniuersalius, de
+   instrumentis facientibus scire. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e191"> Et non est dubium quin in aliqua scientia assignetur communiter primum genus subiectum.
+   Nihil enim consideratur in illa scientia nisi quia pars eius subiecti, uel quia passio illius
+   subiecti aut alicuius partis eius, aut forte passio passionis <supplied>eius</supplied>, uel
+   quia oppositum illi subiecto aut alicui parti eius uel passioni, aut aliquo tali modo
+   attributo ad illius oppositum. Unde aliter non posses scire quare magis ista conclusio
+   <mentioned>triangulus habet tres <supplied>angulos aequales duobus rectis</supplied>
+       </mentioned> sit de geometria
+   quam ista <mentioned>contrariorum eadem est disciplina</mentioned>. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e405-d1e206"> Ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e209"> 1. Ad primam, concedo quod in eadem scientia <supplied>ultra</supplied> subiectum principale
+   et primum sunt aliquando multa plura subiecta; sed tamen <supplied>supplied&gt;sunt</supplied>
+   reducta in primum, sicut in exercitu sunt saepe multi duces, tamen non tollit hoc quin totalis
+   congregatio sit exercitus. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e218"> 2. Ad aliam, dico quod in omni scientia congregata sic una est unum primum subiectum
+   proprium et adaequatum, non tali adaequatione quod in qualibet conclusione sumatur illud
+   subiectum in propria forma, sed sic adaequatum quod nihil in ea consideratur nisi secundum
+   reductionem ad ipsum aut mediatam aut immediatam. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e221"> 3. Ad aliam, concedo quod a primo debet congregatio sumere unitatem; sed principia complexa
+   non sunt in scientiis simpliciter prima. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e225"> 4. Ad aliam, quando dicitur, siue inquiritur, utrum scientia de subiecto speciali sit eadem
+   cum scientia de subiecto superiori, dico quod proprie non debet dici eadem, sed debet dici
+   pars eius. Unde bene est una et eadem scientia totalis de subiecto communi et de subiectis
+   specialibus sub eis contentis; tamen scientia quae est de subiecto speciali, ut de linea, non
+   est eadem cum scientia totali quae est de subiecto communi, ut de magnitudine sed est pars
+   eius. Tamen notandum est quod aliquando subiectum speciale potest sumi secundum aliquam
+   rationem et subiectum commune secundum aliam, ita quod istae rationes sunt ad inuicem quasi
+   extraneae et accidentales, et tunc <supplied>non</supplied> oportet quod de communi et
+   speciali per illas rationes specificas sit eadem scientia. Unde bene uerum est quod de enti
+   mobili et de magnitudine, de quibus considerant physica et geometria, considerat etiam
+   metaphysica, sed secundum rationes multum diuersas et quasi sibi accidentales et quasi
+   extraneas. Quoniam metaphysicus considerat <supplied>quae</supplied> res est magnitudo et quae
+   sunt principia essendi magnitudinum, et quae res est motus <supplied>et</supplied> quae sunt
+   principia essendi motus; sed geometer non curat quae res sit magnitudo, utrum substantia uel
+   accidens, sed solum curat quo modo sit mensurabilis, et physicus per scientiam naturalem non
+   habet scire quae res est motus et utrum sit res mere successiua uel permanens, sed solum habet
+   inquirere quibus motibus moueant uel moueantur entia naturalia, et propter quas
+    <supplied>causas</supplied> sic moueant uel moueantur. Ideo forte diceretur quod non oportet
+   scientias capere unitatem uel distinctionem a subiectis suis secundum eorum quidditatiuas
+   rationes (quia sic omnia pertinerent ad metaphysicam, eo quod nulla alia intromittit se de
+    <supplied>eo</supplied> quod quid est simpliciter, ut patet sexto Metaphysicae*), sed
+   unitatem sumit et distinctionem a suis subiectis specificis secundum rationes illas secundum
+   quas illa subiecta considerat. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e243"> 5. Ad aliam, concedo quod geometria et arithmetica habent unum subiectum commune, scilicet
+   quantum uel quantitatem. Ideo concedo quod tota mathematica dicitur una scientia distincta
+   contra physicam et metaphysicam. Et illius totalis scientiae geometria et arithmetica sunt
+   partes integrales, scilicet quae sunt diuersae ab inuicem. </p>
+
+
+      <p xml:id="Buzcv2-d1e405-d1e246"> 6. Ad aliam, potest concedi quod de eodem subiecto consideratur bene in diuersis scientiis
+   secundum eius diuersas rationes, quia idem subiectum secundum diuersas eius rationes
+   considerandi, ut magnitudo, reducitur ad diuersa prima subiecta diuersarum scientiarum. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

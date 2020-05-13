@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 19a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 19a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e271">
+      <head xml:id="Buzcv2-d1e271-Hd1e101"> Quaestio 19a </head>
+
+      <head xml:id="Buzcv2-d1e271-Hd1e104" type="question-title"> UTRUM OMNIS PROPOSITIO PER SE SIT NECESSARIA ET E CONVERSO </head>
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e271-d1e107"> Consequenter quaeritur, decimo nono, utrum omnis propositio per se sit necessaria et e
+   conuerso. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e110"> 1. Arguitur quod non: quia haec est per se, et non per accidens, <mentioned>Socrates est homo</mentioned>, et
+   tamen non est necessaria; ergo et caetera. Maior probatur: quia subiectum ***** sibi
+   praedicatum; non enim potest Socrates esse quin sit homo; igitur ipsa est per se. Etiam dicta
+   propositio est quidditatiua, et talis est per se in primo modo. Etiam Socrates non est homo
+   per aliquod accidens: quia omnibus accidentibus circumscriptis, stante solum substantia,
+   Socrates adhuc est homo; igitur Socrates non est <supplied>homo</supplied> per aliquod
+   accidens, sed per suam substantiam, et <supplied>sic</supplied> per se est homo. Et sic patet
+   maior rationis principalis. Sed minor etiam probatur: quia Socrates potest non esse, et, per
+   consequens, ipse potest non esse homo; igitur contingenter, et non necessario, Socrates est
+   homo. Et etiam propositio illa non est necessaria quae potest esse falsa: modo illa <mentioned>Socrates
+   est homo</mentioned> potest esse falsa, si Socrates sit corruptus uel annihilatus; igitur ipsa non est
+   necessaria. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e125"> 2. Item, eodem modo arguitur de illa propositione <mentioned>Socrates est Socrates</mentioned>: quia ipsa est per
+   se et non necessaria. Maior patet: quia Socrates non per aliud est Socrates quam per suam
+   substantiam, ideo per se. Et hoc etiam patet <supplied>per</supplied>
+       <name>Boethium</name>* dicentem nullam propositionem esse ueriorem quam illa ubi idem
+   praedicatur de se ipso. Et etiam
+   <ref xml:id="Buzcv2-d1e271-Rd1e136">
+        <name>Aristotiles</name>, sexto Metaphysicae</ref>
+   *, ponit unum modum propositionis secundum se eo quod idem praedicatur de se ipso, ut quod
+   homo secundum se homo est. Sed minor probatur sicut probatur de illa <mentioned>Socrates est homo</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e147"> 3. Item, si ponamus quod figura non sit res distincta a re figurata nec anima ab eius
+   creatione, tunc dicemus quod haec magnitudo figurae est per se triangulus, quia non est per
+   aliquod additum, ut positum est; similiter, quando anima creatur, ipsa per se creatur, quia
+   non per aliquod additum, ut positum est; tamen tales propositiones non sunt proprie
+   necessariae, immo mere contingentes; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e150"> 4. Item, Commentator, primo Physicorum*, et <name ref="#Aristotle">Aristotiles</name>* ponunt priuationem esse principium
+   per accidens rei naturalis, cum ponunt ipsam esse principium necessarium; ergo non omne
+   necessarium est per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e156"> 5. Item,
+   <ref xml:id="Buzcv2-d1e271-Rd1e158">
+        <name>Aristotiles</name>, primo huius</ref>
+   *, uidetur uelle quod illa est per se et non per accidens <mentioned>lignum est album</mentioned>, quamuis conuersa
+   sit per accidens, scilicet <mentioned>album est lignum</mentioned>; tamen ista <mentioned>lignum est album</mentioned> non est
+   necessaria; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e174"> 6. Item, omnis propositio de omni, ut de ipso determinatur in isto libro, est necessaria;
+   tamen non omnis talis est per se; ergo non omnis necessaria est per se. Maior est nota: quia
+   propositio non uidetur dici necessaria nisi propter uniuersalitatem temporis, quia semper est,
+   et fuit et erit <supplied>uera</supplied>; modo omnis propositio ad hoc quod sit de omni
+   exigit uniuersalitatem temporum et suppositorum; ergo talis est necessaria; et sic patet
+   maior. Sed minor probatur per <name>Lincolniensem</name>, dicentem quod de omni est communius
+   quam per se et per se communius quam secundum quod ipsum; ergo non omne de omni est per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e183"> 7. Item arguitur: demonstrator, utens suppositione naturali, semper negaret istas
+   propositiones <mentioned>omnis homo currit</mentioned>, <mentioned>nullus homo currit</mentioned>, quia inuenitur instantia pro
+   aliquibus temporibus et pro aliquibus suppositis; modo propositiones quae semper sunt negandae
+   debent reputari impossibiles; ergo contradictoriae suae sunt necessariae, scilicet istae
+   particulares <mentioned>quidam homo currit</mentioned>, <mentioned>quidam homo non currit</mentioned>; tamen istae non sunt per se; ergo
+   non omnis propositio necessaria est per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e198"> Oppositum arguitur per <name>Lincolniensem</name>, dicentem quod omnia necessaria, et sola,
+   sunt per se, et <name ref="#Aristotle">Aristotiles</name>* expresse uidetur hoc uelle. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e208"> Et arguitur ratione: quia non potest esse quod per se sit in plus quam necessarium, quoniam
+   absurdum esset dicere quod propositio contingens et quae potest falsificari sit per se uera;
+   et non potest dici quod necessarium sit in plus quam per se, quia tunc
+    <name>Aristotiles</name>, in isto libro*, committeret fallaciam consequentis, arguendo
+   affirmatiue a superiori ad inferius, quoniam ex eo quod probatum erat demonstrationem esse ex
+   necessariis ipsemet concludit demonstrationem esse ex per se inhaerentibus; ergo per se et
+   necessarium conuertuntur. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e214"> Respondeo breuiter quod omnis propositio per se est necessaria, et, e conuerso, omnis
+   necessaria est per se. Quia propter idem, uel saltem propter rationes ad inuicem mutuo
+   consequentes, dicitur propositio <mentioned>per se</mentioned> et dicitur<mentioned>necessaria</mentioned>; ergo <mentioned>per se</mentioned> et
+   <mentioned>necessarium</mentioned> conuertuntur. Consequentia est nota. Et antecedens declaratur: quia ex eo
+   propositio dicitur <mentioned>necessaria</mentioned>* quia omnis talis si proponatur et quandocumque proponitur est
+   uera et non potest esse falsa, uel saltem propositio dicitur <mentioned>necessaria</mentioned> quia quandocumque
+   proponitur qualitercumque significat ita est et non potest non esse ita, modificando istum
+   sermonem secundum sensus alias datos; sed propositio dicitur <mentioned>per se</mentioned>* quia ex sua et suorum
+   terminorum significatione determinatum est quod sit uera si proponatur et quod non possit esse
+   falsa, uel saltem determinatum est quod qualitercumque significat ita est quandocumque
+   proponitur et non potest non esse ita; modo manifestum est quod praedictae rationes sunt inter
+   se eaedem et conuertibiles; ergo omnis necessaria est per se et e conuerso. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e239"> Sed forte circa dicta dubitatur. Quia in assignando rationes necessitatis et perseitatis
+   locutus sum disiunctiue; ideo dubitatur utrum illarum disiunctiuarum quaelibet pars sit uera,
+   uel si solum una pars sit uera dubitatur quae sit uera. Ad hoc respondetur quod secunda pars
+   est uera et non prima, saltem uniuersaliter. Quoniam illa propositio <mentioned>quaedam propositio est
+   affirmatiua</mentioned> est mere contingens et non necessaria, quia si esset necessaria, sua
+   contradictoria esset impossibilis, quod est falsum. Quia haec esset uera <mentioned>nulla propositio est
+   affirmatiua</mentioned> si deus annihilaret omnes propositiones affirmatiuas. Ergo haec est contingens et
+   non necessaria <mentioned>quaedam propositio est affirmatiua</mentioned>. Tamen quandocumque proponeretur, esset
+   uera, et non potest esse falsa. Igitur non est uniuersaliter uerum quod propositio dicatur
+   <mentioned>per se</mentioned> uel <mentioned>necessaria</mentioned> quia necesse est illam esse ueram quandocumque proponitur et
+   impossibile est eam esse falsam. Tamen notandum est quod quia hoc est uerum de pluribus
+   propositionibus necessariis, ideo saepe consueuimus uti isto modo loquendi pro alio. Tamen
+   quocumque modo loquamur debemus habere sensum in mente alterius locutionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e257"> Postea, ut appareat comparatio inter <mentioned>de omni</mentioned> et <mentioned>per se</mentioned>, mihi uidetur esse dicendum quod
+   nec omne per se <supplied>est de omni</supplied> nec <supplied>omne</supplied> de omni est per
+   se. Primo, manifestum est quod haec est per se et necessaria <mentioned>substantia est deus</mentioned>; tamen haec
+   non est de omni, quia falsum esset dicere quod omnis substantia est deus. Etiam constat quod
+   haec est de omni <mentioned>omne lignum est coloratum</mentioned>, quia de facto omne lignum quandocumque est fuit
+   uel erit, est fuit uel erit coloratum. Tamen illa non est necessaria: quia deus posset
+   separare substantiam ab accidentibus sibi inhaerentibus; ideo posset facere
+    <supplied>lignum</supplied> sine colore. Igitur ista potest esse falsa <mentioned>omne lignum est
+   coloratum</mentioned>, et, per consequens, ipsa non est necessaria. Ideo proprie loquendo non credo esse
+   uerum quod <mentioned>de omni</mentioned> sit superius ad <mentioned>per se</mentioned>, aut etiam inferius, sed bene uerum est quod <mentioned>de
+   omni</mentioned> est in plus quam <mentioned>de omni per se</mentioned>. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e271-d1e298"> 1. Tunc ad primam rationem in oppositum potest dici quod si hoc uerbum <mentioned>est</mentioned> sumatur
+   praecise ut significat praesens tempus, tales propositiones <mentioned>Socrates est homo</mentioned> et caetera nec
+   sunt per se uerae nec necessariae. Nec ualet si dicas quod Socrates per suam substantiam est
+   homo et non per aliquod accidens additum. Quia differt dicere quod Socrates est per se ipsum
+   homo et quod illa sit per se uera <mentioned>Socrates est homo</mentioned>. Unde primam concederem et secundam
+   negarem. Quia propositio non dicitur ex eo <mentioned>per se uera</mentioned> quia illud quod significatur per
+   subiectum sit per suam substantiam cum eo quod significatur per praedicatum, sed dicitur <mentioned>per
+   se uera</mentioned> propter aliam causam, quae prius dicta est. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e316"> 3. Et per idem soluitur ratio quae arguebat quod magnitudo est per se triangulus et quod
+   anima per se creatur. Quia illae propositiones possunt concedi ad hunc sensum quod magnitudo
+   per suam essentiam est illud idem quod est triangulus et quod anima per suam essentiam est
+   illud idem quod creatur. Sed ideo non sequitur quod illae sint per se <mentioned>magnitudo est
+   triangulus</mentioned> uel <mentioned>anima creatur</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e326"> 4. Ad aliam dicitur quod priuatio dicitur <mentioned>principium per accidens</mentioned> ad istum sensum quia
+   haec est per accidens <mentioned>materia est priuata a tali forma</mentioned>; est enim contingens, et non
+   necessaria. Sed priuatio dicitur <mentioned>principium per se et necessarium</mentioned> ad istum sensum quia haec
+   est necessaria <mentioned>omne quod generatur generatur ex materia et forma prius priuata</mentioned>, scilicet a
+   tali forms, scilicet forma quae acquiritur. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e341"> 5. Ad aliam, dico quod <name ref="#Aristotle">Aristotiles</name> non concessit illam esse per se <mentioned>lignum est album</mentioned>
+   loquendo simpliciter, sed ut comparatur ad illam <mentioned>album est lignum</mentioned>. Illa enim dicitur <mentioned>per
+   se</mentioned> quia minus est per accidens et minus impropria. Propositio enim directa est magis propria,
+   et sic quodam modo minus per accidens quam indirecta. Et similiter si utraque, scilicet tam
+   directa quam indirecta esset simpliciter per se, tamen indirecta posset dici quodam modo <mentioned>per
+   accidens</mentioned>, scilicet respectiue, quia minus propria quam directa. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e359"> 6. Ad aliam dictum fuit in positione. Quia proprie loquendo <mentioned>de omni</mentioned> non est communius quam
+   <mentioned>per se</mentioned>, nec etiam <mentioned>per se</mentioned> quam <mentioned>de omni</mentioned>. Ideo ratio supponebat falsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e374"> 7. Ad aliam, scilicet de ultima, dubitatur utrum secundum suppositionem qua utitur
+   demonstrator illae debeant concedi necessaria <mentioned>quidam homo currit</mentioned> et <mentioned>quidam homo non
+   currit</mentioned>, et caetera. Ad hoc dico quod licet demonstrator semper diceret illas
+    <supplied>semper</supplied> esse falsas <mentioned>omnis homo <supplied>currit</supplied>
+       </mentioned> et <mentioned>nullus
+   homo currit</mentioned>, et, per consequens, istas semper esse ueras <mentioned>quidam homo currit</mentioned>, <mentioned>quidam homo
+   non currit</mentioned>, tamen nullam illarum diceret necessariam uel impossibilem. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e402"> Propter quod notandum est quod in propositionibus dupliciter accipitur necessitas, aut
+   possibilitas aut impossibilitas, uno modo simpliciter et secundum indifferentiam ad omne
+   tempus, et alio modo secundum quid, attendendo ad differentias temporum. Unde necessarium
+   simpliciter* dicitur ex eo quod quandocumque propositio proponebatur uel quandocumque
+   proponetur ita est uel erit sicut significabatur et impossibile est quin ita erit uel fuit. Et
+   hoc modo <mentioned>possibile</mentioned> diceretur quia potest, potuit uel poterit esse ita et <mentioned>impossibile</mentioned> quia
+   numquam potest, potuit nec poterit esse ita. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e411"> Sed <mentioned>necessarium</mentioned>* uel <mentioned>possibile</mentioned> 
+       <supplied>secundum quid</supplied> respicit solum tempus
+   futurum; unde, sicut dictum est primo Caeli*, potentia non est ad praeteritum. Et ideo illud
+   demonstraretur impossibile quia nec modo potest esse nec de caetero poterit, quamuis ipsum
+   fuit et potuit esse. Modo demonstrator utitur primo modo necessitatis, aut possibilitatis aut
+   impossibilitatis. Et est magna differentia inter istos modos. Quia secundum primum modum
+   propositio possibilis numquam potest fieri impossibilis, nec umquam contingens necessaria, sed
+   in secundo modo possibilis potest fieri impossibilis et contingens necessaria. Ista enim
+   aliquando fuit possibilis, immo uera, si fuerit formata, <mentioned>Aristotiles numquam cucurrit</mentioned>, tamen
+   modo est impossibilis, quia quod factum est non potest non factum esse. Similiter diceretur de
+   futuro tempore; haec enim est possibilis <mentioned>Iohannes curret</mentioned>, tamen erit impossibilis aliquando. </p>
+
+
+      <p xml:id="Buzcv2-d1e271-d1e430"> Tunc ergo, ad propositum, dico quod licet semper poterat dari instantia contra istam <mentioned>omnis
+   homo currit</mentioned>, sumptam secundum suppositionem naturalem, quia instantia est pro aliquibus
+   suppositis pro aliquo tempore, tamen talis propositio numquam dicitur impossibilis, eo quod
+   nulla instantia erat necessaria. Quamuis enim Socrates tunc non cucurrit, tamen potuit tunc
+   currere; et haec semper est possibilis possibilitate simplici <mentioned>Socrates potest currere</mentioned>, licet
+   non de possibilitate secundum quid. Ideo cum instantiae non sint necessariae, non reddunt
+   propositionem uniuersalem impossibilem, nec, per consequens, propositionem particularem
+   necessariam. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

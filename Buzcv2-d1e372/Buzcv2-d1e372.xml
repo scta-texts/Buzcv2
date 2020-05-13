@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 28a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 28a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e372">
+      <head xml:id="Buzcv2-d1e372-Hd1e101"> Quaestio 28a </head>
+
+      <head xml:id="Buzcv2-d1e372-Hd1e104" type="question-title"> UTRUM DEFICIENTE NOBIS ALIQUO SENSU NECESSE SIT NOBIS DEFICERE
+   ALIQUAM SCIENTIAM QUAM IMPOSSIBILE EST NOBIS ACCIPERE </head>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e107"> Consequenter quaeritur, uicesimo octauo, utrum deficiente nobis aliquo sensu necesse sit
+   nobis deficere aliquam scientiam quam impossibile est nobis accipere. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e110"> 1. Arguitur primo quod non: quia si aliquis modo amitteret sensum uisus, non obstante hoc
+   remaneret sibi species uisibilium in phantasia et in memoria, per quas intellectus posset
+   moueri ad intellectionem uisibilium; ideo per istas posset addiscere scientiam de uisibilibus
+   uisu sibi deficiente. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e113"> 2. Et etiam ex hoc apparet quia in tenebris, <supplied>in quibus</supplied> non utimur uisu,
+   possemus aliquem docere unam conclusionem de uisibilibus per loquelam et auditum; et sic
+   deficiente sensu non oportet scientiam deficere ab illo sensibili. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e120"> 3. Item, licet aliquis numquam habuit sensus uisus nec auditus, tamen posset deus in
+   intellectu eius formare species uisibilium et audibilium per quas iste posset de uisibilibus
+   et audibilibus acquirere scientiam; ergo possibile est deficiente nobis aliquo sensu non
+   deficere scientiam. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e123"> 4. Item, experimur quod per auditum docemur multa de his quae numquam sunt a nobis sensata,
+   ut de deo et prima materia, et de intelligentiis; ergo si deficeret nobis gustus et olfactus,
+   adhuc per auditum et loquelam possemus doceri per sonos de odoribus et de saporibus, quamuis
+   haec numquam fuerunt sensata. Et ego uidi hic longo tempore unum scholarem qui a natiuitate
+   fuerit caecus, tamen ipse fuit satis bonus clericus et syllogizabat de lineis et coloribus. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e126"> 5. Ultimo arguitur: minus distant primae qualitates tangibiles ab odoribus et saporibus,
+   quae causantur ab eis, quam ista sensibilia a substantiis separatis, et tamen per notitiam
+   illorum sensibilium possumus nobis acquirere scientiam substantiarum separatarum, quamuis
+   numquam fuerunt a nobis sensatae; ergo, similiter, quamuis odores et sapores numquam essent a
+   nobis sensati, scilicet deficiente nobis gustu et olfactu, tamen adhuc per notitiam primarum
+   qualitatum tangibilium a nobis sensatarum possemus acquirere nobis scientiam de saporibus et
+   odoribus. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e129"> 6. Et confirmatur haec ratio: quia nos innati sumus, per potentiam discretiuam intellectus,
+   per causam cognoscere effectum et per effectum cognoscere causam, licet causa et effectus sint
+   diuersae naturae, et secundum speciem, et forte secundum genus; quod apparet: quia per motus
+   et transmutationes ad ista sensibilia nos deducimur in scientiam de prima materia, et de deo,
+   et <supplied>de</supplied> intelligentiis; sed constat quod quattuor primae qualitates
+   tangibiles sunt causae primae odorum et saporum, ut patet in de Sensu et Sensato*; ergo per
+   notitiam qualitatum tangibilium possemus discurrere in scientiam odorum et saporum, quamuis
+   illi non essent a nobis sensati. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e135"> Oppositum determinat <name ref="#Aristotle">Aristotiles</name>, primo huius*. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e141"> Et probatur: quia deficiente nobis uisu, non possunt nobis fieri phantasmata colorum, cum
+   quemcumque intelligentem necesse est phantasmata speculari, ut habetur tertio de Anima*. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e145"> Tota difficultas huius quaestionis est quare per notitiam qualitatum tangibilium non
+   possumus uenire in notitiam saporum uel odorum, cum sint causae eorum, sicut in multis aliis
+   ex notitiis causarum deuenimus in notitiam causatorum, et e conuerso. Et ut de hoc uideamus
+   aliquid, pono aliquas conclusiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e148"> Prima conclusio est quod si perdas aliquem sensum, ut olfactum uel uisum, quem ante
+   habuisti, adhuc poteris omnem scientiam de coloribus et odoribus addiscere, si eam ante non
+   habueras, propter species colorum et odorum in phantasia reseruatas, sicut prima ratio
+   arguebat. Et ideo <name ref="#Aristotle">Aristotiles</name> non intendebat de illis quibus deficit aliquis sensus a
+   natiuitate. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e154"> Secunda conclusio est quod etiam, per causam supernaturalem et miraculosam, posset nobis
+   fieri scientia de coloribus et sonis, licet a natiuitate essemus surdi uel caeci, sicut
+   secunda ratio arguebat. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e157"> Tertia conclusio est quod licet aliquis a natiuitate esset surdus et caecus, uel etiam
+   careret sensu olfactus, tamen posset sibi naturaliter acquirere scientiam de coloribus et
+   sonibus et de odoribus modo quodam confuso. Quia tali priuatione uel carentia illius sensus
+   non obstante, ipse per alios sensus posset sibi acquirere quosdam conceptus communes; uerbi
+   gratia, illos a quibus sumuntur isti termini <mentioned>ens</mentioned>, <mentioned>unum</mentioned>, <mentioned>idem</mentioned>, <mentioned>diuersum</mentioned>, <mentioned>causa</mentioned>,
+   <mentioned>causatum</mentioned>, similiter <mentioned>qualitas</mentioned>, <mentioned>quantitas</mentioned>, <mentioned>transmutatio</mentioned>, <mentioned>motus</mentioned>, <mentioned>alteratio</mentioned>,
+   <mentioned>corruptibile</mentioned>, <mentioned>generabile</mentioned>, et sic de plurimis aliis. Ergo posset sibi acquirere scientiam
+   conclusionum ex illis terminis formatarum. Tamen in confuso et modo communi hanc scientiam
+   talium conclusionum haberet, <supplied>scilicet</supplied> scientiam de omnibus rebus, de
+   omnibus generabilibus <supplied>et</supplied> corruptibilibus, de omnibus qualitatibus, de
+   omnibus alterationibus, quia pro omnibus istis <supplied>illi</supplied> termini supponunt;
+   ideo in confuso haberet scientiam de odoribus et sonis. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e210"> Immo, ulterius credo quod licet alicui deficiat sensus olfactus, tamen posset bene acquirere
+   scientiam propriam et specialem de odoribus per quandam certitudinem.
+    <supplied>Quia</supplied> posset sibi ostendi quo modo multa animalia mouentur determinate
+   ad cibum suum quamuis ipsum non uideant, nec audiant, nec etiam tangant aut gustent; hoc ille
+   bene experi<supplied>re</supplied>tur. <supplied>Et</supplied> quia hoc non potest esse sine
+   aliqua notitia ipsius cibi, ideo posset ille concludere quod illud animal de illo cibo habet
+   aliquam notitiam: non per intellectum, quia non intelligit; ergo per sensum; non per uisum nec
+   auditum, tactum uel gustum; ergo ille posset concludere quod est dare alium sensum ab istis
+   et, per consequens, alia sensibilia uel alias qualitates sensibiles, et hoc est habere
+   scientiam propriam de odoribus, cum non sint qualitates sensibiles alio sensu a praedictis
+   quattuor nisi odores. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e222"> Et ego opinor quod per istum modum, per sensibilia, nos habemus notitiam insensibilium, ut
+   primae materiae et substantiarum separatarum. +Quia cum designat nobis uirtus quam praedicta
+   possint mouere et in illas imprimere suas proprias similitudines, et hoc uidetur impossibile
+   etiam quod habeamus de illis conceptus proprios quidditatiuos sicut habemus de his quae
+   possunt in nobis suas proprias similitudines imprimere, ideo ad notitiam talium, quamuis
+   propriam, nos non deuenimus nisi per quendam modum circumlocutionis.+ Unde, primo Physicorum*,
+   dictum est quod materia non cognoscitur nisi secundum analogiam. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e226"> Et ita etiam uidetur quod naturaliter in hac uita non habemus aliam notitiam de deo. Verbi
+   gratia, aliqua praedicata perfectiora, scilicet nullam diminutionem uel nullum defectum
+   connotantia, attribuimus deo, ut quod ipse est uidens <supplied>et</supplied> intelligens, et
+   quod est actus perfectissimus; deinde, etiam aliqua praedicata, diminutionem connotantia, a
+   deo remouemus, ut dicendo quod ipse est immobilis, intransmutabilis, ingenerabilis,
+   incorruptibilis et, per consequens, aeternus, <supplied>et quod</supplied> ipse est omnino
+   independens, et sic est ex se necesse esse. Et haec praedicata simul non conueniunt nisi deo;
+   ideo per congregationem huius modi praedicatorum nos habemus specialem et propriam notitiam de
+   deo, tamen, sicut uidetis, solum circumlocutoriam. Unde nobis deficit notitia quidditatiua
+   dei, uel de deo, quam ipse dabit in patria, ubi non per discursum, sed
+    <supplied>per</supplied> simplicem suam essentiam obiectam intellectui causabit in
+   intellectu suam propriam notitiam. </p>
+
+
+      <p xml:id="Buzcv2-d1e372-d1e238"> Ultima conclusio est quod deficiente nobis a natiuitate aliquo sensu, impossibile est nobis
+   naturaliter acquirere scientiam de sensibibilibus propriis illius sensus secundum conceptus
+   quidditatiuos illorum sensibilium. Quia sicut apparuit, licet intellectus ex aliquibus notis
+   possit discurrere ad notitiam aliorum, tamen hoc non est ad notitiam propriam quidditatiuam,
+   sed uel ad notitiam communem et confusam, licet quidditatiuam, uel ad notitiam propriam per
+   circumlocutionem, Et sic intendebat <name ref="#Aristotle">Aristotiles</name>. Et forte quilibet debet hoc ex se uidere quod
+   si numquam uidisset ranam uel muscam, non posset bene capere conceptum specificum ranae uel
+   muscae, licet cognosceret causas eius, scilicet corpora caelestia, elementa et qualitates
+   elementorum. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e372-d1e244"> Et secundum hoc uidemus quod omnes rationes procedebant uiis suis. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 32a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 32a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e416">
+      <head xml:id="Buzcv2-d1e416-Hd1e101"> Quaestio 32a </head>
+
+      <head xml:id="Buzcv2-d1e416-Hd1e104" type="question-title"> UTRUM SCIENTIA DIFFERAT AB OPINIONE ET SCIBILE AB OPINABILI </head>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e107"> Consequenter quaeritur, tricesimo secundo, utrum scientia differat ab opinione et scibile ab
+   opinabili. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e110"> 1. Et arguitur quod scibile non differt ab opinabili: quia de eadem conclusione Socrates
+   habet syllogismum dialecticum et Plato syllogismum demonstratiuum, et dialecticus solum
+   generat opinionem et demonstratiuus scientiam; ergo eadem conclusio est a Socrate opinata et a
+   Platone scita; igitur idem scitur et opinatur et, per consequens, idem est scibile et
+   opinabile. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e113"> 2. Sed adhuc per istam rationem argueretur quod idem ab eodem est simul scitum et opinatum:
+   quia idem homo de eadem conclusione potest scire syllogismum demonstratiuum et dialecticum;
+   ideo simul habebit de illa scientiam et opinionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e117"> 3. Item, quod idem est scibile et opinabile arguo sic. Possibile est quod de eadem
+   conclusione Socrates habeat assensum non firmum sed cum formidine ad oppositum (et talis
+   assensus est opinio, et non scientia) et Plato de eadem conclusione habeat assensum
+   demonstratiuum et firmum (et illud est scientia); ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e120"> Sed ista ratio non argueret quod idem esset ab eodem scitum et opinatum, immo potius
+   argueret oppositum: quia impossibile est eundem hominem eidem conclusioni assentire firmiter
+   et cum formidine ad oppositum: sed scientia est assensus firmus et opinio est assensus cum
+   formidine ad oppositum:ergo impossibile est eundem de eodem habere simul scientiam et
+   opinionem, licet diuersi possunt habere. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e123"> 4. Deinde, arguitur quod idem sit scientia et opinio: quia scibile et opinabile sunt idem,
+   ut argutum est; ergo scientia et opinio. Consequentia probatur, per locum a coniugatis: quia
+   habitus distinguuntur penes obiecta; ergo cum scibile et opinabile sunt idem, scientia et
+   opinio sunt idem. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e126"> Oppositum est <name ref="#Aristotle">Aristotilis</name>, in fine huius*, et patet per rationem ipsius: quia scientia est
+   impossibilium aliter se habere et opinio est contingentium aliter se habere; sed contingens
+   non est impossibile aliter se habere; ergo ... et caetera. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e416-d1e132"> Notandum est quod scientia et opinio sunt habitus adhaesiui quibus aliquis adhaeret siue
+   assentit aliquibus conclusionibus. Et credo quod scientia uel opinio non sit ipsa conclusio,
+   sicut aliqui* dicunt; immo scientia uel opinio est adhaesio siue assensus superueniens ipsi
+   conclusioni formatae. Possibile enim esset quod aliquis habeat propositionem formatam in
+   mente, tamen nec ei assentit nec ei dissentit, et postea per rationem uel per experientiam uel
+   per sensum generatur sibi assensus, qui iam est scientia uel opinio. Ideo credendum est quod
+   conclusio scibilis uel opinabilis sit subiectum propinquum uel immediatum scientiae uel
+   opinionis; ideo proprie loquendo dicitur scita uel opinata. Sed, sicut notat <name ref="#Aristotle">Aristotiles</name>,
+   aliud est obiectum remotum scientiae uel opinionis, scilicet res significata per terminos uel
+   per aliquem terminum conclusionis scibilis uel opinabilis. Unde non solum de conclusionibus
+   dicitur habere scientiam, sed etiam de lignis et lapidibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e138"> Tunc pono conclusiones. Prima est quod, loquendo de scibili uel opinabili remoto, omne
+   scibile est opinabile et omne opinabile est scibile. Probatio: omnis res
+    <supplied>est</supplied> scibilis et omnis res <supplied>est</supplied> opinabilis; igitur
+   ... et caetera. Maior probatur: quia omnis res significata per terminum conclusionis scibilis
+   est scibilis; modo omnis res de mundo significatur per multos terminos conclusionum scibilium,
+   quoniam multae conclusiones scibiles componuntur ex istis terminis <mentioned>ens</mentioned>, <mentioned>unum</mentioned>, <mentioned>diuersum</mentioned>,
+   <mentioned>causa</mentioned>, <mentioned>causatum</mentioned>, et sic de aliis, qui quidem termini significant omnia entia; ideo omnia
+   sunt scibilia; modo consimili ratione probatur quod omnia scibilia sunt opinabilia. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e164"> Deinde instatur iuxta istam opinionem uel conclusionem. Pono quod de eodem aliquis simul
+   habeat scientiam et opinionem cum formidine ad oppositum, immo opinionem ueram et falsam. Ideo
+   possibile est quod simul tu scis patrem tuum firmiter esse hominem et eundem patrem tu credis
+   et opinaris esse asinum, tamen non secundum eandem conclusionem. Nam secundum istam
+   propositionem <mentioned>omne animal rationale mortale est homo</mentioned> tu scis patrem tuum esse hominem. Sed
+   ponamus quod pater tuus sit remotus a te et indutus pelle asinina. Tunc illud quod uides
+   credis esse asinum et illud est pater tuus; igitur ... et caetera. Illa conclusio habebit pro
+   opinabili immediato hanc propositionem <mentioned>illud est asinus</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e173"> Deinde dicendum est de scibili et opinabili immediato. Et primo distinguo inter scientiam et
+   opinionem ueram. Scientia est assensus firmus cum firmitate et euidentia et per principia
+   firma et euidentia et prima. Dico quod exigitur firmitas ueritatis ad hoc ut conclusio sit
+   scibilis; ideo de possibilibus aliter se habere, id est de propositionibus contingenter se
+   habentibus, non est scientia. Requiritur etiam firmitas assensus: quia quamuis propositio sit
+   firmiter uera et necessaria, si tamen aliquis assentiat ei non firmiter sed cum formidine,
+   ille assensus nondum est scientia, sed solum opinio. Deinde etiam requiritur euidentia, ad
+   differentiam fidei: quia articulus cui assentitur per fidem est firmissimae ueritatis, et ille
+   assensus etiam debet esse firmus sine aliqua formidine, sed tamen non est scientia, quia
+   deficit euidentia. Dico etiam <quote xml:id="Buzcv2-d1e416-Qd1e175">per principia</quote> ad differentiam habitus qui uocatur
+   <mentioned>intellectus</mentioned>, qui non est scientia, quamuis sit firmus et euidens. Sed dico <quote xml:id="Buzcv2-d1e416-Qd1e181">per principia
+   prima et euidentia</quote> quia licet sint conclusiones necessariae, tamen possibile est quod
+   praemissae essent solum probabiles, et tunc non facerent scientiam. Hoc dictum sit de
+   scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e185"> Deinde, de opinione, dico quod multipliciter accipitur. Uno modo large, pro omni assensu
+   carente euidentia; et sic fides bene diceretur opinio, et eadem ratio faceret uni scientiam et
+   alteri opinionem solum, eo quod praemissae essent uni euidenter demonstratae et alteri forte
+   non essent demonstratae nec etiam euidentes. Secundo modo opinio dicitur, magis proprie,
+   propter carentiam firmitatis et carentiam euidentiae simul. Sed tunc infirmitas potest esse ex
+   parte habentis, quia non firmiter assentit, uel potest esse ex parte medii, uel potest esse ex
+   parte ipsiusmet conclusionis, quia conclusio non est firmae ueritatis sed contingentis. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e188"> Tunc breuiter dico quod omnibus modis praeter istum ultimum modum eadem
+    <supplied>conclusio</supplied> est opinabilis et scibilis, sicut arguebatur a principio
+   quaestionis. Sed isto modo ultimo, prout opinio dicitur ex carentia euidentiae et ex carentia
+   firmitatis ex parte ipsius conclusionis scibilis, nullum scibile est opinabile et nullum
+   opinabile est scibile, Quia omne scibile est cum firmitate et euidentia et omne opinabile, hoc
+   ultimo modo, est non firmum, quia est contingens; igitur et caetera. Et de hoc modo intendebat
+   <name ref="#Aristotle">Aristotiles</name>*. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e197"> Per hoc ad rationes. Et patet faciliter solutio rationum. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e200"> 1. Concedo enim quod de eodem potest haberi syllogismus dialecticus et demonstratiuus, et
+   assensus firmus et non firmus, ita quod firmitas et infirmitas proueniat ex parte mediorum per
+   quae fit assensus; sed non est possibile sic quod firmitas et infirmitas proueniat ex parte
+   eiusdem conclusionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e204"> 2. Sed dubium est de illo de quo arguebatur, scilicet quia de eadem conclusione tu simul
+   habes syllogismum dialecticum et syllogismum demonstratiuum, utrum igitur de ea habeas
+   scientiam et opinionem. Et ad hoc dico quod quia hoc nomen <mentioned>opinio</mentioned> connotat ineuidentiam aut
+   carentiam firmitatis, ideo non simul habes scientiam et opinionem. Sed bene habes simul istam
+   scientiam et istum habitum quem habebas antequam haberes, qui tunc erat opinio. Quoniam si
+   assentis conclusioni per syllogismum dialecticum, tu habebis opiniomem, quae est iste
+   assensus, et dicitur opinio propter infirmitatem uel ineuidentiam. Deinde si tibi superueniat
+   demonstratio, non credo quod ille assensus corrumpatur, immo magis fortificatur et firmatur;
+   ideo non corrumpitur opinio. Sed si corrumpitur, non desinit esse opinio quia desinit esse
+   ineuidentia aut infirmitas. Et ideo opinio erit scientia, uel saltem cum scientia, sed numquam
+   erit scientia opinio. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e210"> 3. Tunc, ad ultimam rationem, dicentem quod idem est scibile et opinabile, concedo praeter
+   ultimum modum qui dictus fuit. </p>
+
+
+      <p xml:id="Buzcv2-d1e416-d1e213"> 4. <supplied>Sed quando arguitur</supplied> 
+       <quote xml:id="Buzcv2-d1e416-Qd1e218">ideo idem est opinio et scientia</quote>, negatur
+   consequentia. Nec est ibi locus a coniugatis, quia ille non tenet nisi in praedicatis
+   quidditatiuis; unde non sequitur <mentioned>album est dulce; ergo albedo est dulcedo</mentioned>, <mentioned>homo est albus;
+   igitur humanitas est albedo</mentioned>. Et quando dicitur quod <supplied>habitus</supplied>
+   distinguuntur per obiecta, dico <supplied>quod ita est de illis</supplied> sicut de potentiis.
+   Nam potentiae sic distinguuntur per obiecta quod si haec est circa aliquod obiectum circa quod
+   alia potest non esse, sequitur quod sunt potentiae distinctae, ut intellectus et sensus. Sed
+   si sint circa idem obiectum, non propter hoc sequitur quod sint eaedem potentiae, quia
+   intellectus, phantasia et sensus communis et uisus exterior sunt bene circa
+    <supplied>idem</supplied> obiectum, scilicet circa colorem; tamen non dicuntur eaedem
+   potentiae. Igitur ita dicam de habitibus quod non sequitur quod sint idem si sint circa idem
+   obiectum, ut continentia et temperantia sunt circa idem obiectum, ut patet secundo Ethicorum*,
+   et tamen non sunt idem. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

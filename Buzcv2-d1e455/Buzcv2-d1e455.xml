@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 3a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 3a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e455">
+      <head xml:id="Buzcv2-d1e455-Hd1e101"> Quaestio 3a </head>
+
+      <head xml:id="Buzcv2-d1e455-Hd1e104" type="question-title"> UTRUM OMNIS QUAESTIO SIT QUAESTIO MEDII </head>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e107"> Consequenter quaeritur, tertio, utrum omnis quaestio sit quaestio medii. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e110"> 1. Arguitur quod non: primo, de propositione immediata, posset fieri quaestio utrum homo sit
+   animal rationale mortale; tamen ibi non quaeritur medium, cum non sit ibi medium. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e113"> 2. Item, quaestio est de conclusione, et non de praemissis, et in conclusione non ponitur
+   medium; ergo quaestio non est illius medii. Maior patet: quia quaestio est dubitabilis
+   propositio; sed conclusio est illa quae est dubitabilis, et non praemissae. Et minor patet de
+   se. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e117"> 3. Item, quaedam est quaestio quaerens quidditatem rei, ut quaestio quid est, et alia est
+   quaestio quaerens esse rei, ut quaestio si est, et in illis quaestionibus non quaeritur
+   medium. Probatio: quia quidditas est idem cum eo cuius est quidditas, septimo Metaphysicae*;
+   modo impossibile est eiusdem ad se esse aliquod medium; ergo si non habent medium non sunt
+   quaestiones medii. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e120"> 4. Item, quaestio non est illius quo inuento adhuc est quaestio; sed inuento medio possibile
+   est quod adhuc quaestio sit, uel dubitatio; ergo ... et caetera. Minor patet: quia habens
+   demonstratum medium et totum syllogismum ordinatum potest dubitare adhuc de forma
+   syllogistica; ideo potest adhuc dubitare de conclusione et, per consequens, adhuc habet
+   quaerere eam; ideo manifestum est quod illa quaestio non est quaestio medii. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e123"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>*. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e129"> Ista quaestio est facilis. Sed notandum est quod aliquando nihil mente quaerimus licet etiam
+   ore formemus propositionem per modum quaestionis, sicut si principium per se notum formaretur
+   per modum quaestionis, ut utrum possibile sit idem simul inesse et non inesse. Et si talis
+   propositio uocaretur <mentioned>quaestio</mentioned>, hoc est ualde improprie, cum, sicut dixi, nihil mente
+   quaerimus. Ideo de tali quaestione non intelligimus, sed solum de quaestione de qua
+   intellectus sibi aliquid ignotum quaerit. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e135"> Ultra sciendum est quod numquam intellectus aliquid quaereret de quo non esset praecognitio,
+   ita quod de se ipso nullam haberet notitiam. Et hoc quilibet experitur: quia cum quaerit,
+   dubitat, <supplied>et</supplied> si quaeretur ab eo de quo ipse dubitat, ipse respondebit quod
+   uel de tali re uel de tali propositione, quod non posset respondere nisi haberet de illo
+   aliquem conceptum. Ideo expresse concludit <name ref="#Aristotle">Aristotiles</name>, septimo Metaphysicae*, quod in omni
+   quaestione oportet aliquid esse notum et aliquid ignotum; et si quaestio sit terminabilis, ita
+   quod quaesitum sit inuenibile, oportet quod inueniatur per ea quae ante praecognoscuntur et
+   praesciuntur. Et ideo quaestio mentalis est quidam motus animae uel rationis ex praecognitis
+    <supplied>ad</supplied> aliquid inueniendum ignotum. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e147"> Deinde concedendum est quod si praecognita sint sufficientia ad manifestandum quaesitum
+   finale et sint sufficienter ordinata ad quaesitum illud omni eo modo quo sufficiunt ad
+   inquirendum ipsum, statim de necessitate sequitur inuentio quaesiti et, per consequens, cessat
+   quaestio. Ergo si duret quaestio quaesiti inuenibilis de qua loquitur, necesse est aliquid
+   deficere inter ea quae sunt praecognita et quaesitum finale per quod oporteat deuenire ad
+   inueniendum quaesitum finale; et hoc iam uocatur <mentioned>medium</mentioned>, quoniam <mentioned>medium</mentioned> dicitur per quod
+   in motu proceditur de termino a quo ad terminum ad quem. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e157"> Quibus uisis sit prima conclusio quod omnis quaestio proprie dicta quae est alicuius
+   dubitati inuenibilis est quaestio medii. Quia omnis quaerens aliquid tamquam finem, si actu
+   quaerat et mente procedat, quaerit illud sine quo quaesitum finale acquiri +uel actu+ non
+   potest. Sed illud est aliquod medium per quod oportet transire, ut dictum fuit. Ergo ratio
+   quaerens aliquid finale quaerit etiam medium. Et est simile sicut de motu locali, quia omnis
+    <supplied>homo</supplied> uadens ad aliquem terminum uadit etiam ad medium per quod oportet
+   transire, et si non esset medium inter ipsum et terminum, ipse non posset ire, nec quaereret
+    <supplied>ire</supplied> ad illum terminum, immo iam haberet ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e166"> Secunda conclusio <supplied>est</supplied> quod non oportet in demonstratiua quaestione
+   quaerere medium demonstratiuum illius demonstrationis uel illius quaesiti. Quia, sicut
+   arguebatur, saepe inuento medio adhuc quaerimus et dubitamus de conclusione, propter hoc forte
+   quod illud medium inuentum nondum est in forma debita applicatum ad quaesitum, ideo non est
+   sufficiens, eo modo quo habetur, ad demonstrandum quaesitum. Tunc ergo, cum adhuc de
+   conclusione quaesita dubitamus, non quaerimus illam, sed quaerimus illud medium per quod
+   oportet transire secundum applicationem debitam illius medii ad extremitates. Et sic adhuc
+   forte possibile est quod medium sit debite applicatum et in debita forma syllogizatum, sed,
+   quia syllogismus non est perfectus, id est non est euidentis formae, adhuc possimus dubitare
+   de conclusione quaesita, propter dubitationem de forma syllogistica. Et tunc ad inueniendum
+   quaesitum finale non quaerimus medium per quod quaesitum syllogizatur, sed quaerimus aliud
+   medium, per quod syllogismus fiat nobis euidentis formae. Et sic patet quo modo omnis quaestio
+   est quaestio medii, sed non semper medii per quod quaesitum finale syllogizatur. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e172"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e175"> 1. Ad primam, dico quod de propositione immediata, quae fit per se, nos non quaerimus mente,
+   licet ore formemus eam per modum quaestionis. Et de tali propositione non intendimus. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e178"> 2. Ad aliam, dico quod non solum illud quaerimus quod per modum quaestionis ore formamus,
+   immo magis illud est nobis notum. Verbi gratia, si ego formem istam quaestionem <mentioned>utrum
+   triangulus habeat tres <supplied>angulos aequales duobus rectis</supplied>
+       </mentioned>, iam ista
+   propositio quae formatur est mihi nota quantum ad formam et modum formationis eius; sed ego
+   quaero de rebus significatis qualiter se habeant, quod scitum uolo habere ut propositioni
+   assentiam uel dissentiam. Ideo ad propositum dico quod licet formaliter quaestio uerbalis
+    <supplied>sit</supplied> de conclusione solum, tamen quaerimus media per quae nobis appareat
+   quo modo res significatae se habeant. </p>
+
+
+      <p xml:id="Buzcv2-d1e455-d1e190"> 3. Ad aliam, dico quod licet nihil sit medium <supplied>inter</supplied> quidditatem et rem
+   cuius est <supplied>quidditas</supplied> uel etiam inter esse et rem quae illo esse est, tamen
+   hoc non obstante bene sunt media ad hoc quod sit nobis notum quid est, cum de hoc ante
+   possimus dubitare. Unde similiter uidetis quod inter <mentioned>triangulum</mentioned> et <mentioned>habere tres angulos
+   aequales duobus rectis</mentioned> nihil sit medium, quia idem est esse triangulum et habere tres
+   angulos. Tamen conceptus a quo sumitur hoc nomen <mentioned>triangulus</mentioned> et conceptus a quo sumitur hoc
+   uerbum* <mentioned>habere tres angulos aequales duobus rectis</mentioned> sunt diuersi, et possunt habere medium
+   per quod sciamus an hoc sit uerum. Et ita dico in proposito, quoniam alius est conceptus a quo
+   sumitur iste terminus <mentioned>homo</mentioned> et alius a quo sumitur iste terminus <mentioned>quidditas</mentioned> uel <mentioned>quod quid
+   est</mentioned>, et alius etiam a quo sumitur hoc uerbum <mentioned>est</mentioned>; et ideo nullum est inconueniens quod unus
+   istorum conceptuum de alio dubitetur quod sint conceptus medii per quos uel quibus unus de
+   alio potest sciri. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

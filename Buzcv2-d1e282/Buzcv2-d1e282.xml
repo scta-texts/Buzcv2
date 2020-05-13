@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 20a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 20a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e282">
+      <head xml:id="Buzcv2-d1e282-Hd1e101"> Quaestio 20a </head>
+
+      <head xml:id="Buzcv2-d1e282-Hd1e104" type="question-title"> UTRUM TERTIUS MODUS DICENDI 'PER SE' ET QUARTUS PERTINEANT AD
+   DEMONSTRATIONES SIVE INTRENT DEMONSTRATIONES </head>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e107"> Consequenter quaeritur, uicesimo, utrum tertius modus dicendi <mentioned>per se</mentioned> et quartus, quos
+   ponit <name ref="#Aristotle">Aristotiles</name> primo huius*, pertineant ad demonstrationes, siue intrent demonstrationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e116"> 1. Arguitur primo quod non: quia dicit <name ref="#Aristotle">Aristotiles</name> 
+       <quote xml:id="Buzcv2-d1e282-Qd1e121">quae ergo dicuntur in simpliciter
+   scibilibus haec sunt</quote>*, et enumerat solum duos modos dicendi <mentioned>per se</mentioned>; ergo intentio eius
+   uidetur esse quod in simpliciter scibilibus, id est in scientiis, non intrant nisi illi duo
+   modi. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e128"> 2. Item, in demonstrationibus non ponitur nisi praemissae et conclusiones; sed illae sunt in
+   primo modo uel in secundo modo dicendi <mentioned>per se</mentioned>, eo quod omnes illae sunt denominationes
+   quidditatiuae, et <supplied>non</supplied> denominatiuae; ergo tertius modus et quartus nihil
+   faciunt ad demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e138"> 3. Item, in tertio modo, qui dicitur <mentioned>modus essendi per se</mentioned> non dicitur aliquid esse per se
+   nisi substantia, et substantiae non intrant demonstrationes, eo quod omnes propositiones uel
+   termini sunt accidentia; ergo tertius modus non pertinet ad demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e144"> 4. Item, quantum ad quartum modum, si praemissae dicantur esse causa conclusionis, tamen
+   neutra per se, scilicet sine alia, est causa conclusionis, ex eo quod ex uno nihil sequitur;
+   ergo non est in demonstratione modus causandi per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e147"> In oppositum est <name ref="#Aristotle">Aristotiles</name>: quia in uanum determinaret de istis modis in isto libro* si
+   non pertinerent ad demonstrationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e153"> Item, demonstrationes proueniunt ad ultimum subiectum et praedicatum primum, quod probat
+   <name ref="#Aristotle">Aristotiles</name> primo huius, capitulo de statu in praedicatis*; sed ultimum subiectum est quod non
+   amplius dicitur de alio subiecto, et hoc uocat <name ref="#Aristotle">Aristotiles</name> 
+       <mentioned>in tertio modo esse per se</mentioned>; ergo
+   iste tertius modus pertinet ad demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e165"> Item, demonstratio debet esse ex causis primis et immediatis, ut patet primo huius*; et non
+   ex causis per accidens; ergo ex causis per se; ergo modus causandi per se, qui dicitur
+   <mentioned>quartus modus</mentioned>, pertinet ad demonstrationem. </p>
+      <p xml:id="Buzcv2-d1e282-d1e171"> Notandum est quod in demonstratione tria ordinate se habentia concurrunt: primo termini ex
+   quibus praemissae et conclusio formantur, et secundo propositiones, scilicet praemissae et
+    <supplied>conclusio</supplied>, et tertio habitudo praemissarum ad conclusionem, secundum
+   quam <supplied>per</supplied> scientiam praemissarum scitur conclusio. Modo ad propositiones
+   pertinent modi dicendi per se uel dicendi per accidens praedicatum de subiecto, et modi
+   dicendi per se attributi propositioni sunt illi duo primi quod ponit <name ref="#Aristotle">Aristotiles</name>, qui intrant
+   demonstrationes, cum omnis demonstratio debeat esse ex propositionibus per se, ut patet primo
+   huius*. Sed modi per accidens oppositi illis modis per se non intrant demonstrationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e184"> Deinde, quantum ad terminos, nota quod aliqui sunt termini substantiales et non connotatiui,
+   scilicet termini de praedicamento substantiae, <supplied>et</supplied> alii sunt termini
+   accidentales et connotatiui, scilicet de praedicamentis accidentium*. Et constat quod saepe
+   terminos substantiales uocat <name ref="#Aristotle">Aristotiles</name> 
+       <mentioned>substantias</mentioned>: isto modo in Praedicamentis* diuidebat
+   substantias in substantias primas et secundas; ibi enim accipiebat <mentioned>substantias</mentioned> pro terminis
+   de praedicamento substantiae. Et ita etiam terminos accidentales, siue de praedicamentis
+   accidentium, <name ref="#Aristotle">Aristotiles</name> uocat<mentioned>accidentia</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e206"> Ita <name ref="#Aristotle">Aristotiles</name>, primo huius*, ponendo istum tertium modum <mentioned>per se</mentioned>, intelligit etiam per
+   <mentioned>substantiam</mentioned> terminum substantialem. Modo differentia est inter substantias et accidentia,
+   capiendo <mentioned>substantias</mentioned> et <mentioned>accidentia</mentioned> pro terminis, quia substantiae praeter illud pro quo
+   supponunt non connotant aliud, sed accidentia praeter illud pro quo supponunt connotant
+   dispositionem illi adiacentem, ut isti termini <mentioned>album</mentioned>, <mentioned>nigrum</mentioned> non supponunt pro albedine
+   aut nigredine, sed pro substantia per se subsistente, et connotant albedinem uel nigredinem
+   tamquam illi substantiae adiacentem. Et hoc intendit <name ref="#Aristotle">Aristotiles</name> pluribus locis in hoc libro,
+   quando dicit quod substantia, id est terminus substantialis, non aliud est quam illud quod
+   uere est*, id est non aliud significat uel connotat quam illud pro quo supponit; unde per
+   <mentioned>illud quod uere est</mentioned> intelligit illud pro quo supponit; sed accidens, id est terminus
+   accidentalis, aliud connotat quam quod uere est, id est aliud significat uel connotat ab eo
+   pro quo supponit. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e237"> Debetis ergo notare quod propter istas differentias <name ref="#Aristotle">Aristotiles</name> ponit terminos substantiales
+   esse per se et terminos accidentales, siue connotatiuos, ponit esse per accidens, ad istum
+   sensum quod termini substantiales per se, id est solitarie, significant illud pro quo
+   supponunt, termini autem accidentales non per se significant illud, id est non solitarie, sed
+   cum dispositione connotata. Et ideo per istum modum tertium, quem uocamus <mentioned>modum essendi per
+   se</mentioned>, id est, magis proprie loquendo, <mentioned>modum significandi per se et solitarie illud pro quo
+   supponunt</mentioned>, <name ref="#Aristotle">Aristotiles</name> intendit terminos substantiales. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e252"> Et tunc facile est respondere de illo tertio modo ad quaestionem propositam. Quaerere enim
+   utrum tertius modus pertineat ad demonstrationes non est aliud quaerere quam utrum tales
+   termini substantiales pertineant ad demonstrationem. Et respondendum est quod sic
+    <supplied>quo</supplied> ad aliquas demonstrationes, quia de eis possunt suae passiones
+   demonstrari. Tamen dico quod non in omnibus demonstrationibus capiuntur termini substantiales,
+   Quoniam mathematicae demonstrationes nullis terminis substantialibus utuntur, quia non
+   resoluunt ultra illos terminos de praedicamento quantitatis. Immo credo quod sola metaphysica
+   habeat simpliciter resoluere ad terminos substantiales. Quoniam si in scientia naturali
+   consideramus de hominibus et lapidibus, hoc tamen non est secundum conceptus mere absolutos et
+   substantiales, <supplied>sed secundum conceptus accidentales</supplied> connotantes motus aut
+   operationes, quia de eis non concipimus in physica nisi secundum quod sunt naturalia. Modo
+   ista nomina <mentioned>naturalia</mentioned> et <mentioned>natura</mentioned> non sunt nomina substantialia, immo accidentalia et
+   connotatiua. Propter quod apparet quod hoc nomen <mentioned>natura</mentioned> definitur per<mentioned>motum</mentioned> tamquam
+   connotans motum, et definitur per hoc nomen <mentioned>causa</mentioned>, uel <mentioned>principium</mentioned>, tamquam per suum genus,
+   quae tamen nomina sunt uere relatiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e280"> Tamen debetis considerare quod omnis scientia resoluit ultimate ad aliqua subiecta quae in
+   illa scientia accipiuntur tamquam per se subsistentia, quia in illa scientia non dicuntur de
+   aliquibus subiectis prioribus tamquam passiones eorum, immo omnia considerata in tali scientia
+   considerantur tamquam passiones eorum, ut geometria capit illos terminos <mentioned>magnitudo</mentioned>, <mentioned>linea</mentioned>,
+   <mentioned>superficies</mentioned>, <mentioned>corpus</mentioned> tamquam per se subsistentes, et arithmetica <mentioned>species</mentioned>, et <mentioned>numerus</mentioned>,
+   et <mentioned>species numeri</mentioned>. <supplied>Sic</supplied> ad omnem scientiam demonstratiuam pertinent
+   termini per se subsistentes uel accepti in illa <supplied>ut</supplied> per se subsistentes,
+   et ita ad omnem scientiam pertinet aliquo modo iste tertius modus quem ponit ibi <name ref="#Aristotle">Aristotiles</name>.
+   Sed non debemus excludere a demonstrationibus modum dicendi per accidens oppositum dicto modo
+   <mentioned>per se</mentioned>, quia passiones uocantur <mentioned>accidentia</mentioned>, licet per se dicta de suis subiectis, quae
+   tamen passiones intrant demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e321"> Et adhuc, ne uerbis <name ref="#Aristotle">Aristotilis</name> decipiamur, considerandum est quod <name ref="#Aristotle">Aristotiles</name> ponens istum
+   tertium modum dicit illud esse per se quod non amplius dicitur de alio subiecto. Et ab hoc
+   aliqui putauerunt quod in isto modo non ponerentur nisi termini indiuiduales de praedicamento
+   substantiae, quia illi soli sunt qui non amplius dicuntur de aliquo inferiori. Sed sic non
+   loquitur hic <name ref="#Aristotle">Aristotiles</name> de aliquo inferiori. Aliter accipitur <mentioned>dici de subiecto</mentioned> pro
+   praedicari denominatiue passiones de suo subiecto, et isto modo intendit <name ref="#Aristotle">Aristotiles</name> in isto
+   libro. Unde numquam capit <mentioned>subiectum</mentioned> in hoc libro pro inferiori, sed capit hoc nomen
+   <mentioned>subiectum</mentioned> semper in ordine ad passionem. Ideo in hoc modo tertio est omnis terminus qui non
+   dicitur de subiecto alio tamquam passio eius. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e347"> Ultimo, quantum ad habitudinem praemissarum ad conclusionem, sciendum est quod quaedam sunt
+   demonstrationes quia, alia sunt demonstrationes propter quid. Modo demonstratio quia non
+   indiget procedere ex causis, sed demonstratio propter quid procedit ex causis, non ex causis
+   per accidens sed ex causis per se, et ita quartus modus, qui uocatur <mentioned>modus causandi</mentioned>, intrat
+   demonstrationem propter quid. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e353"> Et sciatis quod aliqui* dubitauerunt utrum ille quartus modus sit aliquis modus dicendi per
+   se. Et dico quod non, sed est habitudo causalis praemissarum ad conclusionem, quia oportet
+   praemissas esse causas conclusionis per se, ad sensum alias datum, et non dici per se de
+   conclusione. Tamen forte talis habitudo posset significari et exprimi per aliquem modum
+   dicendi per se, scilicet per aliquam propositionem per se ueram; uerbi gratia quod esse ita
+   sicut per conclusionem significatur est esse ita sicut per praemissas significatur; unde ista
+   propositio posset poni in primo modo dicendi per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e356"> Istis uisis patet clare ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e359"> 1. Ad primam, dico quod bene dixit <name ref="#Aristotle">Aristotiles</name>* quod quaecumque dicuntur in simpliciter
+   scibilibus dicuntur in primo modo uel in secundo modo: quia modi dicendi per se, quos
+   <name ref="#Aristotle">Aristotiles</name> intendit per hoc uerbum <mentioned>dicuntur</mentioned>, sunt solum illi duo modi. Tamen propter hoc
+   non uult negare quin alii modi perseitatis, qui non sunt modi dicendi, intrent
+   demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e371"> 2. Ad aliam, <supplied>dico</supplied> quod in demonstratione non solum continentur
+   praemissae et conclusio, immo etiam termini praemissarum et conclusionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e377"> 3. Ad aliam, dico quod multi possent poni modi essendi per se, ut quod deus est per se et
+   non per aliam causam. Sed solum in proposito per <mentioned>esse per se</mentioned> intelligimus terminum
+   significare per se, id est solitarie, illud pro quo supponit. Et sic iam de illo satis dictum
+   est. </p>
+
+
+      <p xml:id="Buzcv2-d1e282-d1e384"> 4. Ad aliam, et ultimam, concedo quod neutra praemissarum dicitur per se causa conclusionis,
+   id est solitarie. Tamen ambae dicuntur tamquam totalis causa et sufficiens conclusionis. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

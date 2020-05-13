@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1 UTRUM DE DEMONSTRATIONE POSSIT ESSE SCIENTIA</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e59">
+      <head xml:id="Buzcv2-d1e59-Hd1e101">Quaestio 1</head>
+      <head xml:id="Buzcv2-d1e59-Hd1e104" type="question-title">UTRUM DE DEMONSTRATIONE POSSIT ESSE SCIENTIA</head>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e107"> 1. Arguitur quod non: quia omnis scientia est de necessariis et impossibilibus aliter se
+   habere et perpetuis, ut patet primo huius; et nulla scientia est de entibus per accidens, quae
+   sunt contingentia: nulla enim scientia est de corruptibilibus (haec omnia ponuntur primo
+   huius); sed demonstrationes non sunt necessariae nec sunt perpetuae, immo sunt corruptibiles
+   et contingentes, quia possunt esse et non esse quando nos uolumus: facimus enim eas quando
+   uolumus; igitur de demonstrationibus non potest esse scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e110"> 2. Secundo, omne quod scitur scitur per definitionem uel per demonstrationem, ut dicit
+   <name ref="#Grosseteste">Lincolniensis</name>*, secundo huius; sed neutro modo potest demonstratio sciri;
+   igitur nullo modo. Probo minorem. Primo, quod demonstratio non scitur per definitionem: quia
+   solius incomplexi est definitio; demonstratio autem non est incomplexa; igitur non scitur per
+   definitionem. Nec etiam scitur per demonstrationem: quia sequeretur quod idem notificaret se
+   ipsum. Probo quod de demonstratione potissima non possit esse scientia per demonstrationem:
+   quia demonstratio debet tradi per notiora et nulla demonstratio est notior demonstratione
+   potissima; ideo demonstratio potissima per nullam demonstrationem scitur uel notificatur. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e116"> 3. Item, nulla est scientia de demonstratione nisi logica; sed logica non est scientia;
+   igitur nulla scientia est de demonstratione. Et ego probo unico argumento minorem: quia nulla
+   ars est scientia, eo quod ars et scientia contra inuicem distinguuntur, sexto Ethicorum*; modo
+   logica est ars, ut communiter dicitur; ergo ipsa non est scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e120"> 4. Item, si esset de demonstratione scientia, uel esset practica uel speculatiua (a
+   sufficienti diuisione); non speculatiua, quia ipsa est de operatis a nobis, nec practica, quia
+   ipsa ordinatur finaliter ad scire, et talis non est practica, ut habetur secundo
+   Metaphysicae*. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e123"> 5. Ultimo arguitur: demonstratio non est intelligibilis; igitur de ipsa non est scientia.
+   Consequentia patet: quia scientia est habitus intellectualis; igitur non est nisi de
+   intelligibilibus. Antecedens probatur. Primo, quia si demonstratio intelligeretur, oporteret
+   plura simul intelligere, quod est contra <name ref="#Aristotle">Aristotilem</name>, in Topicis, dicentem <quote xml:id="Buzcv2-d1e59-Qd1e128">contingit plura
+   scire, unum autem intelligere</quote>*, et etiam, quarto Metaphysicae, <quote xml:id="Buzcv2-d1e59-Qd1e131">qui non unum intelligit nihil
+   intelligit</quote>*. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e135"> 6. Secundo, confirmatur quod demonstratio non sit intelligibilis: quia intelligibile debet
+   mouere intellectum; sed mouens debet esse nobilius moto, ut dicitur secundo de Anima*, et
+   demonstratio non est nobilior intellectu; igitur ipsa non est intelligibilis. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e138"> In oppositum est <name ref="#Aristotle">Aristotiles</name> et omnes alii, quoniam per librum Posteriorum habemus scientiam
+   de demonstrationibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e144"> Notandum est quod licet <mentioned>scientia</mentioned> multipliciter dicatur, tamen intendimus hic loqui de
+   scientia demonstratiua, scilicet per demonstrationem uel demonstrationes acquisita. Et tunc
+   sciendum est quod triplex est <mentioned>scibile</mentioned>*, scilicet per demonstrationem. Primum et immediatum
+   scibile est conclusio demonstrabilis, quae ex eo dicitur sciri quia ex praemissis notis
+   concluditur. Secundo modo, <mentioned>scibilia</mentioned> dicuntur ex quibus conclusio demonstrabilis componitur.
+   Unde, sicut dicimus nos scire talem conclusionem et eam nobis esse demonstratam, ita saepe
+   dicimus tale praedicatum esse scitum et demonstratum de tali subiecto. Deinde, tertio modo,
+   scibilia sunt res significatae per terminos conclusionum demonstrabilium, et ita dicimus nos
+   habere scientiam de animalibus et lapidibus, de deo et intelligentiis, et sic de aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e156"> Istis notatis, pono faciliter aliquas conclusiones. Prima est quod de demonstrationibus non
+   est scientia primo modo, scilicet tamquam de conclusionibus demonstrabilibus: quia nulla
+   demonstratio, immo etiam nullus syllogismus, efficitur conclusio alicuius demonstrationis. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e160"> Secunda conclusio est quod nulla scientia est de demonstratione secundo modo, scilicet
+   tamquam de termino ex quo conclusio demonstrabilis componitur: quia demonstrationes non sunt
+   termini conclusionum, immo componuntur ex multis propositionibus et terminis. Tamen illa
+   conclusio est moderanda sic quod una demonstratio, uel unus syllogismus, potest sumi
+   materialiter et supponere pro se, et ita posset effici terminus, scilicet subiectum uel
+   praedicatum, alicuius propositionis uel conclusionis. Sed numquam demonstratio significatiue
+   accepta esset terminus conclusionis uel propositionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e163"> Tertia conclusio est quod capiendo tertio modo est scientia de demonstrationibus, immo de
+   omnibus rebus mundi, tamquam de his quae per terminos conclusionis demonstrabilis
+   significantur. Quia isti termini <mentioned>ens</mentioned>, <mentioned>unum</mentioned>, <mentioned>idem</mentioned>, <mentioned>diuersum</mentioned>, <mentioned>causa</mentioned>, <mentioned>causatum</mentioned>,
+   <mentioned>corruptibile</mentioned>, <mentioned>incorruptibile</mentioned>, et sic de multis aliis, significant omnes res mundi, et
+   tamen ex istis terminis possunt componi multae conclusiones demonstrabiles, tam in physica
+   quam in metaphysica. Igitur de omnibus rebus habetur scientia tam per physicam quam per
+   metaphysicam, et, per consequens, de demonstrationibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e191"> Ultima conclusio est, descendens ad scientiam libri Posteriorum, quod de isto termino
+   <mentioned>demonstratio</mentioned> habetur scientia tertio modo, scilicet tamquam de termino ex quo conclusio
+   demonstrata componitur. Et haec scientia habetur et traditur in isto libro Posteriorum, et non
+   in Physica nec in Metaphysica. Multae enim conclusiones demonstrantur in isto libro quae
+   componuntur ex isto termino <mentioned>demonstratio</mentioned> tamquam ex subiecto propositionis; uerbi gratia,
+   quod demonstratio est ex ueris uel quod demonstratio est ex necessariis. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e200"> Istis uisis faciliter respondetur ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e203"> 1. Ad primam dico quod demonstratio debet esse ex necessariis, id est ex praemissis
+   necessariis et conclusionibus, eo modo quo conclusio uocatur <mentioned>necessaria</mentioned>, et etiam ex
+   incorruptibilibus, quia necessarium est incorruptibile eo modo quo est necessarium (et de hoc
+   fiet post quaestio specialis). Tamen res significatae per terminos conclusionum
+   demonstrabilium possunt esse corruptibiles et contingentes in essendo. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e209"> Ad aliam dico quod demonstratio non definitur nec demonstratur proprie loquendo. Sed iste
+   terminus <mentioned>demonstratio</mentioned> definitur in hoc libro, et de isto termino <mentioned>demonstratio multa
+   praedicata demonstrantur in hoc libro. Et sic, ad istum sensum, habetur in isto libro scientia
+   tam definitiua quam demonstratiua de demonstratione. Nec ualent obiectiones contra hoc factae.
+   Quia iste terminus </mentioned>demonstratio<mentioned> est terminus incomplexus; ideo bene est diffinibilis.
+   Similiter patet quod de isto termino </mentioned>demonstratio potissima<mentioned> demonstrantur praedicata, et per
+   demonstrationem potissimam. Unde licet demonstratio potissima sit per se nota, tamen multae
+   propositiones possunt esse dubiae in quibus aliquid praedicatur de isto termino </mentioned>demonstratio
+   potissima', et tales propositiones demonstrantur in hoc libro. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e225"> 3. Ad aliam rationem, sciendum est quod hoc nomen <mentioned>scientia</mentioned> prout distinguitur contra
+   <mentioned>artem</mentioned> et <mentioned>prudentiam</mentioned> accipitur propriissime, et non extendit se nisi ad habitus
+   speculatiuos; ars autem et prudentia sunt habitus practici. Et sic, capiendo ista nomina
+   proprie, logica non est scientia, sed ars, scilicet formatiua argumentationum. Tamen saepe
+   haec nomina <mentioned>ars</mentioned> et <mentioned>prudentia</mentioned> accipiuntur communiter pro omni habitu certo per
+   demonstrationem acquisito. Et sic <mentioned>ars</mentioned> non distinguitur contra <mentioned>scientiam</mentioned>; igitur sic logica
+   est ars et scientia. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e250"> 4. Ad aliam rationem, dico quod logica est practica, etiam ars demonstratiua tractata in
+   libro Posteriorum, quia arguens ad opus et docens operationem: docet debito modo facere et
+   componere argumentationem. Sed quando dicitur quod illa scientia est speculatiua quae
+   ordinatur ad scire, dico quod uerum est si ordinatur ad scire tamquam ad finem propinquum. Sed
+   si ordinatur ad opus nostrum tamquam ad finem propinquum, ipsa est practica, licet ordinetur
+   ad scire tamquam ad finem remotum et ultimatum. Hoc dicit <name ref="#Aristotle">Aristotiles</name> expresse, sexto
+   Ethicorum*, ponens prudentiam esse practicam; tamen ponit eam finaliter ordinari ad
+   sapientiam; est tamen practica quia eius finis propinquus est opus. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e256"> 5. Ad ultimam dico quod demonstratio est intelligibilis, et dico quod possibile est plura
+   simul intelligere. Nec <name ref="#Aristotle">Aristotiles</name> in sexto Topicorum dicit oppositum nisi exemplariter; modo
+   exemplorum non requiritur uerificatio, ut patet primo Priorum*. Sed quando dicit <name ref="#Aristotle">Aristotiles</name>,
+   in Metaphysica, quod <quote xml:id="Buzcv2-d1e59-Qd1e264">qui unum non intelligit nihil intelligit</quote>*, certe uerum est, quia qui
+   intelligit mille unum et duo intelligit. </p>
+
+
+      <p xml:id="Buzcv2-d1e59-d1e268"> 6. Ad confirmationem, dico quod non omne intelligibile mouet intellectum. Nam si habeo
+   conceptum communem et specificum hominis, et omnes homines mundi intelligo, tamen homo qui est
+   in Roma numquam mouet intellectum meum, uel sensum. Tamen concedo quod oportet intellectum
+   meum ab aliquo intelligibili moueri, et non ab omni. Et uniuersaliter dico quod non oportet
+   omne mouens esse nobilius moto, sed mouens principale et motor principalis; intellectus autem
+   noster est aliquis quo est nobilior, et non scilicet obiectum sensibile per se. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

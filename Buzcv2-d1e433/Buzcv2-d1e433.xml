@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 1a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 1a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e433">
+      <head xml:id="Buzcv2-d1e433-Hd1e101"> Quaestio 1a </head>
+      <head xml:id="Buzcv2-d1e433-Hd1e104" type="question-title"> UTRUM QUAESTIONES SINT AEQUALES NUMERO HIS QUAE VERE SCIMUS </head>
+      <p xml:id="Buzcv2-d1e433-d1e107"> Circa secundum librum posteriorum quaeritur, primo, utrum quaestiones sint aequales numero
+   his quae uere scimus. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e110"> 1. Et arguitur quod non: quia possibile est quod tu scias aliquam conclusionem, tamen multae
+   conclusiones sunt tibi formatae quas tu dubitas; ergo sunt tibi plures
+    <supplied>quaestiones</supplied> quam ea quae uere scis. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e116"> 2. Secundo, quandoque possunt fieri <supplied>quaestiones</supplied>, non solum de
+   necessariis, sed etiam de contingentibus; tamen contingentia non sunt uere scibilia, immo
+   solum necessaria; ergo non oportet esse tot uere scita quot quaestiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e123"> 3. Tertio, omnia problemata sunt quaestiones; tamen aliqua sunt problemata de quibus neutro
+   modo opinamur esse et de quibus neutro modo scimus, ut utrum astra sint paria uel imparia;
+   ergo non oportet esse tot uere scita quot quaestiones; et etiam <supplied>sunt</supplied>
+   quaestiones de quadratura circuli, cuius scientia nondum est inuenta, ut uidetur <name ref="#Aristotle">Aristotiles</name>
+   innuere in Praedicamentis*; igitur ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e132"> 4. Item, prima principia uere scimus, immo uerissime, immo magis quam conclusiones, ut
+   dicitur primo huius*; tamen primorum principiorum non sunt quaestiones, eo quod ipsa non sunt
+   dubitabilia, et quaestio est dubitabilis propositio, secundum <name ref="#Boethius">Boethium</name> in Topicis suis*; ergo
+   non oportet quaestiones esse aequales his quae uere scimus. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e138"> Oppositum dicit <name ref="#Aristotle">Aristotiles</name>, secundo huius*. </p>
+      <p xml:id="Buzcv2-d1e433-d1e144"> Ad illam quaestionem, si uolumus loqui de proprietate sermonis, respondendum est primo quod
+   haec est uera <mentioned>quaestiones sunt aequales his quae uere scimus</mentioned>, sicut haec est uera
+   <mentioned>quaestiones sunt aequales duabus</mentioned>. Quoniam illae propositiones sunt indefinitae, et ideo,
+   quia duae quaestiones sunt aequales numero duabus scitis et ad ueritatem indefinitae sufficit
+   quod sit uera pro aliquo uel aliquibus, ideo simpliciter est uera. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e153"> Sed satis apparet quod haec non sit intentio <name ref="#Aristotle">Aristotilis</name>, ideo quaeritur utrum omnes
+   quaestiones sunt aequales numero omnibus his quae uere scimus. Immo nec omnes homines sunt
+   aequales omnibus hominibus risibilibus: quia sequitur, capiendo sub terminis distributis, quod
+   isti duo homines essent aequales numero illis mille risibilibus, et istae duae quaestiones
+   illis mille uel illis tribus scitis . Sed si quaeratur utrum omnes quaestiones sunt aequales
+   numero aliquibus uere scitis, dico quod hoc non possum scire. Quia si essent plures
+   quaestiones quam uere scita, quod possibile est, tunc illae quaestiones, quae essent plures
+   quam uere scita, mille uere scitis essent aequales numero. Sed si essent plura uere scita quam
+   quaestiones, tunc illa bene esset uera, scilicet quod omnes quaestiones essent aequales numero
+   aliquibus uere scitis, quia istae duae illis duobus scitis, et illae tres illis tribus scitis,
+   et sic de omnibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e159"> Sed apparet quod nullo istorum sensuum intendebat <name ref="#Aristotle">Aristotiles</name>, sed isto sensu
+    <supplied>qui</supplied> communiter intelligitur quando quaerimus utrum homines in foro sunt
+   aequales numero hominibus in ecclesia aut plures aut pauciores; immo uolumus quaerere
+    <supplied>ad</supplied> istum sensum <mentioned>utrum maximus numerus istorum sit aequalis maximo
+   numero illorum</mentioned>. Ideo, si in proposito quaeratur utrum maximus numerus quaestionum sit
+   aequalis maximo numero uere scitorum, respondeo ad hoc quod hoc non possum scire, eo quod
+   forte multae sunt quaestiones quae non sunt scitae et multa sunt scita de quibus amplius non
+   quaerimus. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e175"> Sed tunc restat dubitatio quid <name ref="#Aristotle">Aristotiles</name> intendit per istam propositionem. Ad hoc
+   respondetur quod intendit solum de quaestionibus pertinentibus ad artes demonstratiuas et per
+   <mentioned>uere scita</mentioned> non intendit solum actu <supplied>scita</supplied>, sed etiam demonstratiue
+   scibilia. Et sic est uera propositio <name ref="#Aristotle">Aristotilis</name>, eo quod omnes quaestiones demonstrabiles,
+   quae pertinent ad artem demonstratiuam, sunt uere scibiles et, e conuerso, omnia demonstratiue
+   scibilia possunt poni tamquam quaestiones in arte demonstratiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e190"> Aliter potest responderi quod <name ref="#Aristotle">Aristotiles</name>, ut credo, <supplied>non</supplied> intendebat
+   loqui simpliciter de numero quaestionum uere scitarum, sed de generibus uel speciebus modorum
+   quaerendi, scilicet utrum maximus numerus modorum quaerendi, non enumerando indiuidua, sed
+   species inuicem dissimiles *****. Et dico <quote xml:id="Buzcv2-d1e433-Qd1e198">species dissimiles</quote>
+       <mentioned> quia mille possunt esse
+   species hominum, licet omnes homines sint eiusdem speciei, quoniam iste terminus </mentioned>homo<mentioned> est
+   species, significans omnes homines, et eadem ratione iste alius terminus </mentioned>homo<mentioned>, et sunt tales
+   termini plures quam mille. Sed quando quaerimus de numero specierum, nos non intendimus sic
+   enumerare omnes species consimiles contra inuicem, ut omnes terminos </mentioned>homo', sed omnes
+   consimiles accipimus pro una specie. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e212"> Et ad istum sensum potest concedi quaestio, quod quaestiones sunt aequales numero his quae
+   uere scimus. Quod patet: quia non potest dari aliquis modus quaerendi quin de isto modo
+   quaerendi aliquid sit scibile, et non potes aliquem modum dare formandi propositionem scibilem
+   quin de tali modo formandi possit fieri quaestio. Unde si tu quaeras utrum A sit et ego hoc
+   non possum scire, tamen possum scire de aliquo alio in simili modo quaerendi, quia possum
+   scire quod B est; et si tu quaeras quid asinus sit, possum scire quid homo est, et si tu
+   quaeras de aliquo quale sit, ego possum de alio scire quia tale est, et sic esset de omnibus
+   aliis modis quaerendi. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e215"> Tamen concedo quod secundum eundem modum specificum quaerendi multa possunt confici quaesita
+   non scibilia, ut utrum astra sunt paria uel imparia. Tamen de tali modo sunt aliqua scibilia;
+   ideo hoc non obstat quin modi quaestionum et modi propositionum scibilium sint ad inuicem
+   aequales secundum numerum, sed non enumerando species consimiles contra se inuicem. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e218"> Et secundum ista dicta sunt solutae rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e221"> 1. Concedo enim quod tu potes scire unam quaestionem, id est possibile est quod tu scias
+   unicam quaestionem et habeas plures quaestiones <supplied>non</supplied> demonstratas. </p>
+
+
+      <p xml:id="Buzcv2-d1e433-d1e228"> 2-4. Concedo etiam quod de contingentibus fiunt quaestiones non scibiles, et multa sunt
+   problemata non scita. Et aliqua etiam sunt uere scita, scilicet prima principia, quae proprie
+   loquendo non sunt quaesibilia, cum non sint dubitabilia. Sed haec omnia non obstant quin de
+   omnibus modis specificis quaestionum sunt aliquae quaestiones scibiles, sicut etiam de omnibus
+   modis specificis propositionum scibilium sunt etiam propositiones demonstrabiles. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

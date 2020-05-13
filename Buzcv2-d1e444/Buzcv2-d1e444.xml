@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 2a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 2a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+     <div xml:id="Buzcv2-d1e444">
+       <head xml:id="Buzcv2-d1e444-Hd1e101"> Quaestio 2a </head>
+       <head xml:id="Buzcv2-d1e444-Hd1e104" type="question-title"> UTRUM QUAESTIONES SINT QUATTUOR ET NON PLURES NEC PAUCIORES </head>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e107"> Consequenter quaeritur, secundo, utrum quaestiones sint quattuor et non plures nec
+         pauciores. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e110"> 1. Arguitur quod non sint quattuor: nam quia est et quid est sunt praecognitiones; igitur
+         non quaestiones. Consequentia tenet: quia quaestio est dubitabilis propositio et praecognitio
+         est cognitio euidens; ideo apparet quod praecognitio non est quaestio. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e113"> 2. Item, illud solum quaeritur quod cum inuentum fuerit cessat quaestio: sed hoc est unum
+         tantum, scilicet medium; ergo non sunt quattuor <supplied>quaestiones</supplied>, sed unum
+         tantum quaeritur; et propter hoc dicit <name ref="#Aristotle">Aristotiles</name>* quod omnis quaestio est quaestio medii; et
+         sic est una quaestio tantum. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e123"> 3. Item, non est uere scitum nisi unum tantum, scilicet quaestio, cum quaestiones sint
+         aequales his quae uere scimus; ergo est una tantum quaestio. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e126"> 4. Item, quia est non est quaestio, immo magis assertio; unde nullus dicitur quaerere si
+         dicat quia homo est; ergo non remanebunt nisi tres quaestiones. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e129"> 5. Deinde arguitur quod sint plures quaestiones quam quattuor: quia quaelibet scientia habet
+         quaestiones, siue interrogationes, proprias, ut habetur primo huius*; tamen sunt plures
+         scientiae quam quattuor; ideo quaestiones sunt plures quam quattuor. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e132"> 6. Et confirmatur: quia quaestio definitur quod est dubitabilis propositio; sed multo plures
+         sunt propositiones dubitabiles quam quattuor; ergo ... et caetera. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e135"> 7. Item, problemata sunt quaestiones; tamen problemata, primo Topicorum* et secundo*,
+         distinguuntur plura quam quattuor: quia distinguuntur primo secundum diuersitatem scientiarum,
+         et iterum secundum diuersitatem praedicamentorum, et iterum etiam penes qualitatem et
+         quantitatem propositionis, et ex tot diuisionibus oportet resultare plura membra quam
+         quattuor. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e138"> 8. Item, sicut quaerimus quid est aut si est, ita saepe quaerimus <quote xml:id="Buzcv2-d1e444-Qd1e140">quale?</quote>, aut <quote xml:id="Buzcv2-d1e444-Qd1e143">quantum?</quote>,
+         aut <quote xml:id="Buzcv2-d1e444-Qd1e146">ubi est?</quote>, et sic de aliis multis modis; ideo plures erunt quaestiones quam quattuor. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e151"> Oppositum est <name ref="#Aristotle">Aristotilis</name>. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e157"> Dicendum est breuiter quod loquendo de uirtute sermonis multo sunt plures quaestiones quam
+         quattuor, immo in unaquaque scientia sunt multo plures quam quattuor. Tamen cum hoc stat quod
+         quaestiones sunt quattuor, et non plures nec pauciores. Immo etiam duae sunt quaestiones, et
+         non plures nec pauciores. Quia facias unam quaestionem, quae sit A, et aliam, quae uocetur B,
+         tunc manifestum est quod A et B sunt duae quaestiones, et non plures nec pauciores. Tamen
+         licet haec sit uera <mentioned>duae sunt quaestiones quae nec sunt plures nec sunt pauciores</mentioned>, haec est
+         falsa <mentioned>nullae sunt plures quaestiones quam duae</mentioned>. Et haec omnia sunt per se manifesta, sed non
+         intenduntur ad Aristotile. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e166"> Ideo, illis relictis, debemus scire quod quaestiones uno modo possunt distingui secundum
+         quaesitiua appropriata diuersis praedicamentis, ut <mentioned>quia est?</mentioned> quaerit de substantia, <mentioned>quale?</mentioned>
+         de qualitate, <mentioned>quantum?</mentioned> de quantitate, et <mentioned>quo modo illud se habet ad illud</mentioned> de relatione, et
+         <mentioned>ubi est?</mentioned> de loco, et <mentioned>quando?</mentioned> de tempore. Et ita aliis praedicamentis possunt imponi
+         diuersa quaesitiua propria, cum ipsa praedicamenta distinguuntur penes diuersos modos
+         praedicandi. Et secundum istum modum distinguendi quaestiones, manifestum est quod modi, seu
+         genera, quaestionum sunt plura quam quattuor. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e188"> Aliter distinguit <name ref="#Aristotle">Aristotiles</name>, secundo Topicorum*, quaestiones, seu problemata, per
+         uniuersale, particulare, affirmatiuum et negatiuum, non curans de indefinito, quia aequiualet
+         particulari, et etiam non curans de singulari, quia sub scientia non cadit; et sic sunt plura
+         genera problematum, seu quaestionum. Unde sic etiam, in primo huius*, concludit <name ref="#Aristotle">Aristotiles</name>
+         quod omnia genera quaestionum, seu problematum, concluduntur per primam figuram, scilicet
+         uniuersale affirmatiuum per Barbara, <supplied>supplied&gt;uniuersale negatiuum per Celarent,
+           particulare affirmatiuum per Darii et particulare negatiuum per Ferio</supplied>. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e200"> Adhuc alio modo distinguuntur primo Topicorum*, penes distinctionem praedicatorum, ita quod
+         est problema, seu quaestio, de accidente, de proprio, de genere et de definitione. Et sic ista
+         sunt quattuor genera quaestionum ad quae omnes quaestiones reducuntur. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e203"> Verum est etiam quod possunt distingui penes hoc uerbum <mentioned>est</mentioned>, copulam et formale in
+         propositione, quod aliquando est expressum et aliquando est implicatum. Et potest fieri talis
+         distinctio quod uel hoc uerbum <mentioned>est</mentioned> ponitur secundo adiacens uel tertio adiacens. Si ponitur
+         secundo adiacens, sic quaerimus de aliquo si est, siue utrum ipsum est, et de hoc, scito quia
+         ipsum est, quaerimus ultra quid ipsum est; et sic sunt duae quaestiones de <mentioned>est</mentioned> secundo
+         adiacente. Aliquando autem quaerimus de <mentioned>est</mentioned> tertio adiacente, ut utrum homo sit album, uel
+         utrum homo sit risibilis, uel utrum homo currat. Et hoc cognito, scilicet quia homo currit,
+         adhuc ignotam causam quaerimus, propter quid homo currit aut propter quid luna eclipsatur. Et
+         sic iterum sunt duae quaestiones de <mentioned>est</mentioned> tertio adiacente. Et ideo secundum istum modum
+         distinctionis resultant quattuor genera quaestionum. Et non est dubium quin quodlibet istorum
+         generum posset iterum distingui, eo quod copula potest esse de praesenti, praeterito uel
+         futuro, uel potest esse modalis aut de inesse. Et iterum quilibet istorum membrorum
+         distinguitur ultra per uniuersale et particulare, affirmatiuum et negatiuum, et sic
+         resultarent multa genera et multi modi quaestionum. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e222"> Ideo nullum est inconueniens quod secundum aliquam distinctionem ponamus solum duo genera
+         quaestionem, unum de <mentioned>est</mentioned> secundo adiacente, aliud de <mentioned>est</mentioned> tertio adiacente, et secundum
+         ulteriores distinctiones ponamus quattuor genera, seu quattuor modos, quaestionum,
+         distinguendo <mentioned>est</mentioned> secundo adiacens in si est et quid est, et distinguendo <mentioned>est</mentioned> tertio
+         adiacens in quia est et propter quid est. Et secundum istum modum distinctionis enumerat
+         <name ref="#Aristotle">Aristotiles</name> hic quaestiones. Et nullum est inconueniens quod adhuc cuilibet istorum membrorum
+         fiant ulteriores distinctiones, et sic possunt resultare aut duodecim genera, seu modi, aut
+         quattuor, aut centum. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e240"> Per hoc ad rationes. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e243"> 1. Ad primam, dico quod non repugnat scire de aliquibus si est et quid est et de aliis
+         dubitare. Ideo quamuis de aliquibus quid est et quia est sint praecognitiones, tamen etiam de
+         aliis quid est et quia est sunt quaestiones. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e246"> 2. Ad aliam, dico quod non solum quaeritur medium , sed etiam finis per quem itur ad medium.
+         Et istae quaestiones distinguuntur hoc modo, quantum ad ea quae quaeruntur, ut fines; quaero
+         enim inuenire utrum homo est, et tunc quaero quid est, utrum est risibilis uel aliquid aliud. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e249"> 3. Ad aliam, <supplied>quod</supplied> nullum est uere scitum nisi quaestio, dico quod licet
+         uere scitum non sit nisi quaestio, tamen multa sunt diuersa genera quaestionum, aut decem aut
+         centum. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e255"> 4. Ad aliam, dico quod licet ista oratio <mentioned>quia homo est</mentioned> non proponatur nisi per modum
+         conclusionis, tamen <name ref="#Aristotle">Aristotiles</name> uocauit eam <mentioned>quaestionem</mentioned> quia quaeritur ueritas eius per
+         demonstrationem. Unde certum est quod per idem syncategorematicum quaesitiuum fiunt duae
+         quaestiones, una de <mentioned>est</mentioned> secundo adiacente, alia de <mentioned>est</mentioned> tertio adiacente. Possumus enim
+         quaerere si homo est et si homo est risibilis, <supplied>an homo est et an homo est
+           risibilis</supplied>, et utrum homo est et utrum homo est risibilis; et est idem sensus in
+         istis tribus modis quaerendi, quia in illis accipiuntur <mentioned>si</mentioned> et <mentioned>an</mentioned> pro <mentioned>utrum</mentioned>. Sed
+         <name ref="#Aristotle">Aristotiles</name> ad distinguendum ponit ad placitum istam dictionem <mentioned>quia</mentioned>, licet non sit proprius
+         sermo. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e293"> 5. Ad aliam, concedo quod multae sunt quaestiones, ita quod nobis innumerabiles. </p>
+       
+       
+       <p xml:id="Buzcv2-d1e444-d1e296"> 6-8. Et breuiter ad omnes responsum est, nisi ad ultimam. Quia aliquis posset dubitare ad
+         quam quaestionem de praedictis reducuntur <mentioned>quale?</mentioned>, <mentioned>quantum?</mentioned> <supplied>et</supplied> <mentioned>ubi?</mentioned>.
+         Et potest responderi quod in illis quaestionibus quaeritur de subiecto substantiali dispositio
+         accidentalis quae se habet ad modum praedicati tertio adiacentis. Unde in responsione apparet
+         quod omne praedicatum est tertio adiacens additum, ut quia homo est albus, aut tricubitus, et
+         sic de aliis; et ideo reducuntur ad quaestionem quia est. </p>
+     </div>
+   </body>
+  </text>
+</TEI>

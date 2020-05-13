@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e70">
+      <head xml:id="Buzcv2-d1e70-Hd1e101">Quaestio 2</head>
+      <head xml:id="Buzcv2-d1e70-Hd1e104" type="question-title">UTRUM POSSIBILE SIT NOS ALIQUID SCIRE</head>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e107"> Consequenter quaeritur, secundo, utrum possibile sit nos aliquid scire. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e110"> 1. Arguitur primo quod non: quia scientia est notitia certa et euidens, et talis est nobis
+   impossibilis; igitur ... et caetera. Maior patet: quia per hoc differt scientia ab opinione,
+   scilicet quia scientia requirit certitudinem, quam opinio non requirit. Minor probatur
+   multipliciter. Primo ex parte sensus: quia illud idem quod nos iudicamus insipidum, id est
+   mali saporis, asinus iudicat sapidum, sicut cardones; et non potest dici quod iudicium nostrum
+   sit melius aut certius quam iudicium asini, quia iudicium asini est per naturam et natura non
+   errat in suis operationibus; et sic patet quod iudicium nostrum ad sensum non est certum. Idem
+   patet de uiris et mulieribus, de pueris et senibus: nam quae apparent sapida mulieribus uel
+   pueris apparent insipida uiris uel senibus, et e conuerso, +magis sapida et plus salsa uel
+   modicia+; et non apparet qui istorum uerius iudicant, et uidetur quod totum sit nobis
+   incertum. Similiter, canes melius odorant quam homines, tamen iudicant quosdam odores suaues
+   et dulces et eos persequuntur tamquam bonos, ut odores cadauerum, quos tamen reputat homo
+   abominabiles. Ideo apparet quod de his non habemus iudicium certum. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e113"> 2. Item, quod sanus iudicat dulce illud saepe aeger iudicat amarum. Si tu diceres quod
+   iudicium sani est bonum et sano est credendum, hoc non potest dici: quia si sanus melius
+   iudicat quam aeger, hoc non est nisi propter meliorem dispositionem organi; ergo nullus
+   simpliciter recte et perfecte iudicabit nisi habuerit organum perfecte dispositum; modo forte
+   nullus habet; ideo nullus perfecte iudicabit. Et iterum probo quod iudicium aegri est bonum:
+   quia nullum agens agit in aliquod passum specie sibi contrariam; ideo numquam dulce agit
+   speciem amaritudinis per quam agens aeger iudicabit amarum, sed oportet illam speciem ab amaro
+   prouenire; ideo aeger bene iudicat iudicando amaritudinem. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e117"> 3. Item, exsistens in naui mota in fluuio, uidens arborem in litore, iudicat arborem moueri,
+   et stans iuxta arborem iudicat quiescere; et sic nescitur quis recte iudicat. Sane probatur
+   tibi quod exsistens in naui mota recte iudicat: quia exsistens in naui percipit motum ad uisum
+   (aliter non iudicaret arborem moueri) et non percipit motum nisi in arbore, quia forte non
+   uidit se ipsum nec nauem, immo solum arborem uel litora; ideo in arbore uidetur esse motus
+   quem percipit. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e120"> 4. Item, per aliud medium apparet nobis alius color et alia magnitudo. Unde sol in mane,
+   quando oritur, apparet rubeus et magnus, et cum eleuatus est apparet minor et albus. Et si tu
+   dicis quod hoc est propter indispositionem medii, tunc ex hoc concluditur quod numquam erit
+   perfecte uerum et rectum iudicium nisi medium sit perfecte purum, quod non inuenitur apud nos.
+   Etiam color non uidetur sine lumine, et tamen in intensiori uel minori lumine apparet alius et
+   alius color. Ideo numquam habemus certum iudicium de colore. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e123"> 5. Item, sensus possunt deludi, ut communiter dicitur; ergo eorum iudicium non est certum
+   nec firmum. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e126"> 6. Item, illam speciem quam tu habes in sensu de his quae tibi modo apparent, deus omnino
+   potest eam conseruare in sensu tuo perfecte rebus non praesentibus, et tunc omnino et penitus
+   tibi apparebit ut nunc apparet; et ita credens te iudicare sicut apparet nunc, non recte
+   iudicares, quia falsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e129"> 7. Immo, sicut aliqui arguunt, quia deus potest hoc facere si uelit, et tu non potes scire
+   cum certitudine utrum deus hoc uult, ergo tu non potes esse certus utrum ita est, nec, per
+   consequens, utrum uides aliquam rem extra. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e132"> 8. Deinde, arguitur ex parte intellectus: quia notitia intellectiua dependet ex sensitiua;
+   igitur, cum sensitiua non sit certa, ut dictum est, sequitur quod non intellectiua. Igitur, in
+   octauo Physicorum*, <name ref="#Aristotle">Aristotiles</name> reprehendit illos qui dicunt quod sensum nolunt sequi, sed
+   rationem; quia sensus, ut dicit <name ref="#Aristotle">Aristotiles</name>, est dignior, id est certior, ratione. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e142"> 9. Item, possibile est quod species sensibilium alienantur antequam perueniant ad ipsum
+   intellectum; et sic non erit certum iudicium ipsius intellectus. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e145"> 10. Item, ex hoc sequitur quod conclusiones non erunt certae si principia non fuerint certa;
+   sed principia non sunt certa. Probatio: quia sunt acquisita per experientiam, ut dicitur
+   secundo huius, et experimentum saepe est fallax: immo nullum experimentum concludit gratia
+   formae propositionem uniuersalem, cum per nullum experimentum fiat inductio in omnibus
+   singularibus; igitur principia non uidentur certa. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e148"> 11. Item, causa non potest uere sciri per effectum: quia scientiae debent esse per causam,
+   ut patet per definitionem ipsius scire. Nec effectus potest certe sciri per causam, cum causae
+   sint nobis minus notae, et minus notum non notificat magis notum. Nec ualet si dicatur quod
+   causae sunt notiores secundum naturam: quia nec est ad propositum nec ad nos de notitia
+   naturae: nos enim scimus qui addiscimus aliquid; ideo patet quod ex nobis notioribus
+   addiscimus. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e151"> 12. Item, uidetur quod unum non potest sciri per alterum cum certitudine: quia non uidetur
+   certitudo perfecta donec sit reductio facta in primum principium; sed ubi probaretur unum per
+   aliud non posset fieri reductio in primum principium, quod quidem principium fundatur in
+   contradictione, quia duo disparata non contradicunt, ut hoc esse et illud non esse; ideo sic
+   non habetur certitudo*. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e154"> 13. Item, de rebus extra sensus non habetur certitudo, cum tales res sint extra sensibiles,
+   quia singulares sunt et continue mutantur; nec de rebus extra animam, quia illae sunt minus
+   notae quam res extra. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e157"> 14. Ultimo arguitur: quia si aliquid sciretur, hoc esset per causam, ut patet per
+   definitionem ipsius scire; tunc quaero utrum illa causa sit nota uel ignota; si non sit nota
+   nec scita, non faciet scire; et si sit scita, hoc etiam esset per causam, ut prius, et ita
+   procederetur in infinitum, quod est inconueniens. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e161"> In oppositum est <name ref="#Aristotle">Aristotiles</name>, in isto libro, diffiniens scire, et dicens quod demonstratio
+   est syllogismus faciens scire*. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e167"> Ista quaestio continet multas difficultates propter quas antiqui negauerunt scire esse
+   possibile, quae in arguendo ponuntur. Ad quaestionem tamen respondeo quod scire est nobis
+   possibile: quia aliqua sunt principia nobis per se nota et nulli dubia; immo circa ea nullus
+   potest errare, ut patet quarto Metaphysicae*; deinde ex illis principiis possunt educi
+   quaestiones per syllogismos formaliter euidentes, et etiam illae conclusiones sciuntur. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e170"> Unde debetis notare quod cum ponantur tres operationes intellectus, in earum qualibet sunt
+   aliqua per se manifesta ex natura et inclinatione ipsius intellectus ad ueritatem. Unde sicut
+   ignis est naturaliter inclinatus ad calefaciendum et graue ad descendendum, ita intellectus
+   est naturaliter inclinatus ad intelligendum obiecta sibi sufficienter praesentata, et etiam
+   naturaliter inclinatus ad comprehensionem ueritatis primorum principiorum complexorum; ideo
+   non oportet quod per aliud primum iudicium declaretur. Ita etiam, in alia operatione
+   intellectus, est discursus per se euidens, sicut sunt syllogismi primae figurae uel
+   expositorii. Ideo quando per primis sic per se notis fit syllogismus formaliter euidens et per
+   se notum, oportet cum certitudine assentire conclusioni, et sic eam esse scitam. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e173"> Item, Commentator, secundo Metaphysicae*, adducit aliam rationem ad probandum quod scire sit
+   nobis possibile. Quia illud est nobis possibile ad quod nos habemus naturale desiderium, cum
+   natura nihil faciat frustra (primo de Caelo et Mundo*); sed omnes homines natura scire
+   desiderant, ut determinatur in prooemio Metaphysicae*; ergo scire est nobis possibile. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e176"> Propter solutiones rationum et maiorem euidentiam positionis, est notandum quod ad
+   scientiam* requiritur certitudo et euidentia; et adhuc duo requiruntur, scilicet certitudo
+   ueritatis et certitudo assensus. Dico primo <quote xml:id="Buzcv2-d1e70-Qd1e178">certitudo ueritatis</quote>, quia si firmissime et sine
+   aliqua formidine assentiremus propositioni falsae, sicut faciunt haeretici, qui aliquando
+   magis uolunt mori quam negare illud cui ipsi assenserunt, tamen non est scientia propter talem
+   assensum, quia deficit ueritas et certitudo et firmitas ueritatis. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e182"> Dico secundo quod requiritur certitudo, seu firmitas, assensus, quia de propositione
+   firmissimae et certissimae ueritatis possumus dubitare, et sic non firmiter ei assentire, et
+   tunc sic de ea non habemus scientiam. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e186"> Tertio dico quod cum huius modi duplici firmitate, seu certitudine, requiritur euidentia, ad
+   differentiam fidei uel opinionis. Nam fides est firmissimae et certissimae ueritatis, et debet
+   esse cum assensu firmissimo, sed non dicitur scientia, quia ille assensus non est per
+   euidentiam. Similiter etiam de aliquo uerissimo et firmissimo in sua ueritate assentimus
+   aliquando per rationem solum probabilem, licet forte credamus eam esse demonstratiuam. Et
+   possibile est quod propter illam rationem credamus cum omni assensu firmissimo; unde, septimo
+   Ethicorum*, dicit <name ref="#Aristotle">Aristotiles</name> quod multi aeque firmiter credunt his quae opinantur sicut his
+   quae sciunt, et tamen ille habitus non est scientia, quia non est per rationem simpliciter
+   euidentem, quamuis illi reputarent illam euidentem. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e192"> Unde iuxta hoc notandum est quod differentia est inter fidem, scientiam et opinionem.
+   Scientia enim, cum firmitate ueritatis et assensus requirit euidentiam, quam non habet fides
+   uel opinio. Sed fides differt ab opinione quia fides requirit firmitatem ueritatis et
+   assensus, quorum neutrum requirit opinio. Tamen opinio cum illis duabus stare potest, ut
+   dictum fuit; et differt a fide quia opinio est per humanam rationem ex sensibus deductam,
+   fides autem ex uoluntate, propter auctoritatem sacrae scripturae solum. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e195"> Sed de euidentia* debetis notare quod <mentioned>euidentia</mentioned> multipliciter accipitur. Uno modo
+   propriissime, et tunc euidentia propositionis dicitur secundum quam intellectus per suam
+   naturam cogitur propositioni assentire et non potest ei dissentire; et isto modo diceret
+   <name ref="#Aristotle">Aristotiles</name> quod primum principium est nobis euidens. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e204"> Secundo modo <mentioned>euidentia</mentioned> dicitur quia cuilibet apparet et per nullam rationem humanam +nisi
+   subiectiuam+ posset oppositum apparere; et isto modo sunt euidentia principia naturalia et
+   conclusiones naturales. Et notandum est quod haec euidentia non dicitur proprie <mentioned>euidentia</mentioned>:
+   quia circa tales propositiones euidentes intellectus posset decipi per causam supernaturalem;
+   quia deus posset facere ignem sine caliditate, et posset facere in sensu meo et conseruare
+   speciem sensitiuam sine obiecto, et ita per istam euidentiam tu iudicares ac si obiectum esset
+   praesens, et iudicares falsum. Tamen illa euidentia naturalis bene dicitur naturalis, quia
+   secundum illam non potest homo decipi stante communi cursu naturae, licet deciperetur per
+   causam supernaturalem; et haec euidentia sufficit ad naturalem scientiam. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e213"> Istis uisis, facile est soluere rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e216"> 1. Et primo, ad illas de sapido et insipido, dicitur quod asinus et homo recte iudicant. Nam
+   cardones sunt sapidi asino et insipidi hominibus, quoniam diuersis complexionibus et naturis
+   sunt diuersi cibi conuenientes et diuersi odores. Modo aliquid dicitur <mentioned>sapidum</mentioned> quia sapit et
+   <mentioned>insipidum</mentioned> quia non sapit, uel disconuenienter sapit; similiter odor dicitur <mentioned>suauis</mentioned> uel
+   <mentioned>fetidus</mentioned> quia conueniens uel disconueniens. Ideo homo per rationem iudicat odores sibi
+   inconuenientes esse conuenientes cani uel iudicat sibi fetidum non esse fetidum cani, et
+   saporem sibi sapidum iudicat asino insipidum, uel e conuerso. Ideo uterque recte iudicat. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e232"> 2.Ad rationem de aegro qui iudicat amarum illud quod tu iudicas esse dulce, dico quod aeger
+   decipitur propter indispositionem organi. Et quando arguitur <quote xml:id="Buzcv2-d1e70-Qd1e234">ergo numquam erit perfectum
+   iudicium si organum non sit perfecte dispositum</quote>, dico quod hoc posset concedi quantum ad
+   gradum saporis uel odoris, tamen non requiritur optima dispositio ad perfecte iudicandum quod
+   hoc est dulce uel amarum. Sed quando ulterius dicitur quod dulcedo ... et caetera, dico quod
+   dulcedo in nullo passo causaret speciem amaritudinis; ideo species amaritudinis in aegro non
+   efficitur a cibo dato, sed ab humoribus infectis circumsolutis linguae, quia masticando cibum
+   commouentur et immutant organum; ideo aeger uere et recte potest iudicare quod ipse sentit
+   amarum, sed decipitur iudicando quod illud amarum sit cibi. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e238"> 3. Ad aliam, de motu arboris, dico quod ille in naui si non uideat se aut nauem non uidet
+   arborem motum, sed uidet arborem quiescentem. Tamen, quia per motum hominis in naui species
+   arboris mutat situm in oculo, ideo uirtus imaginatiua iudicat motum fieri, et quia non
+   percipit motum oculi, iudicat quod arbor moueatur, et decipitur. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e241"> 4. Ad aliam, quae arguebat de colore, conceditur quod impossibile est uel difficillimum
+   iudicare gradum luminis uel coloris; sed cum hoc stat quod uere et recte iudicemus hoc esse
+   album aut rubeum. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e244"> 5. Ad aliam, de illusione sensuum, potest dici quod in medio bene disposito et oculo
+   exsistente sano sunt multa de quibus sensus numquam decipitur per illusionem sensuum
+   uidentium, nisi forte illusio esset supernaturalis. Et si aliquando sensus illuduntur, cum hoc
+   in multis potest corrigere intellectus per rationem errorem sensus. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e247"> 6. Ad aliam, arguentem de potentia dei, dico quod ita non intelligitur quin de principiis et
+   conclusionibus talibus habeamus euidentiam naturalem, licet de multis eorum non habeamus
+   euidentiam propriissime dictam. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e250"> 7. Ad aliam rationem, arguentem de intellectu quia intellectus dependet ex sensu, concedo
+   quod intellectus accipit firmum iudicium et euidens euidentia naturali et iudicio sensus. Sed
+   ultra intellectus de multis uirtute propria, quae excedit uirtutem sensus, habet firmum
+   iudicium, licet illud non sit sensus iudicium, uerbi gratia de uniuersalibus principiis. Immo
+   saepe per rationem intellectus euidenter corrigit errorem sensus, ut patet de magnitudine. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e254"> 8. Ad aliam, de alienatione specierum, quod numquam perueniant ad intellectum, dicendum est
+   quod aliqua sunt principia quae numquam essent dubia uel incerta propter quamcumque
+   alienatione: uerbi gratia, primum principium. Nam quocumque casu posito, uerum est quod
+   quodlibet est uel non est*, et quod totum est maius sua parte, et sic de multis aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e257"> 9. Ad aliam, dicentem quod experientia saepe fallit, dicitur primo quod multa sunt principia
+   euidentia non credita per experientiam, sed per manifestam terminorum inclusionem ad inuicem,
+   uel exclusionem, scito quid nominis. Sic enim est euidens quod homo est animal et asinus est
+   animal. Deinde principia sumpta per experientiam adhuc habent naturalem euidentiam. Quia licet
+   experientia pauca et parum examinata saepe fallat, tamen experientia multa et bene in diuersis
+   casibus examinata numquam fallit. Et quando ultra opinatur quod experientia numquam gratia
+   formae concludit uniuersale principium, quia numquam fit in omnibus singularibus, respondet
+   Commentator, secundo Physicorum*, quod licet inductio, siue experientia inductiua, non
+   concludat gratia formae, tamen intellectus, ex eius naturali inclinatione ad ueritatem,
+   percipiens multotiens ita fieri quod non potest nec potuit recipere instantiam, nec uidere
+   esse rationem quare in aliis debeat esse aliter, ipse concedit uniuersale principium tamquam
+   notum et euidens euidentia naturali et possibili circa talia. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e260"> 10. Ad aliam, dico quod causa potest certe sciri propter quid ipsa est. Et quando dicitur
+   <quote xml:id="Buzcv2-d1e70-Qd1e262">causa est nobis minus nota</quote>, dico quod licet causa sit nobis minus nota quam effectus quantum
+   ad quia est, tamen causa est prius nota, non solum naturae, sed nobis, quam propter quid
+   effectus est. Prius enim est notum tibi quod luna est inter terram et solem quam sit notum
+   tibi propter quid sol eclipsatur, licet prius bene scieris quod sol eclipsatur. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e266"> 11. Ad aliam, dico quod unum per aliud potest sciri. Nec oportet omnia principia resoluere
+   in primum principium complexum, immo sunt multa alia principia et habentia euidentiam
+   naturalem. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e269"> 12. Ad aliam, dico quod licet res sensibiles transmutentur, tamen aliquid est euidens de
+   eis, ut saltem quod transmutantur, et quod hoc est album, et quod hoc est homo, licet propter
+   transmutationem sit dubium utrum iste sit totaliter idem homo sicut erat de mane. </p>
+
+
+      <p xml:id="Buzcv2-d1e70-d1e272"> 13. Ad ultimam, dicitur quod illud quod scitur demonstratiue scitur per causam; et ita causa
+   est scita non demonstratiue, sed per ipsam; modo illud scire quod diffiniebatur erat scire per
+   demonstrationem et per doctrinam, quo modo non contingit scire principia. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

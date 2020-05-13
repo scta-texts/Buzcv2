@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e115">
+      <head xml:id="Buzcv2-d1e115-Hd1e101">Quaestio 6</head>
+      <head xml:id="Buzcv2-d1e115-Hd1e104" type="question-title">UTRUM IN OMNI DEMONSTRATIONE MAIOR PRIUS PRAECOGNOSCATUR QUAM
+   CONCLUSIO ET MINOR SIMUL TEMPORE CUM CONCLUSIONE </head>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e107"> Consequenter quaeritur, sexto, utrum in omni demonstratione maior prius praecognoscatur quam
+   conclusio et minor simul tempore cum conclusione. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e110"> 1. Arguitur primo quod non: saepe enim maior non prius tempore cognoscitur quam minor: quia
+   saepe fit transpositio praemissarum, et ita minor prius cognoscitur et formatur; ideo tunc non
+   potest esse uerum quod maior praecognoscatur prius quam conclusio et minor non prius sed
+   simul. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e113"> 2. Item, utramque praemissam oportet simul cognoscere cum conclusione; igitur neutra prius.
+   Patet consequentia: quia simul tempore non est prius tempore. Sed antecedens probatur: quia
+   non potest sciri quod talis conclusio ex talibus praemissis sequitur si ignorentur praemissae;
+   ideo quando conclusio cognoscitur, oportet simul cum ea cognoscere ambas praemissas. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e117"> 3. Confirmatur: quia in demonstratione oportet scire quod talis conclusio sit propter tales
+   praemissas; ideo dicitur in definitione scire <quote xml:id="Buzcv2-d1e115-Qd1e119">quod illius est causa</quote>; sed non potest sciri
+   quod talis conclusio sit propter tales praemissas et quod tales praemissae sint causae talis
+   conclusionis nisi haec sint simul cognita; ideo simul cum conclusione oportet utramque
+   praemissam cognoscere. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e123"> 4. Item, conclusio proponitur et intelligitur ante quam arguitur et antequam formantur
+   praemissae; sed quaestio est idem quod conclusio uel in se continet conclusionem; ergo
+   conclusio cognoscitur ante praemissas. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e126"> 5. Deinde arguitur quod minor non simul tempore cognoscitur cum conclusione: quia oporteret
+   plura intelligere simul, quod est contra <name ref="#Aristotle">Aristotilem</name>, quarto Topicorum* et quarto
+   Metaphysicae*. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e132"> 6. Item, minor non simul cum conclusione cognoscitur. Quia aut nos dicimus hoc quia est
+   possibile uel quia est necessarium. Si quia est possibile, tunc debemus idem dicere de maiore,
+   quia possibile est maiorem et conclusionem simul cognoscere. Si uero dicitur quod hoc sit
+   necessarium, nos dicimus falsum: quia saepe maiore et minore exsistentibus, uel formatis,
+   tamen dubitamus de conclusione, et forte dubitamus quod non sequitur ex illis praemissis;
+   immo, quod plus est, si ambabus praemissis cognitis esset necesse conclusionem cognosci et
+   sciri, sequeretur quod cognitis principiis doctrinae in geometria nos sciremus omnes
+   conclusiones geometriales; sed consequens est falsum. Et consequentia probatur: quia illa
+   principia sunt praemissae sufficientes ad primam conclusionem; ideo illis scitis, sciretur
+   prima conclusio; deinde, illa principia cum prima conclusione sunt sufficientes praemissae ad
+   secundam conclusionem; ideo etiam secunda conclusio sciretur, et sic consequenter procedendo
+   pari ratione; ergo non est necesse quod minore cognita cum maiore sciatur de necessitate
+   conclusio. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e135"> Oppositum uidetur <name ref="#Aristotle">Aristotiles</name> declarare in prooemio huius libri*, dicens quod demonstrans
+   conclusionem aliqualiter praecognouit tempore et aliqualiter simul. Et est intentio sua quod
+   maiorem praecognoscimus tempore sed inducentes minorem cum maiore simul cognoscimus
+   conclusionem, ut dicit. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e115-d1e141"> Notandum est quod conclusio siue propositio dupliciter potest cognosci. Uno modo cognitione
+   qua ipsa formatur et qua apprehendimus quid et quo modo per eam significatur; et isto modo
+   conclusio potest cognosci, et cognoscitur, ante maiorem et ante minorem: saepe enim conclusio
+   demonstranda proponitur a principio, antequam formetur aliqua praemissa. Alio modo cognitione
+   adhaesiua, scilicet qua ei adhaeremus et oppositum tamquam falsum reputamus, quod potest esse
+   dupliciter: uno modo enim adhaeremus alicui conclusioni ex uoluntate, propter solam
+   auctoritatem dicentis, et tunc non indigemus ad huius modi notitiam adhaesiuam praecognoscere
+   aliquas praemissas; aliquando autem per rationem determinantem intellectum ad assentiendum ei
+   quod ante erat sibi dubium, et talis est omnis notitia qua conclusio dicitur proprie sciri;
+   igitur de hac notitia intelligitur quaestio. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e145"> Tunc pono conclusiones faciles. Prima est quod utraque praemissa potest sciri absque hoc
+   quod sciatur conclusio. Quia utraque praemissa potest sciri absque hoc quod alia praemissa
+   sciatur; tamen non scitur conclusio nisi praemissae ante sciantur. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e148"> Secunda conclusio est quod possibile est ambas praemissas sciri absque hoc quod sciatur
+   conclusio. Probatur. Primo, quia forte potest dubitari conclusio licet praemissae certissime
+   sciantur. Secundo, quia licet de consequentia non dubitemus, tamen non attendimus ad
+   conclusionem nec ad eius consequentiam ex talibus praemissis; ideo non consequitur scientia
+   conclusionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e151"> Tertia conclusio est quod impossibile est scire conclusionem nisi aliquando sint ambae
+   praemissae simul scitae cum ea, et hoc est quando in uirtute praemissarum assentimus
+   conclusioni. Tunc enim, ut dicit <name ref="#Grosseteste">Lincolniensis</name>*, scientia praemissarum gignit, id est facit,
+   scientiam conclusionis in anima, et ad hoc faciendum non sufficit scientia unius praemissae,
+   sed requiritur scientia ambarum praemissarum; modo efficiens non producit suum effectum simul
+   tempore cum effectu (sic enim dicitur, secundo Physicorum*, quod causae et effectus actuales
+   simul sunt et non sunt. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e157"> Quarta conclusio est quod procedendo naturali ordine doctrinae, maior scitur aliquo tempore
+   antequam conclusio sciatur. Quia naturali ordine doctrinae maior ante formatur et conceditur
+   quam minor formetur, sine qua tamen minore conclusio non scitur; ideo maior prius tempore
+   scitur, et hoc intendebat <name ref="#Aristotle">Aristotiles</name>. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e163"> Ultimo dico quod maiore et minore formatis et scitis, et etiam scito et considerato quod est
+   certa et necessaria consequentia conclusionis ex illis praemissis, in eodem tempore maior
+   scitur simul cum scientia conclusione. Et causa est quia positis causis efficientibus,
+   sequitur sine mora effectus, maxime ubi non est resistentia; modo praemissis sic positis,
+   positae sunt causae sufficientes ad sciendum conclusionem, et non est contrarium resistens;
+   igitur ponitur scientia conclusionis; tamen si aliquid praedictorum deficeret, tunc non
+   necessario sequeretur scientia conclusionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e166"> Et per illa dicta patet etiam manifeste quo modo rationes soluuntur. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e170"> 1. Ad primam concedo quod minor potest prius sciri quam conclusio. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e173"> 2, 3 Ad secundam, et etiam ad eius confirmationem, concedo quod non potest sciri conclusio
+   nisi simul aliquo tempore scitis ambabus praemissis; tamen haec poterant ante sciri. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e176"> 4. Alia ratio probat quod saepe conclusio prius intelligitur quantum ad eius formationem et
+   significationem, <supplied>quod concessum est in positione</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e182"> 5. Ad aliam dico quod possibile est simul plura intelligere. Nec oppositum huius dicitur
+   quarto Topicorum* nisi exemplariter, et exemplorum non requiritur uerificatio, primo Priorum*.
+   In quarto autem Metaphysicae* bene dicitur <quote xml:id="Buzcv2-d1e115-Qd1e184">qui non unum intelligit nihil intelligit</quote>, et hoc
+   est uerum, quia qui multa intelligit unum intelligit. </p>
+
+
+      <p xml:id="Buzcv2-d1e115-d1e188"> 6. Ad aliam dicitur quod non est necesse praemissis cognitis cognoscere conclusionem, sicut
+   bene arguebat ratio de geometria. Tamen bene esset necesse cum circumstantiis appositis in
+   ultima nostra conclusione, unde sic intendebat <name ref="#Aristotle">Aristotiles</name> quod simul cognoscitur conclusio
+   cum minore. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

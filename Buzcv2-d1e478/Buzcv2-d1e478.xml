@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 5a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 5a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e478">
+      <head xml:id="Buzcv2-d1e478-Hd1e101"> Quaestio 5a </head>
+
+      <head xml:id="Buzcv2-d1e478-Hd1e104" type="question-title"> UTRUM OMNIS QUAESTIO SIT SCIBILIS AUT TERMINABILIS PER
+   DEMONSTRATIONEM </head>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e107"> Consequenter quaeritur, quinto, utrum omnis quaestio sit scibilis aut terminabilis per
+   demonstrationem. 1. Arguitur quod non: quia quaeri potest et dubitari utrum astra sint paria
+   aut imparia; tamen haec quaestio non est scibilis per demonstrationem; igitur ... <supplied>et
+    caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e113"> 2. Item, incerta sunt nobis per se dubia de quibus possunt, proprie loquendo, fieri
+   quaestiones; tamen non sciuntur nisi per sensum et experientiam, uel per memoriam, non per
+   demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e116"> 3. Item, quaestio quid est non scitur per demonstrationem, sed definitionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e120"> 4. Item, quaestio si est non scitur demonstratiue, quod declaro sic: quia si hoc uerbum
+   <mentioned>est</mentioned> secundo adiacens demonstraretur de aliquo subiecto, hoc esset per aliquod medium quod in
+   primis sciretur esse uerum de illo subiecto, quod est impossibile, quia peteretur principium;
+   uerbi gratia demonstrare quod A est per medium B esset sic arguere <mentioned>omne B est, A est B; ergo
+   A est</mentioned>; modo ibi petitur principium, quia capitur praemissa <mentioned>A est B</mentioned>, quae non potest esse
+   euidens, cum dubito utrum A sit, quia impossibile est A esse B quin A sit; ideo supponitur in
+   praemissis quod deberet probari in conclusione. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e132"> Et confirmatur: quia si est non posset demonstrari nisi esset per medium quid est, cum
+   definitio debeat esse medium in demonstratione; tamen hoc est impossibile, quia non scitur
+   quid est nisi sciatur si est. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e135"> 5. Item, propter quid est est quaestio, et non scitur per demonstrationem, quia per
+   demonstrationem non scitur nisi conclusio, et propter quid est medium totale, quod non ponitur
+   in demonstratione. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e138"> Et confirmatur: quia aliter non scitur quaestio per demonstrationem quam sicut concludi
+   potest per formam syllogisticam, et per formam syllogisticam non potest concludi nisi quia ita
+   est hoc de illo; uerbi gratia, si dico <mentioned>omne animal rationale est susceptibile disciplinae et
+   omnis homo est animal rationale</mentioned>, non possum concludere nisi quod omnis homo est susceptibilis
+   disciplinae; ideo hoc solum scio per demonstrationem, et non est scire nisi quia ita est; non
+   enim concludo <mentioned>ergo propter hoc est</mentioned>; igitur ... <supplied>et caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e150"> Oppositum dicit <name ref="#Aristotle">Aristotiles</name> ***** +propter quid de quaestione quid est . Et adhuc uidetur
+   quod quid est sciatur demonstratiue: quia quaedam definitio quid est est quaestio
+   demonstrationis, et tamen talis scitur demonstratiue.+ </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e156"> Item, omnis quaestio est uere scibilis, ut patet per <name ref="#Aristotle">Aristotilem</name> dicentem <quote xml:id="Buzcv2-d1e478-Qd1e161">quaestiones sunt
+   aequales numero his quae uere scimus*</quote>; sed solum demonstratiue uere scimus, unde dicit, primo
+   huius*, <name ref="#Aristotle">Aristotiles</name> 
+       <quote xml:id="Buzcv2-d1e478-Qd1e167">scire est per demonstrationem intelligere</quote>; ergo omnis quaestio est
+   scibilis demonstratiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e172"> Primo dicendum est quod non omnis propositio scibilis quae potest formari per modum
+   quaestionis est scibilis demonstratiue, quoniam instantia est de primis principiis, quae per
+   se, sine demonstratione, sunt euidentissime scita. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e175"> Secundo dico quod non omnis propositio dubitabilis est scibilis demonstratiue. Quia sunt
+   nobis <supplied>quaestiones</supplied> non scibiles et medio carentes quas
+    <supplied>non</supplied> potestis uos ad aliquam partem determinare, ut utrum lapides in
+   muro sint pares aut impares, aut quot sint astra in caelo. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e184"> Tertio dico quod multae sunt propositiones nobis scibiles certa scientia quae prius
+   rationabiliter dubitantur, tamen non sunt scibiles demonstratiue, quia carent medio
+   syllogistico per quod possent fieri euidentes. Et huius modi propositiones sunt principia in
+   scientiis naturalibus, quae accepta <supplied>sunt</supplied> per sensum uel experientiam, et
+   aliter sciri non possunt: uerbi gratia quod omnis ignis est calidus, quod talis herba est
+   uirtualiter calida et talis uirtualiter frigida, et sic de multis aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e190"> Quarto dico quod multae sunt propositiones inuestigabiles per media syllogistica et sunt
+   uere quaestiones dubitabiles quae tamen non sunt demonstratiue scibiles, sicut sunt
+   propositiones in morali scientia et saepe <supplied>in</supplied> naturali. Hae enim enim non
+   possunt demonstratiue terminari, nec earum potest esse scientia proprie dicta, sed terminantur
+   per syllogismos dialecticos aut rhetoricos, solam opinionem generantes, aut per suppositionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e196"> Sed quaestio de istis non intendebat, immo quaeritur utrum de quolibet genere quaestionum in
+   hoc secundo libro enumeratorum sit aliqua quaestio scibilis, ut aliqua quaestio quid est,
+   aliqua si est, aliqua quia est, aliqua propter quid est. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e199"> Unde ad istam quaestionem respondeo primo quod indubitanter quaestio quid est, scilicet
+   quaerens aliquod praedicatum tertio adiacens de subiecto, est scibilis per demonstrationem,
+    <supplied>ut</supplied> quia omnis triangulus est habens tres angulos aequales duobus
+   rectis. Immo in qualibet <supplied>scientia</supplied> sunt quam plurimae tales quaestiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e209"> Secundo, de quaestione si est, quae quaerit hoc uerbum <mentioned>est</mentioned> secundo adiacens de aliquo
+   subiecto, dicunt multi* quod nulla talis est scibilis demonstratiue, propter rationem quae
+   prius fiebat, <supplied>quia esset</supplied> petitio principii. Tamen credo oppositum et pono
+   conclusionem oppositam. Quia astrologus demonstratiue inquirens potest scire utrum eclipsis
+   est aut non est, et cum esset dubitabile utrum aliqua substantia separata sit, hoc fit scitum
+   per demonstrationem <name ref="#Aristotle">Aristotilis</name>. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e221"> Sed ad hoc ipsi respondent quod non est demonstratum quod aliqua substantia separata est,
+   sed demonstratum est quod aliqua substantia est separata. Ad hoc dico quod immo utrumque
+   istorum scitum et demonstratum est. Quia utrumque eorum ante demonstrationem dubitabatur, et
+   post demonstrationem, in uirtute ipsius demonstrationis, scitur cum certitudine et aufertur
+   dubitatio; modo hoc est scire per demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e224"> Sed ad hoc isti dicunt quod non in uirtute demonstrationis scimus istam <mentioned>aliqua substantia
+   separata est</mentioned>, sed in uirtute illius consequentiae <mentioned>aliqua substantia est separata; ergo
+   aliqua substantia separata est</mentioned>' cuius consequentiae antecedens bene fuit demonstratum, et non
+   consequens. Sed haec cauillatio non ualet. Quia capiamus praemissas per quas prima
+   demonstrabatur, illae erunt uel per se uel per priores alias demonstrationes euidentes et
+   necessarias +quia aliqua dictarum propositionum et erunt in forma syllogizata et quaelibet
+   dictarum propositionum sequebatur ad eas+. Nam si secunda sequebatur ad primam et primam ad
+   secundam, apparet quod prima sequebatur ad eas, quia quidquid sequitur ad consequens sequitur
+   ad antecedens. Igitur secunda propositio erat syllogizata secundum necessariam consequentiam
+   ex praemissis euidentibus et notioribus ea; et hoc est conclusionem esse demonstratam. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e233"> Et absurdum esset dicere quod aliqua propositio ante demonstrationem dubitabatur et facta
+   demonstratione sciatur cum certitudine, et tamen quod hoc non sit in uirtute demonstrationis
+   et per demonstrationem. Et habemus in secundo Priorum* unam potestatem syllogismi, quod potest
+   plura concludere; igitur idem syllogismus potest inferre diuersas conclusiones demonstratiuas,
+   quae omnes conclusiones sunt scitae per demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e236"> De quaestione uero<mentioned>propter quid?</mentioned> uidetur mihi esse dicendum quod ipsa per demonstrationem
+   scitur, sed non solum in uirtute formae syllogisticae et necessariae ueritatis praemissarum.
+   Immo cum hoc requiritur quod intellectus apprehendat habitudinem causalitatis eius quod per
+   praemissas significabatur ad illud quod per conclusionem significatur, et tunc, quando
+   conclusio uirtute principiorum et formae concluditur quia ita est, intellectus propter
+   habitudinem causalitatis prius consideratam supplet ex natura sua quod ita est propter illud. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e242"> De quaestione <mentioned>propter quid?</mentioned> dicetur alias seorsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e249"> Rationes quasi omnes procedunt uiis suis. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e252"> 1-3. Nam de paritate lapidum uel astrorum et de his quae sciuntur per sensum et experientiam
+   dictum est in positione, et de quaestione <mentioned>quid est?</mentioned> alias dicetur. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e258"> 4. Sed quando dicitur de <mentioned>si est</mentioned>, dico quod potest demonstrari sine petitione principii,
+   per syllogismum ex hypothesi, ut <mentioned>si B est A est, et est uerum quod B est; ergo sequitur quod
+   A est</mentioned>. Verbi gratia, si motus est aeternus et regularis, ipse est a motore immobili et si
+   motor immobilis est, substantia abstracta est; ergo probato quod motus est aeternus et
+   regularis sequitur quod substantia separata est. Vel omne genitum est ab aliquo agente sibi
+   sufficienter approximato et nobiliori eo genito; sed rana per putrefactionem est genita; ergo
+   est dare generans sibi sufficienter approximatum nobilius ea; et hoc non est nisi substantia
+   separata; ergo talis substantia est. Nec oportet quod omnis demonstratio sit per definitionem
+    <supplied>dicens</supplied> quod quid est, licet forte demonstratio potissima sic sciretur. </p>
+
+
+      <p xml:id="Buzcv2-d1e478-d1e270"> 5. Ad aliam auctoritatem, de <mentioned>propter quid?</mentioned>, conceditur quod bene concludit quod per
+   demonstrationem non scitur de conclusione propter quid ita est ut
+    <supplied>significat</supplied> in uirtute formae syllogisticae et notitiae principiorum,
+   sed propter considerationem habitudinis causalis praemissarum uel medii ad conclusionem. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

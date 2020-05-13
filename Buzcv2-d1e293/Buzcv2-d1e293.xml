@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 21a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 21a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e293">
+
+      <head xml:id="Buzcv2-d1e293-Hd1e101"> Quaestio 21a </head>
+
+      <head xml:id="Buzcv2-d1e293-Hd1e104" type="question-title"> UTRUM OMNIS PROPOSITIO UNIVERSALIS SIVE SECUNDUM QUOD IPSUM SIT
+   IMMEDIATA ET E CONVERSO </head>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e107"> Consequenter quaeritur, uicesimo primo, utrum omnis propositio uniuersalis, siue secundum
+   quod ipsum, sit immediata et e conuerso, id est utrum omnis propositio immediata sit secundum
+   quod ipsum. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e110"> 1. Arguitur quod sic: quia omne uniuersale, siue secundum quod ipsum, est primum; sed idem
+   est primum et immediatum, ut dicit <name ref="#Aristotle">Aristotiles</name>, secundo capitulo*; ergo omne secundum quod
+   ipsum, siue uniuersale, est immediatum. Probatur antecedens per <name ref="#Aristotle">Aristotilem</name>, primo huius*,
+   dicentem <quote xml:id="Buzcv2-d1e293-Qd1e118">uniuersale tunc est cum in quolibet et primo demonstratum est</quote>; et sic patet quod
+   omne uniuersale est primum. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e122"> 2. Item, omne quod est propter alterum est mediatum, quia potest demonstrari propter quid
+   ipsum est, et omne demonstrabile est mediatum, cum demonstratio sit per medium; et similiter
+   omne quod non est propter alterum est immediatum, quia tale non potest demonstrari propter
+   quid ipsum est, ex quo non est propter alterum; sic ergo patet quod idem est esse propter
+   alterum mediatio; modo secundum quod ipsum dicitur ex eo quia est propter se ipsum, et non
+   propter alterum; ergo omne secundum quod ipsum est immediatum. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e126"> 3. Item, uel <mentioned>secundum quod</mentioned> reduplicat immediationem, et habetur intentum, uel praecisionem
+   praedicati ad subiectum, scilicet conuertibilitatem, et hoc probo esse impossibile: quia
+   expresse dicit <name ref="#Grosseteste">Lincolniensis</name>, in isto capitulo*, <quote xml:id="Buzcv2-d1e293-Qd1e134">quoniam autem ex necessitate genus
+   praedicatur de sua specie secundum quod ipsum ...</quote> et caetera, et tamen non est ibi praecisio
+   seu conuertibilitas praedicati ad subiectum; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e138"> Oppositum arguitur: quia omnis propositio est uniuersalis in qua subiicitur terminus
+   communis signo uniuersali determinatus, ut habetur in Summulis*; tamen non omne quod inest
+   alicui secundum quod ipsum est sibi proprium; sed omnis propositio talis est immediata; ergo
+   non omnis propositio uniuersalis est immediata. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e141"> Item, omne quod inest alicui secundum quod ipsum est sibi proprium; sed non omne mediatum
+   est proprium; ergo non omne immediatum est secundum quod ipsum. Maior probatur: quia
+   <name ref="#Aristotle">Aristotiles</name> concludit, primo huius*, demonstrationem esse ex propriis per hoc quod ipsa est ex
+   praemissis secundum quod ipsum; modo non ualeret consequentia talis, immo esset fallacia
+   consequentis, nisi omne secundum quod ipsum esset proprium. Sed minor probatur: quia postea
+   dicebat <name ref="#Aristotle">Aristotiles</name> quod non omne quod demonstratur ex immediatis scitur propter quid,
+   scilicet quia possibile est quod non sit demonstratum ex propriis; ergo intentio sua est quod
+   non omne immediatum est proprium. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e150"> Item, <name ref="#Aristotle">Aristotiles</name> concedit istam uniuersalem, siue secundum quod ipsum, <mentioned>omnis triangulus
+   habet tres <supplied>angulos</supplied> aequales duobus rectis</mentioned>. Tamen non est immediata, quia
+   potest uere demonstrari per medium, et de facto demonstratur in geometria; ergo non omne
+    <supplied>secundum</supplied> quod ipsum est immediatum. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e165"> Notandum est quod hoc nomen <mentioned>uniuersale</mentioned> non accipitur hic sicut in libro Peri Hermeneias
+   uel sicut in libro Priorum. Quia ad uniuersale prout capitur in dictis libris sufficit quod
+   subiectum propositionis sit distributum, quod non sufficit ad uniuersale prout hic accipitur,
+   immo requiritur quod praedicatum sit uerificatum de subiecto pro omnibus suis suppositis et
+   pro omni tempore. Unde <mentioned>uniuersale</mentioned>, prout hic accipitur, praesupponit quod propositio sit de
+   omni et per se uera, et adhuc addit ultra, scilicet quod ipsa sit secundum quod ipsum. Ideo
+   bene dixit <name ref="#Aristotle">Aristotiles</name>* quod idem intelligitur in hoc libro per <mentioned>propositionem uniuersalem</mentioned> et
+   per <mentioned>propositionem secundum quod ipsum</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e183"> Sed nunc uidendum est quid debemus intelligere per <mentioned>secundum quod ipsum</mentioned>. Et ad hoc ego
+   respondeo quod in proposito ista dictio* <mentioned>secundum quod</mentioned> non solum reduplicat uniuersalitatem
+   suppositorum: quia tunc ad secundum quod ipsum sufficeret quod propositio esset de omni, quod
+   est contra <name ref="#Aristotle">Aristotilem</name> et <name ref="#Grosseteste">Lincolniensem</name>; et sequeretur etiam quod ista esset secundum quod
+   ipsum <mentioned>omne isosceles habet tres angulos aequales duobus rectis</mentioned>; tamen hoc negat
+   <name ref="#Aristotle">Aristotiles</name>*. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e206"> Secundo ego dico quod ista dictio <mentioned>secundum quod</mentioned> non reduplicat praecisionem praedicati ad
+   subiectum, dicendo immediationem per carentiam medii demonstratiui. Probatio: quia conclusio
+   potissime demonstrabilis est secundum quod ipsum, ut quod omnis triangulus habet tres angulos
+   aequales duobus rectis, ut expresse uult <name ref="#Aristotle">Aristotiles</name>*; tamen nulla conclusio proprie
+   demonstrabilis est immediata. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e215"> Et ex hoc manifeste sequitur haec conclusio quod non omne secundum quod ipsum est immediatum
+   per carentiam medii demonstratiui. Et ex hoc iterum sequitur illa conclusio quod non omne
+   secundum quod ipsum est primum, prout <mentioned>primum</mentioned> capiebatur in secundo capitulo, scilicet pro
+   principio demonstrationis quod non habet aliquid prius se per quod posset demonstrari; nam, ut
+   ibidem dicebatur, idem est <mentioned>primum</mentioned> illo modo sumptum et <mentioned>immediatum</mentioned>. Patet ergo quod nec
+   reduplicatur primoritas nec immediatio. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e227"> Ex istis ego concludo quod per istam dictionem <mentioned>secundum quod ipsum</mentioned>, secundum quod capitur
+   in proposito, reduplicatur praecisio uel primoritas seu conuertibilitas praedicati ad
+   subiectum. Quia uel reduplicatur solum uniuersalitas suppositorum uel temporum, uel
+   reduplicatur <supplied>etiam</supplied> primoritas uel praecisio, siue conuertibilitas; non
+   enim apparet quid aliud possit in proposito reduplicari. Et sicut iam dictum est, non
+   reduplicatur immediatio nec primoritas, nec solum uniuersalitas suppositorum et temporum. Ergo
+   reduplicatur praecisio praedicati ad subiectum, seu conuertibilitas. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e236"> Istam conclusionem uidetur innuere <name ref="#Grosseteste">Lincolniensis</name>* dicens quod uniuersale est quando
+   subiectum est praecisa causa praedicati uel e conuerso, ita quod neutri aliquid superadditur
+   quod non sit respectu alterius causa uel causatum. Et capit large <mentioned>causam</mentioned> uel <mentioned>causatum</mentioned>
+   prout subiectum dicimus causam passionis et genus uel differentiam causam speciei. Modo si non
+   sit conuertibilitas, non erit talis praecisio. Ergo ad secundum quod ipsum exigitur
+   conuertibilitas uel praecisio. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e248"> Item, nisi ad secundum quod ipsum, ut hic accipitur, exigeretur conuertibilitas et
+   praecisio, sequeretur quod illa <mentioned>homo est animal</mentioned> esset secundum quod ipsum supposito quod
+   <mentioned>homo</mentioned> sit sumptus pro omni animali. Quia non apparet in dicta propositione aliquid impediens
+   secundum quod ipsum nisi conuertibilitas impediat quod illa sit secundum quod ipsum, scilicet
+   <mentioned>homo est animal</mentioned>, per regulam <name>Aristotilis</name>* quod enumerando ordinate subiecta et
+   praedicata in ordine praedicamentali, quo illorum primo remoto remouetur praedicatum,
+    <supplied>illi primo</supplied> inerat praedicatum et non alteri. Modo enumeremus omnia
+   inferiora et superiora ad <mentioned>hominem</mentioned>: constat quod <mentioned>homine</mentioned> remoto non remouetur <mentioned>animal</mentioned>; ergo
+   non primo inerat ei, scilicet <mentioned>homini</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e279"> Tamen notetis quod ista conclusio ultima est contra <name>Lincolniensem</name>* et est cum
+    <name>Boethio</name>*. Unde <name>Lincolniensis</name> etiam in hoc uidetur esse contrarium
+   <name ref="#Boethius">Boethio</name>. Sed fortius est quod <name ref="#Aristotle">Aristotiles</name> uidetur eaedem conclusioni contrarius, cum dicit
+   quod tunc est uniuersale cum sit de omni et primo*. Et sic uidetur esse intentio <name ref="#Aristotle">Aristotilis</name>
+   quod illa reduplicatio reduplicat primoritatem, et tunc uidetur quod illa <mentioned>homo est animal</mentioned>
+   sit secundum quod ipsum, quia est de omni et primo, cum nullum sit medium inter genus et suam
+   speciem proximam. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e305"> Ad hoc respondeo quod <name ref="#Aristotle">Aristotiles</name> consueuit illam dictionem <mentioned>primo</mentioned> accipere dupliciter. Uno
+   modo pro carentiam prioris per quod posset demonstrari, et sic est idem <mentioned>primum</mentioned> et
+   <mentioned>immediatum</mentioned>; sed non sic accipitur ibi <mentioned>primum</mentioned> quando dicimus quod ad uniuersale requiritur
+   quod sit de omni et primo. Alio modo <mentioned>primum</mentioned> accipitur prout est secundum totum, non solum
+   secundum partem; unde sic in quinto* et sexto* Physicorum accipitur <mentioned>primum</mentioned>, et sic non
+   ualebant obiectiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e330"> Respondeo ergo directe ad quaestionem. Dico quod non omne secundum quod ipsum est
+   immediatum, siue etiam primum per carentiam prioris medii per quod possit demonstrari, quia
+   tunc sequeretur, sicut dixi, quod conclusio demonstrabilis non esset secundum quod ipsum.
+   Similiter dicendum est, e conuerso, quod non omne immediatum est secundum quod ipsum. Quia
+   immediata est praedicatio generis de sua specie proxima, ut <mentioned>homo est animal</mentioned>; tamen non est
+   secundum quod ipsum. Similiter, haec est immediata et indemonstrabilis <mentioned>omnis homo est albus
+   uel non albus</mentioned>, tamen non est secundum quod ipsum; illud enim praedicatum disiunctum non est
+   <mentioned>homini</mentioned> praecisum nec proprium. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e342"> Istis uisis respondetur ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e345"> 1. Ad primam, concedo quod uniuersale est primum prout <mentioned>primum</mentioned> significat praecisionem
+   praedicati ad subiectum; sed sic non conuertuntur ad inuicem <mentioned>primum</mentioned> et <mentioned>immediatum</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e357"> 2. Ad aliam, dico quod in proposito non est idem secundum quod ipsum et non propter alterum,
+   sed est idem secundum quod ipsum et praecisum. </p>
+
+
+      <p xml:id="Buzcv2-d1e293-d1e360"> 3. Ad aliam, conceditur, contra <name>Lincolniensem</name>, quia alii*, etiam sollemnes,
+   dicunt contrarium. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

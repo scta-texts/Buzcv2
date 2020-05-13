@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e104">
+      <head xml:id="Buzcv2-d1e104-Hd1e101">Quaestio 5</head>
+      <head xml:id="Buzcv2-d1e104-Hd1e104" type="question-title">UTRUM PRAECOGNITIONES SINT DUAE ET NON PLURES NEC PAUCIORES</head>
+      <p xml:id="Buzcv2-d1e104-d1e107"> Consequenter quaeritur, quinto, utrum praecognitiones sint duae, et non plures nec
+   pauciores, scilicet quid est et quia est. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e110"> 1. Arguitur quod sunt plures: quia praecognita sunt plura; igitur praecognitiones sunt
+   plures quam duae. Antecedens patet: quia praecognita sunt ad minus tria, scilicet subiectum,
+   passio et dignitas, ut patet primo huius. Et consequentia patet: quia oportet alterius
+   praecogniti esse aliam praecognitionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e113"> 2. Item, quaestiones sunt plures quam duae, quia sunt quattuor, ut patet secundo huius;
+   igitur praecognitiones erunt plures quam duae, quia praecognitio et quaestio opponuntur sicut
+   dubitabile et non dubitabile, et quot modis dicitur unum oppositorum, tot modis dicitur et
+   reliquum. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e117"> 3. Item, una praecognitio est quid est quod dicitur per nomen, et cum illa oportet de
+   subiecto praecognoscere quia est ens, et de dignitate quia est uera; cum igitur sit idem esse
+   ens et esse uerum, sequitur quod erunt ad minus tres praecognitiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e120"> 4. Item, omne scitum scitur ex praecognitione, ut patet in prima propositione libri*; igitur
+   si sunt plura scita quam duo, erunt plures praecognitiones quam duae; modo plura sunt scita
+   quam duo, quia sunt quattuor, ut dicitur secundo huius*; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e123"> 5. Item, non sunt solum duae praecognitiones secundum numerum, nec secundum speciem aut
+   etiam genus: quia in diuersis scientiis oportet esse diuersae praecognitiones; immo et
+   subiecta et passiones, in quibus oportet esse praecognitiones, sunt plura secundum numerum,
+   uel secundum speciem uel secundum genus, quam duo; et sic patet quod nullo dictorum modorum
+   duae sint praecognitiones solum; nec uidentur esse duae secundum analogiam, quia non apparet
+   quae et quales essent illae analogiae. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e126"> 6. Deinde arguitur quod sint pauciores quam duae: quia quaestiones non sunt praecognitiones;
+   tamen quia est et quid est sunt quaestiones, ut patet secundo huius*; ergo non sunt
+   praecognitiones, et sic nullae erunt praecognitiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e129"> 7. Item, praecognitum non est praecognitio; sed quia est et quid est sunt praecognita, quia
+   praecognoscuntur de subiecto et passione et dignitate; ergo non sunt praecognitiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e132"> 8. Item, nihil magis uidetur esse praecognitio quam quia est dignitatis, uel etiam quid
+   nominis subiecti uel passionis; modo quid nominis docetur per grammaticam, et quia est
+   dignitatis docetur, ut uidetur quarto Metaphysicae*, contra negantes prima principia; ergo
+   haec non sunt praecognitiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e136"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>, dicentem quod dupliciter necesse est praecognoscere,
+   scilicet quid est et quia est, de subiecto, passione et dignitate. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e142"> Notandum est quod <mentioned>praecognitio</mentioned> idem est quod <mentioned>prior cognitio</mentioned>; et <mentioned>prius</mentioned> dicitur relatiue
+   ad <mentioned>posterius</mentioned>; ideo praecognitio dicitur in respectu posterioris cognitionis, et illa
+   cognitio est notitia conclusionis quam innati sumus doceri. Et sciatis quod praecognitiones
+   non solum habent locum in demonstratiuis scientiis, immo in omnibus doctrinis, siue sint
+   demonstratiuae, siue probabiles uel persuasiuae. Et hoc patet per <name ref="#Aristotle">Aristotilem</name>, in littera:
+   quia, declarando primam propositionem libri, inducebat tam in mathematicis scientiis, quae
+   sunt demonstratiuae, quam in rhetoricis, quae sunt solum persuasiuae. Igitur praecognitio, ut
+   hic accipitur, est cognitio prima notitia doctrinali alicuius conclusionis ex qua fit nobis
+   huius modi notitia conclusionis. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e160"> Quibus uisis, de uirtute sermonis potest poni haec conclusio quod praecognitio est una
+   tantum; similiter praecognitiones sunt duae tantum, et non plures, sicut homines, puta
+   Iohannes et Petrus, sunt duo tantum, et non plures; similiter praecognitiones sunt mille
+   tantum, sicut homines sunt mille. Tamen, ut ueniamus ad intentionem <name ref="#Aristotle">Aristotilis</name> et expositorum
+   suorum, dicendum est quod de omnibus nominibus intrantibus demonstrationem, seu processum
+   doctrinalem, necesse est praecognoscere eorum significationes, quia aliter discipulus non
+   posset doceri a doctore. Et hoc est quod uocamus praecognoscere quid est quod dicitur per
+   nomen. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e166"> Et circa hoc debetis notare quod in aliquibus non est idem quid nominis et quid rei. Quia
+   nomen pro nullo supponens, cuius modi est hoc nomen <mentioned>uacuum</mentioned>, habet bene definitionem
+   explicantem quid nomen significat, tamen non habet definitionem explicantem quid uacuum est,
+   quia uacuum pro nullo supponit; et sic ubi nomen definitum pro nullo supponit, definitio
+   dicens quid nominis* et definitio dicens quid rei* differunt. Tamen, hoc non obstante, aliquae
+   sunt definitiones dicentes quid rei quae sunt dubiae et inuestigabiles per doctrinam. Sed
+   definitiones dicentes quid nominis non possunt probari, quia significationes nominum sunt ad
+   placitum. Ideo non est inconueniens quod quid nominis sit praecognitio et quid rei sit
+   dubitabilis quaestio. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e172"> Deinde, quantum ad quia est, sciendum est quod de praemissis per quas conclusio docetur
+   oportet praecognoscere quod sunt uerae, uel quod ita est sicut per eas significatur, aut
+   aliquid proportionabile. Et hoc est quod uocamus praecognoscere de dignitate quia est; nam in
+   una significatione hoc nomen <mentioned>ens</mentioned> significat idem quod <mentioned>uerum</mentioned>, ut patet quinto* et sexto*
+   Metaphysicae. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e181"> Deinde, etiam de aliquo subiecto oportet praecognoscere hoc praedicatum <mentioned>est</mentioned>. Quia nullus
+   quaerit scientiam quin intendat eam quaerere de aliquo ente praesente, aut praeterito aut
+   futuro, aut saltem possibili; ideo praecognouit aliquid esse, aut fuisse <supplied>aut futurum
+    esse</supplied>, aut esse possibile, de quo ipse quaerit habere scientiam, siue notitiam,
+   prius dubitatam. Et hoc est quod uocamus de subiecto praecognoscere quid est. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e191"> Nunc ergo finaliter dicamus quod duae sunt praecognitiones, et non plures quam duae, ad
+   istum sensum quod omnia quae oportet in doctrina alicuius conclusionis praecognoscere de illis
+   quae intrant demonstrationem, siue processum doctrinalem, nominantur duobus nominibus,
+   scilicet <mentioned>quia est</mentioned> et <mentioned>quid est</mentioned>. Oportet enim de omnibus terminis praecognoscere quid est,
+   scilicet quid est quod dicitur per nomen, et de omni praemissa oportet praecognoscere quia est
+   uera, uel quia ita est sicut per eam significatur, uel aliquid proportionabile; et oportet
+   etiam praecognoscere de aliquo subiecto hoc uerbum <mentioned>est</mentioned>, uel <mentioned>fuit</mentioned> uel <mentioned>erit</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e209"> Tunc soluuntur rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e212"> 1. Ad primam, concedo quod praecognita remota sunt subiectum, passio et dignitas, uel etiam
+   res significatae per subiecta, passiones et dignitates. Tamen haec non sunt omnibus modis
+   quibus possunt cognosci praecognita; et ideo quaedam sunt praecognita propinqua, scilicet quae
+   de praedictis cognoscuntur, et illa omnia uocantur illis duobus nominibus: de praedictis enim
+   tribus uel praecognoscitur quia est uel quid est; et sic reuertitur sensus prius datus,
+   scilicet in positione. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e215"> 2. Ad aliam, etiam conceditur quod sunt quattuor quaestiones, id est omnes quaestiones
+   nominantur his quattuor nominibus, de quibus secundo huius uidebitur. Et quando dicitur <quote xml:id="Buzcv2-d1e104-Qd1e217">quot
+   modis dicitur unum oppositorum, et reliquum</quote>, solet dici, et bene, quod hoc non est
+   necessarium quantum ad supposita: quia possunt esse plura bona quam mala, uel nigra quam alba.
+   Sed illa regula intelligitur quantum ad significata, id est quantum ad rationes secundum quas
+   illa nomina significant ea quae significant, ita quod si duo nomina sint ad inuicem opposita
+   secundum omnes suas significationes, oportet si unum est aequiuocum quod etiam alterum sit
+   aequiuocum. Non ergo oportet praecognitiones et quaestiones esse ad inuicem aequales secundum
+   numerum, sicut nec alba et nigra. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e221"> 3. Ad aliam, concedo quod plures sunt quam duae, immo plures quam mille. Tamen, hoc non
+   obstante, omnia quae praecognoscuntur de his quae intrant demonstrationem nominantur illis
+   duobus nominibus superius dictis. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e224"> 4. Ad aliam similiter concedo quod scita sunt plura quam duo, et etiam plura praecognita
+   quam duo, similiter praecognitiones, quibus tamen non obstantibus adhuc saluatur sensus primus
+   datus. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e228"> 5. Ad aliam dico quod praecognitiones sunt infinitae quo ad nos, ita quod nullus potest
+   scire quantus sit numerus maximus praecognitionum. Tamen duo nomina, et iam dico duo secundum
+   numerum, possunt significare omnia quae praecognoscuntur de his quae intrant demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e231"> 6. Ad argumentum quod sint pauciores, concedo quod quaestiones in processu in quo sunt
+   quaestiones non sunt praecognitiones. Ideo est idem quia est cuius est quaestio et quia est
+   cuius est praecognitio, quoniam quia est praemissae est praecognitio et quia est conclusionis
+   est quaestio. Etiam quia est subiecti est praecognitio et aliquando quia est passionis est
+   quaestio. Ita etiam in eodem processu non est quaestio et praecognitio eiusdem quid est, sed
+   saepe quid nominis praecognoscitur et quid rei, sine aliqua definitione, docetur et
+   inquiritur. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e234"> 7. Ad aliam concedo quod <mentioned>quia est</mentioned> et <mentioned>quid est</mentioned> in nominatiuo casu accepta non sunt
+   praecognitiones, immo sunt praecognita de subiecto et passione et dignitate, sed eorum quia
+   est et quid est sunt praecognitiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e104-d1e243"> 8. Ad aliam dico quod quid nominis non potest declarari nisi per uoluntariam receptionem
+   discipuli, et non quia intellectus cogatur ad credendum, et hoc non est proprie scientia.
+   Similiter dico quod quia est dignitatis non docetur nec probatur in metaphysica, sed ibi
+   ostenditur bene quo modo negans potest duci ad redargutionem. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

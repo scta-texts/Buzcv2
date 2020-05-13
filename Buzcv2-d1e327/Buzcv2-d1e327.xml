@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 24a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 24a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e327">
+
+      <head xml:id="Buzcv2-d1e327-Hd1e101"> Quaestio 24a </head>
+
+      <head xml:id="Buzcv2-d1e327-Hd1e104" type="question-title"> UTRUM IN OMNI DEMONSTRATIONE NECESSE SIT MEDIUM ET EXTREMA ESSE DE
+   EODEM GENERE </head>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e107"> Consequenter quaeritur, uicesimo quarto, utrum in omni demonstratione necesse sit medium et
+   extrema esse de eodem genere. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e110"> 1. Et arguitur primo quod non: quia extrema demonstrationis sunt subiectum et passio, et
+   tamen saepe subiectum et passio non sunt de eodem genere, sed subiectum forte est de
+   praedicamento substantiae et passio de praedicamento qualitatis;
+   <supplied>igitur</supplied>... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e116"> 2. Item, mathematicum et naturale non sunt de eodem genere scibili, et tamen aliquando
+   medium mathematicum cadit inter extrema naturalia in demonstratione; uerbi gratia, quia illa
+   conclusio naturalis <mentioned>uulnera circularia tardius sanantur</mentioned> demonstratur propter quid per medium
+   mathematicum, ut uult <name ref="#Aristotle">Aristotiles</name>*; ergo tunc medium et extrema non sunt ex eodem genere. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e126"> 3. Item, idem non est in diuersis generibus, saltem non subalternatim positis; dicitur enim
+   in Praedicamentis* <quote xml:id="Buzcv2-d1e327-Qd1e128">diuersorum generum et non subalternatim positorum ...</quote>; sed constat quod
+   idem demonstratur de diuersis generibus scibilibus, <supplied>ut de scibili metaphysicali
+    et</supplied> de scibili naturali; uerbi gratia, perpetuitas demonstratur de deo et motu;
+   igitur est possibile quod <supplied>in</supplied> utraque demonstratione <supplied>medium
+    et</supplied> extrema <supplied>non</supplied> sint de eodem genere. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e144"> 4. Item, contingit descendere de uno genere in aliud genus multipliciter, sicut dictum est
+   in alia quaestione; ideo tunc non sunt media et extrema de eodem genere, sed de diuersis. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e147"> Oppositum tamen dicit <name ref="#Aristotle">Aristotiles</name>: unde dicit* <supplied>quod</supplied> nisi medium esset
+   de genere extremorum non conueniret eis per se, sed per accidens, et demonstratio non fit ex
+   eis quae dicuntur per accidens; ideo necesse est medium esse de genere extremorum. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e156"> Respondendum est breuiter quod <mentioned>genus</mentioned>*, prout spectat ad propositum, inuenitur capi
+   tripliciter in philosophia; et uocatur unum <mentioned>genus praedicabile</mentioned>, aliud <mentioned>genus naturale</mentioned> et
+   tertium <mentioned>genus scibile</mentioned>, et ipsum etiam solet dici <mentioned>genus subiectum</mentioned>. Genus naturale dicitur a
+   generatione, et isto modo quaecumque habent ad inuicem generationem et transmutationem
+   dicuntur esse de eodem genere naturali, et genus illud est primum subiectum ex quo talia
+   generantur. Oportet enim omnia quae habent transmutationem ad inuicem, siue ex inuicem,
+   conuenire in aliquo subiecto uno eodem ex quo illa fiunt. Isto modo dicitur, quinto
+   Metaphysicae*, quod <supplied>de</supplied> eodem genere sunt quorum est eadem materia uel
+   quorum est <supplied>idem</supplied> subiectum primum et remotum uel propinquum. Et ita etiam
+   dicitur, undecimo Metaphysicae*, quod corruptibile et incorruptibile sunt diuersa genere et
+   non eiusdem generis, scilicet quia non habent ad inuicem transmutationem nec communitatem in
+   subiecto eodem; materia enim eadem prima, <supplied>quae</supplied> est subiectum commune
+   corruptibilium, non inuenitur in aeternis, secundum Commentatorem*. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e184"> Tunc statim ponitur conclusio quod isto modo capiendo <mentioned>genus</mentioned> non necesse est in omni
+   demonstratione medium et extrema esse ex eodem genere. Quia saepe multa sciuntur de illis
+   corruptibilibus et generabilibus per causas superiores incorruptibiles et ingenerabiles. Verbi
+   gratia, in secundo de Generatione*, quaerit <name ref="#Aristotle">Aristotiles</name> demonstrare perpetuitatem generationum
+   et corruptionum in istis inferioribus ex perpetuitate motuum caelestium et ex perpetuitate
+   primi motoris, et tamen illa non sunt de eodem genere naturali. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e193"> Genus praedicabile dicitur quod est aptum natum praedicari de pluribus differentibus specie
+   in eo quod quid, de quo genere determinat Porphyrius*. Et forte hoc genus dictum est ad
+   similitudinem generis naturalis; sicut enim materia est in potentia ad recipiendum diuersas
+   formas, ita genus praedicabile est in potentia ad hoc quod praedicetur et specificetur per
+   diuersas differentias. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e197"> Et ponenda est tunc conclusio, quod non est necesse medium et extrema esse de eodem genere
+    <supplied>praedicabili</supplied>. Quia, sicut habebatur, extrema demonstrationis possunt
+   esse subiectum et passio quamuis subiectum sit de uno praedicamento et passio de alio
+   praedicamento. Modo quae sunt diuersorum praedicamentorum numquam sunt de eodem genere
+   praedicabili. Similiter, in demonstrationibus negatiuis termini unius praedicamenti
+   demonstrantur de terminis alterius praedicamenti negatiue, ut quod nullus homo est albedo per
+   medium substantiae uel medium qualitatis, ut postea dicit <name ref="#Aristotle">Aristotiles</name> in hoc libro*, et
+   manifestum est quod ibi extrema non sunt ex eodem genere praedicabili. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e206"> Sed, tertio modo, genus scibile, uel subiectum, in una scientia est ille terminus de quo
+   primo et principaliter intenditur in <supplied>illa</supplied> scientia.
+    <supplied>Et</supplied> ex huius modi <supplied>generis</supplied> unitate et attributione
+   aliorum ad ipsum scientia dicitur una, quamuis contineat multos diuersos terminos diuersorum
+   praedicamentorum et multas diuersas conclusiones et processus. Et illud genus uocatur <mentioned>genus
+   subiectum</mentioned> in ordine ad passionem principalem illius scientiae, quia respectu illius ipsum
+   dicitur <mentioned>subiectum</mentioned>, uel etiam partes eius. Sic <mentioned>magnitudo</mentioned> est primum genus subiectum, uel
+   primum genus scibile, in geometria, et <mentioned>numerus</mentioned> in arithmetica, et forte iste terminus
+   <mentioned>mobile</mentioned>, uel iste terminus <mentioned>naturale</mentioned>, est <supplied>subiectum</supplied> in scientia
+   naturali, et iste terminus <mentioned>demonstratio</mentioned> est subiectum in hoc libro. Et sciendum quod de tali
+   genere loquitur <name ref="#Aristotle">Aristotiles</name> in hoc libro, <supplied>dicens</supplied> quod scientia una est
+   unius generis subiecti, et in quarto Metaphysicae*, ubi dicit quod sicut unius generis
+   sensibilis est unus sensus, ita unius generis scibilis est una scientia considerans partes
+   eius et passiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e250"> Notandum est quod tale subiectum potest bene uocari <mentioned>genus praedicabile</mentioned>, quia potest plures
+   habere species de quibus quidditatiue praedicatur. Immo in qualibet scientia genus
+   praedicabile supremum inter ea quae non transcendunt metas illius scientiae debet poni primum
+   genus scibile in illa scientia, siue primum genus subiectum. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e256"> Ultimo notandum quod, loquendo de isto genere scibili, omnia illa dicuntur esse ex eodem
+   genere quae habent attributionem per se ad illud genus scibile quod ponitur primum subiectum
+   alicuius scientiae, dum tamen illam attributionem per se habeat ad ipsum secundum illam
+   rationem secundum quam ponitur genus subiectum in tali scientia, siue ista attributio sit
+   partis ad totum, uel passionis ad subiectum, uel principii ad principiatum, uel etiam oppositi
+   ad oppositum. Si aliqua non habeant attributionem per se ad tale genus scibile, tunc non
+   dicuntur esse ex eodem genere; et ideo isti termini <mentioned>motus</mentioned>, <mentioned>actio</mentioned> et <mentioned>passio</mentioned> et isti
+   termini <mentioned>pulcrum</mentioned>, <mentioned>dulce</mentioned> non sunt de genere mathematico, quia numquam habent attributionem
+   per se ad ista subiecta mathematicalia <mentioned>numerus</mentioned> et <mentioned>magnitudo</mentioned> secundum rationes abstractas
+   secundum quas mathematica considerat de istis generibus. Sed isti termini <mentioned>idem</mentioned>, <mentioned>diuersum</mentioned>,
+   <mentioned>unum</mentioned>, <mentioned>multa</mentioned>, <mentioned>contrarium</mentioned> et <mentioned>non contrarium</mentioned>, licet per se habeant habitudinem ad
+   magnitudinem et numerum, tamen hoc non est secundum rationem secundum quam numerus et
+   magnitudo considerantur et ponuntur subiecta in mathematica, immo secundum rationem superioris
+   entitatis. Et ideo iam huius modi termini non dicuntur de genere mathematicae, sed de genere
+   superiori, scilicet metaphysicae. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e300"> Et istis uisis, ponenda est tertia conclusio, quod in omni demonstratione necesse est medium
+   et extrema esse de eodem genere scibili. Immo extendatur conclusio sic quod omnino tales
+   terminos consideratos in aliqua scientia una necesse est ex eodem genere scibili esse. Et
+   causa est quia esse de aliquo genere scibili est habere per se attributionem ad illud genus.
+   Sed omnes termini considerati in aliqua scientia habent per se attributionem ad primum genus
+   subiectum illius scientiae. Aliter enim non esset illa scientia <supplied>una</supplied>, cum
+   illa scientia recipiat unitatem ex unitate generis subiecti et attributionem aliorum ad ipsum,
+   non attributionem per accidens, sed attributionem per se, eo quod scientiae demonstratiuae non
+   curant de his quae sunt per accidens. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e306"> Istis uisis, respondendum est ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e310"> 1. Ad primam, dico quod arguebat de genere praedicabili, et illa ratio concessa est. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e313"> 2-4. Sed ad alias rationes dicendum est quod saepe idem potest esse de diuersis generibus
+   scibilibus, licet non posset esse de diuersis generibus praedicabilibus. Nam idem terminus
+   potest conuenire per se terminis subiectis diuersarum scientiarum, ut <mentioned>perpetuitas</mentioned> 
+       <mentioned>deo</mentioned> et
+   <mentioned>motui</mentioned> et <mentioned>primae materiae</mentioned>, et etiam <mentioned>figura</mentioned> 
+       <mentioned>magnitudini</mentioned> et <mentioned>corpori naturali</mentioned>; est enim
+   per se quod magnitudo finita est finita, et est etiam per se quod talis natura exigit talem
+   formam et figuram, ut aliam figuram homo et aliam equus. Et ideo, licet descendatur de uno
+   genere in aliud genus, tamen adhuc idem poterit esse de utroque illorum generum. </p>
+
+
+      <p xml:id="Buzcv2-d1e327-d1e338"> Et sic est finis quaestionis. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

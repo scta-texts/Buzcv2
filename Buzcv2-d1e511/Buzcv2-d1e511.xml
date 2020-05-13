@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 8a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 8a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e511">
+      <head xml:id="Buzcv2-d1e511-Hd1e101"> Quaestio 8a </head>
+
+      <head xml:id="Buzcv2-d1e511-Hd1e104" type="question-title"> UTRUM DIFFINITIO POSSIT DEMONSTRARI DE SUO DIFFINITO </head>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e107"> Consequenter quaeritur, octauo, utrum definitio possit demonstrari de suo definito. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e110"> 1. Arguitur quod non: quia quod est alicui immediatum non potest demonstrari de illo, eo
+   quod omnis demonstratio debet fieri per medium; sed definitio est immediata definito; quod
+   apparet: quia praedicatur de ipso secundum quod ipsum, et per se et primo, et tamen dicitur,
+   primo huius*, quod idem est primum et immediatum; ideo satis concluditur quod definitio est
+   immediata definito; igitur ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e113"> 2. Item, confirmatur hoc, quia nihil est medium inter quidditatem rei et ipsam rem; tamen
+   definitio dicit et indicat quidditatem rei, scilicet ipsius definiti; ergo non est medium
+   inter ipsam et definitum ; igitur non potest demonstrari de eo. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e117"> 3. Item, quod supponitur in omni scientia demonstratiua antequam procedatur ad
+   demonstrationem non potest demonstrari; sed in unaquaque scientia praesupponuntur
+   significationes terminorum, ut patet in geometria et arithmetica; igitur definitiones non sunt
+   demonstrabiles. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e120"> 4. Item, definitiones uel sunt formales, uel materiales, uel per causas agentes et finales;
+   sed formales non sunt demonstrabiles de suis definitis, ut uidetur uelle <name ref="#Aristotle">Aristotiles</name>*; ergo
+   ... et caetera; nec etiam materiales; probatio: quia nec forma est causa compositi mediante
+   materia nec materia mediante forma: nam utraque in suo genere causandi erat prima et immediata
+   ipsius rei, cum sit de intrinsecitate et essentia ipsius; ergo qua ratione formalis definitio
+   non demonstrabitur de suo definito, eadem ratione nec materialis; et si ita est, adhuc minus
+   poterit demonstrari definitio per causam agentem uel finalem, eo quod causae agentes et
+   finales sunt priores causis formalibus et tamquam causae earum; modo si posterius est
+   indemonstrabile, multo magis uidetur quod prius sit indemonstrabile; ergo nulla definitio erit
+   demonstrabilis de suo definito. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e126"> Oppositum arguitur: quia dicit <name ref="#Aristotle">Aristotiles</name>* quod aliquae definitiones sunt tamquam
+   conclusiones demonstrationum: igitur illae sunt demonstrabiles. Et etiam dicit* ipse quod uia
+   ad inueniendum definitionem est composita ex uia definitiua et uia demonstratiua, quia quamuis
+   per definitionem possint sumi et ordinari praedicata definitiua, tamen per demonstrationem
+   oportet ostendere quod illa sint uera de ipso definito <supplied>et</supplied> quod
+   praedicentur de ipso quidditatiue, et hoc est demonstrare definitionem de definito. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e135"> Notandum est quod multi sunt modi definitionum. Quaedam enim sunt definitiones non
+   indicantes quid est res, nec propter quid ipsa est, sed solum indicantes quid significatur per
+   nomen; et illae possunt esse non entium sicut entium, id est terminorum pro nullo uel nullis
+   supponentium; unde sic definitur iste terminus <mentioned>uacuum</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e141"> Aliae sunt definitiones quae simpliciter et pure dicuntur <mentioned>quidditatiuae</mentioned>, quia explicite et
+   praecise indicant quid est res; et tales definitiones, ut patet septimo Metaphysicae*, non
+   possunt esse terminorum connotatiuorum, sicut sunt termini accidentales. Ideo de istis
+   definitionibus uerum est illud quod solet dici, scilicet quod solius substantiae est
+   definitio, id est solum terminorum substantialium sunt definitiones. Causa huius est quia
+   definitio debet explicare totum contentum definiti, et hoc non potest fieri de termino
+   connotatiuo per praedicata quidditatiua. Verbi gratia, si praecise diceremus quid album est,
+   non diceremus nisi quod album est homo, uel lapis, aut alia substantia subiecta albedini; unde
+   si lapis est albus, illud album est lapis et non est aliquid aliud a lapide, et sic praedicata
+   pure quidditatiua de albo non essent nisi praedicata substantialia quae non explicarent totum
+   conceptum istius termini <mentioned>album</mentioned>, quia non explicarent quid connotatur per <mentioned>album</mentioned>, puta
+   albedinem. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e153"> Verum est tamen quod aliae sunt definitiones quae improprie uocantur <mentioned>quidditatiuae</mentioned>, quae
+    <supplied>fiunt</supplied> per genera et per differentias, quamuis non solum per genera
+   dicentia aut quale aut quantum. Et tales definitiones sunt bene terminorum accidentalium, ut
+   si diffinimus <mentioned>album</mentioned> per hoc genus <mentioned>coloratum</mentioned>; illud enim genus praedicatur de <mentioned>albo</mentioned> in
+   quid, sed non solum in quid, sed etiam in quale. Quia, sicut dixi, album non est aliud quam
+   lignum <supplied>uel</supplied> lapis, et si dicamus quod album est lignum coloratum, nos non
+   solum dicimus album esse aliquid, sed etiam aliquale, quoniam esse coloratum est esse
+   aliquale. Et huius modi definitiones, siue proprie siue improprie sunt uocatae
+   <mentioned>quidditatiuae</mentioned>, solent etiam uocari <mentioned>formales</mentioned>, licet improprie. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e182"> Aliae sunt definitiones quae, proprie loquendo, uocantur <mentioned>causales</mentioned>, quae dantur per
+   terminos obliquos supponentes pro causis eius pro quo supponit definitum. Et istae
+   definitiones non solum ostendunt quid res est, sed etiam ostendunt per quid ipsa est. Et
+   diuiduntur huius modi definitiones in quattuor, secundum quattuor genera causarum. Unde
+   aliquae ostendunt ex quo res habeat esse uel fieri, aliae ostendunt per quid intrinsece res
+   est actu illud quod est, et aliae ostendunt gratia cuius ipsa est . Et aliquando plures harum
+   definitionum congregantur in unam, et tunc est definitio composita. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e188"> Aliae sunt quae non merentur dici <mentioned>definitiones</mentioned>, sed magis descriptiones, quae dantur per
+   aliquas per se passiones seu per aliqua per se accidentia termini definiti. Et ita uos habetis
+   distincte omnes modos definitionum. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e194"> Sed debetis scire quod definitio data solum ad indicandum quid nominis differt ab aliis in
+   modo praedicandi de suo definito, quia non praedicatur de eo mediante hoc uerbo <mentioned>est</mentioned>, +uel si
+   praedicatur, hoc accidit si in quantum ponitur definitio causalis+, sed praedicatur mediante
+   hoc uerbum <mentioned>significat</mentioned>. Unde non est uerum dicere quod uacuum est locus non repletus corpore;
+   ideo licet sic dicamus, tamen debemus intelligere istum sensum quod hoc nomen <mentioned>uacuum</mentioned>
+   significat praecise quantum haec oratio <mentioned>locus non repletus corpore</mentioned>. Unde habita hac
+   definitione et suo definito, dubium est adhuc utrum uacuum sit, et utrum locus non repletus
+   corpore sit, et, per consequens, dubium est utrum uacuum sit locus non repletus corpore. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e209"> Et tunc de ista definitione possunt poni duae conclusiones. Prima est quod haec definitio
+   non demonstratur de suo definito secundum illum sensum secundum quem ponitur in definitione
+   quid nominis, hoc est dictum quod nos non demonstramus hanc propositionem <mentioned>hoc nomen </mentioned>uacuum<mentioned>
+   significat idem quod haec oratio </mentioned>locus non repletus corpore<mentioned/> Et causa est quia in omni
+   scientia oportet praecognoscere quid est per nomina <supplied>significatum</supplied> si
+   debeamus intelligere, nec illud est demonstrabile, cum significationes nominum sint ad
+   placitum. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e223"> Secunda conclusio est quod definitio dicens quid nominis bene est demonstrabilis de suo
+   definito, aut affirmatiue aut negatiue, mediante hoc uerbo <mentioned>est</mentioned>. Quoniam illud est
+   demonstrabile quod prius est dubitatum et posterius, per demonstrationem, est scitum et
+   certum. Modo non est dubium quod bene dubitatum est utrum uacuum sit locus non repletus
+   corpore, quia dubium est utrum uacuum sit; modo si ponatur esse, concedetur ista <mentioned>uacuum est
+   locus non repletus corpore</mentioned>, et si non ponatur esse, negabitur; ideo sicut una est dubia, ita
+   altera. Tamen per illas easdem demonstrationes per quas scimus uacuum non esse, nos scimus
+   quod uacuum non est locus non repletus corpore, et si per demonstrationes sciremus uacuum
+   esse, nos per easdem sciremus eum esse locum non repletus corpore. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e232"> Ideo circa hoc debetis notare quod non refert scire et demonstrare de aliquo termino hoc
+   uerbum <mentioned>est</mentioned> secundo adiacens et de ipso suam definitionem praedictam mediante hoc uerbo
+   <mentioned>est</mentioned>, uel etiam demonstrare ipsummet terminum de se ipso. Sicut enim demonstrabile est quod
+   uacuum non est, ita, eisdem demonstrationibus, demonstratur quod uacuum non est uacuum, et
+   sicut demonstrabile est quod deus est, ita, eisdem demonstrationibus, demonstratur quod deus
+   est deus; unde propter easdem causas deus est deus propter quas deus est. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e242"> Nunc dico de definitione quidditatiua quod ipsa potest demonstrari de definito primo a
+   posteriori, quia accidentia per se sunt bene nata inducere intellectum in conceptus
+   quidditatiuos rei. Dico etiam quod dictae definitiones possunt demonstrari de suis definitis
+   propter quid. Quia propter eadem causas homo est, et homo est homo, et homo est animal
+   rationale; ideo sicut potest demonstrari per causas hominis propter quid ipse est, ita, eisdem
+   demonstrationibus, sciretur propter quid ipse est homo et propter quid ipse est animal
+   rationale. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e245"> Deinde, de definitionibus causalibus, quia causae sunt bene inuicem sibi causae, ideo illa
+   definitio quae esset per causam habentem aliquam aliam causam esset demonstrabilis propter
+   quid de suo definito per aliam definitionem. Sed si esset prima causa, ut forte finalis, quae
+   non haberet aliam causam in causando illud causatum, tunc definitio per talem causam esset
+   indemonstrabilis de suo definito propter quid, sed posset esse demonstrabilis demonstratione
+   quia, scilicet a posteriori. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e248"> Ultimo dicendum est quod descriptiones, cum accipiant passionem definiti, sunt bene
+   demonstrabiles propter quid de ipso definito, scilicet per definitiones quidditatiuas aut
+   causales, quia sic demonstrantur passiones de suis definitis. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e251"> 1-2. Ad rationes, dico quod licet nihil sit medium inter quidditatem rei et ipsam rem, quia
+   idem est hoc et illud, tamen est bene medium demonstratiuum inter aliquam definitionem et suum
+   definitum, quod quidem medium est notius de isto definito quam esset illa definitio. Nec est
+   dicendum quod omnis propositio secundum quod ipsum sit immediata , ut patuit in primo libro*. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e254"> 3. Ad rationem qua arguebat de definitione dicente quid nominis, illa debet +suppleri de
+   definito non mediante hoc uerbo <mentioned>est</mentioned>, sed mediante hoc uerbo <mentioned>significat</mentioned>+. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e263"> 4. Ad aliam, posset dici quod quando <name ref="#Aristotle">Aristotiles</name>* dicit definitionem formalem non esse
+   demonstrabilem de definito, per illam definitionem intendebat illam quae est per primam causam
+   definiti, loquendo de causa propria, et illa forte est definitio per causam finalem ut in
+   pluribus. Vel comparabat formalem ad materialem, quia per formalem bene demonstratur
+   materialis, sed non e conuerso, quantum ad esse rei, propter quod ad esse materiae non
+   sequitur esse formae. </p>
+
+
+      <p xml:id="Buzcv2-d1e511-d1e270"> Et sic est finis quaestionis. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 13a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 13a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e204">
+      <head xml:id="Buzcv2-d1e204-Hd1e101"> Quaestio 13a </head>
+      <head xml:id="Buzcv2-d1e204-Hd1e104" type="question-title"> UTRUM NECESSE SIT MAGIS SCIRE PRAEMISSAS QUAM CONCLUSIONEM </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e204-d1e107"> Consequenter quaeritur, decimo tertio, utrum necesse sit magis scire praemissas quam
+   conclusionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e110"> 1. Arguitur quod non: quia nec necesse est scire praemissas nec conclusionem; igitur neutrum
+   est necessarium magis scire. Antecedens patet: quia possibile esset quod Socrates non foret,
+   et ita de quolibet alio. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e113"> 2. Item, possibile est quod illa propositio <mentioned>luna eclipsatur</mentioned>, uel <mentioned>luna est eclipsabilis</mentioned>,
+   esset tibi nota et certa, et sic esset tibi scita, et tamen praemissae ex quibus deberet
+   demonstrari essent tibi occultae et difficilis inquisitionis, scilicet antequam haberes
+   demonstrationes; igitur non magis sciuntur praemissae, et sic non est necesse magis scire
+   praemissas. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e123"> 3. Item, eo quod est perfecte scitum nihil est magis scitum, sicut eo quod est perfecte
+   album nihil est magis album; sed conclusio per demonstrationem est perfecte scita; igitur
+   praemissae non sunt magis scitae. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e126"> 4. Item, quinto Physicorum*, dicit <name ref="#Aristotle">Aristotiles</name> quod minus dicitur propter permixtionem sui
+   contrarii, sicut minus album dicitur quia plus est permixtum de nigro, et minus calidum
+   dicitur quia plus est permixtum de frigiditate; sed numquam in scientia conclusionis est
+   aliquid permixtum de contrario, scilicet <supplied>de</supplied> ignorantia, uel de errare uel
+   dubitare; ergo conclusio non est minus scita. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e135"> 5. Item, conclusio <supplied>propriissime</supplied> scitur, ut uult <name ref="#Grosseteste">Lincolniensis</name>, primo
+   Posteriorum* (et ob hoc habitum conclusionis uocat <mentioned>scientiam</mentioned>, habitum autem principiorum non
+   uocat <mentioned>scientiam</mentioned> sed <mentioned>intellectum</mentioned>); modo illud quod scitur propriissime magis scitur quam
+   illud quod scitur communiter et improprie; ergo conclusio magis scitur. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e153"> 6. Item, scientia conclusionis et scientiam praemissarum non sunt eiusdem speciei; ideo in
+   sexto Ethicorum* ponuntur esse diuersae species uel diuersa genera habituum intellectualium;
+   modo quae non sunt eiusdem speciei non sunt ad inuicem comparabilia, ut declaratum est septimo
+   Physicorum*; igitur scientia praemissarum et scientia conclusionis non sunt ad inuicem
+   comparabiles et, per consequens, principium non potest dici magis aut minus scitum quam
+   conclusio. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e156"> 7. Item, quarto Physicorum*, dicit <name ref="#Aristotle">Aristotiles</name> quod omne excedens componitur ex eo quod
+   excedit, uel ex consimili, et ex illo in quo excedit, sicut quattuor, qua excedunt tria,
+   componuntur ex tribus; et isto modo scientia praemissarum non componitur ex scientia
+   conclusionis, nec ex alio consimili quod excedit eam; ergo praemissae non possunt dici magis
+   scitae. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e162"> Oppositum patet <supplied>per</supplied> 
+       <name ref="#Aristotle">Aristotilem</name>, primo huius*. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e204-d1e172"> Ad quaestionem breuiter respondeo ponendo conclusiones. Prima est quod possibile est aliquam
+   conclusionem demonstrare per aliquas praemissas, et tamen postea, illa demonstratione omnino
+   oblita, illa conclusio magis et firmius scitur et creditur quam illae praemissae. Et causa
+   illius est quia eadem conclusio potest aliquando demonstrari per multas demonstrationes,
+   quarum demonstrationum aliquae sunt per praemissas euidentiores quam aliae. Ideo ponamus quod
+   A sit conclusio demonstrata per praemissas B, quae quidem praemissae non sunt prima principia
+   sed sunt demonstratae cum multo processu ex aliis praemissis. Tunc ponamus quod eadem
+   conclusio demonstratur per praemissas B et iterum ex <supplied>aliis</supplied> praemissis,
+   quae quidem praemissae sunt multo euidentiores et propinquiores primis principiis quam essent
+   praemissae B. Tunc ergo praemissae illae faciunt conclusionem illam A sciri magis et certius
+   quam ante sciebatur per praemissas B, et sic nihil prohibet quod conclusio A magis sciatur
+   quam praemissae B sciantur. Et sciatis quod per istum modum saepe praemissae
+    <supplied>quae</supplied> demonstrant conclusionem postea demonstrantur per illam
+   conclusionem, scilicet quando contingit quod illa conclusio est demonstrata per alias
+   praemissas. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e181"> Secunda conclusio <supplied>est</supplied> quod necesse est praemissas esse notiores sua
+   conclusione quando per eas demonstratur illa conclusio, uel quando illa conclusio primitus est
+   demonstrata per eas. Quia nisi praemissae essent tunc notiores conclusione, sequeretur quod
+   esset petitio principii, et non demonstratio, quod est contra positum, quia positum
+    <supplied>est</supplied> quod conclusio tunc demonstretur per illas praemissas. Item,
+   praemissae quando demonstrant conclusionem notificant nobis conclusionem; ideo oportet
+   notificationem fieri per magis nota; ideo tunc praemissae sunt magis notae et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e190"> Tertia conclusio est quod oportet semper praemissas esse notiores conclusione si conclusio
+   solum fuerit demonstrata per illas praemissas, scilicet unica demonstratione, ita quod non
+   oblita sit illa demonstratio. Et hoc probatur per rationem <name ref="#Aristotle">Aristotilis</name>: quia propter quod
+   unumquodque, tale est illud magis tale est (si additae sunt condiciones dictae in praecedenti
+   quaestione); sed in casu posito propter illas praemissas esse scitas, et non propter alias,
+   conclusio est scita et credita; ergo oportet illas praemissas esse magis scitas et magis
+   creditas. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e196"> Notandum est quod multi* dicunt consimiles comparationes esse faciendas quantum ad ueritatem
+   et quantum ad necessitatem conclusionis et praemissarum. Praemissae <supplied>enim</supplied>
+   sunt magis uerae et magis necessariae, eo quod propter ueritatem et necessitatem earum
+   conclusio est uera et necessaria, et ita dicit <name ref="#Aristotle">Aristotiles</name>, secundo Metaphysicae*, quod
+   principia primo oportet esse uerissima, cum sint ex se uera, et sic de aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e205"> Causa breuitatis tamen ego respondeo quod illae conclusiones de ueritate et falsitate non
+   sunt concedendae ad proprietatem sermonis. Quia falsum est dicere quod conclusio sit uera et
+   necessaria propter ueritatem et necessitatem praemissarum: quia si formaretur absque
+   praemissis, adhuc ipsa esset uera et necessaria; ideo conclusio in sua ueritate et necessitate
+   non dependet a ueritate uel necessitate praemissarum. Sed tamen dicta <name ref="#Aristotle">Aristotilis</name> et aliorum
+   de ueritate et necessitate huius modi sic debent intelligi quod in omni demonstratione propter
+   quid causae ueritatis et necessitatis praemissarum sunt potiores et priores quam causa
+   propinqua ueritatis et necessitatis conclusionis, et causa propinqua ueritatis aut
+   necessitatis <supplied>conclusionis</supplied> dependet ex causis ueritatis et necessitatis
+   praemissarum, et hoc est dictum quod esse ita sicut per conclusionem significatur esse
+   dependet ab hoc quod est ita sicut per praemissas. Ideo potest concludi quod magis potius et
+   prius est ita sicut significatur per praemissas quam sit ita sicut per conclusionem
+   significatur. Et sicut prius dixi istum modum modificetis in intellectu uestro secundum ea
+   quae prius dicta sunt de causis ueritatis propositionum. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e214"> Et ex istis dictis finaliter concludo quod praemissae in demonstratione sunt magis uerae et
+   magis necessariae obiectiue quam conclusio, et quod ueritas et necessitas praemissarum est
+   obiectiue, non formaliter, causa ueritatis uel necessitatis conclusionis. Tamen in
+   demonstratione quid et a posteriori non esset ita, immo e conuerso. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e204-d1e218"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e221"> 1. Ad primam, concedo quod non est necesse scire praemissas nec conclusiones. Sed sensus
+   debet esse condicionalis, scilicet quod est necesse, si conclusio demonstratur per praemissas,
+   illas praemissas esse magis scitas. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e224"> 2. Ad aliam, dico quod per demonstrationem propter quid non docemur quod luna eclipsatur,
+   quia hoc uidemus ad sensum, et hoc supponimus, nec illud quaerimus, sed hoc uidentes quaerimus
+   propter quid luna eclipsatur. Ideo concedo bene quod magis possimus scire, et certius, lunam
+   eclipsari uel esse eclipsabilem quam sciamus demonstrando illam conclusionem propter quid.
+   Tamen impossibile est quod sciamus magis propter quid luna eclipsatur quam praemissas per quas
+   hoc demonstratur. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e227"> 3. Ad aliam, soluitur per distinctionem de perfecto datam quinto Metaphysicae*. Aliquid enim
+   dicitur <mentioned>perfectum</mentioned> simpliciter, et tunc nihil est perfectius; aliud dicitur <mentioned>perfectum</mentioned> in
+   suo genere uel specie, et tunc nihil est perfectius in suo genere uel specie. Perfectum igitur
+   simpliciter est deus, sed in genere animalis perfectum est homo, et in specie canum aliquis
+   canis. Tunc ego dico quod nulla conclusio perfecte scitur, quia principia magis sciuntur et
+   perfectius, sed conclusio demonstrata bene scitur perfecte in genere scientiae conclusionum
+   uel in specie talium conclusionum. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e236"> 4. Ad aliam, dico quod secundum + quod est per se motus demonstrationis numquam minus nisi
+   cum commixtione contrarii+ sed non oportet ita esse in aliis qualitatibus. Nam minor bonitas
+   est bene sine malitia aliqua, sicut possibile est quod omnis sanctus est minus bonus alio et
+   intelligentia quaedam est minus bona deo; tamen nihil est ibi malitiae. Ita potest esse lumen
+   minus intensum, sine mixtione contrarii, quia lumen non habet contrarium, et ita est in
+   proposito quod aliquid potest esse minus scitum alio, licet sit ibi minus erroris gradus uel
+   dubitationis, et est una scientia minus perfecta alia sine gradu erroris. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e239"> 5. Ad aliam, dicendum est quod conclusio non dicitur magis proprie sciri quam principium eo
+   quod perfectius aut euidentius sciatur, sed solum ex eo quod hoc nomen <mentioned>scientia</mentioned>, quando
+   stricte sumitur secundum suam propriam significationem, restringitur ad significandum
+   scientias conclusionum, et tunc hoc nomen <mentioned>intellectus</mentioned> significat notitias principiorum. Et
+   secundum istum modum diceremus quod intellectus est notitia certior et firmior quam scientia,
+   et reuerteretur totum in idem. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e249"> 7. Ad aliam, dicitur similiter quod illa auctoritas, in septimo Physicorum*, de excessu
+   intelligitur ubicumque fit comparatio uel excessus secundum determinatam proportionem uel
+   mensuram. Sed aliae sunt comparationes, siue proportiones, et mensurae quae essent inter
+   diuersa specie uel genere, ut quod homo est perfectior asino et deus homine, cum deus non
+   componatur ex perfectione humana nec ex aliquo consimili, et ita est in proposito. Principium
+   enim est magis scitum quam conclusio secundum aliquam proportionem uel mensuram. </p>
+
+
+      <p xml:id="Buzcv2-d1e204-d1e252"> Et sic est finis huius quaestionis. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

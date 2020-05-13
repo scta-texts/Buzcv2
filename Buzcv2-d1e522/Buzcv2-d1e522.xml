@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 9a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 9a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e522">
+
+      <head xml:id="Buzcv2-d1e522-Hd1e101"> Quaestio 9a </head>
+
+      <head xml:id="Buzcv2-d1e522-Hd1e104" type="question-title"> UTRUM PER OMNEM CAUSAM PER SE CONTINGAT DEMONSTRARE CAUSATUM </head>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e107"> Consequenter quaeritur, nono, utrum per omnem causam per se contingat demonstrare causatum. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e110"> 1. Arguitur quod non: saepe causae sunt minus notae suis causatis; sed per minus notum non
+   fit demonstratio; igitur ... et caetera. Et si respondeatur <quote xml:id="Buzcv2-d1e522-Qd1e112">quamuis causae sint minus notae
+   quoad nos, tamen sunt magis notae simpliciter, seu quoad naturam</quote>, illud non ualet; quia
+   demonstrationes non fiunt nisi nobis, et non alicui alteri, ideo oportet quod fiant ex nobis
+   notioribus. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e116"> 2. Item, multae sunt causae ad quarum esse non sequitur esse causatorum; ergo ex eis non
+   potest demonstrari causatum. Patet consequentia: quia oportet in demonstratione conclusionem
+   de necessitate sequi ex praemissis. Et antecedens est manifestum de causis materialibus: unde
+   si materia quae est innata esse materia cultelli, scilicet ferrum, ponatur esse, non propter
+   hoc sequitur quod cultellus est; et licet deus sit causa rosarum, tamen non sequitur si deus
+   est quod rosa sit. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e120"> 3. Item, in demonstratione medium et extremitates sunt innata praedicari uere de se inuicem;
+   sed causa non praedicatur uere de causato, nec etiam terminus supponens pro causa de termino
+   supponente pro causato, quoniam domus non est domificator; ergo causa non potest esse medium
+   ad demonstrandum causatum. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e123"> 4. Item, <name ref="#Aristotle">Aristotiles</name>, secundo huius, dicit quod ibi non est simul causa et causatum, sed
+   causa ibi prius, <supplied>et</supplied> ex posteriori demonstratur prius et non ex priori
+   posterius, id est ex causa<supplied>to</supplied> significatur causa et non ex causa causatum;
+   ergo non ex omni causa per se demonstrabile est causatum. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e135"> Oppositum arguitur: quia nisi ex omni causa per se posset demonstrari causatum, sequeretur
+   quod per se causata non essent scibilia, cum sint propter illas causas; modo hoc uidetur
+   inconueniens; ergo ... <supplied>et caetera</supplied>. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e141"> Item, primo huius*, dicit <name ref="#Aristotle">Aristotiles</name>, loquendo de scire propter quid demonstratiue, <quote xml:id="Buzcv2-d1e522-Qd1e146">scire
+   est rei causam cognoscere</quote>, et non magis dicit de una quam de alia; ideo uidetur quod per
+   scientiam cuiuscumque causae possumus scire causatum propter quid est. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e150"> Item, prooemio Physicorum*, dicit <name ref="#Aristotle">Aristotiles</name> quod eorum quorum sunt principia, causae et
+   elementa oportet cognoscere alia ex cognitione elementorum. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e522-d1e156"> Notandum est breuiter, ut patet secundo Physicorum*, quod causarum quaedam uocantur
+   <mentioned>actuales</mentioned>, quaedam <mentioned>potentiales</mentioned>. Et non dicuntur <mentioned>actuales</mentioned> in proposito eo quod actu sunt,
+   sed ex eo quod esse earum est sufficiens ad esse causatorum, ita scilicet quod de necessitate
+   posita tali causa ponitur causatum. De quibus causis dicitur, secundo Physicorum*, quod causae
+   actuales cum suis causatis simul sunt et non sunt. Sed causae <mentioned>potentiales</mentioned> uocantur a quibus
+   uel ex quibus est manifestum esse causatum, non tamen sufficiunt, immo possunt esse causatis
+   non exsistentibus, ut domificator potest esse domo non exsistente, et fundamentum nondum
+   exsistente domo. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e172"> Notandum est ultra quod eaedem causae ut sumuntur solitarie dicuntur aliquando <mentioned>potentiales</mentioned>
+   et ut sumuntur cum aliquibus causis aliis uel circumstantiis dicuntur <mentioned>actuales</mentioned>, ut ignis per
+   se diceretur causa potentialis ad comburendum, tamen ignis sufficienter approximatus
+   combustibili non sufficienti resistere diceretur ut sic causa actualis ad comburendum, et deus
+   uel sol dicitur bene causa potentialis generationis ranae, tamen deus cum sole approximato
+   sufficienter ad generationem ut sic dicerentur causa actualis generans ranam. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e181"> Tunc sit prima conclusio quod ex omni causa per se actuali potest demonstrari causatum siue
+   per se, siue secundum fieri, siue secundum fore, siue secundum fuisse. Causa huius est quia ad
+   causam sequitur effectus taliter quod per causam demonstratur effectus propter quid, cum
+   effectus sit propter esse per se suam causam; sed ex causa per se actuali sequitur causatum
+   modis praedictis; igitur ... et caetera. Et patet per quid nominis <mentioned>causae actualis</mentioned>; dicitur
+   enim causa <mentioned>actualis</mentioned> ut simul est cum talibus circumstantiis quod ipsa sit sufficiens ad esse
+   causati ita quod non possit esse sine causato; igitur statim sequitur si causa fit
+   circumstantiata quod causatum tum fiat, et si erit quod causatum erit, et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e190"> Alia conclusio <supplied>est</supplied> quod ex causa potentiali non sequitur causatum
+   quantum ad esse ipsius, immo quantum ad esse ipsius non demonstratur quantum ad talem causam;
+   oportet enim in demonstratione esse consequentiam necessariam. Tamen potest dici quod ex per
+   se <supplied>esse</supplied> causae potentialis potest demonstrari causatum quantum ad posse
+   esse, et hoc est quia sic ad causam sequitur causatum, unde sequitur si ferrum est quod
+   cultellus potest esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e199"> Sed forte tu obiicies <quote xml:id="Buzcv2-d1e522-Qd1e201">quia lapides et ligna sunt causae domus; tamen de domo facta scio
+   propter quid ipsa domus est materialiter per scientiam lapidum <supplied>et</supplied>
+   lignorum; ergo per causam potentialem scio causatum quantum ad esse</quote>. Respondeo breuiter quod
+   tu non scis domum esse propter lignum uel lapides nisi sciendo ea taliter se habere qualiter
+   dicuntur causae actuales domus. Unde numquam propter scire lapides et ligna esse tu scires
+   domum esse nisi tu scires ea taliter esse et cum talibus circumstantiis quod ad hoc sequeretur
+   domum esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e208"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e211"> 1. Ad primam, dico quod licet saepe causae sint minus nobis notae quam causatum
+    <supplied>quantum</supplied> ad quia est, tamen omnes causas per se oportet prius esse notas
+   quantum possumus scire sufficienter propter quid effectus est; ideo causae non solum secundum
+   naturam, sed etiam nobis sunt notiores quantum <supplied>ad</supplied> propter quid effectus
+   est. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e221"> 2. Alia ratio bene probat quod propter causas potentiales acceptas ut dicuntur potentiales
+   non scimus causatum quantum ad esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e224"> 3. Ad aliam, dico quod termini significantes causas bene praedicantur de terminis
+   significantibus effectus, si non in recto, tamen in obliquo, ut quod domus est ex lapidibus et
+   lignis, et quod dies est a sole; et hoc sufficit ad hoc quod causa fiat medium demonstratiuum. </p>
+
+
+      <p xml:id="Buzcv2-d1e522-d1e227"> 4. Ultima ratio et etiam rationes post oppositum uadunt uiis suis. </p>
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

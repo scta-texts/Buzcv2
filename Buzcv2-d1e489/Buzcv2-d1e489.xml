@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 6a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 6a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e489">
+      <head xml:id="Buzcv2-d1e489-Hd1e101"> Quaestio 6a </head>
+      <head xml:id="Buzcv2-d1e489-Hd1e104" type="question-title"> UTRUM QUOD QUID EST SCIATUR DIFFINITIVE VEL DEMONSTRATIVE </head>
+      <p xml:id="Buzcv2-d1e489-d1e107"> Consequenter quaeritur, sexto, utrum quod quid est sciatur definitiue uel demonstratiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e110"> 1. Et arguitur primo quod non scitur demonstratiue: quia <supplied>quod</supplied> quid est
+   est incomplexum uel incomplexi, et omnis demonstratio est alicuius complexi; igitur ... et
+   caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e116"> 2. Item, quod quid est non est nisi substantia: <supplied>sed</supplied> demonstratio non
+   est substantiae, sed alicuius propositionis, uel accidentis de subiecto; igitur demonstratio
+   non est ipsius quod quid est. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e123"> 3. Item, in omni scientia demonstratiua praesupponitur quid est, id est definitiones
+   terminorum, et per huius modi definitiones sciuntur quod quid est; ergo quod quid est non
+   scitur demonstratiue, sed praecognoscitur ante conclusionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e126"> 4. Item, demonstratio, quae est syllogismus, non demonstrat nisi quia est hoc de illo; sed
+   ad hoc non sequitur quod illud sit quod quid est; scimus enim demonstratiue quod triangulus
+   habet tres <supplied>angulos aequales duobus rectis</supplied>, et non propter hoc est ibi
+   quod quid est; igitur demonstratiue non scitur quod quid est. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e132"> 5. <supplied>In oppositum arguitur</supplied>: quia definitio est ipsum quod quid est; tamen
+   definitio aliqua demonstratur de aliquo definito; igitur ipsius quod quid est erit
+   demonstratio. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e138"> 6. Et tunc arguitur quod ipsum quod quid est non scitur definitiue: quia idem uidetur esse
+   definitio et quod quid est, et idem non scitur per se ipsum; igitur quod quid est non scitur
+   definitiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e141"> Oppositum patet per definitionem ipsius <mentioned>definitionis</mentioned>, quae est quod definitio est quae
+   conuersim praedicatur de re et indicat quid est esse rei, ut habetur primo Topicorum*; igitur
+   quod quid est indicatur et scitur definitiue. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e489-d1e147"> Dico breuiter, cum Aristotile, quod numquam scitur aliquid quod quid est in eo quod quid est
+   tamquam per demonstrationem, id est tamquam per instrumentum proprium, ad talem sensum quod
+   per demonstrationem non scitur per praemissas quod quaeritur de conclusione quid est hoc. Quod
+   sic patet quia quaerendo <mentioned>quid est hoc?</mentioned>de nulla propositione quaero utrum sit uera uel falsa,
+   uel etiam an sit ita uel aliter; ideo incomplexum quaeritur. Sed semper in demonstratione
+   concluditur quia ita est uel non ita est; unde semper concluditur complexum. Ergo numquam
+   praecise concluditur illud quod quaerebamus per <mentioned>quid est?</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e157"> Secundo potest dici quod definitiue scitur quod quid est, quod praecise quaerebatur per
+   quaestionem <mentioned>quid est?</mentioned>. Quaestio enim <mentioned>quid est homo?</mentioned> non quaerit <supplied>nisi</supplied>
+   quidditatem hominis explicari, et hoc fit per definitionem. Ergo per definitionem scitur quod
+   quid est. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e169"> Tertio dico quod demonstratiue scitur quid est ad talem sensum quia aliqua definitio
+   indicans seu significans quid est scitur de suo subiecto per demonstrationem eo modo quod per
+   demonstrationem scitur praedicatum conclusionis de suo subiecto, hoc est dictum quod per
+   demonstrationem scitur aliqua conclusio in qua definitio dicens quod quid est praedicatur de
+   definito. Et hoc declarat <name ref="#Aristotle">Aristotiles</name>*, quia isto modo definitio materialis saepe demonstratur
+   de definito per definitionem formalem. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e175"> Ultimo dico quod non omnis definitio demonstrabilis est de definito. Nam definitio dicens
+   quid nominis non demonstratur de definito, immo in omni scientia supponitur, quia ignoto quid
+   nomen significat nullus sciret formare propositiones demonstratiuas. Et aliquando definitio
+   dicens quid nominis est ipsamet definitio formalis, dicens quid rei; ideo tunc huius modi
+   definitiones formales, dicentes quid rei, sunt indemonstrabiles de suis definitis. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e489-d1e178"> Quibus habitis soluuntur rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e181"> 1. Prima enim concludit hoc quod dicebatur in prima conclusione. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e184"> 2. Ad secundam potest dici quod solum substantiarum, id est terminorum substantialium solum,
+   sunt definitiones pure quidditatiuae, sed accidentium, id est terminorum accidentalium, sunt
+   bene definitiones per additamentum, non pure quidditatiuae, ut septimo Metaphysicae*
+   declarabitur. Sed adhuc neutrorum terminorum sunt demonstrationes tamquam priorum scitorum per
+   demonstrationem. Prima enim scita sunt complexa et non termini. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e188"> 3. Alia ratio arguit quod quid est scitur per definitionem dicentem quid nominis. Illa enim
+   in arte demonstratiua supponitur. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e191"> 4. Ultima etiam conceditur in quantum pro prima conclusione. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e194"> 5. Ad rationem in oppositum, concedo quod aliqua definitio demonstratiue de suo definito
+   scitur, quemadmodum dicebatur in positione. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e197"> 6. Tunc ad rationem quae arguebat quod definitiue non scitur quod quid est quia idem est
+   quod quid est et sua definitio, Dico autem ad hoc quod <name ref="#Aristotle">Aristotiles</name> saepe utitur hoc nomine
+   <mentioned>quid est</mentioned> aequiuoce. Aliquando enim utitur eo pro re significata per definitionem, et sic
+   definitiue scitur quid est, nec est idem definitio et quod quid est; aliquando autem utitur
+   hoc nomine <mentioned>quid est</mentioned> 
+       <supplied>secundo</supplied> intentionaliter, scilicet pro ipsa
+   definitione significante quidditatem rei, et sic non proprie conceditur quod quid est sciatur
+   definitiue tamquam proprio instrumento. </p>
+
+
+      <p xml:id="Buzcv2-d1e489-d1e212"> Et sic hinc et <supplied>illinc</supplied> procedunt rationes. </p>
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

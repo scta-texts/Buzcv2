@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 4a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 4a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e466">
+
+      <head xml:id="Buzcv2-d1e466-Hd1e101"> Quaestio 4a </head>
+
+      <head xml:id="Buzcv2-d1e466-Hd1e104" type="question-title"> UTRUM POSSIBILE SIT EIUSDEM ESSE DIFFINITIONEM ET DEMONSTRATIONEM </head>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e107"> Consequenter quaeritur, quarto, utrum possibile sit eiusdem esse definitionem et
+   demonstrationem, siue quod idem sciatur definitiue et demonstratiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e110"> 1. Arguitur quod sic: de omnibus est scientia per demonstrationem, scilicet in metaphysica,
+   quae considerat terminos uniuersales esse significantes et ex eis format demonstrationem;
+   etiam aliqua sciuntur definitiue; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e113"> 2. Item, quidditas et esse eiusdem idem sunt, ut patet quarto* et septimo Metaphysicae*;
+   tamen quidditas rei scitur definitiue et esse rei demonstratiue; ergo idem scitur definitiue
+   et demonstratiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e117"> 3. Item, dicitur, primo huius*, quod definitio congregata ex definitione formali et
+   materiali est una tota demonstratio, licet positione differens; modo si aliqualiter definitio
+   est demonstratio, idem est definitio et demonstratio; ideo scitum sic demonstratiue scitur per
+   definitionem, et sic syllogismus expositorius significando demonstrationem quid est ***** et
+   significando illud quod demonstratiue scitur ***** et hac demonstratione scitur hoc B, et haec
+   demonstratio est definitio; ergo definitiue scitur hoc B. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e120"> 4. Item, passio scitur de subiecto per quam de eo demonstratur, et illa etiam scitur
+   definitiue, quia illae saepe diffiniuntur; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e123"> 5. Item, omne quod scitur demonstratiue propter quid scitur per causam, et illa causa est
+   definitio, ut uidetur uelle <name ref="#Aristotle">Aristotiles</name>*; ergo quod scitur demonstratiue propter quid scitur
+   per definitionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e129"> 6. Item, quarto Metaphysicae*, dicit <name ref="#Aristotle">Aristotiles</name> quod eadem uia sit manifestum si est et
+   quid est; sed si est scitur per uiam demonstratiuam et quid est per uiam definitiuam; ergo
+   utrumque scitur et definitiue et demonstratiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e135"> Oppositum uidetur ponere <name ref="#Aristotle">Aristotiles</name>* sub tribus conclusionibus. Una est quod non omnis
+   cuius est demonstratio est definitio, secunda <supplied>est</supplied> quod non omnis cuius
+   est definitio est demonstratio, tertia est ad probandum quod nullius eiusdem est definitio et
+   demonstratio. Probatur: quia solius incomplexi est definitio et solius complexi est
+   demonstratio; modo nullum complexum est incomplexum; ergo ... et caetera. </p>
+
+
+
+      <p xml:id="Buzcv2-d1e466-d1e144"> Videtur mihi quod licet <name ref="#Aristotle">Aristotiles</name> faciat istum magnum processum multum difficile, tamen
+   bene possumus distinguere quod duplex est scitum, siue demonstratiue siue definitiue. Unum
+   potest uocari <mentioned>scitum propinquum</mentioned>, aliud <mentioned>scitum remotum</mentioned>. Scita remota sunt res significatae
+   per terminos definitos aut per conclusiones demonstratas, uel per terminos earum. Sed scita
+   propinqua definitiue sunt ipsi termini definiti, et scita <supplied>propinqua</supplied> per
+   demonstrationem sunt ipsae conclusiones demonstratae. Sic enim dicimus quod incomplexum scitur
+   definitiue et quod solius incomplexi est definitio, et complexum scitur demonstratiue et
+   solius complexi est demonstratio. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e160"> Tunc ponuntur conclusiones. Prima est quod idem est scitum remotum per definitionem et
+   demonstrationem. Quia bene sunt eaedem res significatae per terminos diffinientes, uel per
+   terminos definitionis, et significatae per conclusionem demonstratam, seu per terminos
+   conclusionis demonstratae. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e163"> Secunda conclusio est quod nullum idem est scitum propinquum per definitionem et
+   demonstrationem. Quia nullum complexum est incomplexum , et tamen, ut dixi, solum complexum
+   scitur demonstratiue et solius complexi est demonstratio, et solum incomplexum scitur
+   definitiue, loquendo de complexione per affirmationem et negationem et de incomplexione
+   opposita dictae complexioni. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e166"> Sed ad hanc <supplied>quaestionem</supplied> posset dici forte probabiliter quod nec
+   conclusio demonstrationis scitur propria demonstratione nec terminus definitus ipsa
+   definitione, immo demonstratiue scitur res se habere ita sicut per conclusionem significatur
+   se habere et per definitiones scitur quae res sit illa quae per terminum definitum
+   significatur. Et si sic dicatur, tunc ponenda sunt duae conclusiones, correspondentes duabus
+   primis. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e172"> Prima est quod eadem res scitur definitiue et demonstratiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e175"> Secunda conclusio est quod licet eadem res demonstratiue uel definitiue sciatur, tamen hoc
+   non est secundum eius eandem appropriationem. Immo scitur demonstratiue secundum
+   appropriationem eius complexam, affirmatiuam uel negatiuam unius termini de altero, et hoc
+   intendimus cum dicimus conclusionem esse demonstratiue scitam. Sed res scitur definitiue
+   secundum appropriationem eius incomplexam, et hoc uocamus cum <supplied>dicimus</supplied>
+   diffinibilem sciri definitiue. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e181"> Ultimo dicendum est quod eadem conclusio scitur demonstratiue tamquam formale instrumentum
+   et scitur etiam definitiue tamquam partem illius instrumenti totalis, scilicet tamquam per
+   medium demonstrationis. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e185"> Ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e188"> 1. Ad primam, illa ratio arguit de scitis remotis. Omnia enim sic sciuntur et definitionibus
+   et demonstrationibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e191"> 2. Eodem modo procedit secunda ratio. Nam quidditas rei et eius esse prout sunt idem non
+   sunt aliud quam ipsa res significabilis per terminos definitiuos aut per terminos
+   conclusionis. Tamen aliquando <mentioned>quidditas</mentioned> accipitur <supplied>secundo</supplied>
+   intentionaliter pro ipso termino diffinibili aut pro ipsa definitione, <supplied>et</supplied>
+       <mentioned>esse rei</mentioned> accipitur pro propositione praedicante hoc uerbum <mentioned>est</mentioned> secundo adiacens de aliquo
+   subiecto. Et sic uidetur <name ref="#Aristotle">Aristotiles</name>* aliquando dicere quod non sunt idem quidditas et esse
+   rei. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e213"> 3. Ad aliam, dicitur quod nulla definitio est demonstratio. Ideo de uirtute sermonis falsum
+   est dicere quod definitio congregata sit tota demonstratio positione differens ab ipsa
+   demonstratione. Immo haec propositio implicat contradictionem, scilicet quod definitio sit
+   demonstratio, tamen differat a demonstratione. Sed sensus illius demonstrationis est quod
+   definitio congregata continet tam medium demonstrationis quam praedicatum conclusionis; ideo
+   dicitur tota demonstratio ad istum sensum quod potest ex ea extrahi demonstratio quantum ad
+   praemissas et quantum ad conclusionem. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e216"> 4. Ad aliam, dico quod passio saepe scitur definitiue tamquam scitum propinquum, sed non
+   demonstratiue, immo propositio composita ex subiecto et passione et copula. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e219"> 5. Ad aliam, dico quod illa concludit quod illud quod scitur per demonstrationem tamquam
+   partiale instrumentum scitur per definitionem tamquam per partem illius instrumenti,
+    <supplied>quae</supplied> quidem pars dicitur medium demonstrationis. </p>
+
+
+      <p xml:id="Buzcv2-d1e466-d1e226"> 6. Et eodem modo potest glossari auctoritas <name ref="#Aristotle">Aristotilis</name> quod eadem uia scitur si est et quid
+   est. Nam per definitionem scitur quid est tamquam per suum totale instrumentum et per eandem
+   definitionem scitur quia est tamquam per partem, siue per medium, sui totalis instrumenti,
+   quod est demonstratio. </p>
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e126">
+      <head xml:id="Buzcv2-d1e126-Hd1e101">Quaestio 7</head>
+
+
+      <head xml:id="Buzcv2-d1e126-Hd1e104" type="question-title"> UTRUM DIFFINITIO IPSIUS SCIRE SIT BONA IN QUA DICITUR 'SCIRE EST
+   REI CAUSAM COGNOSCERE, ET QUONIAM ILLIUS EST CAUSA ET NON EST POSSIBILE ALITER SE HABERE' </head>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e107"> Consequenter quaeritur, septimo, utrum definitio ipsius scire sit bona in qua dicitur <mentioned>scire
+   est rei causam cognoscere, et quoniam illius est causa et non est possibile aliter se habere</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e113"> 1. Arguitur quod non: quia omnis demonstratio facit scire; tamen non omnis demonstratio est
+   per causam; igitur non est uniuersaliter uerum quod scire sit rei causam cognoscere. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e116"> 2. Item, si omne scire esset per causam, tunc primae causae non essent scitae, et etiam
+   prima principia non essent scita, cum non habeant causas uel priora principia; modo dicit
+   <name ref="#Aristotle">Aristotiles</name> quod non solum oportet scire principia, immo etiam conclusiones. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e123"> 3. Item, quia forte diceretur quod ibi non definitur <mentioned>scire</mentioned> prout extendit se ad notitiam
+   principiorum, sed prout restringitur ad notitiam conclusionum demonstrabilium, tunc statim
+   arguitur quod definitio non ualet: quoniam conclusiones non sunt causae sed causata; et tamen
+   scire est conclusionem cognoscere, sicut tu dicis; ergo scire non est rei causam cognoscere,
+   immo scire est causatum cognoscere, licet per causam. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e129"> 4. Item, cum ibi definitur <mentioned>scire potissime</mentioned>, quod est per demonstrationem propter quid,
+   sequitur quod ista definitio non est bona si conueniat illi <mentioned>scire</mentioned> quod est per
+   demonstrationem quia; sed constat quod sibi conuenit: quia quaedam est demonstratio per causam
+   remotam, tamen illi conuenit haec definitio; ergo haec definitio non est bona de <mentioned>scire
+   propter quid</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e141"> 5. Item, possibile est scire sine cognitione; ergo non omne scire est cognoscere. Antecedens
+   patet: quia perfecte dormiens non amisit scientiam suam quia non sentit nec intelligit. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e144"> 6. Item, in multis scitis totum est possibile aliter se habere, sicut <mentioned>omnis homo est
+   risibile</mentioned>: quia omnis homo potest aliter se habere, et, per consequens, omne risibile; ideo
+   totum de quo est scientia potest se aliter habere; ideo male ponitur ultima clausula in
+   definitione. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e150"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>, in primo huius*. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e126-d1e156"> Notandum est quod dicitur super litteram*, quod demonstratio potissima, de qua hic
+   intelligitur, facit potissime scire. Ideo hic describitur <mentioned>scire</mentioned> non communiter acceptum, sed
+   propriissime et potissime. Tale autem <mentioned>scire</mentioned> exigit euidentiam, certitudinem et firmitatem;
+   modo notitia conclusionum contingentium non potest habere firmitatem (et loquor de notitia
+   adhaesiua); ergo <mentioned>scire</mentioned>, prout hic definitur, non est nisi necessarii et impossibilis aliter
+   se habere. Ideo bene ponitur illa clausula <mentioned>et impossibile aliter se habere</mentioned>, et quo modo hoc
+   sit uerum dicetur post. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e172"> Item, notandum est quod habitus, seu notitia, principiorum indemonstrabilium non dicitur
+   <mentioned>scientia</mentioned> appropriato nomine, sed uocatur <mentioned>intellectus</mentioned>*, quia ex sola naturali inclinatione
+   intellectus ad ueritatem ipsorum principiorum habetur illa notitia, nec illa notitia
+   acquiritur per demonstrationem. Ideo non definitur hic <mentioned>scire</mentioned> prout conuenit notitiae
+   principiorum, sed ut restringitur ad notitiam conclusionum demonstrabilium, et sic definitur
+   ibi <mentioned>scire demonstratiue</mentioned>* uel <mentioned>scire per demonstrationem</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e190"> Item, notandum est quod cum ibi diffiniatur <mentioned>scire potissime</mentioned>*, illud excludit de scire
+   omnem dubitationem. Et si non est scientia causae non excluditur omnis dubitatio, quoniam
+   adhuc dubitatur quare ita sit. Ideo ad <mentioned>scire</mentioned> ita definitum exigitur scire causam; ideo
+   dicitur <mentioned>scire est rei causam cognoscere</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e202"> Item, notandum est quod adhuc scita causa et scito effectu non excluditur dubitatio quare
+   uel propter quid est res nisi sciatur quod propter illam causam ille effectus <supplied> est.
+    Ideo</supplied> oportuit addere <mentioned>et quoniam illius est causa</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e211"> Item, diligenter est aduertendum quod multum differt scire quia ita est* et scire propter
+   quid ita est*. Quia scire quod ita est non est nisi scire conclusionem, ut si scio quod homo
+   est risibilis, sed scire propter quid ita est non est praecise conclusionem scire, immo etiam
+   praemissas et conclusiones et habitudinem praemissarum ad conclusionem. Non enim scio propter
+   quid luna eclipsatur si solum scio quod luna eclipsatur; immo etiam oportet scire hoc totum
+   quod luna eclipsatur propter terram interpositam inter se et solem prohibentem irradiationem
+   eius a sole; et in hoc sciendo apparet quod scire continet notitiam conclusionis et
+   praemissarum. Ideo non dicit <name ref="#Aristotle">Aristotiles</name> quod scire est rei causam
+    <supplied>cognoscere</supplied> , immo dicit <quote xml:id="Buzcv2-d1e126-Qd1e219">scire est causam rei cognoscere quoniam sic
+   est et quoniam illius est causa</quote>*, quod est scire per totum processum demonstratiuum. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e223"> Exponatis ergo sic definitionem quod scire demonstratiue et potissime est causam
+   sufficientem uel etiam causas sufficientes rei sic scibilis cognoscere et quoniam illius est
+   causa et non est possibile aliter se habere. Et nota quod <name ref="#Aristotle">Aristotiles</name> non dicit quod scire est
+   causam conclusionis cognoscere, sed dicit <quote xml:id="Buzcv2-d1e126-Qd1e228">causam rei</quote>, propter demonstratiue scibilia, quia
+   forte illud quod propriissime scitur non est ipsa conclusio sed est ipsa res taliter se habens
+   qualiter per conclusionem significatur se habere, uel aliquid proportionabile. Et dico <quote xml:id="Buzcv2-d1e126-Qd1e231">uel
+   aliquid proportionabile</quote> quia non est uniuersaliter uerum quod omnis propositio ex eo sit uera
+   quia qualitercumque significat ita est in re, quod declarabitur in sequentibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e235"> Sic igitur apparet expositio definitionis, et oportet supponere quod sit bona quia est
+   definitio quid nominis, et talis definitio non potest probari, ideo sufficit quod exponatur
+   solum. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e126-d1e239"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e242"> 1. Ad primam in oppositum concedo quod non omne scire est per causam si <mentioned>scire</mentioned> capiatur
+   communiter ad quia est et propter quid est. Ideo sic communiter non definitur hic scire sed
+   solum restringitur ad propter quid. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e248"> 2. Ad aliam concedo quod prima principia sunt cognita et scita, et euidentius quam
+   conclusiones, capiendo <mentioned>scire</mentioned> communiter, sed non capiendo <mentioned>scire</mentioned> prout restringitur ad
+   scire demonstratiue, quod ibi definitur. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e257"> 3. Ad aliam dico quod scire propter quid, quod ibi definitur, non est principiorum solum,
+   sed etiam nec est conclusionis solum, immo est conclusionis et principiorum simul, sicut ante
+   dictum fuit. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e260"> 4. Ad aliam dico quod cum dico <quote xml:id="Buzcv2-d1e126-Qd1e262">causam rei cognoscere</quote> debet suppleri <mentioned>causam sufficientem
+   et propriam</mentioned>; aliter non excluderetur scire quod est per causam remotam. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e269"> 5. Ad aliam dico quod illud <mentioned>scire</mentioned> capitur aliquando pro scire in habitu et aliquando pro
+   scire in actu secundo (ita potest dici de <mentioned>cognoscere</mentioned>): dormiens enim scit et cognoscit
+   habitualiter, sed nec scit nec cognoscit in actu secundo; ideo scire habitualiter est causam
+   rei cognoscere habitualiter, et scire actualiter est causam rei actualiter cognoscere. </p>
+
+
+      <p xml:id="Buzcv2-d1e126-d1e279"> 6. Ad ultimam, de transmutabilitate uel possibilitate aliter se habere, dicetur in
+   quaestione quae specialiter de hoc quaeret. </p>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

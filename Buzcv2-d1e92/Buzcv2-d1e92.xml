@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e92">
+      <head xml:id="Buzcv2-d1e92-Hd1e101">Quaestio 4</head>
+      <head xml:id="Buzcv2-d1e92-Hd1e104" type="question-title">UTRUM ANTE CUIUSLIBET CONCLUSIONIS DEMONSTRABILIS NOTITIAM NECESSE
+   SIT PRAECOGNOSCERE DE SUBIECTO QUIA EST </head>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e107"> Consequenter quaeritur, quarto, utrum ante cuiuslibet conclusionis demonstrabilis notitiam
+   necesse sit praecognoscere de subiecto quia est. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e110"> 1. Arguitur quod non: quia quod quaeritur in scientia demonstratiua non praecognoscitur; sed
+   quaeritur si est, et quia est, et quid est et propter quid est, ut patet secundo huius*;
+   igitur nullum illorum praecognoscitur. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e113"> 2. Item, quod demonstratur non praecognoscitur; sed si est, quia est, quid est et propter
+   quid est demonstrantur, quoniam illae quattuor quaestiones terminantur per demonstrationem, ut
+   dicit <name ref="#Grosseteste">Lincolniensis</name>*, secundo huius; ergo non praecognoscuntur. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e120"> 3. Item, syllogismus sophisticus ponitur esse subiectum in libro Elenchorum, et tamen in
+   illo libro demonstrat <name ref="#Aristotle">Aristotiles</name> syllogismos sophisticos esse; ergo subiectum in aliqua
+   scientia bene demonstratur esse; ergo non oportet hoc praecognoscere. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e126"> 4. Item, non praecognoscitur de passione quia est; ergo nec de subiecto hoc praecognoscitur.
+   Probo consequentiam: quia saepe passiones sunt subiecto notiores; igitur uidetur quod magis
+   debeant praecognosci, et non uidetur ratio quare magis sit necessarium de passione quam de
+   subiecto. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e129"> 5. Item, quod inuestigatur in scientia demonstratiua non praecognoscitur; sed quia est
+   inuestigatur; ergo non praecognoscitur. Minor patet: quia idem est quid est subiecti et quia
+   est subiecti; modo quid est subiecti bene inuestigatur: uerbi gratia, in libro de Anima
+   inuestigatur definitio animae, id est quid anima est, et in hoc secundo libro declaratur quid
+   est demonstratio, licet tamen demonstratio et anima sint subiecta in scientiis dictorum
+   librorum. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e132"> 6. Item, multae conclusiones sunt negatiuae; sed ad sciendum conclusionem negatiuam non
+   oportet scire de subiecto quia est, eo quod conclusio negatiua esset uera licet pro nullo
+   subiectum supponeret; ideo non oportet in omni scientia demonstratiua praesupponere de
+   subiecto quia est. Confirmatur hoc: quia multas habemus conclusiones demonstrabiles de uacuo
+   et infinito; tamen non supponimus uacuum uel infinitum esse, quia falsum supponeremus; ergo
+   ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e135"> Oppositum patet per <name ref="#Aristotle">Aristotilem</name>, prooemio huius, dicentem <quote xml:id="Buzcv2-d1e92-Qd1e140">dupliciter necessarium est
+   praecognoscere</quote>*, scilicet de subiecto et de dignitate quia est, et de subiecto et de passione
+   quid est; et hoc magis determinat in medio istius primi libri*. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e144"> Item, secundo Metaphysicae*, dicit <name ref="#Aristotle">Aristotiles</name> quod scientiae nihil dicunt seu inquirunt si
+   est aut non est genus subiectum circa quod uersantur. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e151"> Notandum est quod licet <mentioned>subiectum</mentioned>* multipliciter capiatur, tamen quantum ad propositum non
+   intendimus loqui nisi de duplici acceptione <mentioned>subiecti</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e160"> Uno modo <mentioned>subiectum</mentioned> dicitur in relatione ad <mentioned>praedicatum</mentioned>; et sic est subiectum ille
+   terminus alicuius propositionis de quo alter terminus in illa propositione praedicatur. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e169"> Alio modo dicitur <mentioned>subiectum</mentioned> in ordine ad <mentioned>passionem</mentioned>, et tunc <mentioned>subiectum</mentioned> et <mentioned>passio</mentioned> sunt
+   termini pro eodem supponentes, quorum tamen unus addit super significationem alterius aliquam
+   extraneam connotationem, sicut isti termini <mentioned>homo</mentioned> et <mentioned>risibile</mentioned>; quoniam iste terminus
+   <mentioned>risibile</mentioned> connotat actum ridendi: dicitur enim <mentioned>risibile</mentioned> quod aptum natum est ridere. Et
+   tunc semper ille terminus qui super alterum addit connotationem dicitur <mentioned>passio</mentioned>* respectu
+   illius, et ille alter terminus, minus connotatiuus uel omnino absolutus a connotatione,
+   dicitur <mentioned>subiectum</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e203"> Modo, multi* opinantur quod <name ref="#Aristotle">Aristotiles</name> intendit de subiecto conclusionis, scilicet de quo
+   alterum praedicatur, quando dicit quod de subiecto oportet praecognoscere quia est. Quia ipsi* </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e209"> dicunt quod impossibile est demonstrare de aliquo termino hoc uerbum <mentioned>est</mentioned> secundum
+   adiacens, ita quod tales propositiones <mentioned>deus est</mentioned>, <mentioned>prima causa est</mentioned>, sunt omnino
+   indemonstrabiles. Et hoc ipsi nituntur sic probare. Si ista propositio <mentioned>deus est</mentioned> esset
+   demonstrabilis, sequeretur quod hoc esset per aliquod medium quod esset magis notum de deo
+   quam hoc uerbum <mentioned>est</mentioned>; consequens est falsum; igitur et antecedens. Falsitas consequentis
+   uidetur manifesta propter duo. Primo, quia de nullo ente uidetur aliquid notius quam quod
+   ipsum est, cum conceptus entis sit communissimus et notissimus. Secundo, quia in qualibet
+   propositione affirmatiua formata de isto subiecto <mentioned>deus</mentioned> includitur ista <mentioned>deus est</mentioned>: quia non
+   est uerum quod deus sit immobilis nisi deus sit et quod sit prima causa nisi ipse sit; nec est
+   possibile quod tu scias deum esse, nec deum esse bonum, aut primam causam, et sic de aliis, si
+   tu dubitas utrum deus sit. Et sic patet quod de isto termino <mentioned>deus</mentioned>, et de quocumque alio
+   termino sumpto pro quolibet ente, impossibile est quod aliquod praedicatum sit notius quam hoc
+   praedicatum <mentioned>est</mentioned>. Et sic patet falsitas consequentis. Sed consequentia principalis est
+   manifesta: quia non potest syllogizari nec probari nisi per medium affirmatiue coniunctum
+   utrique extremitati, et, per consequens, dictum affirmatiue de deo. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e240"> Item, illa opinio confirmatur. Quia nulla demonstratio esset bona in qua peteretur
+   principium. Sed in syllogizando quod deus est aut quod A est peteretur principium: quia una
+   praemissa affirmaret unum praedicatum de isto subiecto <mentioned>deus</mentioned> uel de hoc subiecto <mentioned>A</mentioned>, et in
+   hoc statim peteretur principium: quia nullus concedit illam de tertio adiacente si uult negare
+   illam de secundo adiacente: numquam enim concederet deum esse primam causam si negaret deum
+   esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e250"> Sed credo quod haec opinio est falsa. Quia est contra <name ref="#Aristotle">Aristotilem</name>* et <name ref="#Grosseteste">Lincolniensem</name>*,
+   secundo huius, qui ponunt quattuor quaestiones demonstrabiles, quae cum sint primo dubiae,
+   tamen bene possunt uerificari. Et inter illas enumerant quaestionem si est, in qua hoc uerbum
+   <mentioned>est</mentioned> secundum adiacens quaeritur de aliquo subiecto. <name ref="#Aristotle">Aristotiles</name> et <name ref="#Grosseteste">Lincolniensis</name> ponunt quod
+   dictae quattuor quaestiones, praeter quaestionem <mentioned>quid est</mentioned>, terminantur per demonstrationem. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e272"> Item, dubitabile est utrum aliquid immobile sit, et tamen per scientiam demonstratiuam et
+   per processum demonstratiuum in scientia naturali scitur quod aliquod immobile est; modo omne
+   illud est demonstrabile quod ante erat dubium et postea est scitum per processum
+   demonstratiuum. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e275"> Sed ipsi uolunt respondere quod haec non demonstratur <mentioned>immobile est</mentioned>, immo haec demonstratur
+   <mentioned>aliquid est immobile</mentioned>. Et quando quaeritur ab eis <quote xml:id="Buzcv2-d1e92-Qd1e283">quo modo igitur scitur ista <mentioned>immobile
+   est</mentioned>? cum ante dubitabatur</quote>, respondent quod scitur per unam consequentiam non syllogisticam,
+   et, per consequens, non demonstratiuam: quia quando demonstratum est quod aliquid est
+   immobile, demonstratum est quod immobile est. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e290"> Sed, sine dubio, sic dicentes concedunt propositum meum; quia quidquid sequitur ad
+   consequens sequitur ad antecedens; ideo ad praemissas demonstratiuas ad quas sequitur ista
+   <mentioned>aliquid est immobile</mentioned> sequitur etiam ista <mentioned>immobile est</mentioned>. Et est bonus syllogismus et bona
+   demonstratio: quia est ex praemissis necessariis et notioribus, quia ad bonum syllogismum
+   nihil plus exigitur nisi quod praemissae sint ordinatae in debito modo et figura, et quod
+   conclusio de necessitate sequatur ex eis; ideo in secundo Priorum* habetis potestatem
+   syllogismi quod est posse plura concludere, ita quod syllogistice concluditur quidquid
+   sequitur ad unam conclusionem syllogistice conclusam. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e299"> Igitur, relicta illa opinione, pono conclusionem, cum Aristotile, quod oportet, in omni
+   scientia simpliciter demonstratiua, de subiecto praecognosci quia est, capiendo <mentioned>subiectum</mentioned>,
+   prout dicitur, in ordine ad passionem. Tamen illam conclusionem debetis modificare ita quod
+   non intelligamus quia est pro praesenti solum, quia tunc conclusio esset falsa. Nam de rosis
+   posset dari talis scientia demonstratiua licet non praecognosceretur quod aliqua rosa esset in
+   praesenti. Sed debemus capere <mentioned>quia est</mentioned> indifferenter ad praesens, praeteritum et futurum,
+   sic intelligendo quod oportet de quolibet subiecto praecognoscere quia est uel fuit uel erit. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e308"> Hoc probatur. Primo, quia oportet sensum uel intellectum primo moueri ab aliquo ente quod
+   manifeste appareat esse, et non posset euidentius probari quam quia apparet in prospectu
+   sensus; ideo aliquid oportet praecognoscere esse. Iterum, impossibile est habere conceptum
+   simplicem purum, et non connotatiuum, quin ille supponat pro aliquo praesenti, praeterito uel
+   futuro; et hoc est quia nihil intelligitur quod non sit uel fuerit, sicut postea magis
+   uidebitur. Igitur, si aliquis terminus pro nullo supponit, hoc est quia est connotatiuus, uel
+   quia componuntur in se plures conceptus. Sic conceptus uacui pro nullo supponit, quia
+   conceptus uacui componit in se conceptus loci et conceptum corporis, scilicet negatiue: idem
+   enim significat <mentioned>uacuum</mentioned> quod <mentioned>locus non repletus corpore</mentioned>. Et ita omnes tales termini, pro
+   nullo supponentes, resoluuntur quantum ad quid nominis in alios terminos de quibus manifestum
+   est et praecognitum est quod pro aliquo supponunt; et illi termini sunt subiecta de quibus
+   notum est quia est. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e318"> Item, in omni quaestione oportet aliquid esse notum et aliquid esse dubium, secundo huius*,
+   et illud quod est primo notum dicitur ipsum subiectum in scientia, de quo, cum sit primo
+   notum, non est dubitatum quin sit uel fuerit. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e321"> Ultimo, primus conceptus absolutus est conceptus <mentioned>entis</mentioned>, scilicet significatus per hoc
+   nomen <mentioned>ens</mentioned>, uel <mentioned>aliquid</mentioned>*, et de illo ab omnibus praecognoscitur hoc uerbum <mentioned>est</mentioned> secundum
+   adiacens: omnes enim sciunt aliquid esse. Et ille conceptus est primum subiectum in
+   metaphysica; ideo in metaphysica de subiecto praecognoscitur quia est. Et si in aliis
+   scientiis dubitetur de primis subiectis esse, illud demonstratur per metaphysicam, et sic
+   supponitur in istis scientiis. </p>
+      <p xml:id="Buzcv2-d1e92-d1e336"> Per hoc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e339"> 1. Ad primam, dico quod bene quaeritur, et dubitatur, et demonstratur de subiecto quia est,
+   uel etiam si est: demonstratur enim quod immobile est. Sed de primis subiectis in quae
+   passiones scientiarum ultimate resoluuntur non dubitatur si est; et si in aliqua scientia
+   speciali dubitetur, inquiritur per superiorem scientiam. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e342"> 2. Et sic responsum est ad secundam. Unde conceditur quod non est idem si est et quia est,
+   cuius est praecognitio et cuius est quaestio. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e345"> 3. Ad tertiam, conceditur quod in libro Elenchorum probatur et demonstratur syllogismum
+   sophisticum esse, sed hoc est per habitum scientiae superioris, scilicet per metaphysicam. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e349"> 4. Ad aliam dico quod licet de multis passionibus ad sensum apparentibus praecognoscatur
+   quia est, tamen de multis dubitatur et inquiritur, +ut est simile de subiecto et passione+.
+   Quia subiectum specialiter primum, ut subiectum in metaphysica, est conceptus simplex ad quem
+   mouetur intellectus ab ente sibi manifeste apparente; ideo non potest dubitari de illo si est.
+   +Sed de subiecto exsistente noto+ tamen, propter connotationes passionum, potest dubitari an
+   de illo uerificetur hoc uerbum <mentioned>est</mentioned>: quia potest esse dubium utrum dispositio connotata
+   adiaceat rei pro qua subiectum supponit et utrum eodem modo adiaceat quo modo connotatur, quia
+   si non, tunc de illo non uerificatur hoc uerbum <mentioned>est</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e358"> 5. Ad aliam, dico quod quid nominis de quolibet termino intrante demonstrationem debet
+   praecognosci. Tamen aliquae definitiones possunt inuestigari per definitionem dicentem quid
+   nominis praesuppositum. Concedo etiam quod nulla scientia potest inuestigare definitionem
+   quidditatiuam sui subiecti primi nisi per habitum superioris scientiae: quia cum subiectum sit
+   adaequatum scientiae, genus subiecti transcendit scientiam, et tamen genus intrat
+   definitionem; ideo nec quid est nec quia est potest inuestigari de subiecto in scientia aliqua
+   in qua illud est subiectum proprium. </p>
+
+
+      <p xml:id="Buzcv2-d1e92-d1e361"> 6. Ad aliam, quae arguit de conclusionibus negatiuis, dico quod conclusiones negatiuae
+   indigent praemissis affirmatiuis, uel saltem praemissa affirmatiua, in qua iam oportet de
+   aliquo termino supponere quia est. Et si iste terminus sit passio, oportet quod resoluatur in
+   subiectum prius de quo etiam sit notum quia est. Et quando arguitur de uacuo, dicerem quod de
+   uacuo nullam habemus scientiam (et de hoc post magis quaeretur), sed scientiam magis habemus
+   de loco, per quam scimus quod nullus locus est sine corpore; et per hoc scimus quod uacuum non
+   est, et est illa scientia de loco. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

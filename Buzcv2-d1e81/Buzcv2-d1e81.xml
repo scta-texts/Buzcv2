@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e81">
+      <head xml:id="Buzcv2-d1e81-Hd1e101">Quaestio 3</head>
+
+      <head xml:id="Buzcv2-d1e81-Hd1e104" type="question-title">UTRUM PER ADDISCERE SCIAMUS ALIQUID QUOD NUMQUAM ANTE
+   SCIEBAMUS</head>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e107"> Consequenter quaeritur, tertio, utrum per addiscere sciamus aliquid quod numquam ante
+   sciebamus. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e110"> 1. Arguitur primo quod non, per rationes Platonis*: quia deus creat animam intellectiuam
+   humanam, prout ponit fides; modo deus est agens perfectissimum, omnipotens et infinitum, et a
+   tali agente non debet prouenire nisi effectus perfectus; ergo anima humana fuit creata
+   perfecta; et non est perfecta nisi per uirtutes et scientias; ergo a principio creationis
+   anima nostra repleta erat scientiis et uirtutibus; ideo quaecumque addiscimus, ea ante
+   sciebamus. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e113"> 2. Item, si tu numquam sciuisti conclusionem quae nunc tibi demonstratur, sequitur quod non
+   magis capies eam quam suum oppositum, id est quod non magis assenties ei quam suo opposito.
+   Consequens est falsum. Et consequentia probatur de seruo fugitiuo: quia si aliquis non
+   cognosceret eum, si tunc occurreret ei, non magis esset determinatum ad capiendum eum quam
+   quemcumque alium sibi occurrentem. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e117"> 3. Item, si fiat tibi demonstratio quod numerus denariorum in bursa mea exsistentium est
+   numerus par, sic arguendo <quote xml:id="Buzcv2-d1e81-Qd1e119">omnis numerus binarius est numerus par, sed iste numerus denariorum
+   est binarius numerus; igitur est par</quote>, ego probo tibi quod tu praesciebas illam conclusionem,
+   scilicet antequam tu uideris illos denarios: quia omne binarium tu sciebas esse numerum parem,
+   et numerus illorum denariorum est binarius; ergo numerum illorum denariorum sciebas esse
+   parem. Praemissae apparent esse uerae et forma syllogistica de obliquis est perfectissima et
+   in prima figura; ergo conclusio est concedenda. Et illae fuerunt rationes Platonis. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e123"> 4. Sed iterum posset sic argui: nullum indiuisibile est mobile, siue mutabile, ut patet
+   sexto Physicorum*; sed intellectus humanus est indiuisibilis; ergo non est mutabilis; et sic
+   sequitur quod non potest sibi acquiri habitus nouus, scilicet quam ante non habebat. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e126"> 5. Item, Commentator, secundo de Anima*, ponit unicum esse intellectum humanum in omnibus
+   hominibus et esse perpetuum; et, per consequens, intellectus tuus nouit omnia quae
+   praecessores tui nouerunt, et sic ipse nihil potest addiscere quod ante non nouit. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e129"> Oppositum arguitur per <name ref="#Aristotle">Aristotilem</name>, tertio de Anima*, dicentem quod intellectus noster est
+   in principio sicut tabula rasa, in qua nihil depictum est, id est quod ipse est omni scientia
+   et cognitione uacuus. Et, in eodem tertio, dicit quod intellectus noster est possibilis a
+   principio natiuitatis, ita quod <mentioned>possibilis</mentioned> est uocatus id est quod ipse est in potentia pura
+   ad omnes intellectiones, uel species intelligibilium, ita quod nullam eorum habet in actu. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e138"> De ista quaestione fuerunt tres opiniones. Una fuit Auerrois, qui dicit quod noster
+   intellectus a principio et a perpetuo omnia sciuit; sed per scientiam ipsius intellectus tu
+   nihil scis uel intelligis nisi quando intellectus est tibi copulatus. Et forte intendebat quod
+   copularetur tibi per receptionem specierum a phantasmatibus tuis. Sed quia ista opinio est
+   haeretica et innaturalis, et quia debet tractari tertio de Anima*, ideo dimitto eam ad
+   praesens. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e141"> Alia fuit opinio Platonis, dicentis quod intellectus tuus a principio creationis omnia
+   sciuit, sed usum et actum scientiae non potuit exercere propter ineptitudinem corporis et
+   uirtutum sensitiuarum, quibus necessario indiget tamquam instrumentis ad exercendum actum
+   scientiae. Unde manifestum est quod homo quando infirmatur uel dormit non potest exercere
+   actum scientiae, quamuis uere habeat habitum. Ideo dicebat Plato quod intellectus ea quae
+   sciebat obliuiscitur et per doctrinam ea recordatur. Et forte difficile est illam opinionem
+   improbare; unde etiam multi posuerunt quod in baptismo infunditur gratia, spes, fides et
+   caritas, et aliae uirtutes. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e145"> Tamen contra istam opinionem possetis sic arguere. Videmus quod homo de eis quae a uiginti
+   annis cognouit et postea circa ea non curauit reminiscitur subito obiecto occurrente, uel
+   etiam si solummodo aliquis sibi illud recordat. Similiter si puer aliqua a principio suae
+   creationis cognouerit, ea obliuisceretur in septimum uel decimum annum, quando subito
+   reminisceretur de eis, sicut si obiectum sibi occurreret uel si ea aliquis sibi recordaret,
+   quoniam tunc habuerit organa apta ad exercendum opus intellectus; tamen hoc uidemus esse
+   falsum; ergo falsum est quod ipse praecognouit. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e148"> Item, illi qui sunt magnae memoriae deberent comprehendere omnes processus et conclusiones
+   si addiscere non esset nisi reminisci; sed consequens est falsum; immo communiter illi qui
+   sunt fortioris memoriae sunt difficilioris doctrinae et minoris ingenii. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e151"> Item, sensus canis aliqua iudicat et addiscit quae tamen non praecognouit, sicut Plato
+   concessisset; igitur, pari ratione, si nihil cognouit, nullum esset inconueniens quod
+   intellectus noster iudicet uel addiscat de illis quae numquam nouit. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e154"> Item, in singulis operationibus naturae uidemus esse processum de imperfecto ad perfectum;
+   igitur intellectus in prima operatione sua non debet poni perfectus. Si ad hoc diceretur quod
+   intellectus non est opus naturae, sed dei, ergo a primo debet esse perfectus, contra
+   obiicitur: quia irrationabile uidetur si deus, qui est omnipotens, uelit creare intellectum
+   repletum scientiis et uirtutibus, quod ipse non creauit sibi corpus aptum ad opera illarum
+   uirtutum exercenda; immo, cum scientiae et uirtutes ordinentur finaliter ad opus, uidetur quod
+   frustra fierent ubi non possent opus suum exercere, et deus et natura nihil faciunt frustra
+   (primo de Caelo et Mundo*). </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e157"> Istis uisis, tertia opinio fuit <name ref="#Aristotle">Aristotilis</name>, qui ponit intellectum a principio esse nudum
+   scientiis et uirtutibus et postea, per doctrinam et assuefactionem, acquirit sibi uirtutes et
+   scientias. Et sequitur haec opinio: quia uel oportet eam concedere uel aliqua praecedentium,
+   et illae fuerunt improbatae; igitur haec est tenenda. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e163"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e167"> 1. Ad primam rationem, dico quod deus agit per uoluntatem liberam et ad nullum opus sibi
+   extrinsecum obligatur; ideo non oportet quod semper faciat effectum perfectissimum, sed
+   solummodo quem et qualem uult. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e170"> 2. Ad aliam, de seruo fugitiuo, respondet <name ref="#Aristotle">Aristotiles</name>* quod addiscens aliquam conclusionem
+   simpliciter non praesciuit eam, tamen praesciuit eam quo ad principia quae determinant ipsum
+   ad assentiendum illi conclusioni; aliter numquam magis assentiret ei quam oppositae, sicut
+   ratio de seruo fugitiuo arguebat. Si tu replicas <quote xml:id="Buzcv2-d1e81-Qd1e175">quo modo intellectus assentit principiis?
+   quia nullo modo ea ante praecognouit</quote>, respondeo quod intellectus per suam naturam est
+   inclinatus et determinatus ad assentiendum ueritati in respectu primorum principiorum,
+   scilicet praesentato obiecto, ita bene quod ignis est determinatus ad calefaciendum et sicut
+   graue determinatum est ad descendendum. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e179"> 3. Ad aliam, concedo quod antequam ego scirem illam conclusionem quod numerus denariorum
+   illorum est par, ego praesciui omnem binarium esse parem; immo, praesciui hanc propositionem
+   <mentioned>omnis binarius est numerus par</mentioned>. Sed dico quod iste syllogismus non ualet <mentioned>tu scis quod omnis
+   binarius est par, sed duo denarii sunt binarius numerus; ergo tu scis illum numerum esse
+   parem</mentioned>, quia non est forma syllogistica. Si tu dicis quod syllogismus non fiebat sic, immo in
+   bona forma syllogistica, dico quod forma syllogistica erat bona ut fiebat a principio, sed
+   maior erat falsa. Unde haec est falsa <mentioned>omnem binarium scis esse numerum parem*</mentioned>, et haec
+   similiter <mentioned>omnem hominem tu scis esse animal rationale*</mentioned>, quia possibile est istam esse ueram
+   <mentioned>aliquem hominem tu credis esse asinum</mentioned>, ut si hominem indutum pelle asinina uideris et
+   credideris quod hoc esset asinus. Unde ad illam quae est in sensu composito, scilicet <mentioned>tu scis
+   omnem hominem esse animal</mentioned>*, non sequitur illa in sensu diuiso, scilicet <mentioned>omnem hominem tu
+   scis esse animal</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e204"> Ad illud aliter potest responderi quod haec est uera <mentioned>omnem binarium tu scis esse parem</mentioned>.
+   Quia hoc tu scis per scientiam huius conclusionis <mentioned>omnis binarius est par</mentioned>, quoniam per
+   scientiam illius conclusionis tu habes scientiam de omni binario, non aliam nisi quod est par;
+   et quando dicitur in minore <mentioned>numerus denariorum est binarius</mentioned>, concedo; ideo concedo quod
+   numerum denariorum meorum tu scis esse parem, non tamen per scientiam huius conclusionis
+   <mentioned>numerus denariorum meorum est numerus par</mentioned>, sed per scientiam huius conclusionis uniuersalis
+   <mentioned>omnis binarius est par</mentioned>. Unde nullum est inconueniens habere de eadem re scientiam secundum
+   unam conclusionem et ignorantiam secundum aliam conclusionem. Et hoc est quod <name ref="#Aristotle">Aristotiles</name>
+   uidebatur dicere quod <quote xml:id="Buzcv2-d1e81-Qd1e225">non cognouit simpliciter</quote>*, id est in propria forma, et tamen sciuit
+   illud in suo uniuersali. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e229"> 4. Ad aliam rationem, dicendum est quod indiuisibile non transmutatur nec mouetur
+   transmutatione corruptiua, quae exigit abiectionem praedicati et receptionem contrarii; ideo
+   sic intellectus non transmutatur. Et de hoc est alibi uidendum. </p>
+
+
+      <p xml:id="Buzcv2-d1e81-d1e232"> 5. Ad ultimam, negatur opinio Commentatoris, quia nec est idem intellectus in omnibus
+   hominibus, nec est a parte ante perpetuum. </p>
+    </div>
+   </body>
+  </text>
+</TEI>

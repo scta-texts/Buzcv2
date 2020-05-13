@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 9a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 9a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e159">
+
+      <head xml:id="Buzcv2-d1e159-Hd1e101"> Quaestio 9a </head>
+
+      <head xml:id="Buzcv2-d1e159-Hd1e104" type="question-title"> UTRUM NON ENS POSSIT INTELLIGI VEL SCIRI </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e159-d1e107"> Consequenter quaeritur, nono, utrum non ens possit intelligi uel sciri. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e110"> 1. Arguitur quod sic: quia de uacuo habemus scientiam, et tamen nihil est; igitur ... et
+   caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e113"> 2. Item, quinto* et sexto Metaphysicae*, dicit <name ref="#Aristotle">Aristotiles</name> quod uno modo accipiendo <mentioned>ens</mentioned> et
+   <mentioned>non ens</mentioned>, uerum idem est quod ens et falsum idem quod non ens; si ergo non ens est falsum et
+   falsum potest intelligi, ergo et non ens; sed de falso bene habetur scientia, eo quod uerum et
+   falsum opponuntur et oppositorum eadem est disciplina, et de ueris habemus scientiam; ergo ...
+   et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e126"> 3. Item, chimaera est opinabilis; ergo et intelligibilis. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e129"> 4. Similiter uacuum aut actu infinitum est imaginabile , quia de infinito multi imaginantur
+   ultra caelum spatium infinitum aut etiam uacuum infinitum; sed omne imaginabile est
+   intelligibile; ergo uacuum et actu infinitum sunt imaginabilia; tamen nihil sunt; ergo non ens
+   intelligitur. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e132"> 5. Item, per haec nomina <supplied>
+        <mentioned>chimaera</mentioned> et <mentioned>uacuum</mentioned>
+       </supplied> significantur chimaera
+   et uacuum, et quod significatur intelligitur; ergo quae nihil sunt intelliguntur. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e144"> 6.Item, scio uacuum non esse; tamen uacuum esse nihil est; ergo scio illud quod nihil est.
+   Quod autem uacuum esse nihil sit probatur: quia non posses assignare quae res est uacuum non
+   esse nisi tu posses dicere <mentioned>uacuum non esse est haec propositio </mentioned>uacuum non est<mentioned/>, quod non
+   uidetur esse uerum, quia pari ratione diceretur quod deum esse est una propositio,
+    <supplied>quod est falsum</supplied>, quia deum fuit necessarium antequam umquam fuerit
+   aliqua propositio. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e155"> 7. Item, si nulla tonitrua essent, non amitteremus scientiam de tonitruis; ergo de non ente
+   habes scientiam. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e158"> Oppositum est <name ref="#Aristotle">Aristotilis</name> dicentis <quote xml:id="Buzcv2-d1e159-Qd1e163">quod non est non contingit scire</quote>*. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e159-d1e168"> Pono igitur istam conclusionem quod de multis habetur scientia quae non sunt
+   praesentialiter, sed quae fuerunt uel potuerunt esse. Quia per hanc propositionem <mentioned>triangulus
+   habet tres angulos aequales duobus rectis</mentioned>, non solum habetur scientiam de triangulis quae
+   nunc sunt, immo etiam de illis quae fuerunt et quae erunt; aliter oporteret si formaretur
+   nouus triangulus quod non haberetur scientia de illo nisi de nouo addisceretur et nisi de nouo
+   fieret demonstratio. Etiam, sicut arguebatur, si non sint modo tonitrua et si non sint stellae
+   comatae, adhuc, hoc non obstante, habemus per librum Meteororum* scientiam de tonitruis et de
+   stellis comatis. Ergo habemus scientiam de rebus quae praesentialiter <supplied>non</supplied>
+   sunt, <supplied>sed</supplied> fuerunt uel erunt. <supplied>Et</supplied>
+    sic<supplied>ut</supplied> potest demonstrari quod omnis triangulus qui est habet tres ...
+   et caetera, ita omnis qui fuit potest habere tres et caetera, et etiam omnis qui erit. Et sic
+   possumus habere scientiam de illis quae non sunt praesentialiter, sed possunt esse. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e186"> Alia conclusio est quod non est possibile intelligere illud quod non est nec fuit nec erit
+   nec potuit esse nec potest esse. Quia oporteret <supplied>ponere</supplied> hanc propositionem
+   tamquam ueram <mentioned>quod nec est nec erit nec fuit nec possibile est imaginari esse intelligitur</mentioned>.
+   Constat quod haec propositio est affirmatiua, et tamen subiectum eius pro nullo supponit; ergo
+   illa propositio est falsa. Probatur consequentia: quia ad hoc quod propositio affirmatiua sit
+   uera requiritur necessario quod subiectum et praedicatum supponunt pro eodem: copula enim
+   affirmatiua designat identitatem, ut dicendo <mentioned>homo est album</mentioned> designatur quod idem sit homo et
+   album; et si dico <mentioned>homo cucurrit</mentioned> uel <mentioned>fuit currens</mentioned>, ibi designo quod homo fuit idem quod
+   currens, et sic uniuersaliter de aliis; modo quod nihil est nulli est idem uel diuersum*; ergo
+   impossibile est si terminus pro nullo supponit quod termini supponant pro eodem. Et uos scitis
+   quod communiter illa negatur tamquam falsa <mentioned>chimaera est chimaera</mentioned>*, et hoc non est nisi quia
+   termini pro nullo supponunt et sic non supponunt pro eodem. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e208"> Item, prima facie uidetur sequi <mentioned>tu intelligis; ergo aliquid intelligis</mentioned>, et si tu aliquid
+   intelligis, non est uerum quod nihil intelligis; ideo uidetur repugnare quod intelligamus et
+   nihil intelligamus. Ita si illud quod nec est nec fuit intelligeretur, uideretur hoc esse
+   quando haberemus conceptum a quo sumitur hoc nomen<mentioned>uacuum</mentioned> uel hoc nomen <mentioned>chimaera</mentioned>. Sed
+   constat quod per illos conceptus non intelligimus nisi entia, quia per hoc nomen <mentioned>uacuum</mentioned> idem
+   quod per suam descriptionem intelligimus. Modo eius descriptio dicens quid nominis est <mentioned>locus
+   non repletus corpore</mentioned>. Et sine dubio per hanc descriptionem nos intelligimus omnia ea quae
+   significantur per haec nomina <mentioned>locus</mentioned> et <mentioned>corpus</mentioned>, et illa sunt uera entia. Ita similiter hoc
+   nomen <mentioned>chimaera</mentioned> significat idem quod haec oratio <mentioned>animal compositum ex impossibilibus
+   componi</mentioned>, sicut ex corpore hominis, et capite bouis et cauda draconis, et per hanc orationem
+   intelligimus omnia quae significantur per hos terminos <mentioned>animal</mentioned> et <mentioned>compositum</mentioned>, et constat
+   quod illae sunt uere res. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e245"> Notetis igitur quod termini mentales* siue conceptus simplices semper pro aliquo supponunt,
+   scilicet praesente, praeterito uel saltem possibili et ideo semper habent uel habuerunt
+   correspondentiam in re. Tamen illos conceptus intellectus potest componere uno modo mediante
+   copula affirmatiua* uel negatiua*, formando propositionem affirmatiuam uel negatiuam, et tunc
+   si copulat affirmatiue et correspondeat identitas, uera est propositio, si non falsa est. Alio
+   modo intellectus potest componere conceptus simplices sine propositione, coniungendo eos per
+   modum determinabilis et determinationis, ut <mentioned>homo albus</mentioned> uel <mentioned>homo hinnibilis</mentioned>, et similiter
+   aliquando negatiue, ut dicendo <mentioned>homo non album</mentioned> et <mentioned>homo non risibilis</mentioned>. Et si res
+   significatae per terminos simplices non sunt eaedem uel non adiaceant sibi inuicem eo modo quo
+   significatur per terminum complexum, tunc ille terminus pro nullo supponit. Ergo si ille
+   terminus <mentioned>homo hinnibilis</mentioned> pro nullo supponit, non nihil significat, immo significat omnes
+   homines et omnia hinnibilia, sed taliter quod non est in re debita correspondentia; ideo
+   totalis terminus pro nullo supponit, et sic est de istis terminis <mentioned>uacuum</mentioned> et <mentioned>chimaera</mentioned>. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e270"> Ultimo notetis quod nihil plus uel minus, uel nihil etiam aliud, significo uel intelligo ad
+   extra dicendo <mentioned>deus est deus</mentioned> quam dicendo <mentioned>deus non est deus</mentioned>, nec etiam dicendo <mentioned>nihil est
+   nihil</mentioned> quam dicendo <mentioned>nihil est aliquid</mentioned> uel etiam dicendo <mentioned>aliquid est aliquid</mentioned>, sed easdem
+   res aliter et aliter intelligo et eosdem conceptus simplices earundem rerum aliter et aliter
+   compono apud intellectum*. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e159-d1e288"> Tunc ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e292"> 1. Ad primam, <mentioned>de uacuo datur scientia</mentioned>, in quarto Physicorum* negatur illa propositio, quia
+   nec uacuum scitur nec uacuum intelligitur nec potest intelligi si non potest esse. Sed bene
+   concedo quod multae conclusiones sciuntur in quarto Physicorum compositae ex hoc termino
+   <mentioned>uacuo</mentioned>; tamen per illas propositiones non habemus scientiam de uacuo, sed de loco. Unde scire
+   hanc conclusionem <mentioned>uacuum non est</mentioned> est scire quod nullus locus est non repletus corpore, et
+   hoc est habere scientiam de corporibus et locis. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e304"> 2. Ad aliam, <mentioned>uerum est ens, falsum est non ens</mentioned>, hoc est concedendum secundum unam
+   acceptionem impropriam <mentioned>entis</mentioned>; tamen accipiendo <mentioned>ens</mentioned> proprie falsum est ens, quia est una
+   propositio. Et etiam concedo quod de falso habemus scientiam sicut scientia habetur de homine,
+   hoc est dictum quod falsum est significatum per terminum ex quo conclusio demonstrabilis
+   componitur. Tamen bene uerum est quod de nullo falso est scientia per modum conclusionis
+   demonstrabilis. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e316"> 3. Ad aliam dico quod istae sunt falsae <mentioned>chimaera est opinabilis</mentioned>*, <mentioned>chimaera est
+   intelligibilis</mentioned>. Sed concedo quod res sunt intelligibiles tali conceptu a quo sumitur hoc
+   nomen <mentioned>chimaera</mentioned>, sicut res sunt intelligibiles tali conceptu a quo sumitur iste terminus
+   complexus <mentioned>homo hinnibilis</mentioned> uel <mentioned>homo non risibilis</mentioned>. Tamen numquam intelligo hominem
+   hinnibilem uel hominem non risibilem, sed intelligo homines et hinnibilia, et si apud
+   intellectum componentur conceptus eorum, dico quod conceptus complexus pro nullo supponit. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e334"> 4. Similiter nego istas propositiones <mentioned>actu infinitum est imaginabile</mentioned>, <mentioned>uacuum est
+   imaginabile</mentioned>, si ita sit quod impossibile est uacuum esse. Tamen istam propositionem possum
+   imaginare et opinari <mentioned>uacuum est extra totum spatium, uel </mentioned>infinitum est extra'. Sed per tales
+   propositiones +appositas+ nec intelligo uel opinor nisi entia quorum conceptus ego sic compono
+   quod propositiones sunt falsae et impossibiles, uel etiam quod termini complexi pro nullo
+   supponunt. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e346"> 5. Ita etiam ego nego quod chimaera significatur per aliquod nomen, aut etiam uacuum, sed
+   per illa nomina significantur illae res quas dicebam intelligi per illa nomina. Unde hoc nomen
+   <mentioned>uacuum</mentioned> significat et locum et corpus mediante illo conceptu quo concipiebamus et corpus et
+   locum modo expresso per definitionem quid nominis. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e352"> 6. Ad aliam dico quod uacuum non esse, si accipiatur materialiter pro illa oratione <mentioned>uacuum
+   non est</mentioned>, tunc scio uacuum non esse +per illud nomen per quod conclusio demonstrata scitur+.
+   Sed si capitur uacuum non esse significatiue, et non pro illa propositione, tunc posset
+   concedi quod uacuum <supplied>non esse</supplied> nihil est, et uacuum non esse nec sciretur
+   nec intelligeretur. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e362"> 7. Ultima ratio, de tonitruis, uadit uiis suis. </p>
+
+
+      <p xml:id="Buzcv2-d1e159-d1e365"> Et sic patet quaestio. </p>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

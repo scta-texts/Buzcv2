@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 29a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 29a </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e383">
+      <head xml:id="Buzcv2-d1e383-Hd1e101"> Quaestio 29a </head>
+
+      <head xml:id="Buzcv2-d1e383-Hd1e104" type="question-title"> UTRUM DEMONSTRATIO UNIVERSALIS SIT POTIOR PARTICULARI ET
+   DEMONSTRATIO AFFIRMATIVA DEMONSTRATIONE NEGATIVA </head>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e107"> Consequenter quaeritur, uicesimo nono, utrum demonstratio uniuersalis sit potior particulari
+   et etiam demonstratio affirmatiua demonstratione negatiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e110"> 1. Arguitur primo <supplied>quod non. Quia</supplied>illa est potior quae magis facit scire
+   (hoc est notum, cum scire sit effectus et finis demonstrationis); sed demonstratio
+   particularis facit magis et potius scire; ergo ... et caetera. Declaro maiorem: quia magis et
+   perfectius habeo notitiam de aliquo quem uideo si scio quod ipse est homo, aut etiam quod ipse
+   est Robertus, quam si solum scio in uniuersali quod ipse est animal uel corpus; unde si
+   aliquem uideo uenire, hoc scito, ego scio quod ipsum est animal uel corpus, sed dubito adhuc
+   utrum est homo uel Socrates; sed cum in speciali scio quod ipse est Socrates, non amplius
+   dubito; et illud scire est certius et potius quod magis remouet omnem dubitationem; ergo
+   aliquid scitur certius et potius si sciatur in speciali uel particulari, quo modo facit scire
+   particularis demonstratio, quam si sciatur in uniuersali, sicut facit scire uniuersalis
+   demonstratio. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e116"> Et confirmatur: quia scire in uniuersali est scire modo confuso, sed scire in speciali, siue
+   in particulari, est scire modo determinato; modo notitia determinata est potior notitia
+   confusa; ergo ... et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e120"> Et ob hoc etiam dicit
+   <ref xml:id="Buzcv2-d1e383-Rd1e122">Aristotiles, secundo Ethicorum</ref>
+   *, quod sermones uniuersales sunt inaniores et particulares sunt certiores, et in prooemio
+   Metaphysicae* dicit quod expertos magis proficere uidemus sine experientia rationem
+   habentibus, propter hoc quod per experientiam sciuntur res in particulari; ergo demonstratio
+   quae facit scire in particulari est potior. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e126"> 2. Item, etiam illa quae est ex sensatis, siue ex propinquioribus sensui, est potior;
+    <supplied>sed</supplied> demonstratio particularis est huius modi; ergo et caetera. Maior
+   uidetur manifesta, propter hoc quod nostra cognitio intellectiua dependet ex sensitiua; ideo
+   etiam dicitur, prooemio Metaphysicae*, quod maxime uniuersalia sunt nobis difficillima ad
+   cognoscendum, quia sunt a sensu remotissima; et sic patet maior. Minor uero patet per
+   <name ref="#Aristotle">Aristotilem</name>, in littera*, dicentem quod demonstratio particularis in sensu perficitur; et hoc
+   est quia sensus est particularium, intellectus uero uniuersalium. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e135"> Et confirmatur: quia, sicut dicitur in fine huius libri*, principia scientiae sumuntur per
+   sensum, experientiam et memoriam; ideo quae sunt propinquiora sensui sunt propinquiora
+   principiis, et talia faciunt potius scire. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e138"> 3. Deinde, arguitur quod negatiua sit potior affirmatiua: quia primum principium est
+   negatiuum, scilicet non contingit idem simul inesse et non inesse eidem; modo ex omnino primis
+   et certissimis principiis fiunt demonstrationes priores et certiores; ergo negatiua
+   demonstratio, quae ex primo principio procedit, est omni certissima. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e141"> Oppositum est <name ref="#Aristotle">Aristotilis</name>, primo huius*. Et arguitur ratione de primo: quia uniuersalia sunt
+   notiora et certiora singularibus, secundum Philosophum, prooemio Physicorum*; sed ex
+   notioribus et certioribus fiunt demonstrationes potiores; ergo demonstrationes uniuersales,
+   quae sunt ex huius modi uniuersalibus, sunt potiores aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e147"> Similiter, habitus est prior et notior priuatione, tertio de Anima*; sed affirmatiuum se
+   habet ad negatiuum sicut habitus ad priuationem; ergo affirmatiuum est prius et notius, et,
+   per consequens, demonstratio affirmatiua est potior negatiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e151"> Notandum est quod demonstratio uniuersalis potest dici tribus modis. Uno modo, ex parte
+   terminorum secundum se, scilicet quia est ex terminis communibus, siue uniuersalibus; et sic
+   quanto esset ex terminis communioribus, tanto diceretur uniuersalior, et ita metaphysica habet
+   demonstrationes uniuersaliores mathematica. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e154"> Secundo modo, demonstratio dicitur uniuersalis ex uniuersalitate praemissarum et
+   conclusionis, et hoc dupliciter. Uno modo in quantum propositio dicitur uniuersalis in qua
+   subiicitur terminus communis signo uniuersali determinatus; et sic demonstrationes in Barbara
+   dicerentur uniuersales ex quibuscumque terminis fiunt, sed in Darii et in Ferio dicerentur
+   particulares, propter minorem et conclusionem, quae non essent de subiecto distributo. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e157"> Alio modo diceretur demonstratio uniuersalis eo quod est secundum quod ipsum, ut dicitur
+   primo huius*, et particularis dicitur quod non est de primo nec de secundum quod ipsum. Et ita
+   demonstratio uocatur <mentioned>uniuersalis</mentioned> cuius conclusio et praemissae sunt secundum quod ipsum, ut
+   si triangulus demonstratur habere tres angulos aequales duobus rectis; sed si
+    demonstra<supplied>re</supplied>tur de isoscele, et<supplied>iam</supplied> cum
+   distributione, quod haberet tres angulos aequales duobus rectis, illa demonstratio diceretur
+   particularis. Igitur habemus tres modos uniuersalium et particularium. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e169"> Nunc pono conclusiones. Et primo formetur quaestio quoad primum modum uniuersalitatis,
+    <supplied>scilicet</supplied> utrum demonstratio ex terminis communibus, caeteris paribus,
+   sit potior illa quae est ex terminis specialibus et particularibus. Respondeo quod ipsa est
+   potior quantum ad euidentiam et firmiorem notitiam praemissarum et conclusionis.
+    Prob<supplied>ati</supplied>o: quia uniuersalia sunt nobis isto modo notiora et certiora, ut
+   determinatur in prooemio Physicorum*; quod etiam ex hoc patet quia illa notitia est minus
+   certa et minus euidens quae praesupponit aliam quam quae praesupponitur; modo notitia
+   specialis praesupponit communiorem, quod patet: quia terminus specificus, cum debeat
+   notificari, definitur per terminos superiores et per genera superiora et per differentias,
+   tamquam notitia specialis supponat notitiam communiorem. Tamen concedendum est quod notitia
+   specialis apposita notitiae uniuersali reddit totalem notitiam certiorem et perfectiorem;
+   ideo, sicut a principio arguebatur, tu cognoscis aliquid perfectius quando tu scis ipsum esse
+   hominem uel Socratem quam quando tu scis solum ipsum esse animal uel corpus. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e178"> Sed quaereres <quote xml:id="Buzcv2-d1e383-Qd1e180">domine, suppono quod istae notitiae, scilicet speciales et uniuersales, ad
+   inuicem circumscribantur, ut quod Socrates habeat speciales uel generales et Plato e conuerso;
+   quis ergo habebit potiorem et certiorem notitiam?</quote>. Respondeo quod casus est impossibilis,
+   quia notitia specialis non potest absolui a notitia generali quin eam explicite uel implicite
+   includat. Et si poneretur quod posset absolui, ipsa esset omnino diminuta et incerta. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e184"> Tunc quaero de secundo modo, qui attenditur penes uniuersalitatem propositionis distributae
+   per signum. Et sic credo quod particularis demonstratio non est minus euidens uniuersali: quia
+   mihi non minus euidens est quod aliquis triangulus habet tres angulos aequales duobus rectis
+   quam quod omnis triangulus habet tres angulos aequales duobus rectis; immo non possum dubitare
+   de ista <mentioned>aliquis triangulus habet tres angulos aequales duobus rectis</mentioned> si sim certus quod
+   omnis triangulus habet tres angulos aequales duobus rectis. Tamen potest dici quod uniuersalis
+   est potior et magis faciens scire, scilicet extensiue, quia de omni facit scire, et quantum ad
+   supposita, et quantum ad tempora. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e191"> Tunc quaeritur de ultimo modo uniuersalitatis, de quo <name ref="#Aristotle">Aristotiles</name> solum intendebat quando
+   determinauit de huius modi comparatione demonstrationum. Et dico, cum Aristotile, quod isto
+   modo demonstratio uniuersalis est potior particulari. Et ad hoc probandum accipiantur rationes
+   <name ref="#Aristotle">Aristotilis</name> in littera*. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e200"> Dico etiam quod demonstratio affirmatiua est potior negatiua, <supplied>ut</supplied>patet
+   per <name ref="#Aristotle">Aristotilem</name> in littera*. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e209"> Sed notetis quod conclusiones <name ref="#Aristotle">Aristotilis</name> debent intelligi particulariter, non
+   uniuersaliter. Non enim est uerum quod omnis demonstratio uniuersalis sit omni demonstratione
+   particulari potior uel omnis affirmatiua omni negatiua. Quia aliquae possunt dari in
+   mathematica particulares aut negatiuae quae essent multis uniuersalibus et affirmatiuis in
+   scientia naturali uel in medicina euidentiores et certiores. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e215"> Et per hoc soluuntur rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e218"> 1. Ad primam, cum confirmationibus, dico quod ipsa probat quod scientia de terminis
+   specialibus, opposita scientiae de terminis communibus, reddit totalem scientiam multo
+   perfectiorem quam erat ante. Et sic uult <name ref="#Aristotle">Aristotiles</name>, secundo Ethicorum*, quod sermones
+   uniuersales sine specialibus sunt incertiores, sermones autem particulares, id est communibus
+   oppositi, quibus <supplied>sunt</supplied> praesuppositi sunt certiores, et reddunt scientias
+   magis completas. Tamen, hoc non obstante, conclusio de terminis communibus erat euidentior
+   quam sit postea conclusio de terminis specialibus, cum totalis scientia congregata sit
+   perfectior quam esset communis tantum. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e227"> 2. Ad aliam, de propinquitate ad sensum, dicetur* in prooemio Physicorum. Unde credo quod
+   uniuersalia secundum praedicationem habent maiorem propinquitatem ad notitiam sensitiuam
+   certiorem quam minus uniuersalia. Unde licet sensus sit singularium, tamen sunt diuersa
+   singularia quorum unum est notius sensui licet de eadem re. Verbi gratia, si Socrates ueniat
+    <supplied>et</supplied> eum uideas de longe, tu ad sensum prius iudicabis illum
+    <supplied>esse</supplied> hoc corpus quam tu scias ipsum esse animal. Postea, appropinquante
+    <supplied>eo</supplied>, cum uideris ipsum moueri ex se, iudicabis ipsum esse animal,
+   ignorans ipsum esse equum uel hominem. Postea, iudicabis ipsum esse hunc hominem, adhuc
+   dubitans utrum Socrates uel Plato. Modo a sensu iudicante hoc <supplied>esse</supplied> corpus
+   capit intellectus conceptum communem designatum per istum terminum <mentioned>corpus</mentioned>, et sic
+   consequenter. Ideo conceptus communes apud intellectum sumuntur ex iudicio uago prius noto
+   apud sensum. Ideo quando dicit <name ref="#Aristotle">Aristotiles</name> quod maxime uniuersalia sunt a sensu remotissima,
+   non intelligit de uniuersalibus in praedicatione, sed in causalitate, ut deus et
+   intelligentiae. Et per hoc possunt solui aliae rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e383-d1e250"> 3. Tamen ad illam de demonstratione affirmatiua et negatiua, forte diceretur quod aliquae
+   propositiones affirmatiuae sunt nobis priores et notiores quam negatiuae, ut quod aliquid est
+   uel quod ens est ens. Utrum tamen hoc sit uerum dicetur* in quarto Metaphysicae. Alii*
+   dicerent quod illud principium non intrat nisi demonstrationem ad impossibile, quia propter
+   aliqua ibi concurrentia non possunt esse potiores affirmatiuis. </p>
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

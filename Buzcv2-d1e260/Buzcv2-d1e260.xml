@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 18a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 18a  </title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e260">
+      <head xml:id="Buzcv2-d1e260-Hd1e101"> Quaestio 18a </head>
+
+      <head xml:id="Buzcv2-d1e260-Hd1e104" type="question-title"> UTRUM GENUS PRAEDICETUR PER SE DE DIFFERENTIA </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e260-d1e107"> Consequenter quaeritur, decimo octauo, utrum genus praedicetur per se de differentia. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e110"> 1. Arguitur quod non: quia, tertio Metaphysicae*, negat <name ref="#Aristotle">Aristotiles</name> praedicationem generis
+   de differentia; et non negat eam quia sit falsa, quoniam omnes concedunt istam <mentioned>rationale est
+   animal</mentioned>; igitur solum uidetur negare eam quia non est per se uera. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e119"> Et eodem modo arguitur per <name ref="#Aristotle">Aristotilem</name>, sexto Topicorum*, qui etiam ipsam negat propter duas
+   rationes. Prima est quia si genus praedicaretur de differentia sequeretur, ut ipse dicit, quod
+   unum animal esset duo animalia. Secunda ratio eius est quia genus non praedicatur, ut dicit,
+   nisi de speciebus uel indiuiduis, et differentia non est aliquod illorum. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e126"> 2. Item, duarum partium unius totius una non praedicatur de alia (uerbi gratia, non est
+   uerum dicere quod paries est fundamentum uel quod corpus est animal); modo genus et
+   differentia sunt partes eiusdem totius, scilicet speciei, ut dicit Porphyrius*; ergo ... et
+   caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e129"> 3. Item, uel praedicatur per se in secundo modo uel per se in primo modo, quia de istis
+   modis dicit <name ref="#Aristotle">Aristotiles</name>* quod quaecumque aliter dicuntur accidentia dicuntur; sed genus neutro
+   modo praedicatur de differentia. Probatio: quia non primo modo, quia tunc oporteret poni in
+   definitione differentiae, quod est falsum, quia differentia non habet definitionem, quia
+   solius speciei est definitio; et si differentia diffiniretur per genus, oporteret cum genere
+   addere aliam differentiam in illa definitione, et sic in infinitum procederetur in
+   differentiis, eo quod de ea alia differentia quaereretur, sicut de priori; nec potest dici
+   quod praedicetur in secundo modo, quia tunc differentia poneretur in definitione generis; modo
+   hoc est impossibile, quia differentia est inferior ad ipsum genus, et impossibile est quod
+   superius diffiniatur per inferius, quia definitio non posset esse conuertibilis cum definito;
+   ergo in nullo modo praedicatur per se de differentia. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e135"> 4. Item, sicut se habet materia ad formam, ita genus ad differentiam, ut dicit Porphyrius*;
+   modo materia nec praedicatur per se nec uere de forma; ergo nec genus de differentia. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e138"> In oppositum arguit <name ref="#Aristotle">Aristotiles</name>*: quia genus uere praedicatur de differentia, ut dicendo
+   <mentioned>rationale est animal</mentioned>; aut ergo praedicatur per se, aut per accidens, sufficienti diuisione;
+   sed non per accidens: quia possibile est quod genus sit in praedicamento substantiae, et tale
+   nulli accidit; sic enim et ad istum sensum dicit <name ref="#Aristotle">Aristotiles</name>, primo Physicorum*, <quote xml:id="Buzcv2-d1e260-Qd1e149">quod uere
+   est nulli accidit</quote>. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e153"> Item, primo huius*, dicit <name ref="#Aristotle">Aristotiles</name> quod accidens accidit non inesse: nam omnis propositio
+   per accidens est contingens et, per consequens, omnis propositio necessaria est per se; modo
+   ita bene propositio est necessaria in qua genus praedicatur de differentia sicut illa in qua
+   differentia praedicatur de genere uel de specie. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e159"> Item, sicut ex ueris non sequitur nisi uerum et ex necessariis non sequitur nisi
+   necessarium, ita ex per se nihil uidetur sequi nisi per se; sed propositio in qua genus
+   praedicatur de differentia sequitur ex propositionibus per se, arguendo sic <mentioned>omnis homo est
+   animal; omnis homo est rationalis; ergo rationale est animal</mentioned>; igitur haec erit per se. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e260-d1e166"> De ista quaestione sunt multae opiniones, tam propter auctoritates <name ref="#Aristotle">Aristotilis</name> praedictas
+   quam quia non bene attendebant unde propositio dicitur <mentioned>per se</mentioned>. Sed faciliter ego pono
+   conclusiones sicut positae fuerunt in alia quaestione. Primo enim dico quod secundum
+   suppositionem accidentalem non omnis praedicatio generis de sua differentia uel de sua specie
+   est praedicatio per se: quia possibile est multas tales propositiones esse falsas. Verbi
+   gratia, possibile est quod aliquando nullum est tonitruum, uel nulla rosa, et tunc ista est
+   falsa <mentioned>rosa est flos</mentioned>, uel <mentioned>tonitruum est sonus</mentioned>, et non minus esset falsa praedicatio de
+   differentia, quia species et sua propria differentia conuertuntur. Ideo possibile est, si
+   species pro nullo supponit, quod etiam nec differentia, et sic erit falsa praedicatio generis
+   de differentia. Igitur talis propositio esset mere contingens, et non necessaria. Ideo non
+   esset per se. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e181"> Secunda conclusio potest poni quod omnis praedicatio generis de sua specie uel sua
+   differentia est praedicatio per se ex hypothesi, id est ex aliqua suppositione, scilicet
+   supposita constantia subiecti, hoc est quod aliquid sit pro quo subiectum supponit. Ratio est
+   quia ex tali suppositione, siue condicione, redditur propositio necessaria. Necesse enim est
+   si tonitruum est, uel quandocumque est, quod sit sonus factus in nubibus, et si rosa est, uel
+   quandocumque est, quod sit flos. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e184"> Tertia conclusio est quod etiam omnis praedicatio generis de specie uel differentia secundum
+   suppositionem naturalem est praedicatio per se, quia est necessaria. Haec enim est necessaria
+   <mentioned>omne tonitruum est sonus</mentioned>, sub illo sensu <mentioned>omne tonitruum quandocumque est, fuit uel erit
+   est, fuit uel erit sonus</mentioned>, et iste est sensus suppositionis naturalis. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e193"> Sed tunc quaeritur in quo modo dicendi per se genus praedicatur de differentia. Respondeo
+   quod praedicatur in primo modo, si ponamus solum duos modos, sicut ponit <name ref="#Aristotle">Aristotiles</name>. Sed
+   dicemus quod in illo primo modo sunt multi gradus. Primus gradus est quod propositio sit
+   quidditatiua et directa. Et iste modus est triplex, scilicet quod definitio praedicetur de
+   definito, et quod genus de specie, et differentia quidditatiua de specie. Et primum modum
+   expressit dicens <quote xml:id="Buzcv2-d1e260-Qd1e198">primum modum est si definitio uel pars definitionis praedicetur de
+   definito*</quote>. Secundus gradus est propositionum quidditatiuarum indirectarum, ut si species
+   praedicetur de genere uel differentia, uel de sua definitione. Rationabile enim est quod
+   indirectum reducatur ad suum directum. Tertius gradus est quod propositio non dicatur <mentioned>per se</mentioned>
+   ex eo quod unus terminus pertineat ad definitionem alterius, sed ex eo quod ambo pertinent ad
+   definitionem quidditatiuam tertii, et sic genus praedicatur de differentia, et e conuerso.
+   Quartus gradus ponitur si idem praedicatur de se. Immo illa praedicatio uidetur maxime per se.
+   Sed de isto modo non curauit <name ref="#Aristotle">Aristotiles</name>, quia talis praedicatio parum uel nihil ualet ad
+   demonstrandum. Tamen illam materiam <name ref="#Aristotle">Aristotiles</name> expressit sexto Metaphysicae. * Deinde in
+   ultimo gradu, secundum <name ref="#Grosseteste">Lincolniensem</name>, ***** ad istum gradum reducuntur propositiones in quibus
+   terminus supponens pro causa in obliquo praedicatur de termino supponente pro causato, et
+   istae definitiones causales praedicantur per se de definito. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e260-d1e215"> Ad rationes. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e218"> 1. Ad primam, ad auctoritatem <name ref="#Aristotle">Aristotilis</name> tertio Metaphysicae* et sexto Topicorum*, dicendum
+   est quod <name ref="#Aristotle">Aristotiles</name> solum intendebat ibi quod genus non praedicatur per se de differentia per
+   inclusionem unius termini in ratione alterius. Immo sic genus praedicatur per se de speciebus
+   et de indiuiduis. Et ad istum sensum procedit illa auctoritas allegata quod unum animal esset
+   duo animalia, hoc est dictum quod si iste terminus <mentioned>animal</mentioned> includeretur in ratione
+   differentiae aut in definitione <mentioned>hominis</mentioned>, acciperetur bis <mentioned>animal</mentioned>, et esset definitio
+   nugatoria. Verbi gratia, cum dicimus, diffiniendo <mentioned>hominem</mentioned>, quod homo est animal rationale,
+   in ista definitione ego expresse capio semel <mentioned>animal</mentioned>, et postea secundo acciperem <mentioned>animal</mentioned>
+   implicite in hoc termino <mentioned>rationale</mentioned>. Ideo, breuiter, est intentio <name ref="#Aristotle">Aristotilis</name> quod ratio
+   generis et differentiae sunt rationes simplices et neutra implicat alteram. Tamen non negat
+   <name ref="#Aristotle">Aristotiles</name> quin sit praedicatio per se secundum inclusionem amborum terminorum in ratione
+   tertii. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e256"> 2. Ad aliam, dico quod duae partes eiusdem totius praedicantur uere et bene de se inuicem et
+   de illo toto, sicut pars definitionis de definitione. Et hoc est possibile ubi illae partes
+   sunt termini significatiue sumpti. Si tamen partes et totum non sint tales termini, immo sunt
+   aliae res, sicut partes domus, tunc dico quod non praedicantur nec subiiciuntur nec de se
+   inuicem nec de aliis. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e259"> 3. Ad aliam, dictum est quod praedicatio est in primo modo. </p>
+
+
+      <p xml:id="Buzcv2-d1e260-d1e262"> 4. Ad ultimam, conceditur quod bene est aliqualis similitudo generis ad differentiam sicut
+   materiae ad formam, sed haec est dissimilitudo ad propositum, quia materia et forma non sunt
+   termini significatiue sumpti; ideo non praedicantur nec subiiciuntur in propositionibus. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>

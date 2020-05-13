@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title> Quaestio 15a </title>
+      <author ref="#JeanBuridan">John Buridan</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title> Quaestio 15a</title>
+       <date when="2020-05-12">May 12, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness/>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-12" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="Buzcv2-d1e226">
+      <head xml:id="Buzcv2-d1e226-Hd1e101"> Quaestio 15a </head>
+
+      <head xml:id="Buzcv2-d1e226-Hd1e104" type="question-title"> UTRUM DEMONSTRATIO SIT EX NECESSARIIS, IMPOSSIBILIBUS ALITER SE HABERE, PERPETUIS ET
+   INCORRUPTIBILIBUS </head>
+
+
+
+
+
+
+
+
+      <p xml:id="Buzcv2-d1e226-d1e107"> Consequenter quaeritur, quinto decimo, utrum demonstratio sit ex necessariis, impossibilibus
+   aliter se habere, perpetuis et incorruptibilibus. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e110"> 1. Arguitur primo quod non: quia omnia praeter deum sunt mutabilia, et, per consequens,
+   possibilia aliter se habere; ergo demonstratio est ex possibilibus aliter se habere; ergo ...
+   et caetera. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e113"> 2. Item, omnia contenta in hoc mundo inferiori sunt corruptibilia, praeter materiam primam
+   et intellectum humanum; ergo demonstrationes et ea ex quibus componuntur corruptibilia sunt. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e117"> 3. Item, multae scientiae de naturalibus sunt, et tamen sunt generabiles et corruptibiles,
+   quia possibilia sunt aliter se habere: nam de eclipsibus sunt scientiae demonstratiuae; tamen
+   huius modi eclipses non sunt perpetuae, nec secundum indiuiduum nec secundum species, quia pro
+   maiori parte temporis non sunt eclipses: ergo nullo modo apparet illud esse perpetuum de quo
+   est scientia demonstratiua. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e120"> Oppositum est <name ref="#Aristotle">Aristotilis</name>, primo huius*, qui ponit illas propositiones quod omnis
+   demonstratio est ex necessariis et ex perpetuis, et quod omnis scientia demonstratiua uel
+   etiam demonstratio est incorruptibilium, quia illa quorum uel ex quibus est demonstratio sunt
+   scibilia et omne scibile est impossibile aliter se habere. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e126"> Similiter, sexto Ethicorum*, dicit <name ref="#Aristotle">Aristotiles</name> quod omne scibile est necessarium et
+   perpetuum. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e226-d1e132"> Notandum est quod demonstratio proprie dicitur ipsius conclusionis et ex praemissis uel per
+   praemissas; conclusio enim est quod per praemissas dicitur demonstrari. Et ideo quaerere utrum
+   demonstratio sit ex necessariis et ex impossibilibus aliter se habere non est aliud quaerere
+   quam utrum praemissae conclusionis sint necessariae et impossibiles aliter se habere; et idem
+   etiam potest quaeri de conclusione demonstrationis, cuius est demonstratio, ut dicebatur. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e135"> Postea sciendum quod proprie loquendo omne illud et solum illud dicitur <mentioned>necessarium</mentioned>* quod
+   semper est, fuit et erit; alii autem modi <mentioned>necessarii</mentioned> non sunt nisi improprie et
+   similitudinarie dicti, ut patet secundo Metaphysicae. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e144"> Tunc ponuntur faciliter conclusiones. Prima est quod proprie loquendo nulla propositio est
+   necessaria. Quia omnis propositio fit a nobis et potest corrumpi si cessemus ab eius
+   intellectione aut si obliuiscemur eam, aut etiam si moriemur; ideo omnis propositio potest non
+   esse, et sic nulla est necessaria, perpetua, incorruptibilis, impossibilis aliter se habere. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e148"> Secunda conclusio est quod sicut nulla propositio est necessaria, scilicet in essendo, ut
+   dictum est, ita etiam nulla propositio est necessaria in essendo ueram. Quia sicut potest non
+   esse, ita potest non esse uera, quia quando ipsa non est, ipsa nec est uera nec falsa. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e151"> Tertio pono quod nullum ita esse sicut propositio significat est necessarium nisi illud ita
+   esse sit deus, quoniam nullum ens est simpliciter necessarium nisi deus. Unde posito quod
+   esset ita de aeternitate mundi, sicut putauit <name ref="#Aristotle">Aristotiles</name>, quod de necessitate semper fuerunt
+   et erunt homines, tamen ita esse sicut illa propositio <mentioned>homo est</mentioned> significat non fuit semper,
+   quia nec sic ens nec sic entia fuerunt semper; manifestum enim est quod nihil fuit semper. Si
+   autem dicatur quod sit ens uel entia, tamen non potest dici quod sit aliud ens uel entia quam
+   homo uel homines aut partes aut accidentia hominis uel hominum. Tamen nullus homo fuit semper
+   nec nulli homines fuerunt semper, nec etiam nullus accidens hominis fuit semper, loquendo de
+   tali accidente quod esset ita esse sicut propositio significat, et nullum
+    <supplied>ita</supplied> esse sicut propositio significat fuit semper. Tamen potest concedi
+   quod semper fuit ita esse sicut haec propositio <mentioned>homo est animal</mentioned> significat aut sicut talis
+   significat si semper fuisset. Et est simile de illis duabus propositionibus sicut de illis
+   <mentioned>nullus homo fuit semper</mentioned>* et <mentioned>semper fuit aliquis homo</mentioned>*. Unde credo quod esse ita sicut ista
+   propositio <mentioned>homo est animal</mentioned> significat non est aliud quam homo. Verum est tamen quod esse ita
+   sicut haec propositio <mentioned>deus est</mentioned> significat, uel <mentioned>deus est bonus</mentioned>, est perpetuum: quia hoc non
+   est aliud nisi deus, qui est perpetuus. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e182"> Tamen, pro alia conclusione, concedendum est quod propositiones dicuntur <mentioned>necessariae</mentioned>
+   secundum impropriam, seu similitudinariam necessitatem, scilicet ad talem sensum quod sicut
+   simpliciter <mentioned>necessarium</mentioned> dicitur illud quod semper est et non potest non esse, ita propositio
+   uocatur <mentioned>necessaria</mentioned>* quia semper si formetur est uera, uel etiam quia ipsa uel sibi
+   consimilis quandocumque formatur est uera, et non potest non esse uera stante eius
+   significatione. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e194"> Et illam appositionem addo quia haec propositio uocalis <mentioned>deus est</mentioned>, uel sibi consimilis,
+   posset esse falsa, eo quod significationes nominum sunt ad placitum. Quia iste terminus
+   uocalis <mentioned>deus</mentioned> posset imponi ad significandum tantum quantum <mentioned>chimaera</mentioned>, uel e conuerso, et
+   tunc illa esset falsa <mentioned>deus est</mentioned> et haec necessaria <mentioned>chimaera est</mentioned>. Vel forte uerius est
+   dicendo quod propositio dicitur <mentioned>necessaria</mentioned> eo quod impossibile est ipsa formata non esse ita
+   sicut ipsa significat, modificando istum sermonem secundum exigentiam diuersarum propositionum
+   modo dicto in quaestione facta de ueritate propositionum. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e216"> Postea dico quod sicut propositio est necessaria, ita dicitur <mentioned>impossibilis aliter se
+   habere</mentioned>, et secundum eundem sensum, et ita etiam dicitur <mentioned>perpetua</mentioned> et <mentioned>incorruptibilis</mentioned>.
+   Dicitur enim <mentioned>perpetua</mentioned> quia semper si formetur est uera, uel semper si formetur est ita sicut
+   ipsa significat. Et dicitur <mentioned>incorruptibilis</mentioned> quia non potest falsificari, quia non potest non
+   esse ita; unde in proposito idem est propositionem esse falsificatam et esse corruptam. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e234"> Deinde sciendum est quod praedicta nomina, scilicet <mentioned>necessarium</mentioned>, <mentioned>perpetuum</mentioned> et
+   <mentioned>incorruptibile</mentioned>, attribuuntur aliquando terminis etiam secundum locutionem impropriam et
+   similitudinariam. Saepe enim dicimus species esse incorruptibiles et perpetuas, quia indiuidua
+   dicimus esse corruptibilia et non perpetua, sicut per <name ref="#Aristotle">Aristotilem</name> de aeternitate mundi
+   diceremus species animalium perfectorum esse perpetuas; et hoc dicitur ad talem sensum quod
+   terminus ex eo dicitur <mentioned>perpetuus</mentioned> quia semper est aliquid pro quo ille terminus, uel sibi
+   consimilis, supponeret si fieret subiectum uel praedicatum in propositioni de inesse et de
+   praesenti. Sic enim secundum <name ref="#Aristotle">Aristotilem</name> illae species <mentioned>homo</mentioned> et <mentioned>equus</mentioned> sunt perpetuae. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e263"> Postea notandum <supplied>est</supplied>, ut alias dicebatur, quod tripliciter dicitur
+   aliquid <mentioned>scibile</mentioned>*. Uno modo sicut conclusio uel praemissa in demonstratione scitur, et tunc
+   est dicendum quod omne tale scibile est necessarium et impossibile aliter se habere, perpetuum
+   et incorruptibile, capiendo haec nomina prout attribuuntur propositionibus. Et causa huius est
+   quia scientia proprie dicta, de qua hic loquitur, quae est ex certitudine et firmitate, non
+   potest esse propositionis falsificabilis, nisi dicatur quod scientia potest fieri error. Et ex
+   hoc sequitur quod omnis demonstratio est conclusionis necessariae et ex praemissis necessariis
+   et impossibilibus aliter se habere, et hoc intendebat <name ref="#Aristotle">Aristotiles</name> in isto libro. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e275"> Deinde, secundo modo, aliquid dicitur <mentioned>scibile</mentioned> quia est terminus ex quo propositio
+   demonstrata uel demonstrabilis componitur, et sic dicimus in scientiis demonstratiuis subiecta
+   et passiones sciri, seu de eis esse scientiam. Et tunc potest poni illa conclusio quod in
+   demonstratione affirmatiua quae est ex praemissis et conclusione categoricis et de inesse
+   oportet tales esse perpetuas perpetuitate debita terminis. Quia si isti termini aliquando pro
+   nullo supponerent, propositio affirmatiua et de inesse categorica falsificaretur (illam tamen
+   conclusionem non assero ad praesens nisi sicut dicetur in alia quaestione). Tamen
+   propositiones negatiuae, uel affirmatiuae de possibili, uel etiam condicionales possent
+   remanere uerae quamuis nihil esset praesens pro quo termini supponerent. Ideo demonstrationes
+   ex talibus propositionibus non requirunt talem perpetuitatem terminorum. </p>
+
+
+      <p xml:id="Buzcv2-d1e226-d1e281"> Tertio modo aliquid dicitur <mentioned>scibile</mentioned> 
+       <supplied>quia</supplied> est res significata per
+   terminum ex quo propositio scibilis componitur. Et tunc dicatur quod scibilia hoc modo accepta
+   non sunt perpetua. Non oportet <supplied>enim</supplied> ea esse perpetua, quoniam omnes res
+   isto modo sunt perpetuo scibiles, ut alias dicetur. </p>
+
+
+
+
+      <p xml:id="Buzcv2-d1e226-d1e293"> Et sic soluuntur rationes. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   </body>
+  </text>
+</TEI>
